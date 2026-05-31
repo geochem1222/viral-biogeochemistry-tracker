@@ -244,18 +244,50 @@ function renderPaperRow(paper) {
     <tr class="detail-row ${expanded ? "open" : ""}">
       <td colspan="8">
         <div class="detail-panel">
+          ${paper.tldr ? `<p class="tldr"><strong>TL;DR</strong> ${escapeHtml(paper.tldr)}</p>` : ""}
           <p>${escapeHtml(paper.abstract || "暂无摘要。")}</p>
           <dl>
             <div><dt>DOI</dt><dd>${renderDoi(paper.doi)}</dd></div>
             <div><dt>PMID</dt><dd>${escapeHtml(paper.pmid || "无")}</dd></div>
             <div><dt>高影响引用</dt><dd>${escapeHtml(formatNumber(paper.influential_citation_count || 0))}</dd></div>
             <div><dt>指标来源</dt><dd>${escapeHtml(paper.metrics_source || "待回填")}</dd></div>
+            <div><dt>学科领域</dt><dd>${escapeHtml(formatList(paper.fields_of_study))}</dd></div>
+            <div><dt>出版类型</dt><dd>${escapeHtml(formatList(paper.publication_types))}</dd></div>
             <div><dt>数据库 ID</dt><dd>${escapeHtml(paper.id || "暂无")}</dd></div>
           </dl>
+          ${renderSimilarPapers(paper.similar_papers || [])}
           ${renderReferences(paper.references || [])}
         </div>
       </td>
     </tr>
+  `;
+}
+
+function renderSimilarPapers(papers) {
+  if (!papers.length) {
+    return "";
+  }
+  return `
+    <div class="related-list">
+      <h4>相似文章</h4>
+      <div class="related-grid">
+        ${papers
+          .map((paper) => {
+            const authors = paper.authors?.length ? ` · ${escapeHtml(paper.authors.join(", "))}` : "";
+            const meta = [paper.year, paper.journal, `${formatNumber(paper.citation_count || 0)} 引用`]
+              .filter(Boolean)
+              .join(" · ");
+            const title = escapeHtml(paper.title || "Untitled");
+            return `
+              <article>
+                <a href="${paper.url || "#"}" target="_blank" rel="noreferrer">${title}</a>
+                <p>${escapeHtml(meta)}${authors}</p>
+              </article>
+            `;
+          })
+          .join("")}
+      </div>
+    </div>
   `;
 }
 
@@ -278,6 +310,10 @@ function renderReferences(references) {
       </ol>
     </div>
   `;
+}
+
+function formatList(values) {
+  return Array.isArray(values) && values.length ? values.join(", ") : "暂无";
 }
 
 function renderDoi(doi) {

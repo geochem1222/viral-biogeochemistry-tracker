@@ -31,7 +31,7 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch latest papers from multiple sources
-        run: python scripts/update_papers.py --retmax 800 --sources semantic,openalex,crossref,pubmed --merge-existing --query-limit 36 --email "${{ vars.CONTACT_EMAIL }}" --semantic-api-key "${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}"
+        run: python scripts/update_papers.py --retmax 800 --sources semantic,openalex,crossref,pubmed --merge-existing --query-limit 36 --semantic-enrich-limit 800 --similar-limit 80 --similar-per-paper 5 --email "${{ vars.CONTACT_EMAIL }}" --semantic-api-key "${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}"
 
       - name: Commit updated data
         run: |

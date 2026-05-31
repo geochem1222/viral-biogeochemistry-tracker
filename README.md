@@ -100,12 +100,15 @@ python scripts/update_papers.py --retmax 300 --sources semantic --merge-existing
 本项目使用开放学术数据服务构建文献追踪页面。感谢这些服务提供 API、元数据和开放学术基础设施：
 
 - Semantic Scholar：主更新来源，并统一回填引用数、参考文献数、代表性参考文献、开放 PDF、摘要和学术图谱信息。
+- Semantic Scholar Recommendations API：为部分论文预计算相似文章，用于网页详情区推荐延伸阅读。
 - OpenAlex：可选补充来源，主要用于发现环境科学、生态学、地球科学与交叉学科文献及 DOI。
 - Crossref：可选补充来源，主要用于发现 DOI 和出版社元数据。
 - PubMed：适合补充生命科学、微生物、病毒相关记录及 PMID。
 - Google Scholar：不作为自动数据源；如需使用，建议通过人工导出 CSV 后导入，不建议自动爬取。
 
 引用数、参考文献数和代表性参考文献统一以 Semantic Scholar 回填结果为准。OpenAlex、Crossref、PubMed 主要用于扩展发现范围，避免不同数据库的引用统计口径混用。
+
+网页不会在浏览器端直接调用 Semantic Scholar API，因此不会暴露 API key。相似文章、引用指标和参考文献信息都由 GitHub Actions 在后台预计算后写入 `data/papers.json`。
 
 也可以手动运行更广的多源更新：
 

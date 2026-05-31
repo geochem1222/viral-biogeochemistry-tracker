@@ -20,6 +20,7 @@ OPENALEX_BASE = "https://api.openalex.org/works"
 CROSSREF_BASE = "https://api.crossref.org/works"
 SEMANTIC_SCHOLAR_BASE = "https://api.semanticscholar.org/graph/v1/paper/search"
 SEMANTIC_SCHOLAR_BATCH_BASE = "https://api.semanticscholar.org/graph/v1/paper/batch"
+SEMANTIC_SCHOLAR_RECOMMENDATIONS_BASE = "https://api.semanticscholar.org/recommendations/v1/papers"
 
 ENVIRONMENT_TERMS = [
     "soil",
@@ -433,6 +434,10 @@ def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
         "influential_citation_count": item.get("influentialCitationCount", 0),
         "reference_count": item.get("referenceCount", 0),
         "references": parse_semantic_references(item.get("references", [])),
+        "similar_papers": [],
+        "fields_of_study": item.get("fieldsOfStudy") or [],
+        "publication_types": item.get("publicationTypes") or [],
+        "tldr": (item.get("tldr") or {}).get("text", ""),
         "metrics_source": "Semantic Scholar",
         "tags": tags,
     }
@@ -450,6 +455,9 @@ def semantic_fields() -> str:
             "journal",
             "authors",
             "externalIds",
+            "fieldsOfStudy",
+            "publicationTypes",
+            "tldr",
             "url",
             "citationCount",
             "influentialCitationCount",
@@ -524,6 +532,9 @@ def apply_semantic_metadata(paper: dict[str, Any], item: dict[str, Any]) -> None
     paper["influential_citation_count"] = item.get("influentialCitationCount") or 0
     paper["reference_count"] = item.get("referenceCount") or 0
     paper["references"] = parse_semantic_references(item.get("references"))
+    paper["fields_of_study"] = item.get("fieldsOfStudy") or paper.get("fields_of_study", [])
+    paper["publication_types"] = item.get("publicationTypes") or paper.get("publication_types", [])
+    paper["tldr"] = (item.get("tldr") or {}).get("text", paper.get("tldr", ""))
     paper["metrics_source"] = "Semantic Scholar"
     if doi and not paper.get("doi"):
         paper["doi"] = doi
@@ -549,6 +560,65 @@ def parse_semantic_references(references: list[dict[str, Any]] | None) -> list[d
             }
         )
     return [reference for reference in parsed if reference["title"]]
+
+
+def enrich_with_semantic_recommendations(
+    papers: list[dict[str, Any]],
+    email: str | None,
+    api_key: str | None,
+    limit: int,
+    per_paper: int,
+) -> list[dict[str, Any]]:
+    if limit <= 0 or per_paper <= 0:
+        return papers
+
+    candidates = [
+        paper
+        for paper in papers
+        if paper.get("semantic_scholar_id") or paper.get("id", "").startswith("S2")
+    ][:limit]
+    fields = ",".join(["paperId", "title", "year", "venue", "authors", "externalIds", "url", "citationCount"])
+
+    for paper in candidates:
+        paper_id = paper.get("semantic_scholar_id") or paper.get("id")
+        try:
+            result = request_json_post(
+                SEMANTIC_SCHOLAR_RECOMMENDATIONS_BASE,
+                {"fields": fields, "limit": per_paper},
+                {"positivePaperIds": [paper_id]},
+                email,
+                api_key,
+            )
+        except (urllib.error.HTTPError, urllib.error.URLError) as error:
+            print(f"Semantic Scholar recommendations failed for {paper_id}: {error}")
+            continue
+        recommended = result.get("recommendedPapers", []) if isinstance(result, dict) else []
+        paper["similar_papers"] = parse_semantic_recommended_papers(recommended, paper_id)
+        time.sleep(0.35 if api_key else 1.05)
+
+    return papers
+
+
+def parse_semantic_recommended_papers(items: list[dict[str, Any]], seed_id: str) -> list[dict[str, Any]]:
+    similar = []
+    for item in items:
+        if item.get("paperId") == seed_id:
+            continue
+        external_ids = item.get("externalIds") or {}
+        doi = normalize_doi(external_ids.get("DOI", ""))
+        similar.append(
+            {
+                "id": item.get("paperId", ""),
+                "title": item.get("title", ""),
+                "year": item.get("year", ""),
+                "journal": item.get("venue", ""),
+                "authors": [author.get("name", "") for author in item.get("authors", [])[:3] if author.get("name")],
+                "doi": doi,
+                "url": item.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
+                "citation_count": item.get("citationCount", 0),
+            }
+        )
+    return [paper for paper in similar if paper["title"]]
 
 
 def parse_openalex_work(item: dict[str, Any]) -> dict[str, Any]:
@@ -939,6 +1009,18 @@ def main() -> None:
         help="Do not backfill citation/reference metadata through Semantic Scholar.",
     )
     parser.add_argument(
+        "--similar-limit",
+        type=int,
+        default=60,
+        help="Number of papers to enrich with Semantic Scholar recommendations.",
+    )
+    parser.add_argument(
+        "--similar-per-paper",
+        type=int,
+        default=5,
+        help="Recommended similar papers to store per paper.",
+    )
+    parser.add_argument(
         "--merge-existing",
         action="store_true",
         help="Merge fresh results into the existing data file instead of replacing it.",
@@ -968,6 +1050,13 @@ def main() -> None:
             args.email,
             args.semantic_api_key,
             args.semantic_enrich_limit,
+        )
+        papers = enrich_with_semantic_recommendations(
+            papers,
+            args.email,
+            args.semantic_api_key,
+            args.similar_limit,
+            args.similar_per_paper,
         )
     if not papers and output.exists():
         print("No fresh papers were fetched; keeping the existing data file.")

@@ -423,6 +423,13 @@ th button {
   line-height: 1.75;
 }
 
+.detail-panel .tldr {
+  padding: 12px 14px;
+  background: #eef5f0;
+  border-radius: 8px;
+  color: #24322f;
+}
+
 .detail-panel dl {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -441,15 +448,42 @@ th button {
   overflow-wrap: anywhere;
 }
 
-.reference-list {
+.reference-list,
+.related-list {
   margin-top: 18px;
   border-top: 1px solid var(--line);
   padding-top: 14px;
 }
 
-.reference-list h4 {
+.reference-list h4,
+.related-list h4 {
   margin: 0 0 10px;
   font-size: 14px;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.related-grid article {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+  background: #fff;
+}
+
+.related-grid a {
+  color: var(--teal);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.related-grid p {
+  margin: 7px 0 0;
+  font-size: 13px;
+  line-height: 1.45;
 }
 
 .reference-list ol {
