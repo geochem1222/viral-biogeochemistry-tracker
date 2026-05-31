@@ -244,7 +244,7 @@ select {
 
 .summary-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 14px;
   margin-bottom: 28px;
 }
@@ -288,7 +288,7 @@ select {
 table {
   width: 100%;
   border-collapse: collapse;
-  min-width: 1080px;
+  min-width: 1160px;
 }
 
 th,
@@ -425,7 +425,7 @@ th button {
 
 .detail-panel dl {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
   margin: 0;
 }
@@ -439,6 +439,29 @@ th button {
 .detail-panel dd {
   margin: 4px 0 0;
   overflow-wrap: anywhere;
+}
+
+.reference-list {
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.reference-list h4 {
+  margin: 0 0 10px;
+  font-size: 14px;
+}
+
+.reference-list ol {
+  margin: 0;
+  padding-left: 22px;
+  color: #43524f;
+  line-height: 1.65;
+}
+
+.reference-list a {
+  color: var(--teal);
+  text-decoration: none;
 }
 
 .empty-state {
