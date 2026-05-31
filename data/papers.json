@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T09:05:49.509735+00:00",
+  "updated_at": "2026-05-31T09:26:56.012930+00:00",
   "sources": [
     "OpenAlex",
     "Semantic Scholar"
@@ -149,6 +149,58 @@
       "url": "https://www.semanticscholar.org/paper/9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 77,
+      "references": [
+        {
+          "title": "From genomic signals to prediction tools: a critical feature analysis and rigorous benchmark for phage–host prediction",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b12594312f5912b82f555a893dd301b372726f55",
+          "doi": "10.1093/bib/bbaf626"
+        },
+        {
+          "title": "Microorganisms Promote Soil Phosphorus Bioavailability at the Beginning of Pedogenesis",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/fcc36e3e31a9055e5175bbeae8de5edbc49f310d",
+          "doi": "10.1111/gcb.70419"
+        },
+        {
+          "title": "The defensome of prokaryotes in aquifers",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a5adf2e86c8395b37f16966a1772aa02ad4e2954",
+          "doi": "10.1038/s41467-025-61467-w"
+        },
+        {
+          "title": "Cyanobacterial dominance under CO2(aq)-limited conditions increases ecological risks in karst reservoirs.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/73df1ad1b1f39079b5aed27cbc3f50436541710d",
+          "doi": "10.1016/j.watres.2025.124060"
+        },
+        {
+          "title": "LucaPCycle: Illuminating microbial phosphorus cycling in deep-sea cold seep sediments using protein language models",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/4a1f4cb40128abdd10760cdc47e8ef28e85637b6",
+          "doi": "10.1038/s41467-025-60142-4"
+        },
+        {
+          "title": "Bacterially mediated phosphorus cycling favors resource use efficiency of phytoplankton communities in a eutrophic plateau lake.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/1d834b924852298f5d94aaf88acea9e290a0a365",
+          "doi": "10.1016/j.watres.2025.123300"
+        },
+        {
+          "title": "Phages Affect Soil Dissolved Organic Matter Mineralization by Shaping Bacterial Communities.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8f2656b334125b5b76508ed3d7bbae01affb749a",
+          "doi": "10.1021/acs.est.4c08274"
+        },
+        {
+          "title": "Unravelling viral ecology and evolution over 20 years in a freshwater lake",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/2921503b80581d3c4df29c2f2ee3462156eca712",
+          "doi": "10.1038/s41564-024-01876-7"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -179,6 +231,9 @@
       "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 79,
+      "references": [],
       "tags": [
         "carbon",
         "phosphorus",
@@ -325,6 +380,58 @@
       "url": "https://www.semanticscholar.org/paper/44a366c513e05c03153729739278ab46a4da5e74",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 96,
+      "references": [
+        {
+          "title": "Machine learning enables scalable and systematic hierarchical virus taxonomy.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/57301baa19de7e6c6d67857a7fcb6b982d81926a",
+          "doi": "10.1038/s41587-025-02946-9"
+        },
+        {
+          "title": "Differences in prokaryotic and viral community between rumen and feces",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5b7ce1a95a5af5a057e03daeec7d4f84834d1d79",
+          "doi": "10.1038/s41598-025-27351-9"
+        },
+        {
+          "title": "VIRE: a metagenome-derived, planetary-scale virome resource with environmental context",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/88e89b38e2bcd16078c4736e1a72ac01c3a8d959",
+          "doi": "10.1093/nar/gkaf1225"
+        },
+        {
+          "title": "Diversity and Ecological Potentials of Marine Viruses Inhabiting Continental Shelf Seas",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a66853c8eecdbe4a8bee9e7732cf9838f3882ab6",
+          "doi": "10.1002/advs.202511707"
+        },
+        {
+          "title": "Recovering new viruses from New Mexico soils",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5d598fa76821513eac4ef390094ff7dbd81e0770",
+          "doi": "10.1128/mra.00908-25"
+        },
+        {
+          "title": "Viromics approaches for the study of viral diversity and ecology in microbiomes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/602801ff59e3a7724ac6d5bc02b5fbf3b12f957c",
+          "doi": "10.1038/s41576-025-00871-w"
+        },
+        {
+          "title": "Biases and complementarity in gut viromes obtained from bulk and virus-like particle-enriched metagenomic sequencing",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a394e61ff6bae0a9a4cff309b5344fadcfa7e70a",
+          "doi": "10.1128/spectrum.00013-25"
+        },
+        {
+          "title": "Soil microbial diversity and physicochemical properties: key drivers of yield and quality in wine terroir",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/9513aef047df640a6fd253109efde44d17e40961",
+          "doi": "10.1016/j.rhisph.2025.101144"
+        }
+      ],
       "tags": [
         "carbon",
         "soil",
@@ -351,6 +458,58 @@
       "url": "https://www.semanticscholar.org/paper/a3f312686f34a2a42b3ba3b5b2a42189b5cc4302",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 91,
+      "references": [
+        {
+          "title": "A call for caution in the biological interpretation of viral auxiliary metabolic genes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b695661ee127de0ac4e443eaace8ecc440d05233",
+          "doi": "10.1038/s41564-025-02095-4"
+        },
+        {
+          "title": "Bacteriophages carry auxiliary metabolic genes related to energy, sulfur and phosphorus metabolism during a harmful algal bloom in a freshwater lake.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/0feb1eed10faf0b4f1208094b31d837cb47c6ddb",
+          "doi": "10.1016/j.chemosphere.2024.143819"
+        },
+        {
+          "title": "Nitrous oxide production and consumption by marine ammonia-oxidizing archaea under oxygen depletion",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/d5fb8d2b2399d0aa4b4316a0aff13628ac075739",
+          "doi": "10.3389/fmicb.2024.1410251"
+        },
+        {
+          "title": "Prokaryotic-virus-encoded auxiliary metabolic genes throughout the global oceans",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/0f337866f14f67950acf516d4ae3b6b24d72c140",
+          "doi": "10.1186/s40168-024-01876-z"
+        },
+        {
+          "title": "Exploring virus-host-environment interactions in a chemotrophic-based underground estuary",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/524581bdee1f95e96cad2a07e6f91a1c674ce0d9",
+          "doi": "10.1186/s40793-024-00549-6"
+        },
+        {
+          "title": "Macroalgal virosphere assists with host–microbiome equilibrium regulation and affects prokaryotes in surrounding marine environments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
+          "doi": "10.1093/ismejo/wrae083"
+        },
+        {
+          "title": "The Microbial Ecology of Estuarine Ecosystems.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/908e861ba1656371cc575bef31d73f49c9d81f4e",
+          "doi": "10.1146/annurev-marine-022123-101845"
+        },
+        {
+          "title": "iPHoP: An integrated machine learning framework to maximize host prediction for metagenome-derived viruses of archaea and bacteria",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/fdc0e34dcb7921d392071647394a27d493d49357",
+          "doi": "10.1371/journal.pbio.3002083"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -481,6 +640,58 @@
       "url": "https://www.semanticscholar.org/paper/d68ea8bb43b82efdaaeb45bc4d26b62a67c86ff6",
       "pdf_url": "",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 39,
+      "references": [
+        {
+          "title": "Deep-sea viral diversity and their role in host metabolism of complex organic matter",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8bb6b415ae7f17c1147df0ffbd19e015d72927ba",
+          "doi": "10.1038/s41467-025-65207-y"
+        },
+        {
+          "title": "Marine Viruses and Their Role in Marine Ecosystems and Carbon Cycling.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8e04030b9015a3b74450f0223797d93cf27011ae",
+          "doi": "10.1146/annurev-marine-040324-020244"
+        },
+        {
+          "title": "Element cycling by environmental viruses",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/8639e931261a4441bfb8de40f725546633235ab0",
+          "doi": "10.1093/nsr/nwae459"
+        },
+        {
+          "title": "Polysaccharides induce deep-sea Lentisphaerae strains to release chronic bacteriophages",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/7090b3822c126c0cd274c0d30d4a4fe347f543cc",
+          "doi": "10.7554/eLife.92345"
+        },
+        {
+          "title": "Diversity and potential host-interactions of viruses inhabiting deep-sea seamount sediments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
+          "doi": "10.1038/s41467-024-47600-1"
+        },
+        {
+          "title": "Viruses in deep-sea cold seep sediments harbor diverse survival mechanisms and remain genetically conserved within species",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3dbbb8660187804515fa4ee433810cbcac8f5b8b",
+          "doi": "10.1038/s41396-023-01491-0"
+        },
+        {
+          "title": "Virus diversity and interactions with hosts in deep-sea hydrothermal vents",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
+          "doi": "10.1186/s40168-022-01441-6"
+        },
+        {
+          "title": "Viral spillover risk increases with climate change in High Arctic lake sediments",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ef46d7b32c90ad4c844b4017a1c42817d3550f28",
+          "doi": "10.1098/rspb.2022.1073"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -572,6 +783,9 @@
       "url": "https://www.semanticscholar.org/paper/51d748c2e57aea46c3b9f2b818637a71d5303c9c",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 73,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -599,6 +813,58 @@
       "url": "https://www.semanticscholar.org/paper/6088bae8148e075021142668d486f8f20c4703e3",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 126,
+      "references": [
+        {
+          "title": "Machine learning enables scalable and systematic hierarchical virus taxonomy.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/57301baa19de7e6c6d67857a7fcb6b982d81926a",
+          "doi": "10.1038/s41587-025-02946-9"
+        },
+        {
+          "title": "Viruses and virus satellites of haloarchaea and their nanosized DPANN symbionts reveal intricate nested interactions",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a51ec6cf62aef3777a347a7dac29576c5db72e5e",
+          "doi": "10.1038/s41564-025-02149-7"
+        },
+        {
+          "title": "Groundwater microbiomes balance resilience and vulnerability to hydroclimatic extremes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5720d40a7e0d2363c55ed07b2a43f83d88c4d66a",
+          "doi": "10.1038/s43247-025-02680-9"
+        },
+        {
+          "title": "Mobile genetic elements that shape microbial diversity and functions in thawing permafrost soils",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/9a74f9556fa071a7b813bd8f774320f716341c99",
+          "doi": "10.1101/2025.02.12.637893"
+        },
+        {
+          "title": "A review of the occurrence, fate, and transport of SARS‑CoV‑2 in the aqueous environment, with specific reference to groundwater",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/adc419925075cbc40a65d67a3aaed2f177c5050b",
+          "doi": "10.1007/s12665-025-12256-7"
+        },
+        {
+          "title": "Unveiling plasmid diversity and functionality in pristine groundwater",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/e16b71a4bc4a47fc4191e6a42235a508501a0695",
+          "doi": "10.1186/s40793-025-00703-8"
+        },
+        {
+          "title": "Planetary-scale heterotrophic microbial community modeling assesses metabolic synergy and viral impacts",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/775d4c1899832e47b4be8bb04997c257bd8fbd13",
+          "doi": "10.1101/2025.02.13.638167"
+        },
+        {
+          "title": "CoverM: read alignment statistics for metagenomics",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/c6f79fd8ddf662dfbef36d8d9341eea25674ec4c",
+          "doi": "10.1093/bioinformatics/btaf147"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -660,6 +926,58 @@
       "url": "https://www.semanticscholar.org/paper/64ef595391f5334f458944d36212ffd7fe9e5445",
       "pdf_url": "",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 121,
+      "references": [
+        {
+          "title": "Diverse novel RNA viruses in the cryosphere of the Tibetan Plateau",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/60e93571c53edfc818ad7e221b8eb123f4aef055",
+          "doi": "10.1093/nsr/nwaf361"
+        },
+        {
+          "title": "Copper contamination determined the impact of phages on microbially-driven nitrogen cycling in coastal wetland sediments.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
+          "doi": "10.1016/j.jhazmat.2025.137870"
+        },
+        {
+          "title": "Distance to the water table shapes the diversity and activity of DNA and RNA viruses in a subalpine peatland.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/bea33d2e6d16e9227a19698213b98b304ba7d5ef",
+          "doi": "10.1016/j.envint.2025.109363"
+        },
+        {
+          "title": "Characteristics of nutrients and microbial communities in proglacial lakes on the Tibetan Plateau and their potential linkages associated with mercury.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/132bc3fac00b26bdc0d44d001d4fd04c085ef2b9",
+          "doi": "10.1016/j.jhazmat.2025.138117"
+        },
+        {
+          "title": "Methane cycling in typical emerging proglacial lakes on the Tibetan Plateau: Insights into the metabolic mechanisms mediated by microorganisms.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/79eb52e58f110aa9cf73e545d0cbe44574f71436",
+          "doi": "10.1016/j.watres.2025.123533"
+        },
+        {
+          "title": "Antarctic lake viromes reveal potential virus associated influences on nutrient cycling in ice-covered lakes",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/e78070842024dacd8db94479a0edbdc1a69ddcd6",
+          "doi": "10.3389/fmicb.2024.1422941"
+        },
+        {
+          "title": "Prokaryotic-virus-encoded auxiliary metabolic genes throughout the global oceans",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/0f337866f14f67950acf516d4ae3b6b24d72c140",
+          "doi": "10.1186/s40168-024-01876-z"
+        },
+        {
+          "title": "Temperature-driven shifts in bacterioplankton biodiversity: Implications for cold-preferred species in warming Tibetan proglacial lakes.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/be1131a5268bf4427adc993e1f8f609004ad2377",
+          "doi": "10.1016/j.watres.2024.122263"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -839,6 +1157,9 @@
       "url": "https://www.semanticscholar.org/paper/2f7441d295e9bbbf402c9e264839896e3d72f4d2",
       "pdf_url": "",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 71,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -893,6 +1214,58 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "",
       "citation_count": 3,
+      "influential_citation_count": 1,
+      "reference_count": 108,
+      "references": [
+        {
+          "title": "Adaptive expression of phage auxiliary metabolic genes in paddy soils and their contribution toward global carbon sequestration",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/d47dd5926810563f42bed23ae5a5e01c0e5b075f",
+          "doi": "10.1073/pnas.2419798121"
+        },
+        {
+          "title": "Weakening of global terrestrial carbon sequestration capacity under increasing intensity of warm extremes",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/02057a3132b24d9e3eb570b68afdfdbbed9026f0",
+          "doi": "10.1038/s41559-024-02576-5"
+        },
+        {
+          "title": "Effects of experimentally elevated virus abundance on soil carbon cycling across varying ecosystem types",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/dad32ff8bf93240f1767376c89de6470a1503988",
+          "doi": "10.1016/j.soilbio.2024.109556"
+        },
+        {
+          "title": "Soil viral–host interactions regulate microplastic-dependent carbon storage",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/7c46fa8bb8387e9501987a75a5c169d67a7f5eec",
+          "doi": "10.1073/pnas.2413245121"
+        },
+        {
+          "title": "Estimating the Importance of Viral Contributions to Soil Carbon Dynamics",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/783b6d0ce00333fa5b0d9bd488ba014b65168168",
+          "doi": "10.1111/gcb.17524"
+        },
+        {
+          "title": "Land use and cover change accelerated China’s land carbon sinks limits soil carbon",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/1bab9498a9cc9353fdafa48918d5dfe96d76a132",
+          "doi": "10.1038/s41612-024-00751-w"
+        },
+        {
+          "title": "VOGDB—Database of Virus Orthologous Groups",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/eb82b1cbb22b64d6b83c9caba536cc30330be538",
+          "doi": "10.3390/v16081191"
+        },
+        {
+          "title": "Endemism shapes viral ecology and evolution in globally distributed hydrothermal vent ecosystems",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/5d7784107f6f3dbe0f3b03a8712735d67483382b",
+          "doi": "10.1038/s41467-025-59154-x"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -920,6 +1293,9 @@
       "url": "https://www.semanticscholar.org/paper/448cbceed09d3f1fa6bc61c7a957ec316ca7dd4e",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 100,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -951,6 +1327,9 @@
       "url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "pdf_url": "",
       "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 45,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1004,6 +1383,9 @@
       "url": "https://www.semanticscholar.org/paper/efe348d326810de501a82c9c4a91bbe501a51e87",
       "pdf_url": "",
       "citation_count": 4,
+      "influential_citation_count": 0,
+      "reference_count": 89,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "nitrogen",
@@ -1069,6 +1451,9 @@
       "url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "pdf_url": "",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 87,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1213,6 +1598,9 @@
       "url": "https://www.semanticscholar.org/paper/4e2aa5a3a4e5140ddc9511f446c154d01afebe50",
       "pdf_url": "",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 56,
+      "references": [],
       "tags": [
         "carbon",
         "soil",
@@ -1237,6 +1625,58 @@
       "url": "https://www.semanticscholar.org/paper/667cc31991a1e84a25f12ba74c06862ca2c1136a",
       "pdf_url": "",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 60,
+      "references": [
+        {
+          "title": "Revitalized abyssal ancient viruses trigger viral pandemic in terrestrial soil.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/adf78af50b08b7181c3f86747fd86a6cd5002545",
+          "doi": "10.1016/j.envint.2024.109183"
+        },
+        {
+          "title": "Ancient deep-sea environmental virome provides insights into the evolution of human pathogenic RNA viruses",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/9c6a0aef51513f0d4fb4cab4c8ce89bee9fe911b",
+          "doi": "10.1016/j.resenv.2024.100175"
+        },
+        {
+          "title": "Environmental viromes reveal global virosphere of deep-sea sediment RNA viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/1fba44a42f43669d19ab2dafd86717083a026fd6",
+          "doi": "10.1016/j.jare.2023.04.003"
+        },
+        {
+          "title": "Environmental viromes reveal the global distribution signatures of deep-sea DNA viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/10ef29f6b47ead533d58b51d3a2c261cf1ae4a30",
+          "doi": "10.1016/j.jare.2023.04.009"
+        },
+        {
+          "title": "Grazing on Marine Viruses and Its Biogeochemical Implications",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/7d0a773a1c76110e037ea000860da5543cb5dac7",
+          "doi": "10.1128/mbio.01921-21"
+        },
+        {
+          "title": "A Unique Set of Auxiliary Metabolic Genes Found in an Isolated Cyanophage Sheds New Light on Marine Phage-Host Interactions",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/f5c7e65c7e665c8bd0379a346097bb1364b27e9b",
+          "doi": "10.1128/spectrum.02367-22"
+        },
+        {
+          "title": "Expansion of the global RNA virome reveals diverse clades of bacteriophages.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/a7cf7dc02a806fb8f4291e1361e6a2e53c44f26f",
+          "doi": "10.1016/j.cell.2022.08.023"
+        },
+        {
+          "title": "Alien species invasion of deep-sea bacteria into terrestrial soil",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/e5b3c6010c369d440900f32bf13b4b3ae2db8517",
+          "doi": "10.1016/j.jclepro.2022.133662"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -1313,6 +1753,9 @@
       "url": "https://www.semanticscholar.org/paper/cbfd4362f7ca217914ad8acca520046888d74c80",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -1342,6 +1785,9 @@
       "url": "https://www.semanticscholar.org/paper/b76e9496d8ec0a9d9fcd5faa6bf09e06fa74eb06",
       "pdf_url": "",
       "citation_count": 4,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1490,6 +1936,9 @@
       "url": "https://www.semanticscholar.org/paper/6316425571938b65b85b714f630b5dbc8a8cc626",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 29,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "nitrogen",
@@ -1519,6 +1968,9 @@
       "url": "https://www.semanticscholar.org/paper/eb01d0f8797bf230493c81c87854f21f3213571a",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 77,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1706,6 +2158,9 @@
       "url": "https://www.semanticscholar.org/paper/37207d5f899123253e1d6c18ebd63382696f53e0",
       "pdf_url": "",
       "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 89,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1767,6 +2222,9 @@
       "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
       "pdf_url": "",
       "citation_count": 7,
+      "influential_citation_count": 0,
+      "reference_count": 90,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1800,6 +2258,9 @@
       "url": "https://www.semanticscholar.org/paper/d06b74eea83428a7e2b61f3b0a11aa48902d8bfe",
       "pdf_url": "",
       "citation_count": 5,
+      "influential_citation_count": 0,
+      "reference_count": 55,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -1861,6 +2322,9 @@
       "url": "https://www.semanticscholar.org/paper/c1e06b1b4b18cf644e31ee86079e3b2c9bdebaaa",
       "pdf_url": "",
       "citation_count": 7,
+      "influential_citation_count": 0,
+      "reference_count": 67,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "nitrogen",
@@ -1888,6 +2352,58 @@
       "url": "https://www.semanticscholar.org/paper/302b96c2ff1e8a7b81e34b92d02616ea316797a4",
       "pdf_url": "",
       "citation_count": 10,
+      "influential_citation_count": 2,
+      "reference_count": 71,
+      "references": [
+        {
+          "title": "Diversities and interactions of phages and bacteria in deep-sea sediments as revealed by metagenomics",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/aec32fc07596273f578b374a98ab80c1bd7c2f3f",
+          "doi": "10.3389/fmicb.2023.1337146"
+        },
+        {
+          "title": "Metagenome-assembled genomes of deep-sea sediments: changes in microbial functional potential lag behind redox transitions",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/218ee340a697c7b79e1a8dd6e012cbd66cc889e6",
+          "doi": "10.1093/ismeco/ycad005"
+        },
+        {
+          "title": "Distribution and genomic variation of ammonia-oxidizing archaea in abyssal and hadal surface sediments",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/06bbfe5fc8aacad7f8bbe17fcc842aaf3dd15cc5",
+          "doi": "10.1038/s43705-023-00341-6"
+        },
+        {
+          "title": "Hydrostatic pressure induces transformations in the organic matter and microbial community composition of marine snow particles",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/a7c148acfdf0d19a2084e663968fe02430a7113d",
+          "doi": "10.1038/s43247-023-01045-4"
+        },
+        {
+          "title": "Identification and genomic analysis of temperate Halomonas bacteriophage vB_HmeY_H4907 from the surface sediment of the Mariana Trench at a depth of 8,900 m",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/924df0c731138634f0320760e5a860434491cae4",
+          "doi": "10.1128/spectrum.01912-23"
+        },
+        {
+          "title": "Staying below the Radar: Unraveling a New Family of Ubiquitous “Cryptic” Non-Tailed Temperate Vibriophages and Implications for Their Bacterial Hosts",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/0903baf8410e8195f147ede44639a67b11055408",
+          "doi": "10.3390/ijms24043937"
+        },
+        {
+          "title": "Viral community-wide auxiliary metabolic genes differ by lifestyles, habitats, and hosts",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
+          "doi": "10.1186/s40168-022-01384-y"
+        },
+        {
+          "title": "Pseudomonas marianensis sp. nov., a marine bacterium isolated from deep-sea sediments of the Mariana Trench",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/120ca2f9add25211a55d039108340f68bd83d627",
+          "doi": "10.1007/s00203-022-03250-9"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1976,6 +2492,58 @@
       "url": "https://www.semanticscholar.org/paper/d47dd5926810563f42bed23ae5a5e01c0e5b075f",
       "pdf_url": "",
       "citation_count": 49,
+      "influential_citation_count": 1,
+      "reference_count": 101,
+      "references": [
+        {
+          "title": "Carbon starvation raises capacities in bacterial antibiotic resistance and viral auxiliary carbon metabolism in soils",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
+          "doi": "10.1073/pnas.2318160121"
+        },
+        {
+          "title": "Adaptive strategies and ecological roles of phages in habitats under physicochemical stress.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/de1e20198749511d4e11cb468cb69379c12d1bb5",
+          "doi": "10.1016/j.tim.2024.02.002"
+        },
+        {
+          "title": "Globally distributed Myxococcota with photosynthesis gene clusters illuminate the origin and evolution of a potentially chimeric lifestyle",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/9989cc37fac0a120c1a72d466236ef39b713804f",
+          "doi": "10.1038/s41467-023-42193-7"
+        },
+        {
+          "title": "Structure, catalysis, chitin transport, and selective inhibition of chitin synthase",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/b611cca661d1426993b48ba5fb8cc79a60aceed2",
+          "doi": "10.1038/s41467-023-40479-4"
+        },
+        {
+          "title": "Distinct adaptive strategies and microbial interactions of soil viruses under different metal(loid) contaminations.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/45660a29819835049300a4ac2c35f169df2fc7b0",
+          "doi": "10.1016/j.jhazmat.2023.132347"
+        },
+        {
+          "title": "Streptomyces alleviate abiotic stress in plant by producing pteridic acids",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/d7779aadd87f364bbd6ae51a10c4f8b573faa83e",
+          "doi": "10.1038/s41467-023-43177-3"
+        },
+        {
+          "title": "Benzo[a]pyrene stress impacts adaptive strategies and ecological functions of earthworm intestinal viromes",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/9d23adadbc92c8df563c10dbe1a0deaab287c177",
+          "doi": "10.1038/s41396-023-01408-x"
+        },
+        {
+          "title": "Potential Auxiliary Metabolic Capabilities and Activities Reveal Biochemical Impacts of Viruses in Municipal Wastewater Treatment Plants.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
+          "doi": "10.1021/acs.est.2c07800"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2035,6 +2603,9 @@
       "url": "https://www.semanticscholar.org/paper/0af96242c8f168a06d5a8449f72ea2fa344dcb83",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/10/30/2024.10.30.616729.full.pdf",
       "citation_count": 2,
+      "influential_citation_count": 1,
+      "reference_count": 91,
+      "references": [],
       "tags": [
         "phosphorus",
         "soil",
@@ -2062,6 +2633,58 @@
       "url": "https://www.semanticscholar.org/paper/b7db48d7ed8fd2f91c6fc4c3047628d957068037",
       "pdf_url": "https://doi.org/10.1186/s40168-024-01922-w",
       "citation_count": 17,
+      "influential_citation_count": 0,
+      "reference_count": 92,
+      "references": [
+        {
+          "title": "Diversity and potential host-interactions of viruses inhabiting deep-sea seamount sediments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
+          "doi": "10.1038/s41467-024-47600-1"
+        },
+        {
+          "title": "Nitrogen and sulfur cycling and their coupling mechanisms in eutrophic lake sediment microbiomes.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/a559f95d6cc3a4ec57f7e97dd90c2aaac22c65b0",
+          "doi": "10.1016/j.scitotenv.2024.172518"
+        },
+        {
+          "title": "Direct Methane Oxidation by Copper- and Iron-Dependent Methane Monooxygenases",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/5d4b62105c84a58e9b5a9a31c11e765dc1fb52fb",
+          "doi": "10.1021/acs.chemrev.3c00727"
+        },
+        {
+          "title": "Metagenomic characterization of a novel non-ammonia-oxidizing Thaumarchaeota from hadal sediment",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3684455985e32b45aac1b73af3456fcc1b058ece",
+          "doi": "10.1186/s40168-023-01728-2"
+        },
+        {
+          "title": "Radiation impacts gene redundancy and biofilm regulation of cryoconite microbiomes in Northern Hemisphere glaciers",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c89e477057aa590df39096e3a1a228097c868c69",
+          "doi": "10.1186/s40168-023-01621-y"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "Recent Advances in Metagenomic Approaches, Applications, and Challenges",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/98f4b8c2bdcc4e7844ad392950193b7344445068",
+          "doi": "10.1007/s00284-023-03451-5"
+        },
+        {
+          "title": "Long-read assembled metagenomic approaches improve our understanding on metabolic potentials of microbial community in mangrove sediments",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/fd64a65388d1cb5179f21ecdf8606df65c9115a7",
+          "doi": "10.1186/s40168-023-01630-x"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -2094,6 +2717,9 @@
       "url": "https://www.semanticscholar.org/paper/692d57244c98eee4a46ec89ae1c677dced55003a",
       "pdf_url": "",
       "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -2121,6 +2747,58 @@
       "url": "https://www.semanticscholar.org/paper/e78070842024dacd8db94479a0edbdc1a69ddcd6",
       "pdf_url": "",
       "citation_count": 5,
+      "influential_citation_count": 0,
+      "reference_count": 88,
+      "references": [
+        {
+          "title": "The role of phages for microdiverse bacterial communities in proglacial stream biofilms",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/9c784bcf3768d3a4cd7a88225a08c9526254e7ec",
+          "doi": "10.3389/frmbi.2023.1279550"
+        },
+        {
+          "title": "Top-heavy trophic structure within benthic viral dark matter.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/e7f86f870be9d9a2d2c9bb4603cafd1c15887ca4",
+          "doi": "10.1111/1462-2920.16457"
+        },
+        {
+          "title": "Viruses interact with hosts that span distantly related microbial domains in dense hydrothermal mats",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/43c2643c190eb554235998a23f5c705eafc2e716",
+          "doi": "10.1038/s41564-023-01347-5"
+        },
+        {
+          "title": "Microbial and Viral Genome and Proteome Nitrogen Demand Varies across Multiple Spatial Scales within a Marine Oxygen Minimum Zone",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/1d9f8acbb371a93818564cde031e54066f83a7ca",
+          "doi": "10.1128/msystems.01095-22"
+        },
+        {
+          "title": "Biogeochemical sulfur cycling of virus auxiliary metabolic genes involved in Napahai plateau wetland",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/f97261795645d0cc49508386a32a084b6c5b1ad5",
+          "doi": "10.1007/s11356-023-25408-8"
+        },
+        {
+          "title": "Water mass age structures the auxiliary metabolic gene content of free-living and particle-attached deep ocean viral communities",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/1f67979a226e39430abc850b06b931f3f0b7b6cb",
+          "doi": "10.1186/s40168-023-01547-5"
+        },
+        {
+          "title": "Marine DNA methylation patterns are associated with microbial community composition and inform virus-host dynamics",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/c1df37be70ea9f283fff18538123d3d7ef38ca46",
+          "doi": "10.1186/s40168-022-01340-w"
+        },
+        {
+          "title": "Auxiliary Metabolic Gene Functions in Pelagic and Benthic Viruses of the Baltic Sea",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/9f0f1bdc82d5eef2ef06a6b0ed81727a963f42b2",
+          "doi": "10.3389/fmicb.2022.863620"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2197,6 +2875,9 @@
       "url": "https://www.semanticscholar.org/paper/f6d7fd70d83399b97ccadc74ad27de9b3241e128",
       "pdf_url": "",
       "citation_count": 5,
+      "influential_citation_count": 0,
+      "reference_count": 97,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2224,6 +2905,9 @@
       "url": "https://www.semanticscholar.org/paper/ce11535f98e64d2812305c1ab29205a0216736d3",
       "pdf_url": "",
       "citation_count": 4,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2290,6 +2974,9 @@
       "url": "https://www.semanticscholar.org/paper/d51db4d6e84ef7d35f38ce55bddf16927232119c",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/30/2024.04.28.591573.full.pdf",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2329,6 +3016,58 @@
       "url": "https://www.semanticscholar.org/paper/f56f00109230a38d4f005b098e3bf6f7cdabb836",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47214-7.pdf",
       "citation_count": 49,
+      "influential_citation_count": 4,
+      "reference_count": 88,
+      "references": [
+        {
+          "title": "Soil nutrient conditions alter viral lifestyle strategy and potential function in phosphorous and nitrogen metabolisms",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c11ac6a72f70e0c09c7a90598c034a1e6ede286a",
+          "doi": "10.1016/j.soilbio.2023.109279"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "iPHoP: An integrated machine learning framework to maximize host prediction for metagenome-derived viruses of archaea and bacteria",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/fdc0e34dcb7921d392071647394a27d493d49357",
+          "doi": "10.1371/journal.pbio.3002083"
+        },
+        {
+          "title": "Crystal structure of the catalytic ATP‐binding domain of the PhoR sensor histidine kinase",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/ec3fda6b9af674eed84822a3d01b0e83b5704613",
+          "doi": "10.1002/prot.26473"
+        },
+        {
+          "title": "Virus classification for viral genomic fragments using PhaGCN2",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/619b88e29597988557de54f867a782251a9d973b",
+          "doi": "10.1093/bib/bbac505"
+        },
+        {
+          "title": "Viral community-wide auxiliary metabolic genes differ by lifestyles, habitats, and hosts",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
+          "doi": "10.1186/s40168-022-01384-y"
+        },
+        {
+          "title": "Metagenomic and metatranscriptomic insights into sulfate-reducing bacteria in a revegetated acidic mine wasteland",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/39b8bf85dcad18ab134efa5942239cb12f985353",
+          "doi": "10.1038/s41522-022-00333-9"
+        },
+        {
+          "title": "Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/def6b0cb77b52b5a8555e4003bf41caac796255e",
+          "doi": "10.1038/s43247-022-00523-5"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2353,6 +3092,58 @@
       "url": "https://www.semanticscholar.org/paper/ea48f8a66a6c23e156c547da10e1b73b5d8d2b91",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1758-2229.13246",
       "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 114,
+      "references": [
+        {
+          "title": "Genotype Combinations Drive Variability in the Microbiome Configuration of the Rhizosphere of Maize/Bean Intercropping System",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/61e903280d552157329db33c6d7872c7d5c1b369",
+          "doi": "10.3390/ijms25021288"
+        },
+        {
+          "title": "Alcohols as inhibitors of ammonia oxidizing archaea and bacteria",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/51416ff11afaa03b676bd28b261300c8c76da8a9",
+          "doi": "10.1093/femsle/fnad093"
+        },
+        {
+          "title": "Metagenomic stable isotope probing reveals bacteriophage participation in soil carbon cycling.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/1e51a103be6b1ad33c76d8734292d753bfc21e73",
+          "doi": "10.1111/1462-2920.16395"
+        },
+        {
+          "title": "Ethylene glycol metabolism in the poly(ethylene terephthalate)-degrading bacterium Ideonella sakaiensis",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/a816a9c804f0e9c37c89abb8ccf7e7010e74bcb8",
+          "doi": "10.1007/s00253-022-12244-y"
+        },
+        {
+          "title": "GTDB-Tk v2: memory friendly classification with the genome taxonomy database",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/1920ce7b92dccf013b8158c80d86c1e960bf0b00",
+          "doi": "10.1093/bioinformatics/btac672"
+        },
+        {
+          "title": "Quantitative Stable-Isotope Probing (qSIP) with Metagenomics Links Microbial Physiology and Activity to Soil Moisture in Mediterranean-Climate Grassland Ecosystems",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/b3fed238c18c7b58e747add75e59188826369a94",
+          "doi": "10.1128/msystems.00417-22"
+        },
+        {
+          "title": "Multisubstrate DNA stable isotope probing reveals guild structure of bacteria that mediate soil carbon cycling",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/0dc88344c50d233abc1b7f77545fb7af7d80f814",
+          "doi": "10.1073/pnas.2115292118"
+        },
+        {
+          "title": "Active virus-host interactions at sub-freezing temperatures in Arctic peat soil",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/69e8662a325bc06b0153d48abf60801b841fbf6c",
+          "doi": "10.1186/s40168-021-01154-2"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "nitrogen",
@@ -2413,6 +3204,58 @@
       "url": "https://www.semanticscholar.org/paper/524581bdee1f95e96cad2a07e6f91a1c674ce0d9",
       "pdf_url": "https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-024-00549-6",
       "citation_count": 12,
+      "influential_citation_count": 0,
+      "reference_count": 103,
+      "references": [
+        {
+          "title": "Stratified microbial communities in Australia’s only anchialine cave are taxonomically novel and drive chemotrophic energy production via coupled nitrogen-sulphur cycling",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/f856f798beb4a11904065dcc8230dd2c150c796e",
+          "doi": "10.1186/s40168-023-01633-8"
+        },
+        {
+          "title": "Virus classification for viral genomic fragments using PhaGCN2",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/619b88e29597988557de54f867a782251a9d973b",
+          "doi": "10.1093/bib/bbac505"
+        },
+        {
+          "title": "Viral community-wide auxiliary metabolic genes differ by lifestyles, habitats, and hosts",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
+          "doi": "10.1186/s40168-022-01384-y"
+        },
+        {
+          "title": "Ecogenomics reveals viral communities across the Challenger Deep oceanic trench",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/dc9a570ba64f4de7fa1914d08f61b04d4254b7f6",
+          "doi": "10.1038/s42003-022-04027-y"
+        },
+        {
+          "title": "Structural characterization of a soil viral auxiliary metabolic gene product – a functional chitosanase",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
+          "doi": "10.1038/s41467-022-32993-8"
+        },
+        {
+          "title": "Editorial: The effects of environmental change on anchialine ecosystems",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/b4165bc0bdbf97f23aaa423a46734ba9eb0b32e7",
+          "doi": "10.3389/fmars.2022.1029027"
+        },
+        {
+          "title": "GTDB-Tk v2: memory friendly classification with the genome taxonomy database",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/1920ce7b92dccf013b8158c80d86c1e960bf0b00",
+          "doi": "10.1093/bioinformatics/btac672"
+        },
+        {
+          "title": "PCycDB: a comprehensive and accurate database for fast analysis of phosphorus cycling genes",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ab690f99a2c31707343892dca4a730b2cb57a94e",
+          "doi": "10.1186/s40168-022-01292-1"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2445,6 +3288,9 @@
       "url": "https://www.semanticscholar.org/paper/eb01f93405fbc2384769b7bd11b091a4eb7d9940",
       "pdf_url": "",
       "citation_count": 12,
+      "influential_citation_count": 1,
+      "reference_count": 54,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2481,6 +3327,9 @@
       "url": "https://www.semanticscholar.org/paper/9535eea6d7dd1c8678121e36cd0bf4d485b1404a",
       "pdf_url": "https://doi.org/10.1101/2024.04.28.591573",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 101,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2508,6 +3357,34 @@
       "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
       "citation_count": 20,
+      "influential_citation_count": 3,
+      "reference_count": 4,
+      "references": [
+        {
+          "title": "VIBRANT: automated recovery, annotation and curation of microbial viruses, and evaluation of viral community function from genomic sequences",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/81742fc948e0a89a2a2fed54c32590289722b5a1",
+          "doi": "10.1186/s40168-020-00867-0"
+        },
+        {
+          "title": "Fast and sensitive protein alignment using DIAMOND",
+          "year": 2014,
+          "url": "https://www.semanticscholar.org/paper/c3380127c45af3833ae5d1d6f8f0856d97838ea5",
+          "doi": "10.1038/nmeth.3176"
+        },
+        {
+          "title": "MEGAN analysis of metagenomic data.",
+          "year": 2007,
+          "url": "https://www.semanticscholar.org/paper/dfe199440352079a9ebeb0851a2322c9ff0627dc",
+          "doi": "10.1101/GR.5969107"
+        },
+        {
+          "title": "Trace: Tennessee Research and Creative Exchange Prodigal: Prokaryotic Gene Recognition and Translation Initiation Site Identification Recommended Citation Prodigal: Prokaryotic Gene Recognition and Translation Initiation Site Identification",
+          "year": null,
+          "url": "https://www.semanticscholar.org/paper/f8ef4906784598947c08b9f23fa03a82a5157d9c",
+          "doi": ""
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2700,6 +3577,58 @@
       "url": "https://www.semanticscholar.org/paper/af52e709da6d7e847be79d6ddb47b8974227689c",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/frmbi.2023.1199766/pdf",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 99,
+      "references": [
+        {
+          "title": "Genome-centric metagenomics reveals the host-driven dynamics and ecological role of CPR bacteria in an activated sludge system",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3ff4be95d2f4d7d56845b788510dacfdedbf0e9b",
+          "doi": "10.1186/s40168-023-01494-1"
+        },
+        {
+          "title": "Viral infection in the ocean—A journey across scales",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/61848f4d99616ee182ee96a581e6a528b17afd7d",
+          "doi": "10.1371/journal.pbio.3001966"
+        },
+        {
+          "title": "Global Carbon Budget 2022",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/84bbff551d2e0869601f871e0464ca80e39cd043",
+          "doi": "10.5194/essd-14-4811-2022"
+        },
+        {
+          "title": "Viral community-wide auxiliary metabolic genes differ by lifestyles, habitats, and hosts",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
+          "doi": "10.1186/s40168-022-01384-y"
+        },
+        {
+          "title": "Insights into the global freshwater virome",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/c478aeae38f58fa00415c0e3a654577fed431a17",
+          "doi": "10.3389/fmicb.2022.953500"
+        },
+        {
+          "title": "Effect of wastewater treatment plant discharge on the bacterial community in a receiving river.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/d65aa74b626d68aafe8327310001fd910213b7d3",
+          "doi": "10.1016/j.ecoenv.2022.113641"
+        },
+        {
+          "title": "Wastewater microorganisms impact microbial diversity and important ecological functions of stream periphyton",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/57da43cd63d31201aaa85a799f9620ecaef1bfb8",
+          "doi": "10.1101/2022.04.27.489724"
+        },
+        {
+          "title": "Insight into impact of sewage discharge on microbial dynamics and pathogenicity in river ecosystem",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/c2a58749568a59040b14f9857e8d00f194158654",
+          "doi": "10.1038/s41598-022-09579-x"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -2757,6 +3686,58 @@
       "url": "https://www.semanticscholar.org/paper/d516f444b607681afb7e2c571c4246e081396963",
       "pdf_url": "https://doi.org/10.1016/j.envint.2023.108055",
       "citation_count": 26,
+      "influential_citation_count": 0,
+      "reference_count": 75,
+      "references": [
+        {
+          "title": "Underexplored viral auxiliary metabolic genes in soil: Diversity and eco-evolutionary significance.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
+          "doi": "10.1111/1462-2920.16329"
+        },
+        {
+          "title": "Virus classification for viral genomic fragments using PhaGCN2",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/619b88e29597988557de54f867a782251a9d973b",
+          "doi": "10.1093/bib/bbac505"
+        },
+        {
+          "title": "Soil viral diversity, ecology and climate change",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/83e14d9737fcbbaf134556e61a0bf918677b0f9a",
+          "doi": "10.1038/s41579-022-00811-z"
+        },
+        {
+          "title": "Viral community-wide auxiliary metabolic genes differ by lifestyles, habitats, and hosts",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
+          "doi": "10.1186/s40168-022-01384-y"
+        },
+        {
+          "title": "A novel strategy to improving Rhodobacter azotoformans denitrification efficiency: insight into the role of a two-component system NtrX/Y in denitrification regulation.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/d980af38a859655b5fc7e34f5101aeac45964738",
+          "doi": "10.1016/j.biortech.2022.128349"
+        },
+        {
+          "title": "KEGG for taxonomy-based analysis of pathways and genomes",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/4aa839935eb479c53ec584b75f7bc556d92d1b48",
+          "doi": "10.1093/nar/gkac963"
+        },
+        {
+          "title": "Interactions between Bacterial Inoculants and Native Soil Bacterial Community: the Case of Spore-forming Bacillus spp.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/02af5b7d320de80f08940a385356d6d4728f1cae",
+          "doi": "10.1093/femsec/fiac127"
+        },
+        {
+          "title": "Response of soil viral communities to land use changes",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/77c76645bfd487d5bcf8d8a911cdedcb2cd80978",
+          "doi": "10.1038/s41467-022-33771-2"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -2819,6 +3800,9 @@
       "url": "https://www.semanticscholar.org/paper/1e51a103be6b1ad33c76d8734292d753bfc21e73",
       "pdf_url": "",
       "citation_count": 23,
+      "influential_citation_count": 0,
+      "reference_count": 50,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -2977,6 +3961,58 @@
       "url": "https://www.semanticscholar.org/paper/5829f2ccebe5893cabaa20d37f9cb9b0e02e9ef9",
       "pdf_url": "https://www.researchsquare.com/article/rs-1734870/latest.pdf",
       "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 27,
+      "references": [
+        {
+          "title": "Prokaryotic viruses impact functional microorganisms in nutrient removal and carbon cycle in wastewater treatment plants",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/809197737f41c2ab874fbb7f0716800fd2b8a756",
+          "doi": "10.1038/s41467-021-25678-1"
+        },
+        {
+          "title": "The life cycle of SPβ and related phages",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/5f4bfe913be529e59c16240f2e381fce8c15e79d",
+          "doi": "10.1007/s00705-021-05116-9"
+        },
+        {
+          "title": "Diversities and potential biogeochemical impacts of mangrove soil viruses",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/247fefe88c28a8528d1ff981d8b2b90eebea4dbc",
+          "doi": "10.1186/s40168-019-0675-9"
+        },
+        {
+          "title": "Comparative genomic analysis of eight novel haloalkaliphilic bacteriophages from Lake Elmenteita, Kenya",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/ca9f039caaadc2b73c0ae82c4d8722ffded83ab5",
+          "doi": "10.1371/journal.pone.0212102"
+        },
+        {
+          "title": "Global In-Silico Scenario of tRNA Genes and Their Organization in Virus Genomes",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/0cb0fd19b80ed3d47af66c8487ec4ec75fe88ace",
+          "doi": "10.3390/v11020180"
+        },
+        {
+          "title": "Novel phage–host interactions and evolution as revealed by a cyanomyovirus isolated from an estuarine environment",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/fbd96ea1c301065dd5428af07f106415304134b7",
+          "doi": "10.1111/1462-2920.14326"
+        },
+        {
+          "title": "Soil Viruses Are Underexplored Players in Ecosystem Carbon Processing",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
+          "doi": "10.1128/mSystems.00076-18"
+        },
+        {
+          "title": "Dietary energy drives the dynamic response of bovine rumen viral communities",
+          "year": 2017,
+          "url": "https://www.semanticscholar.org/paper/29d1b6483225b47d5f962cede854842595cdb1c7",
+          "doi": "10.1186/s40168-017-0374-3"
+        }
+      ],
       "tags": [
         "amg",
         "carbon",
@@ -3003,6 +4039,9 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
       "citation_count": 50,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3121,6 +4160,58 @@
       "url": "https://www.semanticscholar.org/paper/d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.834581/pdf",
       "citation_count": 22,
+      "influential_citation_count": 0,
+      "reference_count": 140,
+      "references": [
+        {
+          "title": "The marine nitrogen cycle: new developments and global change",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/4d09b71021a57f6f4160149f406f12ff6aa53f6f",
+          "doi": "10.1038/s41579-022-00687-z"
+        },
+        {
+          "title": "Discovery of nondiazotrophic Trichodesmium species abundant and widespread in the open ocean",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/de37b1195c43981441053787caf734150c6c7d34",
+          "doi": "10.1073/pnas.2112355118"
+        },
+        {
+          "title": "Viral community analysis in a marine oxygen minimum zone indicates increased potential for viral manipulation of microbial physiological state",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
+          "doi": "10.1038/s41396-021-01143-1"
+        },
+        {
+          "title": "Influence of redox gradients on nitrate transport from the landscape to groundwater and streams.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/9b8786f73d6440bd1740615d15239921401d5673",
+          "doi": "10.1016/j.scitotenv.2021.150200"
+        },
+        {
+          "title": "Virus-associated organosulfur metabolism in human and environmental systems",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/e4ed909b73cdb59305f9943a6bade4e13d13df5d",
+          "doi": "10.1101/2021.01.05.425418"
+        },
+        {
+          "title": "Hydroxylamine and the nitrogen cycle: A review.",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/282cdad269d00b406cb3904f2ba838cfed9585f1",
+          "doi": "10.1016/j.watres.2020.116723"
+        },
+        {
+          "title": "Potential virus-mediated nitrogen cycling in oxygen-depleted oceanic waters",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
+          "doi": "10.1038/s41396-020-00825-6"
+        },
+        {
+          "title": "Novel taxa of Acidobacteriota involved in seafloor sulfur cycling",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/0b10e31a4a7e8a076c8b1f6954232fb02b767f07",
+          "doi": "10.1101/2020.10.01.322446"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3152,6 +4243,58 @@
       "url": "https://www.semanticscholar.org/paper/d11c339b8f739a6968cc66479e86faadc633f0aa",
       "pdf_url": "https://www.mdpi.com/1999-4915/14/5/887/pdf?version=1652189314",
       "citation_count": 24,
+      "influential_citation_count": 0,
+      "reference_count": 98,
+      "references": [
+        {
+          "title": "Hostile Takeover: How Viruses Reprogram Prokaryotic Metabolism.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/ebb4501fe0bd0ca53c80c820367f6a99125a6eae",
+          "doi": "10.1146/annurev-micro-060621-043448"
+        },
+        {
+          "title": "A Roadmap for Genome-Based Phage Taxonomy",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/369c299837f73dd89c133f17ffb7b89e6a80df90",
+          "doi": "10.3390/v13030506"
+        },
+        {
+          "title": "The Genomic Content and Context of Auxiliary Metabolic Genes in Roseophages.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/93baa75549af76ca12b4fd36a08292e0d2ab93ca",
+          "doi": "10.1111/1462-2920.15412"
+        },
+        {
+          "title": "Genome Analysis of Two Novel Synechococcus Phages That Lack Common Auxiliary Metabolic Genes: Possible Reasons and Ecological Insights by Comparative Analysis of Cyanomyoviruses",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/3d8a797ee4ad9d18fac3326f3b41132013a6cd49",
+          "doi": "10.3390/v12080800"
+        },
+        {
+          "title": "VIRIDIC—A Novel Tool to Calculate the Intergenomic Similarities of Prokaryote-Infecting Viruses",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/f90540706f435a732aa116882c612e73872ad906",
+          "doi": "10.1101/2020.07.05.188268"
+        },
+        {
+          "title": "Diverse, Abundant, and Novel Viruses Infecting the Marine Roseobacter RCA Lineage",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/c803a1cd14e607a4ea4a88ef7acbf46eae3f7c10",
+          "doi": "10.1128/mSystems.00494-19"
+        },
+        {
+          "title": "The Biomass Composition of the Oceans: A Blueprint of Our Blue Planet.",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/3f49fcdb7c653820b463fb16a990553a7c91a58b",
+          "doi": "10.1016/j.cell.2019.11.018"
+        },
+        {
+          "title": "Metabolic and biogeochemical consequences of viral infection in aquatic ecosystems",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/6d778c96f31f9ffc6bdb948e94964cb0c44b143b",
+          "doi": "10.1038/s41579-019-0270-x"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3217,6 +4360,9 @@
       "url": "https://www.semanticscholar.org/paper/e89d0a745860afaa5014179250e34c8ce8ceb450",
       "pdf_url": "",
       "citation_count": 21,
+      "influential_citation_count": 1,
+      "reference_count": 110,
+      "references": [],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3251,6 +4397,58 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725595",
       "citation_count": 47,
+      "influential_citation_count": 0,
+      "reference_count": 116,
+      "references": [
+        {
+          "title": "Minnesota peat viromes reveal terrestrial and aquatic niche partitioning for local and global viral populations",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/1a439b1d65265c17a037be5c16034db70a06a944",
+          "doi": "10.1186/s40168-021-01156-0"
+        },
+        {
+          "title": "Diversity and distribution of viruses inhabiting the deepest ocean on Earth",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/5ea17b5b7efceec06e3227c04e12054dfff6b3b8",
+          "doi": "10.1038/s41396-021-00994-y"
+        },
+        {
+          "title": "rdacca.hp: an R package for generalizing hierarchical and variation partitioning in multiple regression and canonical analysis",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/d675b01ce3a580db4e0145e6c4c373363d6f09b8",
+          "doi": "10.1101/2021.03.09.434308"
+        },
+        {
+          "title": "VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/fb2bd0079fa8118c4aa02c69cac6888e94c58d44",
+          "doi": "10.1186/s40168-020-00990-y"
+        },
+        {
+          "title": "VPF-Class: taxonomic assignment and host prediction of uncultivated viruses based on viral protein families",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/0d337f0dff6ba3155dc8e8c3f14ef5f0a515461b",
+          "doi": "10.1093/bioinformatics/btab026"
+        },
+        {
+          "title": "CheckV assesses the quality and completeness of metagenome-assembled viral genomes",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/21818286078368e92b4a84194872737ee45732ef",
+          "doi": "10.1038/s41587-020-00774-7"
+        },
+        {
+          "title": "ViralRecall—A Flexible Command-Line Tool for the Detection of Giant Virus Signatures in ‘Omic Data",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/8806dff305ee30988497f9920e592862e5f0aaf8",
+          "doi": "10.3390/v13020150"
+        },
+        {
+          "title": "Minnesota peat viromes reveal terrestrial and aquatic niche partitioning for local and global viral populations",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/5d6d4093d1a49aa85ac21ffc2c2483b0694ddbcb",
+          "doi": "10.1101/2020.12.15.422944"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3283,6 +4481,9 @@
       "url": "https://www.semanticscholar.org/paper/f9a9564fc739944e87d7259b5ba73beda56a7b2a",
       "pdf_url": "",
       "citation_count": 10,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -3342,6 +4543,58 @@
       "url": "https://www.semanticscholar.org/paper/ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
       "pdf_url": "https://doi.org/10.21203/rs.3.rs-1021375/v1",
       "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 107,
+      "references": [
+        {
+          "title": "Metaproteomics reveals nutrient availability shaping distinct microbial community and metabolic niche in the nutrient-depleted and replete layers of an oligotrophic euphotic zone",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/97aeefcc86a4be4625a0c40fbb5262e588071aa3",
+          "doi": "10.1016/J.SCITOTENV.2021.145123"
+        },
+        {
+          "title": "Going to extremes - a metagenomic journey into the dark matter of life.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/6361bc598e0d387e61937e71897e1ead52c5c6cf",
+          "doi": "10.1093/femsle/fnab067"
+        },
+        {
+          "title": "Viruses infecting a warm water picoeukaryote shed light on spatial co-occurrence dynamics of marine viruses and their hosts",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/7bb098b718aab7620f0e759b7dfd5cfecf8e48fc",
+          "doi": "10.1038/s41396-021-00989-9"
+        },
+        {
+          "title": "Diversity and distribution of viruses inhabiting the deepest ocean on Earth",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/5ea17b5b7efceec06e3227c04e12054dfff6b3b8",
+          "doi": "10.1038/s41396-021-00994-y"
+        },
+        {
+          "title": "Examining horizontal gene transfer in microbial communities",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/0c6392bdffe2157a9c64a60f51fc4b25ee783d41",
+          "doi": "10.1038/s41579-021-00534-7"
+        },
+        {
+          "title": "A Roadmap for Genome-Based Phage Taxonomy",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/369c299837f73dd89c133f17ffb7b89e6a80df90",
+          "doi": "10.3390/v13030506"
+        },
+        {
+          "title": "VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/fb2bd0079fa8118c4aa02c69cac6888e94c58d44",
+          "doi": "10.1186/s40168-020-00990-y"
+        },
+        {
+          "title": "The Genomic Content and Context of Auxiliary Metabolic Genes in Roseophages.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/93baa75549af76ca12b4fd36a08292e0d2ab93ca",
+          "doi": "10.1111/1462-2920.15412"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3480,6 +4733,58 @@
       "url": "https://www.semanticscholar.org/paper/fc08c47fad1fb6f5ab022b3e10c9773b48110623",
       "pdf_url": "https://doi.org/10.1128/msphere.01160-20",
       "citation_count": 17,
+      "influential_citation_count": 1,
+      "reference_count": 106,
+      "references": [
+        {
+          "title": "Temporal Dynamics of Soil Virus and Bacterial Populations in Agricultural and Early Plant Successional Soils",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/ecb950030336b56eb7205392d8c6c4e3c5859b31",
+          "doi": "10.3389/fmicb.2020.01494"
+        },
+        {
+          "title": "Quorum Sensing Signals Alter in vitro Soil Virus Abundance and Bacterial Community Composition",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/64ed8139ae2473683422475c151194cacc62bb23",
+          "doi": "10.3389/fmicb.2020.01287"
+        },
+        {
+          "title": "Lysogenic reproductive strategies of viral communities vary with soil depth and are correlated with bacterial diversity",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/31a32ea5d726c3652da61b92fad2f47f9a4b0f47",
+          "doi": "10.1016/j.soilbio.2020.107767"
+        },
+        {
+          "title": "Reduced soil disturbance: Positive effects on greenhouse gas efflux and soil N losses in winter wheat systems of the southern plains",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/ee250debfa49d429fb40977d1a6d2628cb4cabf0",
+          "doi": "10.1016/J.STILL.2019.03.020"
+        },
+        {
+          "title": "Towards optimized viral metagenomes for double-stranded and single-stranded DNA viruses from challenging soils",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/0bd270bd9272cfefe0ea38343a7d563da01a93a5",
+          "doi": "10.7717/peerj.7265"
+        },
+        {
+          "title": "Optimizing de novo genome assembly from PCR-amplified metagenomes",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/9733de0d98b6dd830e9ea166e1851e7d8d7f0fcc",
+          "doi": "10.7717/peerj.6902"
+        },
+        {
+          "title": "Minimum Information about an Uncultivated Virus Genome (MIUViG)",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/d665560bdc3c38621e12302514c335c4a4294117",
+          "doi": "10.1038/nbt.4306"
+        },
+        {
+          "title": "Viruses control dominant bacteria colonizing the terrestrial deep biosphere after hydraulic fracturing",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/5b9695cbc934ec03a0f5c074c70468940461b85b",
+          "doi": "10.1038/s41564-018-0312-6"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -3565,6 +4870,58 @@
       "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
       "citation_count": 114,
+      "influential_citation_count": 6,
+      "reference_count": 139,
+      "references": [
+        {
+          "title": "Genome-resolved viral ecology in a marine oxygen minimum zone (OMZ)",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/751188b0198dd4ee0090b0547076e978394147ba",
+          "doi": "10.1101/2020.07.22.215772"
+        },
+        {
+          "title": "Phage-specific metabolic reprogramming of virocells",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/09777cac413a4624d94f91d36105c105fd147a6c",
+          "doi": "10.1038/s41396-019-0580-z"
+        },
+        {
+          "title": "Metabolic and biogeochemical consequences of viral infection in aquatic ecosystems",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/6d778c96f31f9ffc6bdb948e94964cb0c44b143b",
+          "doi": "10.1038/s41579-019-0270-x"
+        },
+        {
+          "title": "Global Trends in Marine Plankton Diversity across Kingdoms of Life",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/a1c3ff6d549448fd4c26e268f3ab4b9ad47c4b1c",
+          "doi": "10.1016/j.cell.2019.10.008"
+        },
+        {
+          "title": "Nitrogen assimilation in picocyanobacteria inhabiting the oxygen‐deficient waters of the eastern tropical North and South Pacific",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/fb8b76163611809be8e38bc35b0826f5c521cd31",
+          "doi": "10.1002/lno.11315"
+        },
+        {
+          "title": "Scientists’ warning to humanity: microorganisms and climate change",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/574269802f9be1119c5c2fb917546ea2888509d6",
+          "doi": "10.1038/s41579-019-0222-5"
+        },
+        {
+          "title": "Taxonomic assignment of uncultivated prokaryotic virus genomes is enabled by gene-sharing networks",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/74a320c7257b9e0539d6ee1171b4a37a960da2cc",
+          "doi": "10.1038/s41587-019-0100-8"
+        },
+        {
+          "title": "PHANOTATE: a novel approach to gene identification in phage genomes",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/2344cf876fa6dd6910475e3ff70cd97525cfba22",
+          "doi": "10.1093/bioinformatics/btz265"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3600,6 +4957,58 @@
       "url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
       "pdf_url": "https://www.nature.com/articles/s41396-021-00932-y.pdf",
       "citation_count": 179,
+      "influential_citation_count": 19,
+      "reference_count": 104,
+      "references": [
+        {
+          "title": "VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/fb2bd0079fa8118c4aa02c69cac6888e94c58d44",
+          "doi": "10.1186/s40168-020-00990-y"
+        },
+        {
+          "title": "CheckV assesses the quality and completeness of metagenome-assembled viral genomes",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/21818286078368e92b4a84194872737ee45732ef",
+          "doi": "10.1038/s41587-020-00774-7"
+        },
+        {
+          "title": "Minnesota peat viromes reveal terrestrial and aquatic niche partitioning for local and global viral populations",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/5d6d4093d1a49aa85ac21ffc2c2483b0694ddbcb",
+          "doi": "10.1101/2020.12.15.422944"
+        },
+        {
+          "title": "Thermogenic hydrocarbon biodegradation by diverse depth-stratified microbial populations at a Scotian Basin cold seep",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/8cf368824a822ec914299789ad00afc804cf73a3",
+          "doi": "10.1038/s41467-020-19648-2"
+        },
+        {
+          "title": "IMG/VR v3: an integrated ecological and evolutionary framework for interrogating genomes of uncultivated viruses",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/64b1ec96779f59825029debab509c4f81b6409d1",
+          "doi": "10.1093/nar/gkaa946"
+        },
+        {
+          "title": "phyloFlash: Rapid Small-Subunit rRNA Profiling and Targeted Assembly from Metagenomes",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/649e14ebe423531adddae66b6816558ce796ce98",
+          "doi": "10.1128/mSystems.00920-20"
+        },
+        {
+          "title": "Viral elements and their potential influence on microbial processes along the permanently stratified Cariaco Basin redoxcline",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/fa29747cea7e8fca8f500a407003cb47dd48c41c",
+          "doi": "10.1038/s41396-020-00739-3"
+        },
+        {
+          "title": "What the Phage: a scalable workflow for the identification and analysis of phage sequences",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/578836abfab1948df3a5fe6e1fcbca9da5f9301b",
+          "doi": "10.1093/gigascience/giac110"
+        }
+      ],
       "tags": [
         "amg",
         "biogeochemistry",
@@ -3662,6 +5071,58 @@
       "url": "https://www.semanticscholar.org/paper/25bfbef407895647b6f39689f738e42010d133cb",
       "pdf_url": "https://www.nature.com/articles/s41396-020-0632-4.pdf",
       "citation_count": 425,
+      "influential_citation_count": 21,
+      "reference_count": 73,
+      "references": [
+        {
+          "title": "Changes in microbial functional genes within the soil metagenome during forest ecosystem restoration",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/d87c303e1a917a7c4d5c7a9223fedca4a03f5698",
+          "doi": "10.1016/J.SOILBIO.2019.05.004"
+        },
+        {
+          "title": "Mediterranean grassland soil C–N compound turnover is dependent on rainfall and depth, and is mediated by genomically divergent microorganisms",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/e02dc5a39add2c0a87b2769e2747361b489fdc48",
+          "doi": "10.1038/s41564-019-0449-y"
+        },
+        {
+          "title": "Insights into ecological role of a new deltaproteobacterial order Candidatus Acidulodesulfobacterales by metagenomics and metatranscriptomics",
+          "year": 2019,
+          "url": "https://www.semanticscholar.org/paper/01b19d6a61ab304449ef0a8f8a23d3dbe1a510c3",
+          "doi": "10.1038/s41396-019-0415-y"
+        },
+        {
+          "title": "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/5b0403e1f4b997e411bac2fb930842fae71a785a",
+          "doi": "10.1038/nbt.4229"
+        },
+        {
+          "title": "Genome-centric view of carbon processing in thawing permafrost",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/8cb80e94e0ecf420364004a864726431c3038953",
+          "doi": "10.1038/s41586-018-0338-1"
+        },
+        {
+          "title": "Bacterial potentials for uptake, solubilization and mineralization of extracellular phosphorus in agricultural soils are highly stable under different fertilization regimes",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/a25c07602b94beba576f643aec686ff21039e147",
+          "doi": "10.1111/1758-2229.12651"
+        },
+        {
+          "title": "Expanded diversity of microbial groups that shape the dissimilatory sulfur cycle",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/33e1d7e6eb8fe1f2a3c980102562776efe094321",
+          "doi": "10.1038/s41396-018-0078-0"
+        },
+        {
+          "title": "Community proteogenomics reveals the systemic impact of phosphorus availability on microbial functions in tropical soil",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/68c86c0f9e816eb70b2d8569f89b488c770390d4",
+          "doi": "10.1038/s41559-017-0463-5"
+        }
+      ],
       "tags": [
         "phosphorus",
         "soil",
@@ -3831,6 +5292,58 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
       "citation_count": 519,
+      "influential_citation_count": 28,
+      "reference_count": 70,
+      "references": [
+        {
+          "title": "Genome-centric view of carbon processing in thawing permafrost",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/8cb80e94e0ecf420364004a864726431c3038953",
+          "doi": "10.1038/s41586-018-0338-1"
+        },
+        {
+          "title": "Viruses in Soil Ecosystems: An Unknown Quantity Within an Unexplored Territory.",
+          "year": 2017,
+          "url": "https://www.semanticscholar.org/paper/6c75cc36b2b8a8e97bc9e6b8c1553ef2e7f11708",
+          "doi": "10.1146/annurev-virology-101416-041639"
+        },
+        {
+          "title": "vConTACT: an iVirus tool to classify double-stranded DNA viruses that infect Archaea and Bacteria",
+          "year": 2017,
+          "url": "https://www.semanticscholar.org/paper/6238d46f738e0a25f4b71cbe2ce67864a3facfda",
+          "doi": "10.7717/peerj.3243"
+        },
+        {
+          "title": "New roles in hemicellulosic sugar fermentation for the uncultivated Bacteroidetes family BS11",
+          "year": 2016,
+          "url": "https://www.semanticscholar.org/paper/e89370a4937a8ef9530b1ed1c23226cf2ce80c90",
+          "doi": "10.1038/ismej.2016.150"
+        },
+        {
+          "title": "Genomic differentiation among wild cyanophages despite widespread horizontal gene transfer",
+          "year": 2016,
+          "url": "https://www.semanticscholar.org/paper/02a2dd570fcd4f3b980780a067d93ea08b23ec99",
+          "doi": "10.1186/s12864-016-3286-x"
+        },
+        {
+          "title": "Microbial metabolisms in a 2.5-km-deep ecosystem created by hydraulic fracturing in shales",
+          "year": 2016,
+          "url": "https://www.semanticscholar.org/paper/a11e77a9be6fde9c267a2ac7c8a4bcc8df70a132",
+          "doi": "10.1038/nmicrobiol.2016.146"
+        },
+        {
+          "title": "Uncovering Earth’s virome",
+          "year": 2016,
+          "url": "https://www.semanticscholar.org/paper/f6206ec95172e7fa128c8198a06d9505ccad7d8e",
+          "doi": "10.1038/nature19094"
+        },
+        {
+          "title": "Elemental composition and optical properties reveal changes in dissolved organic matter along a permafrost thaw chronosequence in a subarctic peatland",
+          "year": 2016,
+          "url": "https://www.semanticscholar.org/paper/b40cc89b72fb2f825f11bca3c3af3fbe5715e4d6",
+          "doi": "10.1016/J.GCA.2016.05.015"
+        }
+      ],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -3931,6 +5444,9 @@
       "url": "https://www.semanticscholar.org/paper/3977fe0909c20ca237dec2e8ca9947afe3237956",
       "pdf_url": "https://downloads.hindawi.com/journals/bmri/2015/604264.pdf",
       "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -3957,6 +5473,9 @@
       "url": "https://www.semanticscholar.org/paper/abef6e71e940abbc11d5ec0a3c940bf2e784dd8c",
       "pdf_url": "",
       "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
       "tags": [
         "biogeochemistry",
         "carbon",
