@@ -360,6 +360,12 @@ def fetch_semantic_scholar(retmax: int, email: str | None, api_key: str | None) 
             "externalIds",
             "url",
             "citationCount",
+            "influentialCitationCount",
+            "referenceCount",
+            "references.title",
+            "references.year",
+            "references.url",
+            "references.externalIds",
             "openAccessPdf",
         ]
     )
@@ -404,8 +410,27 @@ def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
         "url": item.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
         "pdf_url": open_pdf.get("url", ""),
         "citation_count": item.get("citationCount", 0),
+        "influential_citation_count": item.get("influentialCitationCount", 0),
+        "reference_count": item.get("referenceCount", 0),
+        "references": parse_semantic_references(item.get("references", [])),
         "tags": tags,
     }
+
+
+def parse_semantic_references(references: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    parsed = []
+    for reference in references[:8]:
+        external_ids = reference.get("externalIds") or {}
+        doi = normalize_doi(external_ids.get("DOI", ""))
+        parsed.append(
+            {
+                "title": reference.get("title", ""),
+                "year": reference.get("year", ""),
+                "url": reference.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
+                "doi": doi,
+            }
+        )
+    return [reference for reference in parsed if reference["title"]]
 
 
 def parse_openalex_work(item: dict[str, Any]) -> dict[str, Any]:
@@ -434,6 +459,9 @@ def parse_openalex_work(item: dict[str, Any]) -> dict[str, Any]:
         "url": item.get("landing_page_url") or item.get("doi") or openalex_id,
         "pdf_url": "",
         "citation_count": item.get("cited_by_count", 0),
+        "influential_citation_count": 0,
+        "reference_count": 0,
+        "references": [],
         "tags": tags,
     }
 
@@ -496,6 +524,9 @@ def parse_crossref_work(item: dict[str, Any]) -> dict[str, Any]:
         "url": item.get("URL", "") or (f"https://doi.org/{doi}" if doi else ""),
         "pdf_url": "",
         "citation_count": item.get("is-referenced-by-count", 0),
+        "influential_citation_count": 0,
+        "reference_count": 0,
+        "references": [],
         "tags": tags,
     }
 
@@ -558,6 +589,9 @@ def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
         "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
         "pdf_url": "",
         "citation_count": 0,
+        "influential_citation_count": 0,
+        "reference_count": 0,
+        "references": [],
         "tags": tags,
     }
 

@@ -162,6 +162,7 @@ function matchesFilters(paper) {
       paper.pmid,
       paper.source,
       paper.citation_count,
+      paper.reference_count,
       paper.tags?.join(" "),
   ]
     .filter(Boolean)
@@ -190,6 +191,9 @@ function getSortValue(paper, key) {
   if (key === "citation_count") {
     return String(Number(paper.citation_count || 0)).padStart(8, "0");
   }
+  if (key === "reference_count") {
+    return String(Number(paper.reference_count || 0)).padStart(8, "0");
+  }
   return String(paper[key] || "");
 }
 
@@ -214,6 +218,7 @@ function renderPaperRow(paper) {
       <td>${escapeHtml(authors + moreAuthors)}</td>
       <td>${escapeHtml(paper.journal || "Unknown")}</td>
       <td class="citation-cell">${escapeHtml(formatNumber(paper.citation_count || 0))}</td>
+      <td class="citation-cell">${escapeHtml(formatNumber(paper.reference_count || 0))}</td>
       <td><span class="source-pill">${escapeHtml(paper.source || "Unknown")}</span></td>
       <td class="link-cell">
         ${primaryUrl ? `<a href="${primaryUrl}" target="_blank" rel="noreferrer">打开</a>` : ""}
@@ -222,17 +227,40 @@ function renderPaperRow(paper) {
       </td>
     </tr>
     <tr class="detail-row ${expanded ? "open" : ""}">
-      <td colspan="7">
+      <td colspan="8">
         <div class="detail-panel">
           <p>${escapeHtml(paper.abstract || "暂无摘要。")}</p>
           <dl>
             <div><dt>DOI</dt><dd>${escapeHtml(paper.doi || "暂无")}</dd></div>
             <div><dt>PMID</dt><dd>${escapeHtml(paper.pmid || "无")}</dd></div>
+            <div><dt>高影响引用</dt><dd>${escapeHtml(formatNumber(paper.influential_citation_count || 0))}</dd></div>
             <div><dt>数据库 ID</dt><dd>${escapeHtml(paper.id || "暂无")}</dd></div>
           </dl>
+          ${renderReferences(paper.references || [])}
         </div>
       </td>
     </tr>
+  `;
+}
+
+function renderReferences(references) {
+  if (!references.length) {
+    return "";
+  }
+  return `
+    <div class="reference-list">
+      <h4>代表性参考文献</h4>
+      <ol>
+        ${references
+          .map((reference) => {
+            const title = escapeHtml(reference.title || "Untitled");
+            const year = reference.year ? ` (${escapeHtml(reference.year)})` : "";
+            const label = `${title}${year}`;
+            return `<li>${reference.url ? `<a href="${reference.url}" target="_blank" rel="noreferrer">${label}</a>` : label}</li>`;
+          })
+          .join("")}
+      </ol>
+    </div>
   `;
 }
 
