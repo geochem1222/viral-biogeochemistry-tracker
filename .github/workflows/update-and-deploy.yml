@@ -10,8 +10,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
@@ -33,20 +31,27 @@ jobs:
         run: python scripts/update_papers.py --retmax 300 --sources semantic --merge-existing --email "${{ vars.CONTACT_EMAIL }}" --semantic-api-key "${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}"
 
       - name: Commit updated data
-        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403
-        with:
-          commit_message: "Update paper data"
-          file_pattern: data/papers.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/papers.json
+          git diff --cached --quiet || git commit -m "Update paper data"
+          git push
 
-      - name: Configure Pages
-        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
-        with:
-          enablement: true
-
-      - name: Upload site
-        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
-        with:
-          path: .
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e
+      - name: Deploy static site to gh-pages branch
+        run: |
+          mkdir -p /tmp/tracker-site
+          cp -R assets data index.html README.md /tmp/tracker-site/
+          touch /tmp/tracker-site/.nojekyll
+          git fetch origin gh-pages || true
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            git switch gh-pages
+            git reset --hard origin/gh-pages
+          else
+            git switch --orphan gh-pages
+          fi
+          find . -mindepth 1 -maxdepth 1 ! -name ".git" -exec rm -rf {} +
+          cp -R /tmp/tracker-site/. .
+          git add .
+          git diff --cached --quiet || git commit -m "Deploy static site"
+          git push origin gh-pages
