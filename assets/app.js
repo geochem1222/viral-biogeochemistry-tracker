@@ -38,9 +38,12 @@ const els = {
   lastUpdated: document.querySelector("#last-updated"),
   paperCount: document.querySelector("#paper-count"),
   sourceCount: document.querySelector("#source-count"),
-  recentCount: document.querySelector("#recent-count"),
+  weekCount: document.querySelector("#week-count"),
+  monthCount: document.querySelector("#month-count"),
+  yearCount: document.querySelector("#year-count"),
+  citationTotal: document.querySelector("#citation-total"),
+  pdfCount: document.querySelector("#pdf-count"),
   amgCount: document.querySelector("#amg-count"),
-  cycleCount: document.querySelector("#cycle-count"),
   resultCount: document.querySelector("#result-count"),
   tbody: document.querySelector("#papers-body"),
   empty: document.querySelector("#empty-state"),
@@ -131,16 +134,28 @@ function populateSources() {
 
 function updateStats() {
   const now = new Date();
+  const oneWeekAgo = new Date(now);
+  oneWeekAgo.setDate(now.getDate() - 7);
+  const oneMonthAgo = new Date(now);
+  oneMonthAgo.setMonth(now.getMonth() - 1);
   const oneYearAgo = new Date(now);
   oneYearAgo.setFullYear(now.getFullYear() - 1);
 
   els.paperCount.textContent = state.papers.length;
-  els.recentCount.textContent = state.papers.filter((paper) => {
-    return paper.publication_date && new Date(paper.publication_date) >= oneYearAgo;
-  }).length;
+  els.weekCount.textContent = countSince(oneWeekAgo);
+  els.monthCount.textContent = countSince(oneMonthAgo);
+  els.yearCount.textContent = countSince(oneYearAgo);
+  els.citationTotal.textContent = formatNumber(
+    state.papers.reduce((sum, paper) => sum + Number(paper.citation_count || 0), 0)
+  );
+  els.pdfCount.textContent = state.papers.filter((paper) => paper.pdf_url).length;
   els.amgCount.textContent = state.papers.filter((paper) => paper.tags.includes("amg")).length;
-  els.cycleCount.textContent = state.papers.filter((paper) => {
-    return ["carbon", "nitrogen", "sulfur", "phosphorus"].some((tag) => paper.tags.includes(tag));
+}
+
+function countSince(date) {
+  return state.papers.filter((paper) => {
+    const publicationDate = new Date(paper.publication_date);
+    return paper.publication_date && !Number.isNaN(publicationDate.getTime()) && publicationDate >= date;
   }).length;
 }
 
