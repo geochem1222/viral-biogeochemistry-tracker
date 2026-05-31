@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-05-31T08:39:27.397542+00:00",
+  "updated_at": "2026-05-31T09:05:49.509735+00:00",
   "sources": [
-    "OpenAlex"
+    "OpenAlex",
+    "Semantic Scholar"
   ],
   "queries": [
     "soil soils virus viral virome carbon cycle carbon methane biogeochem*",
@@ -123,6 +124,65 @@
         "carbon",
         "phosphorus",
         "sediment",
+        "virus"
+      ]
+    },
+    {
+      "id": "9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1128/aem.02481-25",
+      "title": "Lytic viruses drive the decrease in polyphosphate-accumulating and phosphate-solubilizing potential of microbial communities with increasing reservoir age",
+      "authors": [
+        "Qiusheng Wu",
+        "Debin Wu",
+        "Jiayi Wang",
+        "Hengyi Wang",
+        "Jingjing Peng",
+        "Yuan-Ming Zhao",
+        "Jingan Chen",
+        "Quan Yuan"
+      ],
+      "journal": "Applied and Environmental Microbiology",
+      "publication_date": "2026-04-27",
+      "abstract": "ABSTRACT River damming often leads to significant phosphorus enrichment in reservoir sediments and increases the risk of eutrophication with reservoir age. Microorganisms mediate critical steps of phosphorus cycling in ecosystems, and viruses are recognized as key regulators of microbial community structure and function. However, their influence on phosphorus-cycling microorganisms (PCMs) in freshwater environments remains poorly understood. In this study, surface sediment samples were collected from nine reservoirs (12–59 years old) of southwest China and analyzed using metagenomic and metatranscriptomic approaches to profile both PCMs and viral communities. The results demonstrated that the diversity of lytic viruses was the primary factor governing both shifts in the community stability of PCMs and the restructuring of P-cycling gene patterns with increasing reservoir age. Specifically, viral lysis reduced the relative abundance of dominant PCMs, thereby enhancing community diversity and stability. Concurrently, viral activity diminished PCMs’ functional potential for phosphate solubilization and polyphosphate accumulation, while stimulating high-affinity inorganic phosphate (Pi) transport. Furthermore, viruses encoded auxiliary metabolic genes (AMGs) related to phosphate solubilization, mineralization, accumulation, and transport, underscoring the viral role in regulating phosphorus retention and release. Compared to polyphosphate-accumulating microorganisms, phosphate-solubilizing microorganisms may be more susceptible to viral infection. Additionally, viral activity was associated with an increase in the relative abundance of Cyanobacteria. Taken together, our results suggest viruses are key regulators of PCMs, highlighting that they should be incorporated into future strategies for assessing and mitigating reservoir eutrophication. IMPORTANCE Sediment microorganisms are regarded as the engine for endogenous phosphorus release in reservoirs. Therefore, understanding their dynamics and key driving factors is essential for effective eutrophication mitigation. Viral lysis and virus-encoded auxiliary metabolic genes (AMGs) may constitute a critical yet understudied mechanism influencing microbial phosphorus cycling. Our study provides unique, time-series-based mechanistic insights into how viral activity, in the context of large-scale artificial projects (river damming), restructures microbial phosphorus cycling and its potential ecological effects over decades. Sediment microorganisms are regarded as the engine for endogenous phosphorus release in reservoirs. Therefore, understanding their dynamics and key driving factors is essential for effective eutrophication mitigation. Viral lysis and virus-encoded auxiliary metabolic genes (AMGs) may constitute a critical yet understudied mechanism influencing microbial phosphorus cycling. Our study provides unique, time-series-based mechanistic insights into how viral activity, in the context of large-scale artificial projects (river damming), restructures microbial phosphorus cycling and its potential ecological effects over decades.",
+      "url": "https://www.semanticscholar.org/paper/9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "phosphorus",
+        "sediment",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.64898/2026.04.11.717596",
+      "title": "Divergent successional patterns and infection dynamics in virion and transcriptionally active soil viral communities following phosphorus amendment and wet-up",
+      "authors": [
+        "Grant Gogul",
+        "G. M. Allen",
+        "Ikaia Leleiwi",
+        "S. Blazewicz",
+        "J. Pett-Ridge",
+        "Joanne B. Emerson",
+        "Gareth Trubl"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2026-04-14",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "carbon",
+        "phosphorus",
+        "soil",
         "virus"
       ]
     },
@@ -249,6 +309,57 @@
       ]
     },
     {
+      "id": "44a366c513e05c03153729739278ab46a4da5e74",
+      "source": "Semantic Scholar",
+      "pmid": "41874177",
+      "doi": "10.1128/spectrum.03323-25",
+      "title": "SS-VIME: a single-source virome-microbiome extraction protocol toward comprehensive soil community analysis",
+      "authors": [
+        "A. Poursalavati",
+        "Isabelle Laforest-Lapointe",
+        "M. Fall"
+      ],
+      "journal": "Microbiology spectrum",
+      "publication_date": "2026-03-24",
+      "abstract": "ABSTRACT Integrated analysis of soil microbiomes and their associated viromes is critical for understanding ecosystem function, yet is hampered by the profound spatial heterogeneity of soil, which introduces significant bias when using separate extraction workflows and/or subsampling strategies to capture fungal, bacterial, and viral communities. Here, we present single-source extraction for unified soil virome-microbiome profiling (SS-VIME), a protocol that overcomes this limitation. Based on extended cellulose column chromatography, this method sequentially elutes distinct DNA and double-stranded RNA (dsRNA) fractions from a single soil lysate. We validated the protocol using sterilized soil co-spiked with a ZymoBIOMICS microbial community standard and a synthetic viral dsRNA fragment. Sequencing confirmed that the DNA fraction accurately recovered the theoretical bacterial (16S rRNA gene) and fungal (ITS) community profiles, while the dsRNA fraction demonstrated highly specific recovery of the target viral signature. The protocol was then successfully applied to characterize the complex native communities in environmental soil samples. The SS-VIME protocol provides a streamlined approach for isolating high-quality nucleic acids suitable for downstream applications. By using dsRNA as a proxy for viral activity and eliminating subsample bias, this method provides a robust, accessible, and unified platform to investigate virus-host dynamics in situ, paving the way for a more holistic understanding of the soil microbiome. IMPORTANCE The study of soil microbes and their viruses, which are central to ecosystem health, is fundamentally limited by technical barriers. Separate extraction workflows for each group introduce sampling bias, obscuring the true ecological relationships within soil’s spatially complex micro-environments. Our single-source virome-microbiome extraction (SS-VIME) protocol directly overcomes this by efficiently recovering both microbial DNA and viral double-stranded RNA (dsRNA) from one sample. This unified approach is not only cost-effective but, by using dsRNA as a signature of viral activity, captures a more accurate and representative profile of the soil active virome. SS-VIME provides the foundation for robustly investigating how viruses modulate soil health, carbon cycling, and agricultural productivity, moving the field from correlational studies toward a direct, integrated view of the soil ecosystem. The study of soil microbes and their viruses, which are central to ecosystem health, is fundamentally limited by technical barriers. Separate extraction workflows for each group introduce sampling bias, obscuring the true ecological relationships within soil’s spatially complex micro-environments. Our single-source virome-microbiome extraction (SS-VIME) protocol directly overcomes this by efficiently recovering both microbial DNA and viral double-stranded RNA (dsRNA) from one sample. This unified approach is not only cost-effective but, by using dsRNA as a signature of viral activity, captures a more accurate and representative profile of the soil active virome. SS-VIME provides the foundation for robustly investigating how viruses modulate soil health, carbon cycling, and agricultural productivity, moving the field from correlational studies toward a direct, integrated view of the soil ecosystem.",
+      "url": "https://www.semanticscholar.org/paper/44a366c513e05c03153729739278ab46a4da5e74",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "carbon",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "a3f312686f34a2a42b3ba3b5b2a42189b5cc4302",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3389/fmicb.2026.1785655",
+      "title": "Virus-encoded metabolism may support environmental stress adaptation of microbial hosts in an estuarine hypoxic zone",
+      "authors": [
+        "Mengqi Sun",
+        "Zelin Lei",
+        "Bing Li",
+        "Shu-Hong Gao",
+        "Lu Fan"
+      ],
+      "journal": "Frontiers in Microbiology",
+      "publication_date": "2026-03-24",
+      "abstract": "Hypoxic zones in estuaries threaten the ecological balance and the productivity in coastal areas. However, it is poorly understood how viruses regulate metabolic processes of their microbial hosts to adapt to the hypoxic environment, and consequently impact the biogeochemical cycles in hypoxic zones. In this study, the diversity and functional potentials of the bacterial, archaeal and viral communities of a hypoxic zone at the Pearl River Estuary was characterized along with local environmental factors, with a particular focus on viral auxiliary metabolic genes (AMGs). The viral community derived from the virion fraction and the cellular fraction of the seawater were distinctly different, with the cellular fraction generating fewer unique viruses, but more types of AMGs. Overall, more AMGs were identified in samples with higher dissolved oxygen levels. Globally conserved AMGs were infrequently observed in the current samples, suggesting a certain level of adaptation of AMGs to the local environment. There were strong correlations in abundances among cyanobacteria, cyanophages, and photosynthesis AMGs, suggesting potential viral participation in estuarine primary production. Many AMGs involved in nutrient limitation endurance were found, potentially assisting their host with phosphorus, iron and B family vitamin shortages. Although putative hosts were predicted for the viruses, the functionality of their AMGs appears to be a better predictor of their distribution than the hosts they infect. Our study provides a functional insight into the viral community in poorly researched estuarine hypoxic zones, and sheds light on the potential interactions of viruses with their microbial hosts for co-adaptation to this unique environment.",
+      "url": "https://www.semanticscholar.org/paper/a3f312686f34a2a42b3ba3b5b2a42189b5cc4302",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "phosphorus",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W7138987431",
       "source": "OpenAlex",
       "pmid": "",
@@ -355,6 +466,31 @@
       ]
     },
     {
+      "id": "d68ea8bb43b82efdaaeb45bc4d26b62a67c86ff6",
+      "source": "Semantic Scholar",
+      "pmid": "41784386",
+      "doi": "10.1128/aem.00275-25",
+      "title": "Viruses in marine sediments: a review of their effect on biogeochemistry and microbial interactions",
+      "authors": [
+        "Jacob R. Williams",
+        "J. Biddle"
+      ],
+      "journal": "Applied and Environmental Microbiology",
+      "publication_date": "2026-03-05",
+      "abstract": "ABSTRACT Viruses are known to impact the flow of carbon through the environment, while also impacting the microbial community around them. While this has been reexamined in recent years in the marine water column, viral impacts on marine sediments, the microbes, and carbon contained within are due for a reassessment. This review synthesizes findings from studies on marine sediment microbial communities to examine the extent of viral contribution to biogeochemical cycling, through ecological impacts as well as through cell lysis. Viruses have been shown to increase metabolic activity within the sediment microbial community as well as increase biodiversity, improving the range and ability of microbial communities to degrade organic matter. Viruses have also been found to have more direct effects on sedimentary geochemistry, with viral-mediated cell lysis allowing for the release of organic matter into the sediment while also being able to act as reservoirs for biologically relevant chemicals such as dissolved organic phosphorus. Viruses have been shown to impact the biogeochemistry of buried marine sediment, with less attention being paid to freshwater sediments and surficial marsh sediments. The interest in viral activities in sediments can help us to understand the drivers of biotic contributions to diagenesis.",
+      "url": "https://www.semanticscholar.org/paper/d68ea8bb43b82efdaaeb45bc4d26b62a67c86ff6",
+      "pdf_url": "",
+      "citation_count": 1,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "phosphorus",
+        "sediment",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W7131625311",
       "source": "OpenAlex",
       "pmid": "",
@@ -415,21 +551,52 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7126206910",
-      "source": "OpenAlex",
-      "pmid": "",
+      "id": "51d748c2e57aea46c3b9f2b818637a71d5303c9c",
+      "source": "Semantic Scholar",
+      "pmid": "41671965",
+      "doi": "10.1016/j.watres.2026.125519",
+      "title": "WWTP effluents influence prokaryotic viral diversity and interaction with hosts: Regulating the virus-mediated nitrogen-cycling processes in river sediments.",
+      "authors": [
+        "Lihua Niu",
+        "Yao Pan",
+        "Yi Li",
+        "Xuekai Chen",
+        "Xiaobo Liu",
+        "Yamei Chen",
+        "Longfei Wang",
+        "Wenming Zhang"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2026-02-01",
+      "abstract": "As an important water replenishment measure for urban rivers, the input of wastewater treatment plant (WWTP) effluents can change both the nutrient loading and the microbial community diversity of receiving rivers. However, our knowledge of the characteristics of viral communities and virus-mediated nitrogen-cycling processes in WWTP effluents-receiving rivers remains very limited. In this study, the prokaryotic virus, host and non-host communities in sediments were detected via metagenome and virome methods, to explore the variation characteristics of viral communities, interactions with hosts and virus-mediated nitrogen-cycling processes along the upper reference reach (UR), middle receiving reach (MR) and lower recovery reach (LR) of a typical WWTP effluents-receiving river. The results showed that compared to the non-hosts, viruses and hosts were much more sensitive to the influence of WWTP effluents. Among the three reaches, viruses and hosts showed more obvious spatial variability in community diversity and structures than those of non-hosts. Compared to UR, viruses in MR displayed the highest community diversity and virus-to-host abundance ratio, while viruses in LR maintained the high abundance ratio. Co-occurrence network analysis indicated the more important central roles of viruses than those of prokaryotes in bridging species or groups within the virus-host-prokaryote communities, especially in MR and LR. Functional gene analyses revealed that viral communities might potentially regulate nitrogen cycles in MR and LR via two pathways: directly carrying more abundant nitrogen-related auxiliary metabolic genes (N-vAMGs) and indirectly regulating hosts involved in nitrogen transformations (N-hosts) via enriched viruses, which showed strong responses to nitrogen loadings (TN and NO3--N) in rivers. Both N-vAMGs and virus-enrichment N-hosts, dominantly involved in denitrification, dissimilatory nitrate reduction to ammonium, and organic degradation and synthesis processes, significantly increased in MR and LR, which highlighted a long-term regulation potential of viral communities to WWTP effluents-receiving rivers. Together, these findings provided a new insight into the nonnegligible ecological role of viruses in influencing biogeochemical cycles in WWTP effluents-receiving urban rivers.",
+      "url": "https://www.semanticscholar.org/paper/51d748c2e57aea46c3b9f2b818637a71d5303c9c",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "nitrogen",
+        "sediment",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "6088bae8148e075021142668d486f8f20c4703e3",
+      "source": "Semantic Scholar",
+      "pmid": "41617723",
       "doi": "10.1038/s41467-026-68914-2",
       "title": "Diversity and ecological roles of hidden viral players in groundwater microbiomes",
       "authors": [
         "Akbar Adjie Pratama",
-        "Olga M. Pérez-Carrascal",
+        "Olga Pérez-Carrascal",
         "Matthew B. Sullivan",
         "Kirsten Küsel"
       ],
       "journal": "Nature Communications",
       "publication_date": "2026-01-30",
-      "abstract": "Groundwater ecosystems harbor diverse microbial communities adapted to energy-limited, light-deprived conditions, yet the role of viruses in these environments remains poorly understood. Here, we analyzed 1.24 terabases of metagenomic and metatranscriptomic data from seven wells in the Hainich Critical Zone Exploratory (CZE) to characterize groundwater viromes. We identified 257,252 viral operational taxonomic units (vOTUs) (≥ 5 kb), with 99% novel at order, family and genus levels against global ocean, freshwater and/or other publicly available datasets. In silico host predictions suggest that vOTUs primarily targeted Proteobacteria, Candidate Phyla Radiation (CPR) bacteria, and DPANN archaea, which reflects abundant and active groundwater microbial members. Patterns of virus-host abundance ratios, CRISPR-spacers, and prophage screening suggest the potential for multi-layer interactions involving CPR/DPANN lineages, their hosts, and viruses. Additionally, we identified 289 KEGG metabolic modules, 31.1% of which were targeted by 3378 vOTUs encoded auxiliary metabolic genes (AMGs) linked to carbon, nitrogen, and sulfur cycling. These findings provide a baseline for exploring how viruses influence microbial community dynamics, metabolic reprogramming and nutrient cycling in groundwater.",
-      "url": "https://doi.org/10.1038/s41467-026-68914-2",
+      "abstract": "Groundwater ecosystems harbor diverse microbial communities adapted to energy-limited, light-deprived conditions, yet the role of viruses in these environments remains poorly understood. Here, we analyzed 1.24 terabases of metagenomic and metatranscriptomic data from seven wells in the Hainich Critical Zone Exploratory (CZE) to characterize groundwater viromes. We identified 257,252 viral operational taxonomic units (vOTUs) (≥ 5 kb), with 99% novel at order, family and genus levels against global ocean, freshwater and/or other publicly available datasets. In silico host predictions suggest that vOTUs primarily targeted Proteobacteria, Candidate Phyla Radiation (CPR) bacteria, and DPANN archaea, which reflects abundant and active groundwater microbial members. Patterns of virus-host abundance ratios, CRISPR-spacers, and prophage screening suggest the potential for multi-layer interactions involving CPR/DPANN lineages, their hosts, and viruses. Additionally, we identified 289 KEGG metabolic modules, 31.1% of which were targeted by 3378 vOTUs encoded auxiliary metabolic genes (AMGs) linked to carbon, nitrogen, and sulfur cycling. These findings provide a baseline for exploring how viruses influence microbial community dynamics, metabolic reprogramming and nutrient cycling in groundwater. Groundwater viruses are less well studied. Here, using large-scale sequencing, the authors uncover extensive, largely uncharacterized viral diversity in groundwater, showing that viruses infect dominant microbes, encode genes linked to carbon, nitrogen and sulfur pathways, and thus shape subsurface microbial communities.",
+      "url": "https://www.semanticscholar.org/paper/6088bae8148e075021142668d486f8f20c4703e3",
       "pdf_url": "",
       "citation_count": 0,
       "tags": [
@@ -437,7 +604,6 @@
         "biogeochemistry",
         "carbon",
         "nitrogen",
-        "soil",
         "sulfur",
         "virus",
         "water"
@@ -469,6 +635,38 @@
         "nitrogen",
         "phosphorus",
         "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "64ef595391f5334f458944d36212ffd7fe9e5445",
+      "source": "Semantic Scholar",
+      "pmid": "41508741",
+      "doi": "10.1111/1758-2229.70262",
+      "title": "Diversity, Function and Activity of DNA Viruses in the Qiangyong Proglacial Lake Sediment, the Tibetan Plateau",
+      "authors": [
+        "Yang Zhao",
+        "Meiling Feng",
+        "Hongfei Chi",
+        "Keshao Liu",
+        "Rong Wen",
+        "Weizhen Zhang",
+        "Pengfei Liu"
+      ],
+      "journal": "Environmental Microbiology Reports",
+      "publication_date": "2026-01-08",
+      "abstract": "ABSTRACT Viruses are the most abundant biological entities on Earth and play crucial roles in regulating ecosystem processes and biogeochemical cycling. Proglacial lakes—key components of cryosphere aquatic systems—host diverse microbial communities despite extreme environmental conditions. However, the composition and ecological roles of DNA viral communities in proglacial lake sediments remain poorly understood. In this study, we applied metagenomic and metatranscriptomic approaches to investigate the diversity, function, activity and host interactions of DNA viruses in sediments from Qiangyong proglacial lake on the Tibetan Plateau. We recovered 4039 viral operational taxonomic units (vOTUs), with 76.6% unclassified at the family level, highlighting a vast reservoir of uncharacterized viral lineages. Host prediction linked 1.8% of vOTUs to key microbial taxa involved in carbon, nitrogen and sulphur cycling. We identified a broad array of virus‐encoded auxiliary metabolic genes (AMGs) involved in host resource utilization and metabolic transformation. Moreover, 63 AMGs not previously reported in the literature were discovered, significantly expanding the known viral functional gene repertoire. These findings offer new insights into the diversity and ecological potential of sediment‐associated DNA viruses in proglacial lakes, and emphasize their possible roles in shaping microbial communities and influencing biogeochemical processes in cold‐region ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/64ef595391f5334f458944d36212ffd7fe9e5445",
+      "pdf_url": "",
+      "citation_count": 1,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sediment",
+        "sulfur",
         "virus",
         "water"
       ]
@@ -621,16 +819,49 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4416185935",
-      "source": "OpenAlex",
-      "pmid": "",
+      "id": "2f7441d295e9bbbf402c9e264839896e3d72f4d2",
+      "source": "Semantic Scholar",
+      "pmid": "41237630",
+      "doi": "10.1016/j.jhazmat.2025.140469",
+      "title": "Metagenomic analysis reveals global landscape of viruses in biogeochemical cycles and microbial resistance in paddy soils and wetlands.",
+      "authors": [
+        "M. H. Hemmat-Jou",
+        "Fasong Li",
+        "Dejin Wang",
+        "Ruichuan Gao",
+        "Xiao-xia Zhou",
+        "Yating Chen",
+        "Liping Fang"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2025-11-13",
+      "abstract": "Paddy soils and wetlands form a critical soil-water interface that supports global crop production and biogeochemical cycling. Understanding the role of viruses in these ecosystems is vital for predicting ecosystem resilience. Considering the significance of viruses in microbial community structure and environmental pollution, we analyzed 163 metagenomes from 18 countries in Asia, Europe, America, and Australia. We characterized the global distribution and potential ecological functions of viruses through viral auxiliary metabolic genes (vAMGs), antibiotic resistance genes (vARGs), and metal(loid) resistance genes (vMRGs). We found viruses with globally consistent compositions and host profiles, characterized by high richness and a dominance of lysogenic families. We identified 497 vAMGs associated with carbon, phosphorus, nitrogen, and sulfur cycling, and detected 279 vARGs (conferring resistance to 10 antibiotic) and 141 vMRGs (against 7 metal(loids)). These genes exhibited strong co-localization and co-selection patterns, and their transduction can promote the emergence of multi-resistant microbes, reshaping microbial communities. Therefore, viruses are key mobile vectors for the environmental spread of these genes. By quantifying these pathways, we provide a crucial advancement for ecological risk identification and assessment. This meta-analysis provides a comprehensive overview of virus-mediated biogeochemical processes and resistance gene propagation. We demonstrate that viruses can disseminate antibiotic and metal(loid) resistance, a pollution-driven process that poses potential health risks. Furthermore, by regulating key metabolic pathways, viruses can influence greenhouse gas fluxes. Our findings underscore the necessity of integrating viruses into climate models, pollution mitigation strategies, and One Health policies to assess ecological risks and to protect ecosystem and public health.",
+      "url": "https://www.semanticscholar.org/paper/2f7441d295e9bbbf402c9e264839896e3d72f4d2",
+      "pdf_url": "",
+      "citation_count": 1,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "phosphorus",
+        "soil",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "d4eac4dd19f28e9075ad1959ce668e1b399eed59",
+      "source": "Semantic Scholar",
+      "pmid": "41233343",
       "doi": "10.1038/s41467-025-64938-2",
       "title": "DNA viral community enhances microbial carbon fixation capacity via auxiliary metabolic genes in contaminated soils",
       "authors": [
-        "Jun Lu",
+        "Jia-nan Lu",
         "Yuanqing Chao",
-        "Tianrui Li",
-        "X. Zhong",
+        "L. Tian",
+        "Xi Zhong",
         "Ziwu Chen",
         "Huan He",
         "Bi Huang",
@@ -642,31 +873,89 @@
         "Liqi Zhang",
         "Yulu Yang",
         "Zhepu Ruan",
-        "Kengbo Ding",
+        "K. Ding",
         "Ying Yang",
         "Ke Yuan",
-        "Wen‐Shen Liu",
-        "Qi Hua",
+        "Wenshen Liu",
+        "Hua Qi",
         "Yue Cao",
-        "Ying‐heng Fei",
+        "Ying-heng Fei",
         "Ning Ling",
         "Shizhong Wang",
-        "Yetao Tang",
+        "Ye-tao Tang",
         "Tiangang Luan",
         "Zhihong Xu",
-        "Rongliang Qiu"
+        "Riongliang Qiu"
       ],
       "journal": "Nature Communications",
       "publication_date": "2025-11-13",
-      "abstract": "Abstract Soil is the largest organic matter repository on land and the virosphere is an essential component of soil carbon cycling. While a few carbon-related auxiliary metabolic genes (AMGs) in viruses are reported to potentially influence the hosts, the effects of virus-host interactions on soil carbon fixation, particularly in carbon-deficient contaminated soils, need further validation. Here, we explore the impact of viruses on carbon fixation in contaminated soils from 58 metal mining areas across eastern China. Eleven different functional categories of carbon fixation AMGs are identified via metagenomic analysis in 323 contaminated soil samples. Enzymatic activities of three key AMGs (i.e., rbcL , ppdK and TKT ) are experimentally characterized, indicating the positive role of these genes in carbon fixation. Furthermore, transcriptomic sequencing reveals that after active virus inoculation the carbon fixation genes significantly up-regulate (~73%, p &lt; 0.05). In mesocosms with stable isotope labeling, the accumulation of 13 C-labeled organic carbon significantly increases (~10%, p &lt; 0.01). Our results provide theoretical and experimental evidence for incorporating viral contributions into the assessments of carbon fixation, and improve the understanding of viral roles within the processes of carbon cycling.",
-      "url": "https://doi.org/10.1038/s41467-025-64938-2",
+      "abstract": "Soil is the largest organic matter repository on land and the virosphere is an essential component of soil carbon cycling. While a few carbon-related auxiliary metabolic genes (AMGs) in viruses are reported to potentially influence the hosts, the effects of virus-host interactions on soil carbon fixation, particularly in carbon-deficient contaminated soils, need further validation. Here, we explore the impact of viruses on carbon fixation in contaminated soils from 58 metal mining areas across eastern China. Eleven different functional categories of carbon fixation AMGs are identified via metagenomic analysis in 323 contaminated soil samples. Enzymatic activities of three key AMGs (i.e., rbcL, ppdK and TKT) are experimentally characterized, indicating the positive role of these genes in carbon fixation. Furthermore, transcriptomic sequencing reveals that after active virus inoculation the carbon fixation genes significantly up-regulate (~73%, p < 0.05). In mesocosms with stable isotope labeling, the accumulation of 13C-labeled organic carbon significantly increases (~10%, p < 0.01). Our results provide theoretical and experimental evidence for incorporating viral contributions into the assessments of carbon fixation, and improve the understanding of viral roles within the processes of carbon cycling. Soil viruses may impact soil carbon cycle. Here, the authors use metagenomic analysis of contaminated soil and 13 C labeled microcosm incubation to show that the DNA viral community enhances microbial carbon fixation capacity via auxiliary metabolic genes.",
+      "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
+      "pdf_url": "",
+      "citation_count": 3,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "soil",
+        "virus"
+      ]
+    },
+    {
+      "id": "448cbceed09d3f1fa6bc61c7a957ec316ca7dd4e",
+      "source": "Semantic Scholar",
+      "pmid": "41204685",
+      "doi": "10.1111/1462-2920.70202",
+      "title": "The Hidden Viral Network: How Viruses Shape Microbial Adaptability and Biogeochemical Cycling in the Polyextreme Mars-Analog Qaidam Basin Desert.",
+      "authors": [
+        "Li Liu",
+        "Zhe Wang",
+        "Wensi Zhang",
+        "Zhichao Zhou",
+        "Wei Lin"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2025-11-01",
+      "abstract": "Viruses play essential roles in shaping the structure and function of microbial communities, including those inhabiting extreme environments. The Qaidam Basin is a unique Mars-analog desert characterised by hyperaridity, oligotrophy and high soil salinity. We hypothesise that viruses contribute to microbial adaptability and biogeochemical cycling through virus-host interactions in desert ecosystems. Here, we investigated viral diversity, biogeography, life strategies and interactions with soil microbiomes across the Qaidam Basin. Soil properties, such as water content, pH and mineral assemblages, significantly influenced the distribution patterns of both viral and prokaryotic communities. Broad host range may confer fitness advantages for viruses in deserts where host biomass is limited. Most viruses were characterised as lytic and infected dominant microbial phyla, supporting the \"Kill-The-Winner\" model, which suggests viral regulation in microbial community diversity and stability. We identified over 32,000 potential viral auxiliary metabolic genes (AMGs), including key genes involved in carbohydrate metabolism, carbon fixation, photosynthesis and phosphorus cycling. Moreover, AMGs related to the biosynthesis of antibiotics, pigments and alkaloids may enhance the adaptability of hosts under extreme conditions. This study unveils the enigmatic virosphere of the Mars-analog Qaidam Basin and underscores the roles of viruses in promoting microbial adaptability and driving biogeochemical cycling.",
+      "url": "https://www.semanticscholar.org/paper/448cbceed09d3f1fa6bc61c7a957ec316ca7dd4e",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "phosphorus",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "a8c5a505f59724e92fb3db3915208f803f757438",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1111/ejss.70220",
+      "title": "Nutrient‐Dependent Viral Lifestyle Shifts Drive Microbial Turnover and Soil Organic Carbon Accrual",
+      "authors": [
+        "Yongfeng Wang",
+        "Xianjin Lan",
+        "Shuo Wang",
+        "Zhiyao Wang",
+        "Ying Zhang",
+        "Ninghui Xie",
+        "Xiaolong Liang"
+      ],
+      "journal": "European Journal of Soil Science",
+      "publication_date": "2025-10-29",
+      "abstract": "Viruses are increasingly recognized as active agents in soil biogeochemistry, yet their responses to decades‐long nutrient management remain poorly understood. Leveraging a 39‐year, fully replicated field experiment in a double‐rice system, we integrated virus‐enriched metagenomics, 16S rRNA amplicon sequencing, and structural equation modelling (SEM) to unravel how long‐term fertilization shapes virus–host dynamics and carbon cycling in paddy soil. Treatments (n = 5) comprised an unfertilized control, full chemical nitrogen fertilization (180 kg ha−1 yr.−1), and manure substitutions of 30%, 50% and 70%. Manure inputs significantly increased bacterial and viral abundances, mitigated the diversity loss caused by chemical fertilization, and enriched copiotrophic hosts. Caudoviricetes, Malgrandaviricetes, and Faserviricetes constituted the dominant viral taxa across all samples (3 treatments × 3 replicates). The viral community composition and lifestyle strategy shifted markedly along the fertility gradient. Manure amendments increased soil nutrient availability and host abundance and coincided with higher viral counts (causing an increase in virus‐to‐bacterium ratios), and we observed a shift toward predicted virulent lifestyles (69% in M50 vs. 61% in control). In contrast, the unfertilized nutrient‐poor control contained the highest proportion of temperate phages and the greatest abundance of carbon‐related auxiliary metabolic genes (AMGs), suggesting that the lysogenic conversion provided “metabolic rescue” to hosts by supplementing key metabolic functions under oligotrophic stress. SEM revealed that these viral community attributes, including lifestyle, diversity, and AMGs, were positively associated with microbial biomass carbon and soil organic carbon under manure amendment. By integrating viral ecology into the context of nutrient management and field‐scale agroecosystem dynamics, our findings highlight viruses as an overlooked biological dimension in the design of fertilization strategies for sustainable agroecosystems.",
+      "url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "pdf_url": "",
       "citation_count": 2,
       "tags": [
         "amg",
         "biogeochemistry",
         "carbon",
-        "phosphorus",
+        "nitrogen",
         "soil",
         "virus"
       ]
@@ -696,27 +985,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4415361274",
-      "source": "OpenAlex",
+      "id": "efe348d326810de501a82c9c4a91bbe501a51e87",
+      "source": "Semantic Scholar",
       "pmid": "",
       "doi": "10.3390/agronomy15102425",
       "title": "Fertilization Strategies Regulate Soil Viral Diversity and Functional Potentials in Nutrient Cycling",
       "authors": [
         "Jian Xiao",
         "Chuan Liu",
-        "Rui Wei",
-        "Zhi‐Lai Chi",
+        "Rui-Fang Wei",
+        "ZhiLai Chi",
         "Peng Zhang",
         "Zhen Yu"
       ],
       "journal": "Agronomy",
       "publication_date": "2025-10-20",
       "abstract": "Soil viruses are increasingly recognized as key regulators of microbial communities and biogeochemical cycles, yet their responses to long-term fertilization strategies remain poorly characterized. We conducted a four-year pot experiment in subtropical China to evaluate how chemical fertilizer (CF), biochar (BC), and organic fertilizer (OF) application influenced soil viromes compared with an unfertilized control (CK) treatment. Metagenomic analyses recovered 1581 viral contigs with distinct community structures across treatments. Lytic viruses dominated overall, with higher proportions in BC and OF treatments, positively correlated with soil fertility indicators. Diversity indices indicated that BC and OF treatments significantly enhanced viral richness and evenness relative to CK and CF treatments, reflecting broader microbial host niches. Virus–host link predictions revealed expanded networks under BC and OF treatments, particularly with Pseudomonadota, Cyanobacteriota, and Acidobacteriota, suggesting amendment-specific viral regulation. Functional annotation showed that OF and BC application enriched viral KEGG categories related to metabolism, transport, and signal transduction. Moreover, BC and OF application promoted nitrate reduction, nitrogen fixation, and phosphorus mobilization. Together, these findings highlight organic amendments as critical drivers of soil viral diversity and functional potential, linking viromes dynamics to sustainable nutrient cycling in agroecosystems.",
-      "url": "https://doi.org/10.3390/agronomy15102425",
+      "url": "https://www.semanticscholar.org/paper/efe348d326810de501a82c9c4a91bbe501a51e87",
       "pdf_url": "",
       "citation_count": 4,
       "tags": [
-        "amg",
         "biogeochemistry",
         "nitrogen",
         "phosphorus",
@@ -753,6 +1041,39 @@
         "nitrogen",
         "soil",
         "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "e28c1c379de2cdd8dd01f2322bcb257d25242c37",
+      "source": "Semantic Scholar",
+      "pmid": "41005091",
+      "doi": "10.1016/j.jhazmat.2025.139940",
+      "title": "Virus-encoded auxiliary metabolic genes fuel the metabolism of organic pollutants in long-term contaminated groundwater.",
+      "authors": [
+        "Xiaoyun Gou",
+        "Yanhan Ji",
+        "Ping Zhang",
+        "Zhaojing Liu",
+        "Jingrui Qiu",
+        "X. Song",
+        "Wei Qin",
+        "Jiandong Jiang",
+        "Xu Liu",
+        "Baozhan Wang"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2025-09-22",
+      "abstract": "Virus-encoded auxiliary metabolic genes (AMGs) are important for host metabolism, such as carbon and nitrogen cycling; however, whether and how viral AMGs affect bacterial adaptation to pollution stress in long-term contaminated groundwater remain unclear, significantly limiting our understanding of phage-host interactions on the transformation of organic pollutants in groundwater. Here, by leveraging viromics sequencing for virus-like particles (VLPs) and metagenomic sequencing for host-cell, we profiled comprehensive virome datasets (recovered 16,672 viral contigs) from sites contaminated for over 30 years with chlorinated hydrocarbons and benzene, toluene, ethylbenzene, and xylene (BTEX). We found that contaminated groundwater had higher viral abundance, higher diversity, a broader host spectrum, and more complex virus-host interactions than the control group. Through virus genome functional screening and global multi-habitat mapping analysis, we identified six AMGs involved in alleviating pollutant stress and degradation of xenobiotics, and verified the degradation activity of the AMGs (i.e., L-DEX) through heterologous gene expression experiments, revealing that virus-encoded AMGs have cross-habitat adaptive potential. For site-specific pollutants, further phylogenetic analysis and protein structure prediction of key metabolic genes L-DEX and pcaH were performed. The results showed that they exhibit high evolutionary conservation and functional integrity, suggesting the similar functions as bacterial homologous genes. Overall, these findings enhance our understanding of virus-host interactions in contaminated groundwater and reveal their ecological functions and roles in adaptive evolution.",
+      "url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
+      "pdf_url": "",
+      "citation_count": 1,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
         "virus",
         "water"
       ]
@@ -875,6 +1196,55 @@
       ]
     },
     {
+      "id": "4e2aa5a3a4e5140ddc9511f446c154d01afebe50",
+      "source": "Semantic Scholar",
+      "pmid": "40810759",
+      "doi": "10.1007/s12560-025-09653-3",
+      "title": "Viral Diversity in Polar Hydrocarbon-Contaminated Soils: A Transect Study from King George Island, Antarctica",
+      "authors": [
+        "Caroline Frere Martiniuc",
+        "Deborah Catharine de Assis Leite",
+        "L. Seldin",
+        "D. Jurelevicius"
+      ],
+      "journal": "Food and Environmnetal Virology",
+      "publication_date": "2025-08-14",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/4e2aa5a3a4e5140ddc9511f446c154d01afebe50",
+      "pdf_url": "",
+      "citation_count": 1,
+      "tags": [
+        "carbon",
+        "soil",
+        "virus"
+      ]
+    },
+    {
+      "id": "667cc31991a1e84a25f12ba74c06862ca2c1136a",
+      "source": "Semantic Scholar",
+      "pmid": "40837218",
+      "doi": "10.1016/j.ese.2025.100609",
+      "title": "Viruses are a key regulator of the microbial carbon cycle in the deep-sea biosphere",
+      "authors": [
+        "Xinyi Zhang",
+        "T. He",
+        "Jiyong Zhou",
+        "Xiaobo Zhang"
+      ],
+      "journal": "Environmental Science and Ecotechnology",
+      "publication_date": "2025-08-05",
+      "abstract": "The marine biosphere profoundly influences atmospheric chemistry and climate through its carbon cycle. Viruses, the most abundant and diverse entities in marine ecosystems, significantly shape global carbon dynamics by infecting microbes and altering their metabolism. Both DNA and RNA viruses drive these processes in surface oceans, yet their roles in the deep sea—a sunlight-independent ecosystem that stores vast carbon reserves—remain largely unexplored. Here we show that viruses regulate the microbial carbon cycle in the deep-sea biosphere, based on viromic analysis of 66 global sediment samples spanning 1900 to 24,000 years. We identified 324,772 DNA viruses and 61,066 RNA viruses, revealing high diversity and long-term persistence. These viruses co-participate in host carbon metabolism via synergistic genes that encode carbohydrate-active enzymes, with DNA viruses primarily aiding synthesis and RNA viruses supporting decomposition. Integrated virome and microbiome data indicate that viral genes form novel metabolic branches, compensating for host deficiencies and enhancing pathway efficiency in processes like fructose-mannose and pyruvate metabolism. Our findings position deep-sea viruses as key regulators of marine microbial carbon cycling, with implications for global biogeochemical models and climate resilience. This work offers the first holistic perspective on DNA and RNA viruses in deep-sea carbon dynamics, illuminating their ecological significance across geological timescales.",
+      "url": "https://www.semanticscholar.org/paper/667cc31991a1e84a25f12ba74c06862ca2c1136a",
+      "pdf_url": "",
+      "citation_count": 1,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "virus"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4412519270",
       "source": "OpenAlex",
       "pmid": "",
@@ -926,6 +1296,57 @@
       "citation_count": 1,
       "tags": [
         "carbon",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "cbfd4362f7ca217914ad8acca520046888d74c80",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.25163/microbbioacts.8110371",
+      "title": "Viral Metagenomics: Analyzing the virome in different ecosystems and its impact on microbial communities",
+      "authors": [],
+      "journal": "Microbial Bioactives",
+      "publication_date": "2025-07-01",
+      "abstract": "Viral metagenomics is an emerging field that enables comprehensive analysis of viral populations in diverse ecosystems. High-throughput sequencing has revealed that viruses are the most abundant biological entities on Earth, profoundly influencing microbial community dynamics and ecosystem functioning. This review synthesizes findings from viral metagenomic studies conducted across marine, soil, and human-associated habitats. Data from next-generation sequencing and bioinformatic pipelines were examined to assess viral diversity, abundance, and their ecological roles in microbial regulation, nutrient cycling, and host interactions. Marine ecosystems harbor remarkable viral diversity, with approximately 15,000 viral genotypes per milliliter of seawater, regulating bacterial populations and contributing to global nutrient and carbon cycling. In soil, an estimated 10 viral particles per gram shape microbial interactions, influencing nutrient turnover and plant health. Within the human microbiome, trillions of viruses, particularly bacteriophages, modulate microbial composition and may affect host health by altering microbial dynamics. The virome’s diversity and ecological influence highlight viruses as key regulators of microbial communities. Their roles extend beyond predation to genetic exchange and ecosystem resilience. Insights from viral metagenomics also carry applied significance for agriculture, environmental sustainability, and human health interventions. Viral metagenomics continues to expand our understanding of ecosystems by uncovering the hidden virosphere. By elucidating viral diversity and their interactions with microbial hosts, this field underscores viruses’ fundamental roles in shaping ecological balance and human well-being.",
+      "url": "https://www.semanticscholar.org/paper/cbfd4362f7ca217914ad8acca520046888d74c80",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "b76e9496d8ec0a9d9fcd5faa6bf09e06fa74eb06",
+      "source": "Semantic Scholar",
+      "pmid": "41765528",
+      "doi": "10.1016/j.jes.2025.07.015",
+      "title": "Responses of viral communities and viral-encoded auxiliary metabolic genes to long-term fertilization practices under different land-use types.",
+      "authors": [
+        "Xunqin Chen",
+        "Dong Zhu",
+        "Yuling Zheng",
+        "Xiaoming Li",
+        "Guoxin Sun",
+        "Xiaoming Li",
+        "Longjun Ding"
+      ],
+      "journal": "Journal of Environmental Science",
+      "publication_date": "2025-07-01",
+      "abstract": "Viruses are key regulators of the soil microbial community. Lysogenic phages can benefit their microbial hosts by integrating auxiliary metabolic genes (AMGs) into host genomes. Long-term fertilization can affect soil microbial diversity; however, there is limited knowledge about how viral communities and viral-encoded AMGs respond to long-term fertilization under different land-use types. In this study, the profiles of viral communities and viral-encoded AMGs in adjacent paddy and upland soils receiving different long-term fertilization treatments (no fertilization, chemical/organic fertilization alone, and chemical combined with organic fertilization) were characterized using metavirome sequencing. The diversity and structure of viral communities in paddy soils were less responsive to different fertilization practices than those in upland soils. Moreover, the viral community profiles in the paddy and upland soils were primarily determined by the soil properties (NH4+-N and total manganese, respectively) rather than by the microbial community. Additionally, long-term fertilization, particularly organic fertilization, substantially enriched viral-encoded carbon cycle-related AMGs; however, the processes in which they participated were distinct between the paddy (energy metabolism and biosynthesis) and upland soils (complex carbohydrate decomposition and cell wall synthesis). Given that upland soils had lower nutrient levels and a higher proportion of lysogenic phages than the paddy soils, the upland soil phages were more inclined to adopt \"piggyback-the-winner\" strategy to make the viruses and hosts mutually beneficial. Collectively, these findings provide novel insights into how viral-encoded AMGs affect hosts, further influencing the soil nutrient cycles under long-term fertilization across different land-use types.",
+      "url": "https://www.semanticscholar.org/paper/b76e9496d8ec0a9d9fcd5faa6bf09e06fa74eb06",
+      "pdf_url": "",
+      "citation_count": 4,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "soil",
         "virus",
         "water"
       ]
@@ -1049,6 +1470,62 @@
         "soil",
         "virus",
         "water"
+      ]
+    },
+    {
+      "id": "6316425571938b65b85b714f630b5dbc8a8cc626",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1089/phage.2024.0024",
+      "title": "Experimental Bacteriophage Addition to Soil Depresses Bacterial Respiration and Alters Nitrogen Transformations",
+      "authors": [
+        "Benjamin D. Duval",
+        "Kurt E. Williamson",
+        "Anika Baloun",
+        "L. DeVeaux"
+      ],
+      "journal": "PHAGE",
+      "publication_date": "2025-05-19",
+      "abstract": "Soil heterogeneity and complex host-phage relationships impede understanding phage influence on terrestrial nutrient cycles. We performed laboratory experiments quantifying phage effects on bacterial respiration and inorganic soil nitrogen and phosphorus changes. Soil microcosms under reducing conditions were inoculated with a single bacterial host (Gordonia rubripertincta) or with the host + phage (φApollonia6). Respiration declined immediately following phage introduction and was lower in the presence of phage through time. Phage additions increased variance in N transforms. NH4+ decline did not match NO 3 − gain, suggesting microbial immobilization in +phage microcosms. Net NO 3 − accumulation was observed with phage, suggesting viral interruption of bacterial NO 3 − reduction. Phosphate pools declined in both treatments, likely due to cell uptake and incorporation into phage. This single host-phage system highlights phage depression of bacterial respiration and altered nutrient transformation and can be the basis for further investigations into phage-bacteria soil interactions and their impacts on terrestrial nutrient cycling.",
+      "url": "https://www.semanticscholar.org/paper/6316425571938b65b85b714f630b5dbc8a8cc626",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "biogeochemistry",
+        "nitrogen",
+        "phosphorus",
+        "soil",
+        "virus"
+      ]
+    },
+    {
+      "id": "eb01d0f8797bf230493c81c87854f21f3213571a",
+      "source": "Semantic Scholar",
+      "pmid": "40367785",
+      "doi": "10.1016/j.jhazmat.2025.138594",
+      "title": "Unveiling the dynamic viral landscape across developmental stages of cold seep ecosystems: Implications for global marine biogeochemistry.",
+      "authors": [
+        "Yuanyuan Wang",
+        "Shanzi Huang",
+        "Jianguo He",
+        "Zhengqi Feng",
+        "Wenbo Wu",
+        "Changjun Guo",
+        "Jianguo He"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2025-05-12",
+      "abstract": "Cold seeps are methane-rich ecosystems playing pivotal roles in global biogeochemical cycling, yet their viral communities remain underexplored. We present the first comprehensive viral metagenomic analysis across developmental stages of the Haima Cold Seep. Characterizing viral assemblages from chemoautotrophic, mature, and extinct seep sediments revealed 4272 viral operational taxonomic units, with 77 % representing novel lineages, highlighting cold seeps' unique viral diversity. Viral community structure and diversity varied significantly by seep stage, with highest diversity in the chemoautotrophic stage. While Siphoviridae and Microviridae dominated, their relative abundances shifted with maturity. Gammaproteobacteria emerged as predominant viral hosts, exhibiting distinct interaction patterns across stages. Notably, the chemoautotrophic stage harbored the highest abundance and diversity of virus-encoded auxiliary metabolic genes (AMGs; ∼450 AMGs), with significantly enriched carbohydrate metabolism and central carbon pathway genes (2.2-fold and 1.8-fold higher respectively, p < 0.005), amino acid metabolism (1.9-fold, p = 0.003), and sulfur relay system genes (2.0-fold, p = 0.002). In contrast, the mature stage exhibited distinct enrichment in energy metabolism genes (up to 3.9-fold difference between sites, p < 0.001) and xenobiotics degradation pathways, suggesting stage-specific viral impacts on biogeochemical cycling. Lytic lifestyles prevailed across stages, indicating dynamic virus-host interactions during seep development. These findings unveil complex viral ecology in cold seeps, with potential influences on microbial community structure and biogeochemical processes. Providing a foundation for understanding viral roles in cold seep ecosystem functioning and biogeochemical cycles, this study has implications for marine microbial ecology and environmental biotechnology.",
+      "url": "https://www.semanticscholar.org/paper/eb01d0f8797bf230493c81c87854f21f3213571a",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
+        "virus"
       ]
     },
     {
@@ -1204,6 +1681,43 @@
       ]
     },
     {
+      "id": "37207d5f899123253e1d6c18ebd63382696f53e0",
+      "source": "Semantic Scholar",
+      "pmid": "40273602",
+      "doi": "10.1016/j.watres.2025.123666",
+      "title": "Viral diversity and auxiliary metabolic genes in rare earth element mine drainage in South China.",
+      "authors": [
+        "Chang Hu",
+        "Jia-nan Lu",
+        "Ziwu Chen",
+        "L. Tian",
+        "Yalin Yin",
+        "Gengbo Jiang",
+        "Ying-heng Fei",
+        "Ye-tao Tang",
+        "Shizhong Wang",
+        "Chao Jin",
+        "Rongliang Qiu",
+        "Yuanqing Chao"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2025-04-01",
+      "abstract": "In extreme environments, viruses play a crucial role in regulating the structure and metabolic activities of microbial communities, thereby impacting the overall biogeochemical cycles. Previous research found that rare earth element acid mine drainage (REE-AMD) harbors a wide array of microbial species. However, our understanding of the viruses that infect these microorganisms remains limited. In this study, we utilized metagenomic analysis to explore the viral diversity, interactions between viruses and their hosts, as well as the viruses encoded auxiliary metabolic genes (AMGs) within REE-AMD. The results demonstrated that viral communities showed increased diversity with REEs pollution. Furthermore, AMGs exhibited habitat and host specificity. Viruses in water samples contaminated with REEs tended to encode AMGs related to cellular metabolic processes and stress responses to protect their hosts. In contrast, viruses in sediment samples were more likely to encode AMGs associated with nutrient competition, thereby expanding the ecological niches of hosts and viruses. Viruses would carry more AMGs from the dominant prokaryotes. Additionally, under REEs stress, viruses encode a greater number of carbon- and sulfur-related AMGs, influencing the carbon and sulfur cycles of microorganisms in REE-AMD. Overall, our study provides a first systematic characterization of the viral community in REE-AMD, which is crucial for understanding the intricate interactions among viruses, their hosts, and the surrounding environment.",
+      "url": "https://www.semanticscholar.org/paper/37207d5f899123253e1d6c18ebd63382696f53e0",
+      "pdf_url": "",
+      "citation_count": 3,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "soil",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4408250686",
       "source": "OpenAlex",
       "pmid": "",
@@ -1235,6 +1749,68 @@
       ]
     },
     {
+      "id": "a5821505595e6a27076b8fea056f715e5fbcec7a",
+      "source": "Semantic Scholar",
+      "pmid": "40056518",
+      "doi": "10.1016/j.jhazmat.2025.137870",
+      "title": "Copper contamination determined the impact of phages on microbially-driven nitrogen cycling in coastal wetland sediments.",
+      "authors": [
+        "Ying Zhu",
+        "Ruili Li",
+        "Shuang Yan",
+        "Yangyang Li",
+        "Shuguang Xie"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2025-03-06",
+      "abstract": "Phages have garnered increasing attention due to their potential roles in biogeochemical cycling. However, their impacts on nitrogen cycling have primarily been inferred from the presence of putative auxiliary metabolic genes (AMGs) and the virus-host linkage, despite of very limited direct experimental evidence. In this study, a series of microcosms were established with the inoculation of either native or non-native phages to simulate coastal wetlands with different phage sources and different levels of copper (Cu) contamination. Metagenomics and metatranscriptomics were combined to reveal phages' regulation on microbially-driven nitrogen cycling and to explore how the effects were mediated by Cu stress. Phages significantly impacted denitrification-related genes, with their effects depending on Cu level. Phages inhibited nirK-type denitrification under Cu stress but led to up-regulation of nirS gene in the treatments without Cu addition. Non-native phages also promoted the transcription of genes related to nitrogen assimilation and organic nitrogen transformation. Detection of viral AMGs involved in glutamate synthesis suggested that horizontal gene transfer may be a crucial pathway for phages to facilitate microbial nitrogen uptake. Overall, these findings enhance the understanding of phages' impact on biogeochemical metabolism in coastal wetland, offering novel insights into the links of phages' regulation on microbial nitrogen cycling with Cu stress.",
+      "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
+      "pdf_url": "",
+      "citation_count": 7,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "nitrogen",
+        "sediment",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "d06b74eea83428a7e2b61f3b0a11aa48902d8bfe",
+      "source": "Semantic Scholar",
+      "pmid": "40109201",
+      "doi": "10.1111/1462-2920.70074",
+      "title": "Bacteriophage-Bacteria Interactions Promote Ecological Multifunctionality in Compost-Applied Soils.",
+      "authors": [
+        "Shimao Wu",
+        "Wen Zhang",
+        "Danrui Wang",
+        "J.L. Balcázar",
+        "Guanghao Wang",
+        "Mao Ye",
+        "Huizhen Chao",
+        "Mingming Sun",
+        "Feng Hu"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2025-03-01",
+      "abstract": "Bacteriophages (phages) influence biogeochemical cycling in soil ecosystems by mediating bacterial metabolism. However, the participation of phages in soil's overall ecological functions (multifunctionality) remains unclear. Hence, this study investigated the potential for phages and bacterial communities to shape the multifunctionality of compost-applied soils. The findings revealed that cow compost and vermicompost applications enhanced the soil's multifunctionality; consequently, the highest multifunctionality was observed in the soil with vermicompost application (p < 0.05). The composition and diversity of bacteria and phages, as well as the abundance of functional genes of bacteria and phages related to carbon, nitrogen, phosphorus and sulphur metabolism, were dramatically altered following the application of both compost types. Moreover, the impact of phage diversity on soil multifunctionality is crucial for multi-threshold calculations. Structural equation modelling indicated that the effects of bacterial diversity on soil multifunctionality following compost application were paramount, with a path coefficient of 0.88 (p < 0.01). The rise in phage diversity and the enrichment of functional genes indirectly led to a dramatic increase in the soil's ecological multifunctionality by affecting the host bacteria's metabolic processes. These results offer a novel avenue to improve soil's functions and environmental services by transforming the phage community composition and functions of soils.",
+      "url": "https://www.semanticscholar.org/paper/d06b74eea83428a7e2b61f3b0a11aa48902d8bfe",
+      "pdf_url": "",
+      "citation_count": 5,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "phosphorus",
+        "soil",
+        "sulfur",
+        "virus"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4408641696",
       "source": "OpenAlex",
       "pmid": "",
@@ -1259,6 +1835,64 @@
         "carbon",
         "sediment",
         "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "c1e06b1b4b18cf644e31ee86079e3b2c9bdebaaa",
+      "source": "Semantic Scholar",
+      "pmid": "39933460",
+      "doi": "10.1016/j.jhazmat.2025.137532",
+      "title": "Experimental evidence for viral impact on microbial community, nitrification, and denitrification in an agriculture soil.",
+      "authors": [
+        "Hu Li",
+        "Sha Zhao",
+        "Meng-Ke Gao",
+        "Yanyan Zhou",
+        "Bo Xu",
+        "Leyang Yang",
+        "Xiao-Ru Yang",
+        "Jian-Qiang Su"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2025-02-01",
+      "abstract": "Viruses are ubiquitous, and their potential impacts on biogeochemical cycles in soil have largely been inferred from correlation evidence and virome studies. Manure has been demonstrated to affect nitrogen cycle by altering soil nutrients and microbial communities. However, the direct impacts of viruses derived from manure on microbial community, nitrification, and denitrification remained exclusive. In this study, concentrated viral extracts obtained from manure were added into an agricultural soil in varying dosages: a one-time addition of 10-fold viruses or a weekly addition of 1-fold viruses for ten weeks. The results showed that both viral extracts and manure significantly changed the microbial community compositions and structures. The effect of manure on microbial diversity was concentration-dependent, differing from the viral impact on microbial diversity in soil. Deterministic processes predominated in the assembly of microbial communities in both viral and manure treatments, with an increased contribution of deterministic processes observed after these treatments. Additionally, a high concentration (10-fold) of viruses enhanced N2O production and reduction in soil. In the control treatment, N2O production was driven by bacterial denitrification, fungal denitrification, and chemo-denitrification. However, bacteria became the dominant driver of N2O production in both virus and manure treatments. Overall, experimental evidence for viral impacts on the composition and assembly of microbial community, as well as on nitrification and denitrification processes, was provided through a 70-day microcosm experiment. These findings highlight the importance of viruses in regulating the distribution and functioning of microbes in terrestrial ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/c1e06b1b4b18cf644e31ee86079e3b2c9bdebaaa",
+      "pdf_url": "",
+      "citation_count": 7,
+      "tags": [
+        "biogeochemistry",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "302b96c2ff1e8a7b81e34b92d02616ea316797a4",
+      "source": "Semantic Scholar",
+      "pmid": "39832281",
+      "doi": "10.1093/ismejo/wraf004",
+      "title": "Prophage-encoded chitinase gene supports growth of its bacterial host isolated from deep-sea sediments",
+      "authors": [
+        "M. Middelboe",
+        "Sachia J. Traving",
+        "D. Castillo",
+        "P. Kalatzis",
+        "R. Glud"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2025-01-01",
+      "abstract": "Abstract Auxiliary metabolic genes encoded by bacteriophages can influence host metabolic function during infection. In temperate phages, auxiliary metabolic genes (AMGs) may increase host fitness when integrated as prophages into the host genome. However, little is known about the contribution of prophage-encoded AMGs to host metabolic properties. In this study, we examined a temperate bacteriophage, and its piezotolerant Pseudomonas sp. host obtained from sediment samples collected from the Kermadec Trench at ~10 000 m water depth. Both the phage and host were present throughout the sediment profiles from the surface to 30 cm into the sediment, covering large gradients of environmental conditions. The host and phage each carried one chitinase gene, which differed from each other, suggesting that chitin degradation plays a role in their substrate supply. We demonstrated that prophage-encoded chitinase supported host chitin degradation and growth in the presence of chitin. Furthermore, prophage induction dynamics were strongly substrate-dependent, suggesting that the host controls the lysis-lysogeny switch in response to the presence of chitin, thus optimizing the trade-off between the loss of cells from prophage induction and prophage enhancement of host performance. Overall, the results demonstrate prophage-encoded AMGs as collaborative goods for their hosts and emphasize the potential role of phage-host interactions in benthic biogeochemical cycling, as well as for the capability of deep-sea bacteria to efficiently adapt and thrive at a wide range of environmental conditions.",
+      "url": "https://www.semanticscholar.org/paper/302b96c2ff1e8a7b81e34b92d02616ea316797a4",
+      "pdf_url": "",
+      "citation_count": 10,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "phosphorus",
+        "sediment",
         "virus",
         "water"
       ]
@@ -1321,6 +1955,36 @@
       ]
     },
     {
+      "id": "d47dd5926810563f42bed23ae5a5e01c0e5b075f",
+      "source": "Semantic Scholar",
+      "pmid": "39602267",
+      "doi": "10.1073/pnas.2419798121",
+      "title": "Adaptive expression of phage auxiliary metabolic genes in paddy soils and their contribution toward global carbon sequestration",
+      "authors": [
+        "Dong Zhu",
+        "Shu-yue Liu",
+        "Ming-Ming Sun",
+        "X. Yi",
+        "Guilan Duan",
+        "Mao Ye",
+        "Michael R. Gillings",
+        "Yong-guan Zhu"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2024-11-27",
+      "abstract": "Significance Paddy soils are a vital contributor to global carbon sequestration; however, global change could stimulate organic carbon decomposition by soil microbes and create positive feedback between carbon cycling and global change, thereby impairing soil health and decreasing food production. Phage-promoted host anabolism is crucial for the global carbon cycle. This study demonstrated that as a worldwide change factor, heavy metals could elevate the expression of paddy phage carbon fixation auxiliary metabolic genes (AMGs) among hosts, suggesting that the adaptive expression of phage carbon fixation AMGs under heavy metal stress exhibits great potential to drive global carbon sequestration. This outcome is significant in mitigating global warming in the context of the increasing prevalence of heavy metal pollution due to global change.",
+      "url": "https://www.semanticscholar.org/paper/d47dd5926810563f42bed23ae5a5e01c0e5b075f",
+      "pdf_url": "",
+      "citation_count": 49,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "soil",
+        "virus"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4404162869",
       "source": "OpenAlex",
       "pmid": "",
@@ -1349,25 +2013,55 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4403583598",
-      "source": "OpenAlex",
+      "id": "0af96242c8f168a06d5a8449f72ea2fa344dcb83",
+      "source": "Semantic Scholar",
       "pmid": "",
+      "doi": "10.1101/2024.10.30.616729",
+      "title": "Phosphate amendment drives bloom of RNA viruses after soil wet-up",
+      "authors": [
+        "Ella T. Sieradzki",
+        "G. Allen",
+        "Jeffery A. Kimbrel",
+        "Graeme W Nicol",
+        "C. Hazard",
+        "E. Nuccio",
+        "S. Blazewicz",
+        "J. Pett-Ridge",
+        "Gareth Trubl"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2024-10-30",
+      "abstract": "Soil rewetting after a dry period results in a surge of activity and succession in both microbial and DNA virus communities. Less is known about the response of RNA viruses to soil rewetting—while they are highly diverse and widely distributed in soil, they remain understudied. We hypothesized that RNA viruses would show temporal succession following rewetting and that phosphate amendment would influence their trajectory, as viral proliferation may cause phosphorus limitation. Using 39 time-resolved metatranscriptomes and amplicon data, 2,190 RNA viral populations were identified across five phyla, with 37% of these predicted to infect bacteria (26%) or fungi (11%). Only 1.2% of viral populations had annotated capsid genes, suggesting most persist via intracellular replication without a free virion phase. Phosphate amendment altered RNA viral community composition within the first week and amended vs. unamended communities remained distinguishable for up to three weeks. While the overall host community remained stable, certain bacterial populations showed reduced abundance in phosphate-amended soils, likely due to increased viral lysis, as RNA bacteriophages, particularly Leviviricetes, proliferated significantly. Notably, 60% of the viruses with increased abundance under phosphate amendment belonged to basal Lenarviricota clades rather than well-known groups like Leviviricetes. We estimate RNA bacteriophage infections may affect 107–109 bacteria per gram of soil, aligning with the total bacterial population (107–1010 g−1 soil), suggesting that RNA phages significantly influence bacterial communities post-wet-up, with phosphorus availability modulating this effect. Highlights Soil wet-up influences RNA virus dynamics for over a week The majority of hosts predicted for RNA viruses were bacteria and fungi Phosphate amendment preferentially supports Lenarviricota over other RNA viruses 60% of vOTUs that responded to phosphate were from unknown bacteriophage clades Most soil bacteria are predicted to be infected by RNA bacteriophages within a week",
+      "url": "https://www.semanticscholar.org/paper/0af96242c8f168a06d5a8449f72ea2fa344dcb83",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/10/30/2024.10.30.616729.full.pdf",
+      "citation_count": 2,
+      "tags": [
+        "phosphorus",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "b7db48d7ed8fd2f91c6fc4c3047628d957068037",
+      "source": "Semantic Scholar",
+      "pmid": "39434181",
       "doi": "10.1186/s40168-024-01922-w",
       "title": "Seasonal variations of microbial communities and viral diversity in fishery-enhanced marine ranching sediments: insights into metabolic potentials and ecological interactions",
       "authors": [
-        "Cheng-Zhuang Chen",
+        "Chengguang Chen",
         "Ping Li",
         "Ling Liu",
         "Yong-Jun Sun",
         "Wen-Ming Ju",
-        "Zhihua Li"
+        "Zhi-Hua Li"
       ],
       "journal": "Microbiome",
       "publication_date": "2024-10-21",
-      "abstract": "BACKGROUND: The ecosystems of marine ranching have enhanced marine biodiversity and ecological balance and have promoted the natural recovery and enhancement of fishery resources. The microbial communities of these ecosystems, including bacteria, fungi, protists, and viruses, are the drivers of biogeochemical cycles. Although seasonal changes in microbial communities are critical for ecosystem functioning, the current understanding of microbial-driven metabolic properties and their viral communities in marine sediments remains limited. Here, we employed amplicon (16S and 18S) and metagenomic approaches aiming to reveal the seasonal patterns of microbial communities, bacterial-eukaryotic interactions, whole metabolic potential, and their coupling mechanisms with carbon (C), nitrogen (N), and sulfur (S) cycling in marine ranching sediments. Additionally, the characterization and diversity of viral communities in different seasons were explored in marine ranching sediments. RESULTS: The current study demonstrated that seasonal variations dramatically affected the diversity of microbial communities in marine ranching sediments and the bacterial-eukaryotic interkingdom co-occurrence networks. Metabolic reconstruction of the 113 medium to high-quality metagenome-assembled genomes (MAGs) was conducted, and a total of 8 MAGs involved in key metabolic genes and pathways (methane oxidation - denitrification - S oxidation), suggesting a possible coupling effect between the C, N, and S cycles. In total, 338 viral operational taxonomic units (vOTUs) were identified, all possessing specific ecological characteristics in different seasons and primarily belonging to Caudoviricetes, revealing their widespread distribution and variety in marine sediment ecosystems. In addition, predicted virus-host linkages showed that high host specificity was observed, with few viruses associated with specific hosts. CONCLUSIONS: This finding deepens our knowledge of element cycling and viral diversity in fisheries enrichment ecosystems, providing insights into microbial-virus interactions in marine sediments and their effects on biogeochemical cycling. These findings have potential applications in marine ranching management and ecological conservation. Video Abstract.",
-      "url": "https://doi.org/10.1186/s40168-024-01922-w",
-      "pdf_url": "",
-      "citation_count": 20,
+      "abstract": "The ecosystems of marine ranching have enhanced marine biodiversity and ecological balance and have promoted the natural recovery and enhancement of fishery resources. The microbial communities of these ecosystems, including bacteria, fungi, protists, and viruses, are the drivers of biogeochemical cycles. Although seasonal changes in microbial communities are critical for ecosystem functioning, the current understanding of microbial-driven metabolic properties and their viral communities in marine sediments remains limited. Here, we employed amplicon (16S and 18S) and metagenomic approaches aiming to reveal the seasonal patterns of microbial communities, bacterial-eukaryotic interactions, whole metabolic potential, and their coupling mechanisms with carbon (C), nitrogen (N), and sulfur (S) cycling in marine ranching sediments. Additionally, the characterization and diversity of viral communities in different seasons were explored in marine ranching sediments. The current study demonstrated that seasonal variations dramatically affected the diversity of microbial communities in marine ranching sediments and the bacterial-eukaryotic interkingdom co-occurrence networks. Metabolic reconstruction of the 113 medium to high-quality metagenome-assembled genomes (MAGs) was conducted, and a total of 8 MAGs involved in key metabolic genes and pathways (methane oxidation - denitrification - S oxidation), suggesting a possible coupling effect between the C, N, and S cycles. In total, 338 viral operational taxonomic units (vOTUs) were identified, all possessing specific ecological characteristics in different seasons and primarily belonging to Caudoviricetes, revealing their widespread distribution and variety in marine sediment ecosystems. In addition, predicted virus-host linkages showed that high host specificity was observed, with few viruses associated with specific hosts. This finding deepens our knowledge of element cycling and viral diversity in fisheries enrichment ecosystems, providing insights into microbial-virus interactions in marine sediments and their effects on biogeochemical cycling. These findings have potential applications in marine ranching management and ecological conservation. DRyDF7ykR-XALqAtu34uZt Video Abstract Video Abstract",
+      "url": "https://www.semanticscholar.org/paper/b7db48d7ed8fd2f91c6fc4c3047628d957068037",
+      "pdf_url": "https://doi.org/10.1186/s40168-024-01922-w",
+      "citation_count": 17,
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -1379,23 +2073,54 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4402391147",
-      "source": "OpenAlex",
-      "pmid": "",
+      "id": "692d57244c98eee4a46ec89ae1c677dced55003a",
+      "source": "Semantic Scholar",
+      "pmid": "39396785",
+      "doi": "10.1016/j.scitotenv.2024.176808",
+      "title": "Lily viruses regulate the viral community of the Lanzhou lily rhizosphere and indirectly affect rhizosphere carbon and nitrogen cycling.",
+      "authors": [
+        "Xue-Si Su",
+        "Yubao Zhang",
+        "Wei-Jie Jin",
+        "Zhanjun Zhang",
+        "Zhong-Kui Xie",
+        "Ruoyu Wang",
+        "Ya-Jun Wang",
+        "Yang Qiu"
+      ],
+      "journal": "Science of the Total Environment",
+      "publication_date": "2024-10-01",
+      "abstract": "The rhizosphere, where plant roots interact intensely with the soil, is a crucial but understudied area in terms of the impact of virus infection. In this study, we investigated the effects of lily symptomless virus (LSV) and cucumber mosaic virus (CMV) on the Lanzhou lily (Lilium davidii var. unicolor) rhizosphere using metagenomics and bioinformatics analysis. We found that virus infection significantly altered soil pH, inorganic carbon, nitrate nitrogen, and total sulfur. Co-infection with LSV and CMV had a greater influence than single infections on the α- and β-diversity of the rhizosphere viral community in which the absolute abundance of certain virus families (Siphoviridae, Podoviridae, and Myoviridae) increased significantly, whereas bacteria, fungi, and archaea remained relatively unaffected. These altered virus populations influenced the rhizosphere microbial carbon and nitrogen cycles by exerting top-down control on bacteria. Co-infection potentially weakened rhizosphere carbon fixation and promoted processes such as methane oxidation, nitrification, and denitrification. In addition, the co-occurrence network of bacteria and viruses in the rhizosphere revealed substantial changes in microbial community composition under co-infection. Our partial-least-squares path model confirmed that the diversity of the rhizosphere viral community indirectly regulated the carbon and nitrogen cycling functions of the microbial community, thus affecting the accumulation of carbon and nitrogen nutrients in the soil. Our results are the first report of the effects of virus infection on the lily rhizosphere, particularly for co-infection; they therefore complement research on the plant virus pathogenic mechanisms, and increase our understanding of the ecological role of rhizosphere soil viruses.",
+      "url": "https://www.semanticscholar.org/paper/692d57244c98eee4a46ec89ae1c677dced55003a",
+      "pdf_url": "",
+      "citation_count": 2,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "sulfur",
+        "virus"
+      ]
+    },
+    {
+      "id": "e78070842024dacd8db94479a0edbdc1a69ddcd6",
+      "source": "Semantic Scholar",
+      "pmid": "39318431",
       "doi": "10.3389/fmicb.2024.1422941",
       "title": "Antarctic lake viromes reveal potential virus associated influences on nutrient cycling in ice-covered lakes",
       "authors": [
-        "David M. Robinson",
-        "Rachael M. Morgan‐Kiss",
+        "David M Robinson",
+        "R. Morgan-Kiss",
         "Zhong Wang",
-        "Cristina Takacs‐Vesbach"
+        "C. Takacs-Vesbach"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2024-09-10",
-      "abstract": "The McMurdo Dry Valleys (MDVs) of Antarctica are a mosaic of extreme habitats which are dominated by microbial life. The MDVs include glacial melt holes, streams, lakes, and soils, which are interconnected through the transfer of energy and flux of inorganic and organic material via wind and hydrology. For the first time, we provide new data on the viral community structure and function in the MDVs through metagenomics of the planktonic and benthic mat communities of Lakes Bonney and Fryxell. Viral taxonomic diversity was compared across lakes and ecological function was investigated by characterizing auxiliary metabolic genes (AMGs) and predicting viral hosts. Our data suggest that viral communities differed between the lakes and among sites: these differences were connected to microbial host communities. AMGs were associated with the potential augmentation of multiple biogeochemical processes in host, most notably with phosphorus acquisition, organic nitrogen acquisition, sulfur oxidation, and photosynthesis. Viral genome abundances containing AMGs differed between the lakes and microbial mats, indicating site specialization. Using procrustes analysis, we also identified significant coupling between viral and bacterial communities ( p = 0.001). Finally, host predictions indicate viral host preference among the assembled viromes. Collectively, our data show that: (i) viruses are uniquely distributed through the McMurdo Dry Valley lakes, (ii) their AMGs can contribute to overcoming host nutrient limitation and, (iii) viral and bacterial MDV communities are tightly coupled.",
-      "url": "https://doi.org/10.3389/fmicb.2024.1422941",
+      "abstract": "The McMurdo Dry Valleys (MDVs) of Antarctica are a mosaic of extreme habitats which are dominated by microbial life. The MDVs include glacial melt holes, streams, lakes, and soils, which are interconnected through the transfer of energy and flux of inorganic and organic material via wind and hydrology. For the first time, we provide new data on the viral community structure and function in the MDVs through metagenomics of the planktonic and benthic mat communities of Lakes Bonney and Fryxell. Viral taxonomic diversity was compared across lakes and ecological function was investigated by characterizing auxiliary metabolic genes (AMGs) and predicting viral hosts. Our data suggest that viral communities differed between the lakes and among sites: these differences were connected to microbial host communities. AMGs were associated with the potential augmentation of multiple biogeochemical processes in host, most notably with phosphorus acquisition, organic nitrogen acquisition, sulfur oxidation, and photosynthesis. Viral genome abundances containing AMGs differed between the lakes and microbial mats, indicating site specialization. Using procrustes analysis, we also identified significant coupling between viral and bacterial communities (p = 0.001). Finally, host predictions indicate viral host preference among the assembled viromes. Collectively, our data show that: (i) viruses are uniquely distributed through the McMurdo Dry Valley lakes, (ii) their AMGs can contribute to overcoming host nutrient limitation and, (iii) viral and bacterial MDV communities are tightly coupled.",
+      "url": "https://www.semanticscholar.org/paper/e78070842024dacd8db94479a0edbdc1a69ddcd6",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 5,
       "tags": [
         "amg",
         "biogeochemistry",
@@ -1446,6 +2171,71 @@
       ]
     },
     {
+      "id": "f6d7fd70d83399b97ccadc74ad27de9b3241e128",
+      "source": "Semantic Scholar",
+      "pmid": "39029189",
+      "doi": "10.1016/j.jhazmat.2024.135147",
+      "title": "Effects of vegetation cover and aquaculture pollution on viral assemblages in mangroves sediments.",
+      "authors": [
+        "Yue Su",
+        "Hao Yu",
+        "Chengling Gao",
+        "Shujuan Sun",
+        "Yantao Liang",
+        "Gang Liu",
+        "Xinran Zhang",
+        "Yue Dong",
+        "Xiaoshou Liu",
+        "Guangcheng Chen",
+        "Hongbing Shao",
+        "Andrew Mcminn",
+        "Min Wang"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2024-07-01",
+      "abstract": "Mangrove forests, a critical coastal ecosystem, face numerous anthropogenic threats, particularly from aquaculture activities. Despite the acknowledged significance of viruses in local and global biogeochemical cycles, there is limited knowledge regarding the community structure, genomic diversity, and ecological roles of viruses in mangrove forests ecosystems, especially regarding their responses to aquaculture. In this study, we identified 17,755 viral operational taxonomic units (vOTUs) from nine sediments viromes across three distinct ecological regions of the mangrove forests ecosystem: mangrove, bare flat, and aquaculture regions. Viral assemblages varied among three regions, and the pathogenic viruses associated with marine animals, such as the white spot syndrome virus (WSSV) from Nimaviridae, were identified in this study. The relative abundance of Nimaviridae in the bare flat region was higher than in other regions. Furthermore, viruses in distinct mangrove forests sediments regions have adapted to their environments by adopting distinct survival strategies and encoding various auxiliary metabolic genes involved in carbon metabolism and antibiotic resistance. These adaptations may have profound impacts on biogeochemical cycles. This study provides the first insights into the effects of vegetation cover and aquaculture on the community structure and ecological roles of viruses in mangrove forests sediments. These findings are crucial for understanding the risks posed by anthropogenic threats to mangrove forests ecosystems and informing effective management strategies.",
+      "url": "https://www.semanticscholar.org/paper/f6d7fd70d83399b97ccadc74ad27de9b3241e128",
+      "pdf_url": "",
+      "citation_count": 5,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "virus"
+      ]
+    },
+    {
+      "id": "ce11535f98e64d2812305c1ab29205a0216736d3",
+      "source": "Semantic Scholar",
+      "pmid": "38971241",
+      "doi": "10.1016/j.scitotenv.2024.174531",
+      "title": "Thallium spill shifts the structural and functional characteristics of viral communities with different lifestyles in river sediments.",
+      "authors": [
+        "Ying Zhu",
+        "Shuang Yan",
+        "Xiuli Chen",
+        "Yangyang Li",
+        "Shuguang Xie"
+      ],
+      "journal": "Science of the Total Environment",
+      "publication_date": "2024-07-01",
+      "abstract": "Thallium (Tl), a highly toxic heavy metal, can affect microbial community, while little is known about its effect on viral community. The present study investigated the variation of viral communities, as well as their interactions with microbial hosts under Tl stress. Tl in sediments significantly altered the composition and diversity of the viral communities, but showed no significant links with the prokaryotic communities, which may reveal a potential discrepancy in the sensitivity of the viral and prokaryotic communities to heavy metal stress. Auxiliary metabolic genes (AMGs) involved in denitrification, methane oxidation and organic sulfur transformation were enriched at T1-contaminated sites, while the abundance of AMGs related to methanogenesis and sulfate reduction were higher at pristine sites. Specially, the enrichment of AMGs involved in assimilatory sulfate reduction in Tl-contaminated sites could possibly reduce Tl bioavailability by enhancing the microbially-driven sulfur cycling to generate sulfides that could be complexed with Tl. Moreover, there was a significantly positive correlation between virus-carrying metal resistant genes and the sedimentary Tl concentration, implying that Tl contamination might enhance the metal resistant potential of the viruses. Serving as the functional gene reservoir, the response of viral AMGs to Tl stress could represent a potential pathway for microorganisms to be adapted to the metal-polluted environments. Our study provided novel insights into the impact of Tl spill on viral communities, shedding light on functional characteristics and the links of virus-host interaction with Tl level.",
+      "url": "https://www.semanticscholar.org/paper/ce11535f98e64d2812305c1ab29205a0216736d3",
+      "pdf_url": "",
+      "citation_count": 4,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4399510277",
       "source": "OpenAlex",
       "pmid": "",
@@ -1474,6 +2264,101 @@
         "sulfur",
         "virus",
         "water"
+      ]
+    },
+    {
+      "id": "d51db4d6e84ef7d35f38ce55bddf16927232119c",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1101/2024.04.28.591573",
+      "title": "Diversity and ecological potentials of viral assemblages from the seamount sediments of the Northwest Pacific Ocean",
+      "authors": [
+        "Ying Chen",
+        "Chengling Gao",
+        "Qian Liu",
+        "Yantao Liang",
+        "Mingyan Lai",
+        "Fuyue Ge",
+        "Hao Yu",
+        "Hongbing Shao",
+        "Andrew Mcminn",
+        "Min Wang"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2024-04-30",
+      "abstract": "Viruses are the most abundant life forms in the sea, influencing the community structure and metabolism of host cells as well as biogeochemical cycles. However, the diversity and ecological roles of viruses within seamount ecosystems, natural microbiota havens characterized by high biodiversity, remain unknown. Here, the first seamount viral genome (SMVG) dataset, based on a metagenomic analysis of twelve seamount sediment samples collected from the seamount regions of the Northwest Pacific Ocean, is established. A total of 78,069 viral operational taxonomic units (vOTUs) were found, spanning 18 viral classes and 63 viral families. The detection of sixteen viral auxiliary metabolic genes (vAMGs) suggests that viruses may participate in both the complex metabolic dynamics associated with sediment microbial communities and also biogeochemical cycles, including carbon, sulfur, metal, heme, and cobalamin cycling. vAMGs involved in the metabolism of heme, cobalamin and metals, in particular, are more often detected in seamount sediments than in trenches, cool seeps, and hydrothermal vents. This investigation of the viral communities in these seamount sediments provides new insights into the high diversity and ecological potential of the viruses and establishes a foundation for the future study of benthic viruses from deep-sea seamounts.",
+      "url": "https://www.semanticscholar.org/paper/d51db4d6e84ef7d35f38ce55bddf16927232119c",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/30/2024.04.28.591573.full.pdf",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
+        "virus"
+      ]
+    },
+    {
+      "id": "f56f00109230a38d4f005b098e3bf6f7cdabb836",
+      "source": "Semantic Scholar",
+      "pmid": "38565528",
+      "doi": "10.1038/s41467-024-47214-7",
+      "title": "Hidden diversity and potential ecological function of phosphorus acquisition genes in widespread terrestrial bacteriophages",
+      "authors": [
+        "Jie-Liang Liang",
+        "Shi-wei Feng",
+        "Jing-li Lu",
+        "Xiao-nan Wang",
+        "Fenglin Li",
+        "Yu-qian Guo",
+        "Shen-Yan Liu",
+        "Yuan-yue Zhuang",
+        "Sheng-ji Zhong",
+        "Jin Zheng",
+        "Ping Wen",
+        "Xinzhu Yi",
+        "Pu Jia",
+        "B. Liao",
+        "Wen-sheng Shu",
+        "Jin‐tian Li"
+      ],
+      "journal": "Nature Communications",
+      "publication_date": "2024-04-02",
+      "abstract": "Phosphorus (P) limitation of ecosystem processes is widespread in terrestrial habitats. While a few auxiliary metabolic genes (AMGs) in bacteriophages from aquatic habitats are reported to have the potential to enhance P-acquisition ability of their hosts, little is known about the diversity and potential ecological function of P-acquisition genes encoded by terrestrial bacteriophages. Here, we analyze 333 soil metagenomes from five terrestrial habitat types across China and identify 75 viral operational taxonomic units (vOTUs) that encode 105 P-acquisition AMGs. These AMGs span 17 distinct functional genes involved in four primary processes of microbial P-acquisition. Among them, over 60% (11/17) have not been reported previously. We experimentally verify in-vitro enzymatic activities of two pyrophosphatases and one alkaline phosphatase encoded by P-acquisition vOTUs. Thirty-six percent of the 75 P-acquisition vOTUs are detectable in a published global topsoil metagenome dataset. Further analyses reveal that, under certain circumstances, the identified P-acquisition AMGs have a greater influence on soil P availability and are more dominant in soil metatranscriptomes than their corresponding bacterial genes. Overall, our results reinforce the necessity of incorporating viral contributions into biogeochemical P cycling. Soil viruses could have a disproportionate role in ecosystem functioning. Here, the authors combine multiple data and approaches to explore diversity and distribution of P-acquisition genes encoded by soil bacteriophages, suggesting the importance of viral auxiliary metabolism for nutrient cycling.",
+      "url": "https://www.semanticscholar.org/paper/f56f00109230a38d4f005b098e3bf6f7cdabb836",
+      "pdf_url": "https://www.nature.com/articles/s41467-024-47214-7.pdf",
+      "citation_count": 49,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "phosphorus",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "ea48f8a66a6c23e156c547da10e1b73b5d8d2b91",
+      "source": "Semantic Scholar",
+      "pmid": "38575138",
+      "doi": "10.1111/1758-2229.13246",
+      "title": "Genome‐resolved metagenomics identifies novel active microbes in biogeochemical cycling within methanol‐enriched soil",
+      "authors": [
+        "M. Macey"
+      ],
+      "journal": "Environmental Microbiology Reports",
+      "publication_date": "2024-04-01",
+      "abstract": "Abstract Metagenome assembled genomes (MAGs), generated from sequenced 13C‐labelled DNA from 13C‐methanol enriched soils, were binned using an ensemble approach. This method produced a significantly larger number of higher‐quality MAGs compared to direct binning approaches. These MAGs represent both the primary methanol utilizers and the secondary utilizers labelled via cross‐feeding and predation on the labelled methylotrophs, including numerous uncultivated taxa. Analysis of these MAGs enabled the identification of multiple metabolic pathways within these active taxa that have climatic relevance relating to nitrogen, sulfur and trace gas metabolism. This includes denitrification, dissimilatory nitrate reduction to ammonium, ammonia oxidation and metabolism of organic sulfur species. The binning of viral sequence data also yielded extensive viral MAGs, identifying active viral replication by both lytic and lysogenic phages within the methanol‐enriched soils. These MAGs represent a valuable resource for characterizing biogeochemical cycling within terrestrial environments.",
+      "url": "https://www.semanticscholar.org/paper/ea48f8a66a6c23e156c547da10e1b73b5d8d2b91",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1758-2229.13246",
+      "citation_count": 6,
+      "tags": [
+        "biogeochemistry",
+        "nitrogen",
+        "soil",
+        "sulfur",
+        "virus"
       ]
     },
     {
@@ -1507,34 +2392,130 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4391347863",
-      "source": "OpenAlex",
-      "pmid": "",
+      "id": "524581bdee1f95e96cad2a07e6f91a1c674ce0d9",
+      "source": "Semantic Scholar",
+      "pmid": "38291480",
       "doi": "10.1186/s40793-024-00549-6",
       "title": "Exploring virus-host-environment interactions in a chemotrophic-based underground estuary",
       "authors": [
         "Timothy M. Ghaly",
-        "Amaranta Focardi",
+        "A. Focardi",
         "Liam D. H. Elbourne",
-        "Brodie Sutcliffe",
-        "William F. Humphreys",
+        "B. Sutcliffe",
+        "W. F. Humphreys",
         "Paul R. Jaschke",
-        "Sasha G. Tetu",
+        "S. Tetu",
         "Ian T. Paulsen"
       ],
       "journal": "Environmental Microbiome",
       "publication_date": "2024-01-30",
-      "abstract": "BACKGROUND: Viruses play important roles in modulating microbial communities and influencing global biogeochemistry. There is now growing interest in characterising their ecological roles across diverse biomes. However, little is known about viral ecology in low-nutrient, chemotrophic-based environments. In such ecosystems, virus-driven manipulation of nutrient cycles might have profound impacts across trophic levels. In particular, anchialine environments, which are low-energy underground estuaries sustained by chemotrophic processes, represent ideal model systems to study novel virus-host-environment interactions. RESULTS: Here, we employ metagenomic sequencing to investigate the viral community in Bundera Sinkhole, an anchialine ecosystem rich in endemic species supported by microbial chemosynthesis. We find that the viruses are highly novel, with less than 2% representing described viruses, and are hugely abundant, making up as much as 12% of microbial intracellular DNA. These highly abundant viruses largely infect important prokaryotic taxa that drive key metabolic processes in the sinkhole. Further, the abundance of viral auxiliary metabolic genes (AMGs) involved in nucleotide and protein synthesis was strongly correlated with declines in environmental phosphate and sulphate concentrations. These AMGs encoded key enzymes needed to produce sulphur-containing amino acids, and phosphorus metabolic enzymes involved in purine and pyrimidine nucleotide synthesis. We hypothesise that this correlation is either due to selection of these AMGs under low phosphate and sulphate concentrations, highlighting the dynamic interactions between viruses, their hosts, and the environment; or, that these AMGs are driving increased viral nucleotide and protein synthesis via manipulation of host phosphorus and sulphur metabolism, consequently driving nutrient depletion in the surrounding water. CONCLUSION: This study represents the first metagenomic investigation of viruses in anchialine ecosystems, and provides new hypotheses and insights into virus-host-environment interactions in such 'dark', low-energy environments. This is particularly important since anchialine ecosystems are characterised by diverse endemic species, both in their microbial and faunal assemblages, which are primarily supported by microbial chemosynthesis. Thus, virus-host-environment interactions could have profound effects cascading through all trophic levels.",
-      "url": "https://doi.org/10.1186/s40793-024-00549-6",
-      "pdf_url": "",
-      "citation_count": 13,
+      "abstract": "Viruses play important roles in modulating microbial communities and influencing global biogeochemistry. There is now growing interest in characterising their ecological roles across diverse biomes. However, little is known about viral ecology in low-nutrient, chemotrophic-based environments. In such ecosystems, virus-driven manipulation of nutrient cycles might have profound impacts across trophic levels. In particular, anchialine environments, which are low-energy underground estuaries sustained by chemotrophic processes, represent ideal model systems to study novel virus-host-environment interactions. Here, we employ metagenomic sequencing to investigate the viral community in Bundera Sinkhole, an anchialine ecosystem rich in endemic species supported by microbial chemosynthesis. We find that the viruses are highly novel, with less than 2% representing described viruses, and are hugely abundant, making up as much as 12% of microbial intracellular DNA. These highly abundant viruses largely infect important prokaryotic taxa that drive key metabolic processes in the sinkhole. Further, the abundance of viral auxiliary metabolic genes (AMGs) involved in nucleotide and protein synthesis was strongly correlated with declines in environmental phosphate and sulphate concentrations. These AMGs encoded key enzymes needed to produce sulphur-containing amino acids, and phosphorus metabolic enzymes involved in purine and pyrimidine nucleotide synthesis. We hypothesise that this correlation is either due to selection of these AMGs under low phosphate and sulphate concentrations, highlighting the dynamic interactions between viruses, their hosts, and the environment; or, that these AMGs are driving increased viral nucleotide and protein synthesis via manipulation of host phosphorus and sulphur metabolism, consequently driving nutrient depletion in the surrounding water. This study represents the first metagenomic investigation of viruses in anchialine ecosystems, and provides new hypotheses and insights into virus-host-environment interactions in such ‘dark’, low-energy environments. This is particularly important since anchialine ecosystems are characterised by diverse endemic species, both in their microbial and faunal assemblages, which are primarily supported by microbial chemosynthesis. Thus, virus-host-environment interactions could have profound effects cascading through all trophic levels.",
+      "url": "https://www.semanticscholar.org/paper/524581bdee1f95e96cad2a07e6f91a1c674ce0d9",
+      "pdf_url": "https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-024-00549-6",
+      "citation_count": 12,
       "tags": [
         "amg",
         "biogeochemistry",
-        "nitrogen",
         "phosphorus",
         "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "eb01f93405fbc2384769b7bd11b091a4eb7d9940",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.59717/j.xinn-life.2024.100081",
+      "title": "Depth-related microbial communities and functional genes in alpine permafrost",
+      "authors": [
+        "Shengyun Chen",
+        "Jingyang Xu",
+        "Jiabao Cao",
+        "Ali Bahadur",
+        "Minghui Wu",
+        "Zhouwei Wang",
+        "Jianwei Chen",
+        "Jun Wang",
+        "Yi Shi"
+      ],
+      "journal": "The Innovation Life",
+      "publication_date": "2024-01-01",
+      "abstract": "Permafrost microorganisms have received increased attention due to their critical role in biogeochemical cycles and the potential biosafety risks associated with climate warming. However, knowledge regarding the depth-related community structure and function of permafrost microorganisms remains limited. In this study, we employed metagenomic methods to investigate microbial communities, functional genes, and their controlling factors in alpine permafrost of the Shule River headwaters on the northeastern margin of the Qinghai-Tibet Plateau. A total of 287 metagenome-assembled genomes were constructed, representing 20 bacterial phyla and 1 archaeal phylum. Additionally, we identified 2079 viral contigs spanning more than 14 viral families, with approximately 67% constituting previously unknown taxa, forming a unique virome in alpine permafrost compared to other regions. Significant variations in bacterial and viral compositions, along with their metabolic potentials, were observed across vertical profiles from the active layer to the permafrost table layer. Viral diversity showed an initial increase followed by a decrease, reaching the maximum at the depth of 90-140 cm. We identified abundant genomic capabilities related to carbon, nitrogen, and sulfur cycling. Moreover, our analysis revealed 60 auxiliary metabolic genes in viruses and 7,000 putative biosynthetic gene clusters for secondary metabolites from 21 prokaryotic phyla. Soil temperature emerged as the most significant environmental variable influencing the composition of microbial communities and functional genes, as well as the diversity of microbial communities. These results offer valuable insights into the potential functional transformations and biosafety risks mediated by permafrost microorganisms under future warming.\n",
+      "url": "https://www.semanticscholar.org/paper/eb01f93405fbc2384769b7bd11b091a4eb7d9940",
+      "pdf_url": "",
+      "citation_count": 12,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "9535eea6d7dd1c8678121e36cd0bf4d485b1404a",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.59717/j.xinn-geo.2024.100088",
+      "title": "Diversity and ecological potentials of viral assemblages from the seamount sediments of the Northwest Pacific Ocean",
+      "authors": [
+        "Ying Chen",
+        "Chengling Gao",
+        "Qian Liu",
+        "Yantao Liang",
+        "Mingyan Lai",
+        "Fuyue Ge",
+        "Kaiyang Zheng",
+        "Hao Yu",
+        "Hongbing Shao",
+        "Andrew Mcminn",
+        "Min Wang"
+      ],
+      "journal": "The Innovation Geoscience",
+      "publication_date": "2024-01-01",
+      "abstract": "Viruses are the most abundant life forms in the sea, influencing the community structure and metabolism of host cells and biogeochemical cycles. However, the diversity of viruses and their ecological roles within seamount sediments ecosystems, natural microbiota havens characterized by high biodiversity, remain largely unknown. Here, the seamount viral genome (SMVG) dataset, based on a metagenomic analysis of twelve seamount sediment samples collected from the seamount regions of the Northwest Pacific Ocean, was established. A total of 78,069 viral operational taxonomic units (vOTUs) were found, spanning 18 viral classes and 63 viral families. The detection of sixteen viral auxiliary metabolic genes (AMGs) suggests that viruses may participate in the metabolic processes associated with sediment microbial communities and biogeochemical cycles, including carbon, sulfur, metal, heme, and cobalamin cycling. AMGs involved in the metabolism of heme, cobalamin, and metals were more often detected in seamount sediments than in trenches, cool seeps, and hydrothermal vents. This investigation of the viral communities in these seamount sediments provides new insights into the high diversity and ecological potential of the viruses and establishes a foundation for the future study of benthic viruses from deep-sea seamounts.\n",
+      "url": "https://www.semanticscholar.org/paper/9535eea6d7dd1c8678121e36cd0bf4d485b1404a",
+      "pdf_url": "https://doi.org/10.1101/2024.04.28.591573",
+      "citation_count": 0,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
         "virus"
+      ]
+    },
+    {
+      "id": "13fd1521fd3269aa0b4627f07f8a741fced7900d",
+      "source": "Semantic Scholar",
+      "pmid": "38452204",
+      "doi": "10.1093/ismejo/wrae035",
+      "title": "High niche specificity and host genetic diversity of groundwater viruses",
+      "authors": [
+        "Emilie Gios",
+        "Olivia E. Mosley",
+        "M. Hoggard",
+        "Kim M. Handley"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2024-01-01",
+      "abstract": "Abstract Viruses are key members of microbial communities that exert control over host abundance and metabolism, thereby influencing ecosystem processes and biogeochemical cycles. Aquifers are known to host taxonomically diverse microbial life, yet little is known about viruses infecting groundwater microbial communities. Here, we analysed 16 metagenomes from a broad range of groundwater physicochemistries. We recovered 1571 viral genomes that clustered into 468 high-quality viral operational taxonomic units. At least 15% were observed to be transcriptionally active, although lysis was likely constrained by the resource-limited groundwater environment. Most were unclassified (95%), and the remaining 5% were Caudoviricetes. Comparisons with viruses inhabiting other aquifers revealed no shared species, indicating substantial unexplored viral diversity. In silico predictions linked 22.4% of the viruses to microbial host populations, including to ultra-small prokaryotes, such as Patescibacteria and Nanoarchaeota. Many predicted hosts were associated with the biogeochemical cycling of carbon, nitrogen, and sulfur. Metabolic predictions revealed the presence of 205 putative auxiliary metabolic genes, involved in diverse processes associated with the utilization of the host’s intracellular resources for biosynthesis and transformation reactions, including those involved in nucleotide sugar, glycan, cofactor, and vitamin metabolism. Viruses, prokaryotes overall, and predicted prokaryotic hosts exhibited narrow spatial distributions, and relative abundance correlations with the same groundwater parameters (e.g. dissolved oxygen, nitrate, and iron), consistent with host control over viral distributions. Results provide insights into underexplored groundwater viruses, and indicate the large extent to which viruses may manipulate microbial communities and biogeochemistry in the terrestrial subsurface.",
+      "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
+      "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
+      "citation_count": 20,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sulfur",
+        "virus",
+        "water"
       ]
     },
     {
@@ -1558,34 +2539,6 @@
         "carbon",
         "sediment",
         "soil",
-        "sulfur",
-        "virus",
-        "water"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4392613214",
-      "source": "OpenAlex",
-      "pmid": "",
-      "doi": "10.1093/ismejo/wrae035",
-      "title": "High niche specificity and host genetic diversity of groundwater viruses",
-      "authors": [
-        "Emilie Gios",
-        "Olivia E. Mosley",
-        "Michael Hoggard",
-        "Kim M. Handley"
-      ],
-      "journal": "The ISME Journal",
-      "publication_date": "2024-01-01",
-      "abstract": "Viruses are key members of microbial communities that exert control over host abundance and metabolism, thereby influencing ecosystem processes and biogeochemical cycles. Aquifers are known to host taxonomically diverse microbial life, yet little is known about viruses infecting groundwater microbial communities. Here, we analysed 16 metagenomes from a broad range of groundwater physicochemistries. We recovered 1571 viral genomes that clustered into 468 high-quality viral operational taxonomic units. At least 15% were observed to be transcriptionally active, although lysis was likely constrained by the resource-limited groundwater environment. Most were unclassified (95%), and the remaining 5% were Caudoviricetes. Comparisons with viruses inhabiting other aquifers revealed no shared species, indicating substantial unexplored viral diversity. In silico predictions linked 22.4% of the viruses to microbial host populations, including to ultra-small prokaryotes, such as Patescibacteria and Nanoarchaeota. Many predicted hosts were associated with the biogeochemical cycling of carbon, nitrogen, and sulfur. Metabolic predictions revealed the presence of 205 putative auxiliary metabolic genes, involved in diverse processes associated with the utilization of the host's intracellular resources for biosynthesis and transformation reactions, including those involved in nucleotide sugar, glycan, cofactor, and vitamin metabolism. Viruses, prokaryotes overall, and predicted prokaryotic hosts exhibited narrow spatial distributions, and relative abundance correlations with the same groundwater parameters (e.g. dissolved oxygen, nitrate, and iron), consistent with host control over viral distributions. Results provide insights into underexplored groundwater viruses, and indicate the large extent to which viruses may manipulate microbial communities and biogeochemistry in the terrestrial subsurface.",
-      "url": "https://doi.org/10.1093/ismejo/wrae035",
-      "pdf_url": "",
-      "citation_count": 23,
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
         "sulfur",
         "virus",
         "water"
@@ -1719,34 +2672,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4385701469",
-      "source": "OpenAlex",
-      "pmid": "",
+      "id": "af52e709da6d7e847be79d6ddb47b8974227689c",
+      "source": "Semantic Scholar",
+      "pmid": "41853387",
       "doi": "10.3389/frmbi.2023.1199766",
       "title": "Spatial and temporal metagenomics of river compartments reveals viral community dynamics in an urban impacted stream",
       "authors": [
-        "Josué Rodríguez-Ramos",
-        "Angela Oliverio",
-        "Mikayla Borton",
+        "J. Rodríguez-Ramos",
+        "Angela M. Oliverio",
+        "M. Borton",
         "Robert Danczak",
-        "Birgit M. Mueller",
-        "H. D. Schulz",
-        "Jared Ellenbogen",
+        "B. Mueller",
+        "H. Schulz",
+        "Jared B. Ellenbogen",
         "Rory M. Flynn",
-        "Rebecca A. Daly",
+        "R. Daly",
         "LeAundra Schopflin",
         "Michael Shaffer",
-        "Amy Goldman",
-        "Jörg Lewandowski",
-        "James Stegen",
-        "Kelly Wrighton"
+        "A. Goldman",
+        "Joerg Lewandowski",
+        "James C. Stegen",
+        "Kelly C. Wrighton"
       ],
-      "journal": "Frontiers in Microbiomes",
+      "journal": "Frontiers in microbiomes",
       "publication_date": "2023-08-09",
-      "abstract": "Although river ecosystems constitute a small fraction of Earth’s total area, they are critical modulators of microbially and virally orchestrated global biogeochemical cycles. However, most studies either use data that is not spatially resolved or is collected at timepoints that do not reflect the short life cycles of microorganisms. To address this gap, we assessed how viral and microbial communities change over a 48-hour period by sampling surface water and pore water compartments of the wastewater-impacted River Erpe in Germany. We sampled every 3 hours resulting in 32 samples for which we obtained metagenomes along with geochemical and metabolite measurements. From our metagenomes, we identified 6,500 viral and 1,033 microbial metagenome assembled genomes (MAGs) and found distinct community membership and abundance associated with each river compartment (e.g., Competibacteraceae in surfacewater and Sulfurimonadaceae in pore water). We show that 17% of our viral MAGs clustered to viruses from other ecosystems like wastewater treatment plants and rivers. Our results also indicated that 70% of the viral community was persistent in surface waters, whereas only 13% were persistent in the pore waters taken from the hyporheic zone. Finally, we predicted linkages between 73 viral genomes and 38 microbial genomes. These putatively linked hosts included members of the Competibacteraceae , which we suggest are potential contributors to river carbon and nitrogen cycling via denitrification and nitrogen fixation. Together, these findings demonstrate that members of the surface water microbiome from this urban river are stable over multiple diurnal cycles. These temporal insights raise important considerations for ecosystem models attempting to constrain dynamics of river biogeochemical cycles.",
-      "url": "https://doi.org/10.3389/frmbi.2023.1199766",
-      "pdf_url": "",
-      "citation_count": 3,
+      "abstract": "Although river ecosystems constitute a small fraction of Earth’s total area, they are critical modulators of microbially and virally orchestrated global biogeochemical cycles. However, most studies either use data that is not spatially resolved or is collected at timepoints that do not reflect the short life cycles of microorganisms. To address this gap, we assessed how viral and microbial communities change over a 48-hour period by sampling surface water and pore water compartments of the wastewater-impacted River Erpe in Germany. We sampled every 3 hours resulting in 32 samples for which we obtained metagenomes along with geochemical and metabolite measurements. From our metagenomes, we identified 6,500 viral and 1,033 microbial metagenome assembled genomes (MAGs) and found distinct community membership and abundance associated with each river compartment (e.g., Competibacteraceae in surfacewater and Sulfurimonadaceae in pore water). We show that 17% of our viral MAGs clustered to viruses from other ecosystems like wastewater treatment plants and rivers. Our results also indicated that 70% of the viral community was persistent in surface waters, whereas only 13% were persistent in the pore waters taken from the hyporheic zone. Finally, we predicted linkages between 73 viral genomes and 38 microbial genomes. These putatively linked hosts included members of the Competibacteraceae, which we suggest are potential contributors to river carbon and nitrogen cycling via denitrification and nitrogen fixation. Together, these findings demonstrate that members of the surface water microbiome from this urban river are stable over multiple diurnal cycles. These temporal insights raise important considerations for ecosystem models attempting to constrain dynamics of river biogeochemical cycles.",
+      "url": "https://www.semanticscholar.org/paper/af52e709da6d7e847be79d6ddb47b8974227689c",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/frmbi.2023.1199766/pdf",
+      "citation_count": 0,
       "tags": [
         "biogeochemistry",
         "carbon",
@@ -1786,6 +2739,34 @@
       ]
     },
     {
+      "id": "d516f444b607681afb7e2c571c4246e081396963",
+      "source": "Semantic Scholar",
+      "pmid": "37356309",
+      "doi": "10.1016/j.envint.2023.108055",
+      "title": "Viral community structure and functional potential vary with lifestyle and altitude in soils of Mt. Everest.",
+      "authors": [
+        "Ying Zhu",
+        "Yi Zhang",
+        "Shuang Yan",
+        "Xiuli Chen",
+        "Shuguang Xie"
+      ],
+      "journal": "Environment International",
+      "publication_date": "2023-06-19",
+      "abstract": "More and more focus has been placed on the processes by which viruses interact with bacteria to influence the biogeochemical cycles. The intricacy of soil matrix and the incompleteness of databases, however, constrains the investigation on the mechanisms of soil viruses exerting ecological functions. The modification of ICTV classification system in 2021 was also a huge shock to the results of the existing studies on virome. We used viral metagenomes combined with soil properties to investigate the viral community composition and auxiliary metabolic genes (AMGs) profiles of various lifestyles in soils of Mount Everest at different altitudes. Viral lifestyles and soil nutrient levels were found to significantly influence the diversity and composition of viral communities. Temperate virus lifestyle dominated in high-altitude soils with lower level of nutrients because of its stronger survival adaptability, and the structural and functional diversity of viral communities was positively correlated with the contents of nutrients (total carbon and total nitrogen). The primary types of AMGs carried by temperate and virulent viruses differed, while a variety of genes involved in carbon metabolism highlighted the potential importance of viruses in the soil carbon cycle of Mount Everest. Moreover, the abundance of AMGs encoding carbohydrate-active enzymes had a significant and positive correlation with soil C/N ratio. Overall, these findings provide a context for further exploration on the regulatory mechanisms of viruses in carbon cycle via interactions with microorganisms.",
+      "url": "https://www.semanticscholar.org/paper/d516f444b607681afb7e2c571c4246e081396963",
+      "pdf_url": "https://doi.org/10.1016/j.envint.2023.108055",
+      "citation_count": 26,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4380625310",
       "source": "OpenAlex",
       "pmid": "",
@@ -1820,6 +2801,29 @@
         "soil",
         "virus",
         "water"
+      ]
+    },
+    {
+      "id": "1e51a103be6b1ad33c76d8734292d753bfc21e73",
+      "source": "Semantic Scholar",
+      "pmid": "37139849",
+      "doi": "10.1111/1462-2920.16395",
+      "title": "Metagenomic stable isotope probing reveals bacteriophage participation in soil carbon cycling.",
+      "authors": [
+        "S. Barnett",
+        "D. Buckley"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2023-05-04",
+      "abstract": "Soil viruses are important components of the carbon (C) cycle, yet we still know little about viral ecology in soils. We added diverse 13 C-labelled carbon sources to soil and we used metagenomic-SIP to detect 13 C assimilation by viruses and their putative bacterial hosts. These data allowed us to link a 13 C-labelled bacteriophage to its 13 C-labelled Streptomyces putative host, and we used qPCR to track the dynamics of the putative host and phage in response to C inputs. Following C addition, putative host numbers increased rapidly for 3 days, and then more gradually, reaching maximal abundance on Day 6. Viral abundance and virus:host ratio increased dramatically over 6 days, and remained high thereafter (8.42 ± 2.94). From Days 6 to 30, virus:host ratio remained high, while putative host numbers declined more than 50%. Putative host populations were 13 C-labelled on Days 3-30, while 13 C-labelling of phage was detected on Days 14 and 30. This dynamic suggests rapid growth and 13 C-labelling of the host fueled by new C inputs, followed by extensive host mortality driven by phage lysis. These findings indicate that the viral shunt promotes microbial turnover in soil following new C inputs, thereby altering microbial community dynamics, and facilitating soil organic matter production.",
+      "url": "https://www.semanticscholar.org/paper/1e51a103be6b1ad33c76d8734292d753bfc21e73",
+      "pdf_url": "",
+      "citation_count": 23,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "soil",
+        "virus"
       ]
     },
     {
@@ -1954,6 +2958,62 @@
       ]
     },
     {
+      "id": "5829f2ccebe5893cabaa20d37f9cb9b0e02e9ef9",
+      "source": "Semantic Scholar",
+      "pmid": "36609927",
+      "doi": "10.1007/s00705-022-05637-x",
+      "title": "Isolation, characterization, and comparative genomic analysis of vB_BviS-A10Y, a novel bacteriophage from mangrove sediments",
+      "authors": [
+        "Tian-you Zhang",
+        "Menghui Zhang",
+        "Yuan Chen",
+        "Meishun Yu",
+        "R. Zeng",
+        "Min Jin"
+      ],
+      "journal": "Archives of Virology",
+      "publication_date": "2023-01-07",
+      "abstract": "Mangrove is among the most carbon-rich biomes on earth, and viruses are believed to play a significant role in modulating local and global carbon cycling. However, few viruses have been isolated from mangrove sediments to date. Here, we report the isolation of a novel Bacillus phage (named phage vB_BviS-A10Y) from mangrove sediments. Phage vB_BviS-A10Y has a hexameric head with a diameter of ~ 79.22 nm and a tail with a length of ~ 548.56 nm, which are typical features of siphophages. vB_BviS-A10Y initiated host lysis at 3.5 h postinfection with a burst size of 25 plaque-forming units (PFU)/cell. The genome of phage vB_BviS-A10Y is 162,435 bp long with 225 predicted genes, and the GC content is 34.03%. A comparison of the whole genome sequence of phage vB_BviS-A10Y with those of other phages from the NCBI viral genome database showed that phage vB_BviS-A10Y has the highest similarity (73.7% identity with 33% coverage) to Bacillus phage PBC2. Interestingly, abundant auxiliary metabolic genes (AMGs) were identified in the vB_BviS-A10Y genome. The presence of a β-1,3-glucosyltransferase gene in the phage genome supported our previous hypothesis that mangrove viruses may manipulate carbon cycling directly through their encoded carbohydrate-active enzyme (CAZyme) genes. Therefore, our study will contribute to a better understanding of the diversity and potential roles of viruses in mangrove ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/5829f2ccebe5893cabaa20d37f9cb9b0e02e9ef9",
+      "pdf_url": "https://www.researchsquare.com/article/rs-1734870/latest.pdf",
+      "citation_count": 3,
+      "tags": [
+        "amg",
+        "carbon",
+        "sediment",
+        "virus"
+      ]
+    },
+    {
+      "id": "e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
+      "source": "Semantic Scholar",
+      "pmid": "36571495",
+      "doi": "10.1111/1462-2920.16329",
+      "title": "Underexplored viral auxiliary metabolic genes in soil: Diversity and eco-evolutionary significance.",
+      "authors": [
+        "Mingming Sun",
+        "Shujian Yuan",
+        "Rong Xia",
+        "M. Ye",
+        "Jose L. Balcazar"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2022-12-26",
+      "abstract": "Bacterial viruses are the most abundant biological entities in soil ecosystems. Owing to the advent of metagenomics and viromics approaches, an ever-increasing diversity of virus-encoded auxiliary metabolic genes (AMGs) have been identified in soils, including those involved in the transformation of carbon, phosphorus, and sulfur, degradation of organic pollutants, and antibiotic resistance, among other processes. These viral AMGs can alter soil biogeochemical processes and metabolic activities by interfering with bacterial host metabolism. It is recognized that viral AMGs compensate for host bacterial metabolism outputs by encoding accessory functional genes and are favourable for the hosts' adaptation to stressed soil environments. The eco-evolutionary mechanisms behind this fascinating diversity of viral AMGs in soil microbiomes have begun to emerge, such as horizontal gene transfer, lytic-lysogenic conversion, and single-nucleotide polymorphisms. In this mini-review, we summarize recent advances in the diversity and function of virus-encoded AMGs in the soil environment, especially focusing on the evolutionary significance of AMGs involved in virus-host interactions. This mini-review also sheds light on the existing gaps and future perspectives that could have major significance for viral AMGs research in soils.",
+      "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
+      "citation_count": 50,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "phosphorus",
+        "soil",
+        "sulfur",
+        "virus"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4293826068",
       "source": "OpenAlex",
       "pmid": "",
@@ -2045,27 +3105,58 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4224317300",
-      "source": "OpenAlex",
-      "pmid": "",
+      "id": "d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
+      "source": "Semantic Scholar",
+      "pmid": "35547115",
       "doi": "10.3389/fmicb.2022.834581",
       "title": "A Synthesis of Viral Contribution to Marine Nitrogen Cycling",
       "authors": [
         "Shuai Wang",
-        "Yang Yu",
+        "Yu Yang",
         "Jiaojiao Jing"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2022-04-25",
       "abstract": "Nitrogen is an essential component of major cellular macromolecules, such as DNA and proteins. Its bioavailability has a fundamental influence on the primary production of both terrestrial and oceanic ecosystems. Diverse marine microbes consume nitrogen, while only a limited taxon could replenish it, leaving nitrogen one of the most deficient nutrients in the ocean. A variety of microbes are involved in complex biogeochemical transformations of nitrogen compounds, and their ecological functions might be regulated by viruses in different manners. First and foremost, viruses drive marine nitrogen flow via host cell lysis, releasing abundant organic nitrogen into the surrounding environment. Secondly, viruses can also participate in the marine nitrogen cycle by expressing auxiliary metabolic genes (AMGs) to modulate host nitrogen metabolic pathways, such as nitrification, denitrification, anammox, and nitrogen transmembrane transport. Additionally, viruses also serve as a considerable reservoir of nitrogen element. The efficient turnover of viruses fundamentally promotes nitrogen flow in the oceans. In this review, we summarize viral contributions in the marine nitrogen cycling in different aspects and discuss challenges and issues based on recent discoveries of novel viruses involved in different processes of nitrogen biotransformation.",
-      "url": "https://doi.org/10.3389/fmicb.2022.834581",
-      "pdf_url": "",
-      "citation_count": 32,
+      "url": "https://www.semanticscholar.org/paper/d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.834581/pdf",
+      "citation_count": 22,
       "tags": [
         "amg",
         "biogeochemistry",
         "nitrogen",
-        "sediment",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "d11c339b8f739a6968cc66479e86faadc633f0aa",
+      "source": "Semantic Scholar",
+      "pmid": "35632629",
+      "doi": "10.3390/v14050887",
+      "title": "Isolation and Characterization of a Novel Cyanophage Encoding Multiple Auxiliary Metabolic Genes",
+      "authors": [
+        "Cu-Huang Rong",
+        "Kun Zhou",
+        "Shuiming Li",
+        "K. Xiao",
+        "Yingshen Xu",
+        "Rui Zhang",
+        "Yunlan Yang",
+        "Yu Zhang"
+      ],
+      "journal": "Viruses",
+      "publication_date": "2022-04-24",
+      "abstract": "As significant drivers of cyanobacteria mortality, cyanophages have been known to regulate the population dynamics, metabolic activities, and community structure of this most important marine autotrophic picoplankton and, therefore, influence the global primary production and biogeochemical cycle in aquatic ecosystems. In the present study, a lytic Synechococcus phage, namely S-SZBM1, was isolated and identified. Cyanophage S-SZBM1 has a double-stranded DNA genome of 177,834 bp with a G+C content of 43.31% and contains a total of 218 predicted ORFs and six tRNA genes. Phylogenetic analysis and nucleotide-based intergenomic similarity suggested that cyanophage S-SZBM1 belongs to a new genus under the family Kyanoviridae. A variety of auxiliary metabolic genes (AMGs) that have been proved or speculated to relate to photosynthesis, carbon metabolism, nucleotide synthesis and metabolism, cell protection, and other cell metabolism were identified in cyanophage S-SZBM1 genome and may affect host processes during infection. In addition, 24 of 32 predicted structural proteins were identified by a high-throughput proteome analysis which were potentially involved in the assembly processes of virion. The genomic and proteomic analysis features of cyanophage S-SZBM1 offer a valuable insight into the interactions between cyanophages and their hosts during infection.",
+      "url": "https://www.semanticscholar.org/paper/d11c339b8f739a6968cc66479e86faadc633f0aa",
+      "pdf_url": "https://www.mdpi.com/1999-4915/14/5/887/pdf?version=1652189314",
+      "citation_count": 24,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "soil",
         "virus",
         "water"
       ]
@@ -2109,6 +3200,99 @@
       ]
     },
     {
+      "id": "e89d0a745860afaa5014179250e34c8ce8ceb450",
+      "source": "Semantic Scholar",
+      "pmid": "35227678",
+      "doi": "10.1016/j.envres.2022.112901",
+      "title": "Viral diversity and biogeochemical potential revealed in different prawn-culture sediments by virus-enriched metagenome analysis.",
+      "authors": [
+        "Yunmeng Chu",
+        "Zelong Zhao",
+        "Lixi Cai",
+        "Guangya Zhang"
+      ],
+      "journal": "Environmental Research",
+      "publication_date": "2022-02-25",
+      "abstract": "As the most numerous biological entities on Earth, viruses affect the microbial dynamics, metabolism and biogeochemical cycles in the aquatic ecosystems. Viral diversity and functions in ocean have been relatively well studied, but our understanding of viruses in mariculture systems is limited. To fill this knowledge gap, we studied viral diversity and potential biogeochemical impacts of sediments from four different prawn-mariculture ecosystems (mono-culture of prawn and poly-culture of prawn with jellyfish, sea cucumber, and clam) using a metagenomic approach with prior virus-like particles (VLPs) separation. We found that the order Caudovirales was the predominant viral category and accounted for the most volume (78.39% of classified viruses). Sediment viruses were verified to have a high diversity by using the construct phylogenetic tree of terL gene, with three potential novel clades being identified. Meanwhile, compared with viruses inhabiting other ecosystems based on gene-sharing network, our results revealed that mariculture sediments harbored considerable unexplored viral diversity and that maricultural species were potentially important drivers of the viral community structure. Notably, viral auxiliary metabolic genes were identified and suggested that viruses influence carbon and sulfur cycling, as well as cofactors/vitamins and amino acid metabolism, which indirectly participate in biogeochemical cycling. Overall, our findings revealed the genomic diversity and ecological function of viral communities in prawn mariculture sediments, and suggested the role of viruses in microbial ecology and biogeochemistry.",
+      "url": "https://www.semanticscholar.org/paper/e89d0a745860afaa5014179250e34c8ce8ceb450",
+      "pdf_url": "",
+      "citation_count": 21,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "fd137c563fe0374538fc36678baee48ae0627a7e",
+      "source": "Semantic Scholar",
+      "pmid": "35089086",
+      "doi": "10.1128/msystems.01358-21",
+      "title": "Novel Viral Communities Potentially Assisting in Carbon, Nitrogen, and Sulfur Metabolism in the Upper Slope Sediments of Mariana Trench",
+      "authors": [
+        "Jiulong Zhao",
+        "H. Jing",
+        "Zengmeng Wang",
+        "Long Wang",
+        "Huahua Jian",
+        "Rui Zhang",
+        "Xiang Xiao",
+        "F. Chen",
+        "N. Jiao",
+        "Yongyu Zhang"
+      ],
+      "journal": "mSystems",
+      "publication_date": "2022-01-04",
+      "abstract": "The Mariana Trench harbors a substantial number of infective viral particles. However, very little is known about the identity, survival strategy, and potential functions of viruses in the trench sediments. ABSTRACT Viruses are ubiquitous in the oceans. Even in the deep sediments of the Mariana Trench, viruses have high productivity. However, little is known about their species composition and survival strategies in that environment. Here, we uncovered novel viral communities (3,206 viral scaffolds) in the upper slope sediments of the Mariana Trench via metagenomic analysis of 15 sediment samples. Most (99%) of the viral scaffolds lack known viral homologs, and ca. 59% of the high-quality viral genomes (total of 111 with completeness of >90%) represent novel genera, including some Phycodnaviridae and jumbo phages. These viruses contain various auxiliary metabolic genes (AMGs) potentially involved in organic carbon degradation, inorganic carbon fixation, denitrification, and assimilatory sulfate reduction, etc. This study provides novel insight into the almost unknown benthic viral communities in the Mariana Trench. IMPORTANCE The Mariana Trench harbors a substantial number of infective viral particles. However, very little is known about the identity, survival strategy, and potential functions of viruses in the trench sediments. Here, through metagenomic analysis, unusual benthic viral communities with high diversity and novelty were discovered. Among them, 59% of the viruses with a genome completeness of >90% represent novel genera. Various auxiliary metabolic genes carried by these viruses reflect the potential adaptive characteristics of viruses in this extreme environment and the biogeochemical cycles that they may participate in. This study gives us a deeper understanding of the peculiarities of viral communities in deep-sea/hadal sediments.",
+      "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725595",
+      "citation_count": 47,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sediment",
+        "sulfur",
+        "virus"
+      ]
+    },
+    {
+      "id": "f9a9564fc739944e87d7259b5ba73beda56a7b2a",
+      "source": "Semantic Scholar",
+      "pmid": "34952046",
+      "doi": "10.1016/j.scitotenv.2021.152477",
+      "title": "phoH-carrying virus communities responded to multiple factors and their correlation network with prokaryotes in sediments along Bohai Sea, Yellow Sea, and East China Sea in China.",
+      "authors": [
+        "Long Wang",
+        "Jiulong Zhao",
+        "Zengmeng Wang",
+        "Ning Li",
+        "Jinming Song",
+        "Rui Zhang",
+        "N. Jiao",
+        "Yongyu Zhang"
+      ],
+      "journal": "Science of the Total Environment",
+      "publication_date": "2021-12-01",
+      "abstract": "Viruses carrying phoH genes are an important functional group that may boost phosphate metabolism of their prokaryote hosts and affect phosphorus cycle in the ocean. However, at present, very little is known about the phoH-carrying viruses' community structure and diversity in marine sediments, as well as their correlation network with prokaryotes and environment. Here, via a large spatial scale investigation along the Bohai Sea, Yellow Sea, and East China Sea, for the first time, diverse unknown benthic phoH-carrying viruses were uncovered, which were mainly affiliated to three clusters. Interestingly, these viruses presented a very distinct community structure compared to those in seawaters. Correlation network analysis implied that these viruses might mainly infect the prokaryotes of Gamm-/Delta-proteobacteria, Thaumarchaeota, and Cyanobacteria in sediments. Distinct virus-prokaryote correlation network modules were shown in different sea areas. These modules' highly nested feature implied their coevolution with prokaryotes during long-term arms race. Their distribution in sediments was influenced by multiple factors including geographic separation and the key environmental variables of total organic carbon and total phosphorus, and responded to terrestrial inputs and coastal aquaculture activities. The results of this study provide novel insights into the benthic virus communities potentially participating in phosphorus cycling in the ocean.",
+      "url": "https://www.semanticscholar.org/paper/f9a9564fc739944e87d7259b5ba73beda56a7b2a",
+      "pdf_url": "",
+      "citation_count": 10,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "phosphorus",
+        "sediment",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W3213512948",
       "source": "OpenAlex",
       "pmid": "",
@@ -2134,6 +3318,39 @@
         "nitrogen",
         "sulfur",
         "virus"
+      ]
+    },
+    {
+      "id": "ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.21203/rs.3.rs-1021375/v1",
+      "title": "Virus-Host Interactions Reveal Potential Roles Towards Phosphorus Cycling in South Atlantic Ocean Euphotic Zones",
+      "authors": [
+        "Percy Mutseka Lunga",
+        "Oliver Bezuidt",
+        "Miho Hirai",
+        "Y. Takaki",
+        "T. Yokokawa",
+        "T. Nunoura",
+        "J. Murrell",
+        "T. Makhalanyane"
+      ],
+      "journal": "",
+      "publication_date": "2021-11-01",
+      "abstract": "\n BackgroundDue to their role as obligate parasites of marine microorganisms, viruses are primary mediators of marine biogeochemical cycles. Recent studies have provided irrevocable evidence showing that viruses augment the metabolisms of bacteria and archaea through expression of auxiliary metabolic genes (AMGs). Several studies have shown that AMGs affect the biogeochemical recycling of sulphur and nitrogen but comparatively less is known regarding their influence on phosphorus recycling.ResultsHere, we provide the first insights regarding the potential effects of phosphorus limitation and AMGs on putative prokaryotic hosts in the euphotic zone of the South Atlantic Ocean (SAO). We identified 7,176 viral contigs that were clustered into 5,999 viral operational taxonomic units (vOTUs, >5kb). These SAO viral communities appear to be unique, as over 89% had no taxonomic assignment, possibly due to the genetic endemism in this ocean. Three phosphatases, phoN, gmhB and rnhA-cobC, were identified as P-cycle AMGs in both prokaryotic double-stranded DNA viruses and eukaryotic Nucleocytoplasmic Large DNA viruses. These genes are associated with the acquisition of inorganic phosphate from phosphate esters, the largest reservoir of P-containing compounds in the marine environment. AMGs were identified in both uncultured and unclassified prokaryotic double-stranded DNA viruses predicted to infect Bacteriodetes, Proteobacteria, Chloroflexota and Poseidonales lineages. ConclusionTogether, these results suggest that viruses modulate P-cycling in euphotic zones of the ocean and that the acquisition of these phosphatase genes may be cues of P-ester stress.",
+      "url": "https://www.semanticscholar.org/paper/ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
+      "pdf_url": "https://doi.org/10.21203/rs.3.rs-1021375/v1",
+      "citation_count": 3,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "nitrogen",
+        "phosphorus",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
       ]
     },
     {
@@ -2244,6 +3461,35 @@
       ]
     },
     {
+      "id": "fc08c47fad1fb6f5ab022b3e10c9773b48110623",
+      "source": "Semantic Scholar",
+      "pmid": "34077260",
+      "doi": "10.1128/mSphere.01160-20",
+      "title": "Temporal Changes of Virus-Like Particle Abundance and Metagenomic Comparison of Viral Communities in Cropland and Prairie Soils",
+      "authors": [
+        "Carolyn R. Cornell",
+        "Ya Zhang",
+        "J. V. Van Nostrand",
+        "P. Wagle",
+        "Xiangming Xiao",
+        "Jizhong Zhou"
+      ],
+      "journal": "Msphere",
+      "publication_date": "2021-06-02",
+      "abstract": "Conversion of land alters the physiochemical and biological environments by not only changing the aboveground community, but also modifying the soil environment for viruses and microbes. Soil microbial communities are critical to nutrient cycling, carbon mineralization, and soil quality; and viruses are known for influencing microbial abundance, community structure, and evolution. ABSTRACT During the last several decades, viruses have been increasingly recognized for their abundance, ubiquity, and important roles in different ecosystems. Despite known contributions to aquatic systems, few studies examine viral abundance and community structure over time in terrestrial ecosystems. The effects of land conversion and land management on soil microbes have been previously investigated, but their effects on virus population are not well studied. This study examined annual dynamics of viral abundance in soils from a native tallgrass prairie and two croplands, conventional till winter wheat and no-till canola, in Oklahoma. Virus-like particle (VLP) abundance varied across sites, and showed clear seasonal shifts. VLP abundance significantly correlated with environmental variables that were generally reflective of land use, including air temperature, soil nitrogen, and plant canopy coverage. Structural equation modeling supported the effects of land use on soil communities by emphasizing interactions between management, environmental factors, and viral and bacterial abundance. Between the viral metagenomes from the prairie and tilled wheat field, 1,231 unique viral operational taxonomic units (vOTUs) were identified, and only five were shared that were rare in the contrasting field. Only 13% of the vOTUs had similarity to previously identified viruses in the RefSeq database, with only 7% having known taxonomic classification. Together, our findings indicated land use and tillage practices influence virus abundance and community structure. Analyses of viromes over time and space are vital to viral ecology in providing insight on viral communities and key information on interactions between viruses, their microbial hosts, and the environment. IMPORTANCE Conversion of land alters the physiochemical and biological environments by not only changing the aboveground community, but also modifying the soil environment for viruses and microbes. Soil microbial communities are critical to nutrient cycling, carbon mineralization, and soil quality; and viruses are known for influencing microbial abundance, community structure, and evolution. Therefore, viruses are considered an important part of soil functions in terrestrial ecosystems. In aquatic environments, virus abundance generally exceeds bacterial counts by an order of magnitude, and they are thought to be one of the greatest genetic reservoirs on the planet. However, data are extremely limited on viruses in soils, and even less is known about their responses to the disturbances associated with land use and management. The study provides important insights into the temporal dynamics of viral abundance and the structure of viral communities in response to the common practice of turning native habitats into arable soils.",
+      "url": "https://www.semanticscholar.org/paper/fc08c47fad1fb6f5ab022b3e10c9773b48110623",
+      "pdf_url": "https://doi.org/10.1128/msphere.01160-20",
+      "citation_count": 17,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W3138273830",
       "source": "OpenAlex",
       "pmid": "",
@@ -2295,6 +3541,77 @@
       ]
     },
     {
+      "id": "85bf314f0eda34d28a2f9fcab43d9244f3e49938",
+      "source": "Semantic Scholar",
+      "pmid": "33199808",
+      "doi": "10.1038/s41396-020-00825-6",
+      "title": "Potential virus-mediated nitrogen cycling in oxygen-depleted oceanic waters",
+      "authors": [
+        "M. C. Gazitúa",
+        "D. Vik",
+        "S. Roux",
+        "Ann C. Gregory",
+        "B. Bolduc",
+        "Brittany Widner",
+        "Brittany Widner",
+        "M. Mulholland",
+        "S. Hallam",
+        "O. Ulloa",
+        "M. Sullivan"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2020-11-16",
+      "abstract": "Viruses play an important role in the ecology and biogeochemistry of marine ecosystems. Beyond mortality and gene transfer, viruses can reprogram microbial metabolism during infection by expressing auxiliary metabolic genes (AMGs) involved in photosynthesis, central carbon metabolism, and nutrient cycling. While previous studies have focused on AMG diversity in the sunlit and dark ocean, less is known about the role of viruses in shaping metabolic networks along redox gradients associated with marine oxygen minimum zones (OMZs). Here, we analyzed relatively quantitative viral metagenomic datasets that profiled the oxygen gradient across Eastern Tropical South Pacific (ETSP) OMZ waters, assessing whether OMZ viruses might impact nitrogen (N) cycling via AMGs. Identified viral genomes encoded six N-cycle AMGs associated with denitrification, nitrification, assimilatory nitrate reduction, and nitrite transport. The majority of these AMGs (80%) were identified in T4-like Myoviridae phages, predicted to infect Cyanobacteria and Proteobacteria, or in unclassified archaeal viruses predicted to infect Thaumarchaeota. Four AMGs were exclusive to anoxic waters and had distributions that paralleled homologous microbial genes. Together, these findings suggest viruses modulate N-cycling processes within the ETSP OMZ and may contribute to nitrogen loss throughout the global oceans thus providing a baseline for their inclusion in the ecosystem and geochemical models.",
+      "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
+      "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
+      "citation_count": 114,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "c5c6cca0bc69aa36452523770171b563bb2fb5e5",
+      "source": "Semantic Scholar",
+      "pmid": "33649554",
+      "doi": "10.1038/s41396-021-00932-y",
+      "title": "Deep sea sediments associated with cold seeps are a subsurface reservoir of viral diversity",
+      "authors": [
+        "Zexin Li",
+        "D. Pan",
+        "Guangshan Wei",
+        "Wei-Ling Pi",
+        "Chuwen Zhang",
+        "Jiang-Hai Wang",
+        "Yongyi Peng",
+        "Lu Zhang",
+        "Yong Wang",
+        "C. Hubert",
+        "Xiyang Dong"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2020-09-08",
+      "abstract": "In marine ecosystems, viruses exert control on the composition and metabolism of microbial communities, influencing overall biogeochemical cycling. Deep sea sediments associated with cold seeps are known to host taxonomically diverse microbial communities, but little is known about viruses infecting these microorganisms. Here, we probed metagenomes from seven geographically diverse cold seeps across global oceans to assess viral diversity, virus–host interaction, and virus-encoded auxiliary metabolic genes (AMGs). Gene-sharing network comparisons with viruses inhabiting other ecosystems reveal that cold seep sediments harbour considerable unexplored viral diversity. Most cold seep viruses display high degrees of endemism with seep fluid flux being one of the main drivers of viral community composition. In silico predictions linked 14.2% of the viruses to microbial host populations with many belonging to poorly understood candidate bacterial and archaeal phyla. Lysis was predicted to be a predominant viral lifestyle based on lineage-specific virus/host abundance ratios. Metabolic predictions of prokaryotic host genomes and viral AMGs suggest that viruses influence microbial hydrocarbon biodegradation at cold seeps, as well as other carbon, sulfur and nitrogen cycling via virus-induced mortality and/or metabolic augmentation. Overall, these findings reveal the global diversity and biogeography of cold seep viruses and indicate how viruses may manipulate seep microbial ecology and biogeochemistry.",
+      "url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
+      "pdf_url": "https://www.nature.com/articles/s41396-021-00932-y.pdf",
+      "citation_count": 179,
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
       "id": "https://openalex.org/W3080376571",
       "source": "OpenAlex",
       "pmid": "",
@@ -2319,6 +3636,35 @@
       "tags": [
         "carbon",
         "nitrogen",
+        "virus"
+      ]
+    },
+    {
+      "id": "25bfbef407895647b6f39689f738e42010d133cb",
+      "source": "Semantic Scholar",
+      "pmid": "32203124",
+      "doi": "10.1038/s41396-020-0632-4",
+      "title": "Novel phosphate-solubilizing bacteria enhance soil phosphorus cycling following ecological restoration of land degraded by mining",
+      "authors": [
+        "Jie-Liang Liang",
+        "Jun Liu",
+        "Pu Jia",
+        "Tao-tao Yang",
+        "Qing-wei Zeng",
+        "Sheng-chang Zhang",
+        "B. Liao",
+        "W. Shu",
+        "Jin‐tian Li"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2020-03-23",
+      "abstract": "Little is known about the changes in soil microbial phosphorus (P) cycling potential during terrestrial ecosystem management and restoration, although much research aims to enhance soil P cycling. Here, we used metagenomic sequencing to analyse 18 soil microbial communities at a P-deficient degraded mine site in southern China where ecological restoration was implemented using two soil ameliorants and eight plant species. Our results show that the relative abundances of key genes governing soil microbial P-cycling potential were higher at the restored site than at the unrestored site, indicating enhancement of soil P cycling following restoration. The gcd gene, encoding an enzyme that mediates inorganic P solubilization, was predominant across soil samples and was a major determinant of bioavailable soil P. We reconstructed 39 near-complete bacterial genomes harboring gcd, which represented diverse novel phosphate-solubilizing microbial taxa. Strong correlations were found between the relative abundance of these genomes and bioavailable soil P, suggesting their contributions to the enhancement of soil P cycling. Moreover, 84 mobile genetic elements were detected in the scaffolds containing gcd in the 39 genomes, providing evidence for the role of phage-related horizontal gene transfer in assisting soil microbes to acquire new metabolic potential related to P cycling.",
+      "url": "https://www.semanticscholar.org/paper/25bfbef407895647b6f39689f738e42010d133cb",
+      "pdf_url": "https://www.nature.com/articles/s41396-020-0632-4.pdf",
+      "citation_count": 425,
+      "tags": [
+        "phosphorus",
+        "soil",
         "virus"
       ]
     },
@@ -2449,6 +3795,50 @@
       ]
     },
     {
+      "id": "7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
+      "source": "Semantic Scholar",
+      "pmid": "30013236",
+      "doi": "10.1038/s41564-018-0190-y",
+      "title": "Host-linked soil viral ecology along a permafrost thaw gradient",
+      "authors": [
+        "J. Emerson",
+        "S. Roux",
+        "Jennifer R. Brum",
+        "B. Bolduc",
+        "B. Woodcroft",
+        "H. Jang",
+        "C. Singleton",
+        "L. Solden",
+        "A. Naas",
+        "J. Boyd",
+        "S. Hodgkins",
+        "R. Wilson",
+        "G. Trubl",
+        "Changsheng Li",
+        "S. Frolking",
+        "P. Pope",
+        "K. Wrighton",
+        "P. Crill",
+        "J. Chanton",
+        "S. Saleska",
+        "G. Tyson",
+        "V. Rich",
+        "M. Sullivan"
+      ],
+      "journal": "Nature Microbiology",
+      "publication_date": "2018-07-16",
+      "abstract": "Climate change threatens to release abundant carbon that is sequestered at high latitudes, but the constraints on microbial metabolisms that mediate the release of methane and carbon dioxide are poorly understood1–7. The role of viruses, which are known to affect microbial dynamics, metabolism and biogeochemistry in the oceans8–10, remains largely unexplored in soil. Here, we aimed to investigate how viruses influence microbial ecology and carbon metabolism in peatland soils along a permafrost thaw gradient in Sweden. We recovered 1,907 viral populations (genomes and large genome fragments) from 197 bulk soil and size-fractionated metagenomes, 58% of which were detected in metatranscriptomes and presumed to be active. In silico predictions linked 35% of the viruses to microbial host populations, highlighting likely viral predators of key carbon-cycling microorganisms, including methanogens and methanotrophs. Lineage-specific virus/host ratios varied, suggesting that viral infection dynamics may differentially impact microbial responses to a changing climate. Virus-encoded glycoside hydrolases, including an endomannanase with confirmed functional activity, indicated that viruses influence complex carbon degradation and that viral abundances were significant predictors of methane dynamics. These findings suggest that viruses may impact ecosystem function in climate-critical, terrestrial habitats and identify multiple potential viral contributions to soil carbon cycling. The recovery of viral populations from peatland soils across a permafrost thaw gradient provides insights into soil viral diversity, their hosts and the potential impacts on carbon cycling in this environment.",
+      "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
+      "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
+      "citation_count": 519,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "soil",
+        "virus"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2822894270",
       "source": "OpenAlex",
       "pmid": "",
@@ -2521,6 +3911,57 @@
         "biogeochemistry",
         "phosphorus",
         "virus"
+      ]
+    },
+    {
+      "id": "3977fe0909c20ca237dec2e8ca9947afe3237956",
+      "source": "Semantic Scholar",
+      "pmid": "26290868",
+      "doi": "10.1155/2015/604264",
+      "title": "Microbial Diversity for Biotechnology 2014",
+      "authors": [
+        "G. Tsiamis",
+        "A. Cherif",
+        "D. Karpouzas",
+        "S. Ntougias"
+      ],
+      "journal": "BioMed Research International",
+      "publication_date": "2015-07-28",
+      "abstract": "The focus of this special issue is the characterization of the microbial diversity and the development of potential biotechnological applications. Despite the great importance of microbes, only a small fraction has been able to be cultivated in the laboratory. It is now clear that molecular techniques have played a significant role in the detection and unravelling of the enormous microbial diversity. Omic technologies like genomics, metagenomics, and single cell genomics enabled the characterization of a vast and unexplored portion of the microbial diversity. \n \nHuman life and microbes are highly coupled since key biogeochemical cycles like carbon, nitrogen, and sulfur are microbially dependent. Even the photosynthetic capacity on Earth is microbial dependent and not plant based. In humans, the gut symbionts assist in food digestion, toxin breakdown, and boosting the immune system. In an attempt to understand the unculturable fraction programs like the Earth Microbiome Project (EMP), the International Census of Marine Microbes, and the Human Microbiome Project have been launched. The next step is to use this boundless and fascinating resource for the discovery of new genes and enzymes for use in biotechnology. \n \nThis special issue includes nine research articles describing the microbial diversity and the deployment of new technologies that can lead to prospective biotechnological applications. \n \nD. H. Green et al. studied the bacterial diversity associated with the coccolithophorid algae Emiliania huxleyi and Coccolithus pelagicus f. braarudii. Coccolithophores make significant contributions to oceanic carbon cycling and atmospheric CO2 regulation, but despite their importance the bacterial diversity associated with these algae has not been explored from ecological or biotechnological point of view. Culture-dependent and independent analyses indicated that the bacterial diversity was spread across five phyla. Alphaproteobacteria, Gammaproteobacteria, and Bacteroidetes were the most dominant, followed by Actinobacteria and Acidobacteria. \n \nG. Merlino et al. present the characterization of the bacterial community developed in anaerobic microcosms after biostimulation with lactate from a groundwater polluted with 1,2-dichloroethane (1,2-DCA). Molecular approaches targeting conserved regions of known reductive dehalogenase genes identified four novel variants that have been associated with the reductive dechlorination of 1,2-DCA. \n \nH. Lin et al. examined the microbial community structure and pathogen occurrence in urban faucet biofilms in South China using microstructure analysis and 454 pyrosequencing. Proteobacteria were found to be the most predominant group in all biofilms samples. Interestingly, some potential pathogens (e.g., Legionellales and Enterobacteriales) and corrosive microorganisms were also found in these biofilms. \n \nH. Xu et al. examined the heterologous expression of cellulases in Thermotoga sp. isolated from Caldicellulosiruptor saccharolyticus. Although the vectors were lost from the Thermotoga strain after three consecutive transfers, all three recombinant enzymes were successfully expressed rendering the host with increased endo- and/or exoglucanase activities. This work demonstrated the feasibility of genetically engineering Thermotoga spp. for efficient cellulose utilization. \n \nE. G. Di Domenico et al. explored the anaerobic digestate as feed in H-type MFC reactors: one with a graphite anode preconditioned with Geobacter sulfurreducens and the other with an unconditioned graphite anode. Their results indicated that MFCs can be used to recover anammox bacteria from natural sources. This opens the possibility of using anaerobic digester for the simultaneous nitrogen removal and electricity generation. \n \nG. A. Silva-Castro et al. studied the precipitation of calcium carbonate and calcium sulphate by isolating bacteria from seawater and real brine. Bacillus and Virgibacillus strains were able to form calcium carbonate minerals, which precipitated as calcite and aragonite crystals. Further characterization of these bacterial strains is of great importance for the bioremediation of CO2 and calcium capture in certain environments. \n \nA. Krasowska et al. isolated and characterized at molecular level the bacteriophages of Bacillus subtilis. The studied phages were from the Myoviridae and the Siphoviridae family. The host range, pH and temperature resistance, adsorption rate, latent time, and phage burst size were determined. These findings can be used in industry since Bacillus spp. are very persistent strains. \n \nM. Nampally et al. searched for novel chitin and chitosan modifying enzymes isolated from soil microorganisms with more than ten years of history of chitin and chitosan exposure. After screening for chitinase and chitosanase isoenzymes, eight bacterial strains and twenty fungal isolates were found to be chitinolytic and/or chitosanolytic. \n \nR. A. Amer et al. examined the physical, chemical, and microbiological features of hydrocarbon and heavy metals contaminated sediments collected at El-Max Bay (Egypt). Following a culture-dependent approach fifty bacterial strains were isolated and were identified as hydrocarbon-degrading bacteria involved in different stages of biodegradation. The El-Max sediment represents a promising reservoir of novel bacterial strains adapted to high hydrocarbon contamination loads. \n \nThese papers highlight the importance of the study and characterization of the hidden microbial diversity and the vast potential that exists in order to transform this basic knowledge to applied knowledge with the assistance of biotechnology. New developments in the field of omic approaches will certainly propel our ability to understand and further exploit microbial diversity. In this regard, these papers provide a glimpse into the future of this field.",
+      "url": "https://www.semanticscholar.org/paper/3977fe0909c20ca237dec2e8ca9947afe3237956",
+      "pdf_url": "https://downloads.hindawi.com/journals/bmri/2015/604264.pdf",
+      "citation_count": 1,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sediment",
+        "soil",
+        "sulfur",
+        "virus",
+        "water"
+      ]
+    },
+    {
+      "id": "abef6e71e940abbc11d5ec0a3c940bf2e784dd8c",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "",
+      "title": "Bacteriophage, an Important Driving Force for the Organic Carbon Cycle in Aquatic Biosphere",
+      "authors": [
+        "Ji Xiu-lin"
+      ],
+      "journal": "Life Science Research",
+      "publication_date": "2014-01-01",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/abef6e71e940abbc11d5ec0a3c940bf2e784dd8c",
+      "pdf_url": "",
+      "citation_count": 0,
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "virus",
+        "water"
       ]
     },
     {
