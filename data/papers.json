@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:20:52.867968+00:00",
+  "updated_at": "2026-05-31T17:43:10.926097+00:00",
   "sources": [
     "Crossref",
     "OpenAlex",
@@ -9425,6 +9425,20 @@
           "citation_count": 0
         },
         {
+          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
+          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Guillermo Domínguez-Huerta",
+            "A. M. Cabello",
+            "J. J. Santos-Bruña"
+          ],
+          "doi": "10.1093/ismeco/ycag110",
+          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
+          "citation_count": 0
+        },
+        {
           "id": "9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
           "title": "Lytic viruses drive the decrease in polyphosphate-accumulating and phosphate-solubilizing potential of microbial communities with increasing reservoir age",
           "year": 2026,
@@ -9436,20 +9450,6 @@
           ],
           "doi": "10.1128/aem.02481-25",
           "url": "https://www.semanticscholar.org/paper/9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
-          "citation_count": 0
-        },
-        {
-          "id": "2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
-          "title": "Continental-scale multi-omics reveals a distinct microbial-viral biome in sandy beach ecosystems structured by tidal zonation",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Xiyang Dong",
-            "Feng Cai",
-            "Yingchun Han"
-          ],
-          "doi": "10.64898/2026.04.10.717577",
-          "url": "https://www.semanticscholar.org/paper/2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
           "citation_count": 0
         }
       ]
