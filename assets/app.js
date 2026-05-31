@@ -246,7 +246,7 @@ function renderPaperRow(paper) {
         <div class="detail-panel">
           <p>${escapeHtml(paper.abstract || "暂无摘要。")}</p>
           <dl>
-            <div><dt>DOI</dt><dd>${escapeHtml(paper.doi || "暂无")}</dd></div>
+            <div><dt>DOI</dt><dd>${renderDoi(paper.doi)}</dd></div>
             <div><dt>PMID</dt><dd>${escapeHtml(paper.pmid || "无")}</dd></div>
             <div><dt>高影响引用</dt><dd>${escapeHtml(formatNumber(paper.influential_citation_count || 0))}</dd></div>
             <div><dt>数据库 ID</dt><dd>${escapeHtml(paper.id || "暂无")}</dd></div>
@@ -277,6 +277,14 @@ function renderReferences(references) {
       </ol>
     </div>
   `;
+}
+
+function renderDoi(doi) {
+  if (!doi) {
+    return "暂无";
+  }
+  const safeDoi = escapeHtml(doi);
+  return `<a href="https://doi.org/${encodeURIComponent(doi)}" target="_blank" rel="noreferrer">${safeDoi}</a>`;
 }
 
 function formatNumber(value) {
