@@ -417,7 +417,9 @@ def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def parse_semantic_references(references: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def parse_semantic_references(references: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
+    if not references:
+        return []
     parsed = []
     for reference in references[:8]:
         external_ids = reference.get("externalIds") or {}
