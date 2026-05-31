@@ -249,6 +249,7 @@ function renderPaperRow(paper) {
             <div><dt>DOI</dt><dd>${renderDoi(paper.doi)}</dd></div>
             <div><dt>PMID</dt><dd>${escapeHtml(paper.pmid || "无")}</dd></div>
             <div><dt>高影响引用</dt><dd>${escapeHtml(formatNumber(paper.influential_citation_count || 0))}</dd></div>
+            <div><dt>指标来源</dt><dd>${escapeHtml(paper.metrics_source || "待回填")}</dd></div>
             <div><dt>数据库 ID</dt><dd>${escapeHtml(paper.id || "暂无")}</dd></div>
           </dl>
           ${renderReferences(paper.references || [])}
