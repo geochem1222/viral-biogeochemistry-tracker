@@ -19,6 +19,7 @@ PUBMED_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 OPENALEX_BASE = "https://api.openalex.org/works"
 CROSSREF_BASE = "https://api.crossref.org/works"
 SEMANTIC_SCHOLAR_BASE = "https://api.semanticscholar.org/graph/v1/paper/search"
+SEMANTIC_SCHOLAR_BATCH_BASE = "https://api.semanticscholar.org/graph/v1/paper/batch"
 
 ENVIRONMENT_TERMS = [
     "soil",
@@ -309,6 +310,39 @@ def request_json(
             raise
 
 
+def request_json_post(
+    url: str,
+    params: dict[str, str | int],
+    payload: dict[str, Any],
+    email: str | None = None,
+    api_key: str | None = None,
+) -> dict[str, Any] | list[Any]:
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": build_user_agent(email),
+    }
+    if api_key:
+        headers["x-api-key"] = api_key
+    full_url = f"{url}?{urllib.parse.urlencode(params)}"
+    body = json.dumps(payload).encode("utf-8")
+    request = urllib.request.Request(full_url, data=body, headers=headers, method="POST")
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as error:
+            if error.code == 429 and attempt < 2:
+                retry_after = int(error.headers.get("Retry-After", "8"))
+                time.sleep(retry_after + attempt * 4)
+                continue
+            raise
+        except urllib.error.URLError:
+            if attempt < 2:
+                time.sleep(3 + attempt * 4)
+                continue
+            raise
+
+
 def request_xml(url: str, params: dict[str, str | int], email: str | None = None) -> ET.Element:
     headers = {"User-Agent": build_user_agent(email)}
     full_url = f"{url}?{urllib.parse.urlencode(params)}"
@@ -354,28 +388,7 @@ def fetch_semantic_scholar(
     queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
     per_query = max(8, min(50, retmax // max(1, len(queries)) + 6))
     papers: list[dict[str, Any]] = []
-    fields = ",".join(
-        [
-            "paperId",
-            "title",
-            "abstract",
-            "year",
-            "publicationDate",
-            "venue",
-            "journal",
-            "authors",
-            "externalIds",
-            "url",
-            "citationCount",
-            "influentialCitationCount",
-            "referenceCount",
-            "references.title",
-            "references.year",
-            "references.url",
-            "references.externalIds",
-            "openAccessPdf",
-        ]
-    )
+    fields = semantic_fields()
     for query in queries:
         params: dict[str, str | int] = {
             "query": query,
@@ -420,8 +433,104 @@ def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
         "influential_citation_count": item.get("influentialCitationCount", 0),
         "reference_count": item.get("referenceCount", 0),
         "references": parse_semantic_references(item.get("references", [])),
+        "metrics_source": "Semantic Scholar",
         "tags": tags,
     }
+
+
+def semantic_fields() -> str:
+    return ",".join(
+        [
+            "paperId",
+            "title",
+            "abstract",
+            "year",
+            "publicationDate",
+            "venue",
+            "journal",
+            "authors",
+            "externalIds",
+            "url",
+            "citationCount",
+            "influentialCitationCount",
+            "referenceCount",
+            "references.title",
+            "references.year",
+            "references.url",
+            "references.externalIds",
+            "openAccessPdf",
+        ]
+    )
+
+
+def enrich_with_semantic_metadata(
+    papers: list[dict[str, Any]],
+    email: str | None,
+    api_key: str | None,
+    limit: int | None = None,
+) -> list[dict[str, Any]]:
+    candidates = [
+        paper
+        for paper in papers
+        if paper.get("doi") or paper.get("pmid")
+    ]
+    if limit:
+        candidates = candidates[:limit]
+
+    by_lookup_id: dict[str, dict[str, Any]] = {}
+    ids: list[str] = []
+    for paper in candidates:
+        lookup_id = semantic_lookup_id(paper)
+        if lookup_id and lookup_id not in by_lookup_id:
+            by_lookup_id[lookup_id] = paper
+            ids.append(lookup_id)
+
+    for batch_ids in chunks(ids, 100):
+        try:
+            results = request_json_post(
+                SEMANTIC_SCHOLAR_BATCH_BASE,
+                {"fields": semantic_fields()},
+                {"ids": batch_ids},
+                email,
+                api_key,
+            )
+        except (urllib.error.HTTPError, urllib.error.URLError) as error:
+            print(f"Semantic Scholar metadata enrichment failed for a batch: {error}")
+            continue
+        for lookup_id, result in zip(batch_ids, results if isinstance(results, list) else []):
+            if not result:
+                continue
+            apply_semantic_metadata(by_lookup_id[lookup_id], result)
+        time.sleep(0.35 if api_key else 1.05)
+
+    return papers
+
+
+def semantic_lookup_id(paper: dict[str, Any]) -> str:
+    if paper.get("doi"):
+        return f"DOI:{paper['doi']}"
+    if paper.get("pmid"):
+        return f"PMID:{paper['pmid']}"
+    return ""
+
+
+def apply_semantic_metadata(paper: dict[str, Any], item: dict[str, Any]) -> None:
+    external_ids = item.get("externalIds") or {}
+    open_pdf = item.get("openAccessPdf") or {}
+    doi = normalize_doi(external_ids.get("DOI", ""))
+    paper["semantic_scholar_id"] = item.get("paperId", paper.get("semantic_scholar_id", ""))
+    paper["semantic_scholar_url"] = item.get("url", paper.get("semantic_scholar_url", ""))
+    paper["citation_count"] = item.get("citationCount") or 0
+    paper["influential_citation_count"] = item.get("influentialCitationCount") or 0
+    paper["reference_count"] = item.get("referenceCount") or 0
+    paper["references"] = parse_semantic_references(item.get("references"))
+    paper["metrics_source"] = "Semantic Scholar"
+    if doi and not paper.get("doi"):
+        paper["doi"] = doi
+    if external_ids.get("PubMed") and not paper.get("pmid"):
+        paper["pmid"] = external_ids["PubMed"]
+    if open_pdf.get("url"):
+        paper["pdf_url"] = open_pdf["url"]
 
 
 def parse_semantic_references(references: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
@@ -471,6 +580,7 @@ def parse_openalex_work(item: dict[str, Any]) -> dict[str, Any]:
         "influential_citation_count": 0,
         "reference_count": 0,
         "references": [],
+        "metrics_source": "",
         "tags": tags,
     }
 
@@ -537,6 +647,7 @@ def parse_crossref_work(item: dict[str, Any]) -> dict[str, Any]:
         "influential_citation_count": 0,
         "reference_count": 0,
         "references": [],
+        "metrics_source": "",
         "tags": tags,
     }
 
@@ -613,6 +724,7 @@ def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
         "influential_citation_count": 0,
         "reference_count": 0,
         "references": [],
+        "metrics_source": "",
         "tags": tags,
     }
 
@@ -816,6 +928,17 @@ def main() -> None:
     )
     parser.add_argument("--semantic-api-key", default=None)
     parser.add_argument(
+        "--semantic-enrich-limit",
+        type=int,
+        default=800,
+        help="Maximum number of DOI/PMID records to enrich with Semantic Scholar metrics.",
+    )
+    parser.add_argument(
+        "--skip-semantic-enrichment",
+        action="store_true",
+        help="Do not backfill citation/reference metadata through Semantic Scholar.",
+    )
+    parser.add_argument(
         "--merge-existing",
         action="store_true",
         help="Merge fresh results into the existing data file instead of replacing it.",
@@ -839,6 +962,13 @@ def main() -> None:
         all_papers.extend(load_existing_papers(output))
 
     papers = deduplicate(all_papers)[: args.retmax]
+    if not args.skip_semantic_enrichment:
+        papers = enrich_with_semantic_metadata(
+            papers,
+            args.email,
+            args.semantic_api_key,
+            args.semantic_enrich_limit,
+        )
     if not papers and output.exists():
         print("No fresh papers were fetched; keeping the existing data file.")
         return
