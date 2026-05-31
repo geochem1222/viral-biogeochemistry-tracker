@@ -560,16 +560,27 @@ def fetch_pubmed(retmax: int, email: str | None) -> list[dict[str, Any]]:
 
 
 def fetch_pubmed_details(pmids: list[str], email: str | None) -> list[dict[str, Any]]:
-    params: dict[str, str | int] = {
-        "db": "pubmed",
-        "id": ",".join(pmids),
-        "retmode": "xml",
-    }
-    if email:
-        params["email"] = email
-    root = request_xml(f"{PUBMED_BASE}/efetch.fcgi", params, email)
-    papers = [parse_pubmed_article(article) for article in root.findall(".//PubmedArticle")]
-    return [paper for paper in papers if paper and is_relevant(paper)]
+    papers: list[dict[str, Any]] = []
+    for chunk in chunks(pmids, 100):
+        params: dict[str, str | int] = {
+            "db": "pubmed",
+            "id": ",".join(chunk),
+            "retmode": "xml",
+        }
+        if email:
+            params["email"] = email
+        root = request_xml(f"{PUBMED_BASE}/efetch.fcgi", params, email)
+        papers.extend(
+            paper
+            for paper in (parse_pubmed_article(article) for article in root.findall(".//PubmedArticle"))
+            if paper and is_relevant(paper)
+        )
+        time.sleep(0.34)
+    return papers
+
+
+def chunks(values: list[str], size: int) -> list[list[str]]:
+    return [values[index : index + size] for index in range(0, len(values), size)]
 
 
 def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
