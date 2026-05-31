@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>病毒与生物地球化学论文追踪</title>
+    <meta
+      name="description"
+      content="自动追踪病毒、噬菌体、辅助代谢基因 AMGs 与碳氮硫磷等生源要素循环相关论文。"
+    >
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="页面导航">
+        <a class="brand" href="./" aria-label="回到首页">
+          <span class="brand-mark">V</span>
+          <span>Viral Biogeochemistry Tracker</span>
+        </a>
+        <div class="nav-actions">
+          <a href="#papers">论文</a>
+          <a href="#about">方向</a>
+          <a href="data/papers.json">数据</a>
+        </div>
+      </nav>
+
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">自动更新的研究文献表</p>
+          <h1>病毒、噬菌体与 AMGs 如何改写碳氮硫磷循环？</h1>
+          <p class="lead">
+            聚焦病毒生态学、噬菌体辅助代谢基因、微生物驱动的生源要素循环，以及海洋、土壤、沉积物等生态系统中的生物地球化学过程。默认从 OpenAlex 与 Crossref 检索，PubMed 可作为补充。
+          </p>
+        </div>
+        <aside class="hero-panel" aria-label="追踪状态">
+          <span class="status-dot" aria-hidden="true"></span>
+          <div>
+            <p class="panel-label">最近更新</p>
+            <strong id="last-updated">读取中</strong>
+          </div>
+          <div>
+            <p class="panel-label">已收录论文</p>
+            <strong id="paper-count">0</strong>
+          </div>
+          <div>
+            <p class="panel-label">数据来源</p>
+            <strong id="source-count">OpenAlex + Crossref</strong>
+          </div>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section class="focus-strip" id="about" aria-label="研究方向">
+        <article>
+          <span>01</span>
+          <h2>病毒与噬菌体生态</h2>
+          <p>关注 virus、phage、virome、viral ecology、host-virus interaction 等主题。</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h2>辅助代谢基因 AMGs</h2>
+          <p>追踪 AMGs 如何影响宿主营养代谢、能量获取和元素转化。</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h2>生源要素循环</h2>
+          <p>覆盖碳、氮、硫、磷及甲烷、反硝化、硝化、硫氧化等过程。</p>
+        </article>
+      </section>
+
+      <section class="toolbar" id="papers" aria-label="论文筛选">
+        <div class="search-box">
+          <label for="search">搜索论文</label>
+          <input id="search" type="search" placeholder="输入关键词、作者、期刊、DOI 或数据库 ID">
+        </div>
+        <div class="search-box">
+          <label for="source-filter">数据来源</label>
+          <select id="source-filter">
+            <option value="all">全部来源</option>
+          </select>
+        </div>
+        <div class="filter-row" aria-label="按主题筛选">
+          <button class="chip active" type="button" data-filter="all">全部</button>
+          <button class="chip" type="button" data-filter="soil">土壤</button>
+          <button class="chip" type="button" data-filter="water">水体/水生</button>
+          <button class="chip" type="button" data-filter="virus">病毒/噬菌体</button>
+          <button class="chip" type="button" data-filter="amg">AMGs</button>
+          <button class="chip" type="button" data-filter="carbon">碳循环</button>
+          <button class="chip" type="button" data-filter="nitrogen">氮循环</button>
+          <button class="chip" type="button" data-filter="sulfur">硫循环</button>
+          <button class="chip" type="button" data-filter="phosphorus">磷循环</button>
+          <button class="chip" type="button" data-filter="sediment">沉积物</button>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="论文统计">
+        <div>
+          <p>近一年论文</p>
+          <strong id="recent-count">0</strong>
+        </div>
+        <div>
+          <p>AMG 相关</p>
+          <strong id="amg-count">0</strong>
+        </div>
+        <div>
+          <p>元素循环相关</p>
+          <strong id="cycle-count">0</strong>
+        </div>
+      </section>
+
+      <section class="paper-list" aria-live="polite">
+        <div class="list-header">
+          <h2>最新论文表格</h2>
+          <p id="result-count">正在读取数据</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th><button type="button" data-sort="publication_date">日期 <span></span></button></th>
+                <th><button type="button" data-sort="title">题名 <span></span></button></th>
+                <th><button type="button" data-sort="authors">作者 <span></span></button></th>
+                <th><button type="button" data-sort="journal">期刊 <span></span></button></th>
+                <th><button type="button" data-sort="citation_count">引用 <span></span></button></th>
+                <th><button type="button" data-sort="source">来源 <span></span></button></th>
+                <th>链接</th>
+              </tr>
+            </thead>
+            <tbody id="papers-body"></tbody>
+          </table>
+        </div>
+        <p id="empty-state" class="empty-state" hidden>没有匹配的论文，换一个关键词试试。</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>由 GitHub Actions 定期更新，适合部署到 GitHub Pages、Netlify 或 Cloudflare Pages。</p>
+      <a href="data/papers.json">下载 JSON 数据</a>
+    </footer>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

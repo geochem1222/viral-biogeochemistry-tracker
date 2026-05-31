@@ -1,0 +1,50 @@
+name: Update papers and deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "18 21 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest papers from Semantic Scholar
+        run: python scripts/update_papers.py --retmax 300 --sources semantic --merge-existing --email "${{ vars.CONTACT_EMAIL }}" --semantic-api-key "${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}"
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update paper data"
+          file_pattern: data/papers.json
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
