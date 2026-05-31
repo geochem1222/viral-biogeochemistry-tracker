@@ -322,10 +322,11 @@ def build_user_agent(email: str | None) -> str:
     return f"viral-biogeochemistry-tracker/1.0{contact}"
 
 
-def fetch_openalex(retmax: int, email: str | None) -> list[dict[str, Any]]:
-    per_query = max(8, min(50, retmax // max(1, len(SEARCH_QUERIES)) + 5))
+def fetch_openalex(retmax: int, email: str | None, query_limit: int | None = None) -> list[dict[str, Any]]:
+    queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
+    per_query = max(8, min(50, retmax // max(1, len(queries)) + 5))
     papers: list[dict[str, Any]] = []
-    for query in SEARCH_QUERIES:
+    for query in queries:
         params: dict[str, str | int] = {
             "search": query,
             "per-page": per_query,
@@ -344,8 +345,14 @@ def fetch_openalex(retmax: int, email: str | None) -> list[dict[str, Any]]:
     return [paper for paper in papers if paper and is_relevant(paper)]
 
 
-def fetch_semantic_scholar(retmax: int, email: str | None, api_key: str | None) -> list[dict[str, Any]]:
-    per_query = max(8, min(50, retmax // max(1, len(SEARCH_QUERIES)) + 6))
+def fetch_semantic_scholar(
+    retmax: int,
+    email: str | None,
+    api_key: str | None,
+    query_limit: int | None = None,
+) -> list[dict[str, Any]]:
+    queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
+    per_query = max(8, min(50, retmax // max(1, len(queries)) + 6))
     papers: list[dict[str, Any]] = []
     fields = ",".join(
         [
@@ -369,7 +376,7 @@ def fetch_semantic_scholar(retmax: int, email: str | None, api_key: str | None) 
             "openAccessPdf",
         ]
     )
-    for query in SEARCH_QUERIES:
+    for query in queries:
         params: dict[str, str | int] = {
             "query": query,
             "limit": per_query,
@@ -477,10 +484,11 @@ def abstract_from_inverted_index(index: dict[str, list[int]] | None) -> str:
     return " ".join(word for _, word in sorted(words))
 
 
-def fetch_crossref(retmax: int, email: str | None) -> list[dict[str, Any]]:
-    per_query = max(5, min(30, retmax // max(1, len(SEARCH_QUERIES)) + 3))
+def fetch_crossref(retmax: int, email: str | None, query_limit: int | None = None) -> list[dict[str, Any]]:
+    queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
+    per_query = max(5, min(30, retmax // max(1, len(queries)) + 3))
     papers: list[dict[str, Any]] = []
-    for query in SEARCH_QUERIES:
+    for query in queries:
         params: dict[str, str | int] = {
             "query.bibliographic": query,
             "rows": per_query,
@@ -801,17 +809,18 @@ def main() -> None:
         action="store_true",
         help="Merge fresh results into the existing data file instead of replacing it.",
     )
+    parser.add_argument("--query-limit", type=int, default=36)
     args = parser.parse_args()
 
     output = Path(args.output)
     sources = [source.strip().lower() for source in args.sources.split(",") if source.strip()]
     all_papers: list[dict[str, Any]] = []
     if "semantic" in sources or "semanticscholar" in sources:
-        all_papers.extend(fetch_semantic_scholar(args.retmax, args.email, args.semantic_api_key))
+        all_papers.extend(fetch_semantic_scholar(args.retmax, args.email, args.semantic_api_key, args.query_limit))
     if "openalex" in sources:
-        all_papers.extend(fetch_openalex(args.retmax, args.email))
+        all_papers.extend(fetch_openalex(args.retmax, args.email, args.query_limit))
     if "crossref" in sources:
-        all_papers.extend(fetch_crossref(args.retmax, args.email))
+        all_papers.extend(fetch_crossref(args.retmax, args.email, args.query_limit))
     if "pubmed" in sources:
         all_papers.extend(fetch_pubmed(max(20, args.retmax // 2), args.email))
 
