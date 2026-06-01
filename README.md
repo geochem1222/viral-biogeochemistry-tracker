@@ -1,6 +1,6 @@
 # Viral Biogeochemistry Paper Tracker
 
-这是一个面向“土壤/水体/沉积物环境中的病毒、噬菌体、AMGs 与生物地球化学循环”的静态论文追踪网页。当前主流程使用 Semantic Scholar API 每日自动更新文献，并保留 OpenAlex、Crossref、PubMed 作为可选补充来源。
+这是一个面向“土壤/水体/沉积物环境中的病毒、噬菌体、AMGs 与生物地球化学循环”的静态论文追踪网页。当前主流程只使用 Semantic Scholar API，并通过 bulk search 尽量完整地回溯和每日更新文献。
 
 ## 研究方向
 
@@ -28,10 +28,11 @@ https://你的用户名.github.io/viral-biogeochemistry-tracker/
 
 `.github/workflows/update-and-deploy.yml` 默认每天 UTC 21:18 运行一次，对应中国时间次日 05:18。它会：
 
-1. 调用 `scripts/update_papers.py` 从 Semantic Scholar 抓取新增论文。
-2. 将新增文献合并到现有 `data/papers.json`。
-3. 自动提交数据变化。
-4. 将静态网页发布到 `gh-pages` 分支。
+1. 使用 Semantic Scholar bulk search 发现和回溯论文。
+2. 用 Semantic Scholar batch API 回填引用数、参考文献数、开放 PDF、代表性参考文献和相似文章。
+3. 将新增文献合并到现有 `data/papers.json`。
+4. 自动提交数据变化。
+5. 将静态网页发布到 `gh-pages` 分支。
 
 建议在仓库的 `Settings` → `Secrets and variables` → `Actions` → `Variables` 里添加：
 
@@ -69,12 +70,12 @@ http://localhost:8000
 
 ## 基础库
 
-现在不必须使用 Google Scholar。Semantic Scholar API 已经可以自动持续更新，OpenAlex、Crossref、PubMed 可用于手动补充历史文献。
+现在不必须使用 Google Scholar。Semantic Scholar bulk search 已经用于默认历史回溯和每日更新。
 
 可选补充流程：
 
 1. 用 Semantic Scholar 每日自动更新作为主数据流。
-2. 需要扩大历史覆盖时，手动运行 OpenAlex、Crossref、PubMed 多源补充。
+2. 需要强制收录某些经典论文时，把 DOI 加入脚本中的种子列表或手动导入 CSV。
 3. 如果你已经有 Google Scholar 或 Publish or Perish 导出的 CSV，可以作为人工补充导入。
 
 导入已有 CSV：
@@ -83,35 +84,33 @@ http://localhost:8000
 python scripts/import_seed_csv.py exported_papers.csv --source-name "Manual seed"
 ```
 
-用开放数据库补充历史库：
+默认每日更新使用：
 
 ```bash
-python scripts/update_papers.py --retmax 300 --sources openalex,crossref,pubmed --merge-existing
+python scripts/update_papers.py --retmax 5000 --sources semantic --semantic-search-mode bulk --merge-existing
 ```
 
-每日增量更新使用：
+可选：如果以后想临时启用多源补充，可手动运行：
 
 ```bash
-python scripts/update_papers.py --retmax 300 --sources semantic --merge-existing
+python scripts/update_papers.py --retmax 800 --sources semantic,openalex,crossref,pubmed --merge-existing
 ```
 
 ## 数据来源与致谢
 
 本项目使用开放学术数据服务构建文献追踪页面。感谢这些服务提供 API、元数据和开放学术基础设施：
 
-- Semantic Scholar：主更新来源，并统一回填引用数、参考文献数、代表性参考文献、开放 PDF、摘要和学术图谱信息。
+- Semantic Scholar：默认唯一数据源；使用 bulk search 发现文献，并统一回填引用数、参考文献数、代表性参考文献、开放 PDF、摘要和学术图谱信息。
 - Semantic Scholar Recommendations API：为部分论文预计算相似文章，用于网页详情区推荐延伸阅读。
-- OpenAlex：可选补充来源，主要用于发现环境科学、生态学、地球科学与交叉学科文献及 DOI。
-- Crossref：可选补充来源，主要用于发现 DOI 和出版社元数据。
-- PubMed：适合补充生命科学、微生物、病毒相关记录及 PMID。
+- OpenAlex、Crossref、PubMed：当前不作为默认数据源；如以后需要扩大覆盖，可手动启用。
 - Google Scholar：不作为自动数据源；如需使用，建议通过人工导出 CSV 后导入，不建议自动爬取。
 
-引用数、参考文献数和代表性参考文献统一以 Semantic Scholar 回填结果为准。OpenAlex、Crossref、PubMed 主要用于扩展发现范围，避免不同数据库的引用统计口径混用。
+引用数、参考文献数和代表性参考文献统一以 Semantic Scholar 回填结果为准，避免不同数据库的引用统计口径混用。
 
 网页不会在浏览器端直接调用 Semantic Scholar API，因此不会暴露 API key。相似文章、引用指标和参考文献信息都由 GitHub Actions 在后台预计算后写入 `data/papers.json`。
 
 也可以手动运行更广的多源更新：
 
 ```bash
-python scripts/update_papers.py --retmax 160 --sources semantic,openalex,crossref,pubmed
+python scripts/update_papers.py --retmax 800 --sources semantic,openalex,crossref,pubmed
 ```
