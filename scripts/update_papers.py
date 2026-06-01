@@ -19,6 +19,7 @@ PUBMED_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 OPENALEX_BASE = "https://api.openalex.org/works"
 CROSSREF_BASE = "https://api.crossref.org/works"
 SEMANTIC_SCHOLAR_BASE = "https://api.semanticscholar.org/graph/v1/paper/search"
+SEMANTIC_SCHOLAR_BULK_BASE = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
 SEMANTIC_SCHOLAR_BATCH_BASE = "https://api.semanticscholar.org/graph/v1/paper/batch"
 SEMANTIC_SCHOLAR_RECOMMENDATIONS_BASE = "https://api.semanticscholar.org/recommendations/v1/papers"
 
@@ -130,6 +131,32 @@ SEARCH_QUERIES = [
     for j, virus in enumerate(VIRUS_GROUPS)
     for k, element in enumerate(ELEMENT_GROUPS)
 ]
+
+SEMANTIC_BULK_QUERY = """
+(
+  soil OR soils OR water OR aquatic OR freshwater
+  OR river OR rivers OR stream OR streams OR creek OR creeks
+  OR ditch OR ditches OR canal OR canals OR channel OR channels
+  OR lake OR lakes OR reservoir OR reservoirs OR pond OR ponds
+  OR wetland OR wetlands OR marsh OR swamp
+  OR sediment OR sediments OR sedimentary OR benthic
+  OR groundwater OR estuary
+)
+AND
+(
+  virus OR viruses OR viral OR phage OR bacteriophage OR bacteriophages
+  OR virome OR viromes OR "auxiliary metabolic gene"
+  OR "auxiliary metabolic genes" OR AMG OR AMGs
+)
+AND
+(
+  biogeochem* OR biogeochemistry OR biogeochemical
+  OR "carbon cycle" OR "nitrogen cycle" OR "sulfur cycle" OR "sulphur cycle"
+  OR "phosphorus cycle" OR carbon OR nitrogen OR sulfur OR sulphur
+  OR phosphorus OR methane OR nitrification OR denitrification
+  OR "sulfate reduction" OR phosphate
+)
+""".replace("\n", " ")
 
 PUBMED_QUERY = """
 (
@@ -409,6 +436,59 @@ def fetch_semantic_scholar(
     return [paper for paper in papers if paper and is_relevant(paper)]
 
 
+def fetch_semantic_scholar_bulk(
+    retmax: int,
+    email: str | None,
+    api_key: str | None,
+) -> list[dict[str, Any]]:
+    fields = ",".join(
+        [
+            "paperId",
+            "title",
+            "abstract",
+            "year",
+            "publicationDate",
+            "venue",
+            "journal",
+            "authors",
+            "externalIds",
+            "url",
+            "citationCount",
+            "openAccessPdf",
+            "fieldsOfStudy",
+            "publicationTypes",
+            "tldr",
+        ]
+    )
+    token = ""
+    papers: list[dict[str, Any]] = []
+    while len(papers) < retmax:
+        params: dict[str, str | int] = {
+            "query": SEMANTIC_BULK_QUERY,
+            "fields": fields,
+            "limit": min(1000, retmax - len(papers)),
+            "sort": "publicationDate:desc",
+        }
+        if token:
+            params["token"] = token
+        try:
+            data = request_json(SEMANTIC_SCHOLAR_BULK_BASE, params, email, api_key)
+        except urllib.error.HTTPError as error:
+            print(f"Semantic Scholar bulk search failed: {error}")
+            break
+        batch = [
+            paper
+            for paper in (parse_semantic_scholar_paper(item) for item in data.get("data", []))
+            if paper and is_relevant(paper)
+        ]
+        papers.extend(batch)
+        token = data.get("token") or ""
+        if not token or not data.get("data"):
+            break
+        time.sleep(0.35 if api_key else 1.05)
+    return papers[:retmax]
+
+
 def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
     external_ids = item.get("externalIds") or {}
     journal = item.get("venue") or (item.get("journal") or {}).get("name", "")
@@ -420,6 +500,7 @@ def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
     tags = classify(" ".join([title, abstract, journal]))
     return {
         "id": item.get("paperId", ""),
+        "semantic_scholar_id": item.get("paperId", ""),
         "source": "Semantic Scholar",
         "pmid": external_ids.get("PubMed", ""),
         "doi": doi,
@@ -519,6 +600,10 @@ def semantic_lookup_id(paper: dict[str, Any]) -> str:
         return f"DOI:{paper['doi']}"
     if paper.get("pmid"):
         return f"PMID:{paper['pmid']}"
+    if paper.get("semantic_scholar_id"):
+        return paper["semantic_scholar_id"]
+    if paper.get("source") == "Semantic Scholar" and paper.get("id"):
+        return paper["id"]
     return ""
 
 
@@ -996,6 +1081,12 @@ def main() -> None:
         default="semantic,openalex",
         help="Comma-separated list: semantic,openalex,crossref,pubmed",
     )
+    parser.add_argument(
+        "--semantic-search-mode",
+        choices=["bulk", "ranked"],
+        default="bulk",
+        help="Use Semantic Scholar bulk search for broader backfills, or ranked search for top relevant results.",
+    )
     parser.add_argument("--semantic-api-key", default=None)
     parser.add_argument(
         "--semantic-enrich-limit",
@@ -1032,7 +1123,10 @@ def main() -> None:
     sources = [source.strip().lower() for source in args.sources.split(",") if source.strip()]
     all_papers: list[dict[str, Any]] = []
     if "semantic" in sources or "semanticscholar" in sources:
-        all_papers.extend(fetch_semantic_scholar(args.retmax, args.email, args.semantic_api_key, args.query_limit))
+        if args.semantic_search_mode == "bulk":
+            all_papers.extend(fetch_semantic_scholar_bulk(args.retmax, args.email, args.semantic_api_key))
+        else:
+            all_papers.extend(fetch_semantic_scholar(args.retmax, args.email, args.semantic_api_key, args.query_limit))
     if "openalex" in sources:
         all_papers.extend(fetch_openalex(args.retmax, args.email, args.query_limit))
     if "crossref" in sources:
