@@ -6,6 +6,8 @@ const state = {
   sortKey: "publication_date",
   sortDirection: "desc",
   expanded: new Set(),
+  page: 1,
+  pageSize: 50,
 };
 
 const filterNames = {
@@ -51,6 +53,12 @@ const els = {
   sourceSelect: document.querySelector("#source-filter"),
   chips: document.querySelectorAll(".chip"),
   sortButtons: document.querySelectorAll("[data-sort]"),
+  pageSize: document.querySelector("#page-size"),
+  paginationStatus: document.querySelector("#pagination-status"),
+  firstPage: document.querySelector("#first-page"),
+  prevPage: document.querySelector("#prev-page"),
+  nextPage: document.querySelector("#next-page"),
+  lastPage: document.querySelector("#last-page"),
 };
 
 fetch("data/papers.json", { cache: "no-store" })
@@ -76,17 +84,20 @@ fetch("data/papers.json", { cache: "no-store" })
 
 els.search.addEventListener("input", (event) => {
   state.query = event.target.value.trim().toLowerCase();
+  state.page = 1;
   render();
 });
 
 els.sourceSelect.addEventListener("change", (event) => {
   state.source = event.target.value;
+  state.page = 1;
   render();
 });
 
 els.chips.forEach((chip) => {
   chip.addEventListener("click", () => {
     state.filter = chip.dataset.filter;
+    state.page = 1;
     els.chips.forEach((item) => item.classList.toggle("active", item === chip));
     render();
   });
@@ -105,6 +116,33 @@ els.sortButtons.forEach((button) => {
   });
 });
 
+els.pageSize.addEventListener("change", (event) => {
+  state.pageSize = Number(event.target.value) || 50;
+  state.page = 1;
+  render();
+});
+
+els.firstPage.addEventListener("click", () => {
+  state.page = 1;
+  render();
+});
+
+els.prevPage.addEventListener("click", () => {
+  state.page = Math.max(1, state.page - 1);
+  render();
+});
+
+els.nextPage.addEventListener("click", () => {
+  state.page += 1;
+  render();
+});
+
+els.lastPage.addEventListener("click", () => {
+  const filtered = state.papers.filter(matchesFilters);
+  state.page = Math.max(1, Math.ceil(filtered.length / state.pageSize));
+  render();
+});
+
 els.tbody.addEventListener("click", (event) => {
   const row = event.target.closest("[data-paper-row]");
   if (!row || event.target.closest("a")) {
@@ -121,7 +159,7 @@ els.tbody.addEventListener("click", (event) => {
 
 function updateSourceLabel(data) {
   const sources = data.sources || [data.source].filter(Boolean);
-  els.sourceCount.textContent = sources.join(" + ") || "OpenAlex + Crossref";
+  els.sourceCount.textContent = sources.join(" + ") || "Semantic Scholar";
 }
 
 function populateSources() {
@@ -161,10 +199,25 @@ function countSince(date) {
 
 function render() {
   const filtered = sortPapers(state.papers.filter(matchesFilters));
+  const totalPages = Math.max(1, Math.ceil(filtered.length / state.pageSize));
+  state.page = Math.min(Math.max(1, state.page), totalPages);
+  const start = (state.page - 1) * state.pageSize;
+  const pageItems = filtered.slice(start, start + state.pageSize);
   els.resultCount.textContent = `${filterNames[state.filter]} · ${filtered.length} 篇`;
   els.empty.hidden = filtered.length > 0;
-  els.tbody.innerHTML = filtered.map(renderPaperRow).join("");
+  els.tbody.innerHTML = pageItems.map(renderPaperRow).join("");
+  updatePagination(filtered.length, totalPages, pageItems.length);
   updateSortIndicators();
+}
+
+function updatePagination(totalCount, totalPages, pageCount) {
+  const start = totalCount === 0 ? 0 : (state.page - 1) * state.pageSize + 1;
+  const end = totalCount === 0 ? 0 : start + pageCount - 1;
+  els.paginationStatus.textContent = `${start}-${end} / ${totalCount} 篇 · 第 ${state.page} / ${totalPages} 页`;
+  els.firstPage.disabled = state.page <= 1;
+  els.prevPage.disabled = state.page <= 1;
+  els.nextPage.disabled = state.page >= totalPages;
+  els.lastPage.disabled = state.page >= totalPages;
 }
 
 function matchesFilters(paper) {
