@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T06:19:29.761945+00:00",
+  "updated_at": "2026-06-02T23:11:09.825393+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -24060,7 +24060,7 @@
       "url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "pdf_url": "https://www.nature.com/articles/s41467-022-30049-5.pdf",
-      "citation_count": 87,
+      "citation_count": 88,
       "influential_citation_count": 2,
       "reference_count": 95,
       "references": [
@@ -24333,7 +24333,7 @@
       "url": "https://www.semanticscholar.org/paper/d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.834581/pdf",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 0,
       "reference_count": 140,
       "references": [
@@ -24837,7 +24837,7 @@
       "url": "https://www.semanticscholar.org/paper/8a2591782b80949d97f16828b59b919393852575",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8a2591782b80949d97f16828b59b919393852575",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01088-x.pdf",
-      "citation_count": 56,
+      "citation_count": 57,
       "influential_citation_count": 4,
       "reference_count": 89,
       "references": [
@@ -33941,7 +33941,7 @@
       "url": "https://www.semanticscholar.org/paper/9810da4e77127a0978b584ca58a1bf9d213960fa",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9810da4e77127a0978b584ca58a1bf9d213960fa",
       "pdf_url": "https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/1462-2920.14633",
-      "citation_count": 14,
+      "citation_count": 15,
       "influential_citation_count": 0,
       "reference_count": 64,
       "references": [],
@@ -36336,7 +36336,7 @@
       "url": "https://www.semanticscholar.org/paper/aa038f150253a8d1787a48a575136f1cb42c8c9d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/aa038f150253a8d1787a48a575136f1cb42c8c9d",
       "pdf_url": "https://doi.org/10.1101/124743",
-      "citation_count": 31,
+      "citation_count": 32,
       "influential_citation_count": 2,
       "reference_count": 167,
       "references": [
@@ -37148,7 +37148,7 @@
       "url": "https://www.semanticscholar.org/paper/0e841738307073b01c0428f7e04cb54f4b29a9f9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e841738307073b01c0428f7e04cb54f4b29a9f9",
       "pdf_url": "http://www.vliz.be/imisdocs/publications/23/301523.pdf",
-      "citation_count": 281,
+      "citation_count": 282,
       "influential_citation_count": 6,
       "reference_count": 53,
       "references": [
@@ -39554,7 +39554,76 @@
       "influential_citation_count": 1,
       "reference_count": 31,
       "references": [],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "a37e537ec73bbe9e0774750fa2ae9a9201c58617",
+          "title": "IMPROVING CARBON NANOTUBE SYNTHESIS BY THE REMOVAL OF AMORPHOUS CARBON",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Sevara G. Gulomjanova",
+            "Ilyos Kh",
+            "J. KhudaykulovIlyos"
+          ],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/a37e537ec73bbe9e0774750fa2ae9a9201c58617",
+          "citation_count": 0
+        },
+        {
+          "id": "53ae64fcfb4664459fefbfc99ccf9a555fec27e0",
+          "title": "Antifouling Polysulfone/Multi-Walled Carbon Nanotube/Terbium Oxide Nanocomposite Nanofiltration Membrane for Dye Removal Applications",
+          "year": 2026,
+          "journal": "Polymers",
+          "authors": [
+            "A. M. Alosaimi"
+          ],
+          "doi": "10.3390/polym18101165",
+          "url": "https://www.semanticscholar.org/paper/53ae64fcfb4664459fefbfc99ccf9a555fec27e0",
+          "citation_count": 0
+        },
+        {
+          "id": "e5a3095131545fc20b23a6005186a5a7a40e1a5f",
+          "title": "The Importance of Water for Puriﬁcation of Longer Carbon Nanotubes for Nanocomposite Applications",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "V. Mordkovich",
+            "M. A. Khaskov",
+            "V. A. Naumova"
+          ],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/e5a3095131545fc20b23a6005186a5a7a40e1a5f",
+          "citation_count": 0
+        },
+        {
+          "id": "2a42f38dace5bb2f8b1a2f8f1b9859da479fb6c2",
+          "title": "ENHANCING THE YIELD OF CARBON NANOTUBES THROUGH THE NANOCATALYST-SUBSTRATE INTERFACE",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Ilyos J. Abdisaidov",
+            "Sevara G. Gulomjanova",
+            "Ilyos Kh"
+          ],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/2a42f38dace5bb2f8b1a2f8f1b9859da479fb6c2",
+          "citation_count": 0
+        },
+        {
+          "id": "f8d29e96f4e99149ec288aedbaefc54cdb7455a3",
+          "title": "Synthesis of carbon nanotubes on stainless-steel wire substrates and their electrochemical characterization",
+          "year": 2026,
+          "journal": "Japanese Journal of Applied Physics",
+          "authors": [
+            "Kiyofumi Yamagiwa",
+            "R. Takahashi",
+            "Mitsuki Toguchi"
+          ],
+          "doi": "10.35848/1347-4065/ae6c31",
+          "url": "https://www.semanticscholar.org/paper/f8d29e96f4e99149ec288aedbaefc54cdb7455a3",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [],
       "publication_types": [],
       "tldr": "",
@@ -39565,7 +39634,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "11d07a452731e6bc4589a874eb514328b3536557",
@@ -39593,7 +39663,77 @@
       "influential_citation_count": 2,
       "reference_count": 59,
       "references": [],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "99340c33a8c205841e072798747ec610b68350fb",
+          "title": "Phytoplankton size structure and biogeochemical responses to nutrient enrichment in an oligotrophic coral reef",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Jorge L. Suarez-Caballero",
+            "Takashi Nakamura"
+          ],
+          "doi": "10.64898/2026.04.06.716629",
+          "url": "https://www.semanticscholar.org/paper/99340c33a8c205841e072798747ec610b68350fb",
+          "citation_count": 0
+        },
+        {
+          "id": "0fe2c8b8ecbbafa5554e2bf46f4db678e219b1ad",
+          "title": "Carbonate framework and sediment production across island-fringing coral reef habitats and a natural nutrient gradient",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "I. D. Lange",
+            "Marleen Stuhr",
+            "Chris T. Perry"
+          ],
+          "doi": "10.1038/s41598-026-49702-w",
+          "url": "https://www.semanticscholar.org/paper/0fe2c8b8ecbbafa5554e2bf46f4db678e219b1ad",
+          "citation_count": 0
+        },
+        {
+          "id": "86348739bc0839b7f709d75559112ee5b754648b",
+          "title": "Coral bleaching impacts cortisol levels of coral reef fishes",
+          "year": 2026,
+          "journal": "Coral reefs",
+          "authors": [
+            "E. Fakan",
+            "Mark I. McCormick",
+            "A. Dubuc"
+          ],
+          "doi": "10.1007/s00338-026-02875-2",
+          "url": "https://www.semanticscholar.org/paper/86348739bc0839b7f709d75559112ee5b754648b",
+          "citation_count": 0
+        },
+        {
+          "id": "13dc7152c76732c081a6cd9b3c27be8dc244677e",
+          "title": "The abundance, formation, and persistence of long sediment-laden algal turfs on Florida’s coral reef",
+          "year": 2026,
+          "journal": "Frontiers in Marine Science",
+          "authors": [
+            "Silvana Guzman",
+            "Mark C. Ladd",
+            "Victor Rodriguez-Ruano"
+          ],
+          "doi": "10.3389/fmars.2026.1792492",
+          "url": "https://www.semanticscholar.org/paper/13dc7152c76732c081a6cd9b3c27be8dc244677e",
+          "citation_count": 0
+        },
+        {
+          "id": "3846a28a41f5eca832c8bc7a80ba635c847e69bc",
+          "title": "Corals and Reef‐Dwelling Fish Regulate Carbon Storage and Cycling Processes in Coral Reef Ecosystems",
+          "year": 2026,
+          "journal": "Advancement of science",
+          "authors": [
+            "Yiting Chen",
+            "Wenliang Zhou",
+            "Lan Qiu"
+          ],
+          "doi": "10.1002/advs.202520612",
+          "url": "https://www.semanticscholar.org/paper/3846a28a41f5eca832c8bc7a80ba635c847e69bc",
+          "citation_count": 1
+        }
+      ],
       "fields_of_study": [
         "Biology"
       ],
@@ -39607,7 +39747,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "03e37d4ab9db66c73e5e121194cb33128fde961b",
@@ -39684,7 +39825,73 @@
           "doi": "10.1016/J.FEMSRE.2003.08.001"
         }
       ],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "505a604e210d7ce93ce6d625623548106948eaaf",
+          "title": "Community Metabolism and Nutrient Cycling in the Mississippi Community Metabolism and Nutrient Cycling in the Mississippi River Plume: Evidence for Intense Nitrification at Intermediate River Plume: Evidence for Intense Nitrification at Intermediate Salinities Salinities",
+          "year": null,
+          "journal": "",
+          "authors": [],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/505a604e210d7ce93ce6d625623548106948eaaf",
+          "citation_count": 0
+        },
+        {
+          "id": "26543d681e4e74e5b5f2d9ce808432ca2cec875e",
+          "title": "Living and nonliving particulate iron in the subtropical North Pacific Ocean",
+          "year": 2026,
+          "journal": "Biogeosciences",
+          "authors": [
+            "Eleanor S. Bates",
+            "Nicholas J. Hawco"
+          ],
+          "doi": "10.5194/bg-23-3059-2026",
+          "url": "https://www.semanticscholar.org/paper/26543d681e4e74e5b5f2d9ce808432ca2cec875e",
+          "citation_count": 0
+        },
+        {
+          "id": "4a40eecc3e4919ce6fccc76bc2649133e3200c25",
+          "title": "Particle lability drives degradation dynamics and bacterial community assembly during a Phaeocystis bloom decline",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "E. Romanelli",
+            "R. Stevens-Green",
+            "Carolina Cisternas-Novoa"
+          ],
+          "doi": "10.64898/2026.04.19.716305",
+          "url": "https://www.semanticscholar.org/paper/4a40eecc3e4919ce6fccc76bc2649133e3200c25",
+          "citation_count": 0
+        },
+        {
+          "id": "ffb9186c181b62fdea25f6b8151ad4076ef10389",
+          "title": "Changes in DOM Quality Determine Prokaryotic Activities and Extracellular Release in the NW Mediterranean Sea: An Experimental Approach",
+          "year": 2026,
+          "journal": "Environmental Microbiology Reports",
+          "authors": [
+            "Eva Ortega‐Retuerta",
+            "Nawal Bouchachi",
+            "Rebeca M Campos"
+          ],
+          "doi": "10.1111/1758-2229.70288",
+          "url": "https://www.semanticscholar.org/paper/ffb9186c181b62fdea25f6b8151ad4076ef10389",
+          "citation_count": 0
+        },
+        {
+          "id": "4d7b91df3f5680038a5f4c0ca0e4b0aa3b1f3ef9",
+          "title": "Bacteria as Passive Passengers in the Equatorial Pacific Biological Carbon Pump",
+          "year": 2026,
+          "journal": "Geophysical Research Letters",
+          "authors": [
+            "Jinqiang Guo",
+            "Huamao Yuan",
+            "Yao Gao"
+          ],
+          "doi": "10.1029/2025GL119613",
+          "url": "https://www.semanticscholar.org/paper/4d7b91df3f5680038a5f4c0ca0e4b0aa3b1f3ef9",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [
         "Geology",
         "Biology"
@@ -39697,7 +39904,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "c4aba7df8ac34a93c072ba15446dcd1e18d7886a",
@@ -39720,7 +39928,77 @@
       "influential_citation_count": 0,
       "reference_count": 44,
       "references": [],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "1e24504903b5123ab5362e85adb54d09921b2df7",
+          "title": "Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation",
+          "year": 2026,
+          "journal": "Communications Biology",
+          "authors": [
+            "Xieluyao Wei",
+            "K. Bashir",
+            "Xianrui Tian"
+          ],
+          "doi": "10.1038/s42003-026-10162-7",
+          "url": "https://www.semanticscholar.org/paper/1e24504903b5123ab5362e85adb54d09921b2df7",
+          "citation_count": 0
+        },
+        {
+          "id": "1e6e64e567f59f25f4c4e402415ad01074a86f07",
+          "title": "Surface slicks structure microbial and viral neuston in relation to biogeochemical conditions",
+          "year": 2026,
+          "journal": "Limnology and Oceanography",
+          "authors": [
+            "C. Peter",
+            "Helge‐Ansgar Giebel",
+            "Bingli Clark Chai"
+          ],
+          "doi": "10.1002/lno.70387",
+          "url": "https://www.semanticscholar.org/paper/1e6e64e567f59f25f4c4e402415ad01074a86f07",
+          "citation_count": 0
+        },
+        {
+          "id": "955d8e56c758121b7c2a2527ee89a8a3ee21621c",
+          "title": "Biodiversity, Distribution and Ecological Interactions of Algal‐Bacterial Biofilms in Wastewater Treatment Systems",
+          "year": 2026,
+          "journal": "Environmental Microbiology",
+          "authors": [
+            "Abigail Lin",
+            "Sayanti Ghosh",
+            "M. Kirs"
+          ],
+          "doi": "10.1111/1462-2920.70303",
+          "url": "https://www.semanticscholar.org/paper/955d8e56c758121b7c2a2527ee89a8a3ee21621c",
+          "citation_count": 0
+        },
+        {
+          "id": "359188d1e0a74d537b7d49c1f4ca878dde93d0f2",
+          "title": "Threshold responses of multi-trophic freshwater communities to browning and eutrophication",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "M. Lachapelle",
+            "I. Gregory‐Eaves",
+            "Susanne A. Kraemer"
+          ],
+          "doi": "10.64898/2026.04.22.719940",
+          "url": "https://www.semanticscholar.org/paper/359188d1e0a74d537b7d49c1f4ca878dde93d0f2",
+          "citation_count": 1
+        },
+        {
+          "id": "7881156b622ef1e893482344b9d47dd913a41a46",
+          "title": "Differential nitrogen assimilation by Microcystis and co-occurring plankton during harmful cyanobacterial blooms across North American Lakes",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "A. M. E. Famularo-Pecora",
+            "C. Gobler"
+          ],
+          "doi": "10.3389/fmicb.2026.1794100",
+          "url": "https://www.semanticscholar.org/paper/7881156b622ef1e893482344b9d47dd913a41a46",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [
         "Biology"
       ],
@@ -39733,7 +40011,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "06312e73057a1785c665508002575a8329d2fd9a",
@@ -39787,7 +40066,78 @@
           "doi": ""
         }
       ],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "e1825c6594a13fbb5e014535a4e56ee77510b078",
+          "title": "Calcium and Nitrogen Availability Controls Root Exudation in Hydroponically Cultured Barley",
+          "year": 2026,
+          "journal": "Plant, Cell &amp; Environment",
+          "authors": [
+            "Ibadete Denjali",
+            "Vijay Kumar",
+            "J. Janzen"
+          ],
+          "doi": "10.1111/pce.70528",
+          "url": "https://www.semanticscholar.org/paper/e1825c6594a13fbb5e014535a4e56ee77510b078",
+          "citation_count": 0
+        },
+        {
+          "id": "2907fd5698405895c2b0cd5aa8abeb63f67c4ac6",
+          "title": "Cytokinin N-conjugate Form Activity, Metabolism, and Signaling During Leaf Senescence",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Omar Hasannin",
+            "I. Petřík",
+            "Miroslav Strnad"
+          ],
+          "doi": "10.64898/2026.05.08.723873",
+          "url": "https://www.semanticscholar.org/paper/2907fd5698405895c2b0cd5aa8abeb63f67c4ac6",
+          "citation_count": 0
+        },
+        {
+          "id": "1a77a140fd82ca92a10366f1f58b9cab658d76ab",
+          "title": "Multi‐Omics Reveals Mechanisms of Amino Acid Metabolism in Response to Saline–Alkali Stress in Oat Cultivars With Contrasting Tolerance",
+          "year": 2026,
+          "journal": "Physiologia Plantarum : An International Journal for Plant Biology",
+          "authors": [
+            "Lei Ling",
+            "S. Xing",
+            "Jia Li"
+          ],
+          "doi": "10.1111/ppl.70929",
+          "url": "https://www.semanticscholar.org/paper/1a77a140fd82ca92a10366f1f58b9cab658d76ab",
+          "citation_count": 0
+        },
+        {
+          "id": "673d0a3f81c4f95d3141cd2887952ca36e342b72",
+          "title": "Tomato Yellow Leaf Curl Virus Reprograms Polyamine Metabolism in Bemisia tabaci MED to Enhance Viral DNA Accumulation",
+          "year": 2026,
+          "journal": "Molecules",
+          "authors": [
+            "Zitong Sang",
+            "Haolin Han",
+            "Fangfang Qi"
+          ],
+          "doi": "10.3390/molecules31111835",
+          "url": "https://www.semanticscholar.org/paper/673d0a3f81c4f95d3141cd2887952ca36e342b72",
+          "citation_count": 0
+        },
+        {
+          "id": "7bd72c1572b18151ff8eb8e509e02710d10bd481",
+          "title": "Kog1 Represses Lipid Accumulation in Mucor circinelloides: A Transcriptomic Analysis Across Nitrogen Conditions",
+          "year": 2026,
+          "journal": "Journal of Fungi",
+          "authors": [
+            "Zhen Wang",
+            "Ying Gao",
+            "Wenrui Dang"
+          ],
+          "doi": "10.3390/jof12040266",
+          "url": "https://www.semanticscholar.org/paper/7bd72c1572b18151ff8eb8e509e02710d10bd481",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [
         "Medicine",
         "Biology"
@@ -39804,7 +40154,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "421bda7c80fb3fae55fb7df096f2ba3ea1b83f63",
@@ -39826,7 +40177,75 @@
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "acb561438c1edeaa9c045c456f0a28570715ed02",
+          "title": "ENHANCEMENT OF THE IMMUNOGENICITY OF INFLUENZA B VIRUS HEMAGGLUTININ EXPRESSED BY AN ADENOVIRAL VECTOR BY MODIFYING THE CYTOPLASMIC DOMAIN",
+          "year": 2025,
+          "journal": "XII Международная конференция молодых ученых: биоинформатиков, биотехнологов, биофизиков, вирусологов, молекулярных биологов и специалистов фундаментальной медицины — 2025 : сб. тез.",
+          "authors": [
+            "K. A. Pervoykina"
+          ],
+          "doi": "10.25205/978-5-4437-1843-9-110",
+          "url": "https://www.semanticscholar.org/paper/acb561438c1edeaa9c045c456f0a28570715ed02",
+          "citation_count": 0
+        },
+        {
+          "id": "2961a6db58f3f47343d01d0c5c894dfb3c0058c3",
+          "title": "DELIVERY OF MRNA ENCODING HEMAGGLUTININ OF HIGHLY PATHOGENIC AVIAN INFLUENZA VIRUS SUBTYPE A/H5NX USING LIPID NANOPARTICLES",
+          "year": 2025,
+          "journal": "XII Международная конференция молодых ученых: биоинформатиков, биотехнологов, биофизиков, вирусологов, молекулярных биологов и специалистов фундаментальной медицины — 2025 : сб. тез.",
+          "authors": [
+            "V. A. Yakovlev",
+            "V. R. Litvinova",
+            "E. V. Tigeeva"
+          ],
+          "doi": "10.25205/978-5-4437-1843-9-156",
+          "url": "https://www.semanticscholar.org/paper/2961a6db58f3f47343d01d0c5c894dfb3c0058c3",
+          "citation_count": 0
+        },
+        {
+          "id": "e6811700a760e9b41211a11d93af7ea71b3e20d9",
+          "title": "Organizing the interface—Plasma membrane architecture and receptor dynamics in virus‐cell interactions",
+          "year": 2026,
+          "journal": "FEBS Letters",
+          "authors": [
+            "Jan Schlegel",
+            "Christian Sieben"
+          ],
+          "doi": "10.1002/1873-3468.70347",
+          "url": "https://www.semanticscholar.org/paper/e6811700a760e9b41211a11d93af7ea71b3e20d9",
+          "citation_count": 0
+        },
+        {
+          "id": "f167fe6b9262c9202a103afb6300aa4ffd3b60d1",
+          "title": "Targeted liposomes for cytosolic drug delivery to tumor cells",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "E. Mastrobattista",
+            "G. Koning",
+            "L. Bloois"
+          ],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/f167fe6b9262c9202a103afb6300aa4ffd3b60d1",
+          "citation_count": 0
+        },
+        {
+          "id": "dfdbc37f2b5d0aa3c884bd3a521db78f87a8151d",
+          "title": "Host cell plasma membrane-derived vesicles efficiently inhibit in vitro Influenza A virus infection in a size-dependent manner",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Bushra Qazi",
+            "Vaishali Vishwakarma",
+            "Vishal Kumar"
+          ],
+          "doi": "10.64898/2026.05.03.722494",
+          "url": "https://www.semanticscholar.org/paper/dfdbc37f2b5d0aa3c884bd3a521db78f87a8151d",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [
         "Medicine",
         "Biology"
@@ -39841,7 +40260,8 @@
         "sediment",
         "virus"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "4320f293b88cd609c911e6dfb8565977dd6d4ad6",
@@ -39889,7 +40309,78 @@
           "doi": ""
         }
       ],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "f44dbb2ede2d0b7c2116feb32a836503c3858078",
+          "title": "Snake Kolmiovirus Encodes a Single Form of Delta Antigen and Shows No Evidence of Translation from Open Reading Frame 2",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Leonóra Szirovicza",
+            "U. Hetzel",
+            "T. Strandin"
+          ],
+          "doi": "10.64898/2026.04.10.717655",
+          "url": "https://www.semanticscholar.org/paper/f44dbb2ede2d0b7c2116feb32a836503c3858078",
+          "citation_count": 0
+        },
+        {
+          "id": "64965e454605dd58915d171d3d8a5b753167b7fb",
+          "title": "Genotype IX Newcastle disease virus isolated from wild birds is attenuated by hemagglutinin-neuraminidase mutation",
+          "year": 2026,
+          "journal": "Journal of Virology",
+          "authors": [
+            "K. Lu",
+            "Lina Tong",
+            "Prince-Théodore Daguia-Wenam"
+          ],
+          "doi": "10.1128/jvi.00071-26",
+          "url": "https://www.semanticscholar.org/paper/64965e454605dd58915d171d3d8a5b753167b7fb",
+          "citation_count": 0
+        },
+        {
+          "id": "8f276f7acfa346539b6aea3ef34f674d195163da",
+          "title": "Rapid differentiation of genotype I and new recombinant variant of African swine fever virus (Asfarviridae: Asfivirus) using real-time PCR",
+          "year": 2026,
+          "journal": "Problems of virology",
+          "authors": [
+            "R. Chernyshev",
+            "E. Morozova",
+            "A. S. Sadchikova"
+          ],
+          "doi": "10.36233/0507-4088-361",
+          "url": "https://www.semanticscholar.org/paper/8f276f7acfa346539b6aea3ef34f674d195163da",
+          "citation_count": 0
+        },
+        {
+          "id": "48fb670a97fe3c86f814ba326cb03850f40a8a04",
+          "title": "STUDY OF THE INTRAVENOUS PATHOGENICITY INDEX OF THE AVIAN INFLUENZA VIRUS ISOLATE A/CYGNUS CYGNUS/KARAKOL LAKE/01/2024",
+          "year": 2026,
+          "journal": "Biosafety and Biotechnology",
+          "authors": [
+            "A. Mailybayeva",
+            "N. Akmyrzayev",
+            "A. M. Sagimbayeva"
+          ],
+          "doi": "10.58318/2957-5702-2025-24-4-10",
+          "url": "https://www.semanticscholar.org/paper/48fb670a97fe3c86f814ba326cb03850f40a8a04",
+          "citation_count": 0
+        },
+        {
+          "id": "bec80c44155399042e34aefa949ce29d57a34783",
+          "title": "Isolation, characterization and sequence determination of Noda virus from sea bass",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Ε. Ξυλούρη",
+            "Κοτξαμάνης",
+            "4 Φ.Αθανασοπούλου"
+          ],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/bec80c44155399042e34aefa949ce29d57a34783",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [
         "Medicine",
         "Biology"
@@ -39906,7 +40397,8 @@
         "sulfur",
         "virus"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "0debc968be15d85f977e0e1d7eaf539f633ef9d8",
@@ -39931,7 +40423,72 @@
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "942481abc04d1c57934864a6ca6517e2537de2fa",
+          "title": "The Multifaceted Nature of the Genus\n Didymella\n Within the Didymellaceae Family: Threats to Global Crops and Its Significance in Medical and Agricultural Applications",
+          "year": 2026,
+          "journal": "PhytoFrontiers™",
+          "authors": [
+            "Xinpeng Zhang",
+            "Tongtong Chen",
+            "Wenjing Xie"
+          ],
+          "doi": "10.1094/phytofr-10-25-0116-rvw",
+          "url": "https://www.semanticscholar.org/paper/942481abc04d1c57934864a6ca6517e2537de2fa",
+          "citation_count": 0
+        },
+        {
+          "id": "68fb4268b240d1c7fb15e89267f90502870b8fd1",
+          "title": "MYCORRHIZAE: FACTS AND FALLACIES",
+          "year": null,
+          "journal": "",
+          "authors": [],
+          "doi": "",
+          "url": "https://www.semanticscholar.org/paper/68fb4268b240d1c7fb15e89267f90502870b8fd1",
+          "citation_count": 0
+        },
+        {
+          "id": "fb10f21a8bc0e3378e666b1dd860695dced762ef",
+          "title": "The 50 most researched fungal and oomycete plant pathogens",
+          "year": 2026,
+          "journal": "Fungal diversity",
+          "authors": [
+            "Sajeewa S. N. Maharachchikumbura"
+          ],
+          "doi": "10.65390/fdiv.2026.136004",
+          "url": "https://www.semanticscholar.org/paper/fb10f21a8bc0e3378e666b1dd860695dced762ef",
+          "citation_count": 0
+        },
+        {
+          "id": "ba26b6c17e03d5b2b24536c54c58d3824024ad65",
+          "title": "Selection of beneficial fungi for plants with the potential to metabolize lunar and Martian regolith",
+          "year": 2026,
+          "journal": "Frontiers in Astronomy and Space Sciences",
+          "authors": [
+            "J. Oliveira",
+            "Rafael Loureiro",
+            "Andrew Palmer"
+          ],
+          "doi": "10.3389/fspas.2026.1784533",
+          "url": "https://www.semanticscholar.org/paper/ba26b6c17e03d5b2b24536c54c58d3824024ad65",
+          "citation_count": 0
+        },
+        {
+          "id": "c2118e66c5cb94009128f79223a1a29e136b6715",
+          "title": "Role of Nematodes in Soil Health",
+          "year": 2026,
+          "journal": "International Journal of Scientific Research Studies",
+          "authors": [
+            "Aji, M. B",
+            "Kabiru, I.,",
+            "I. Umar"
+          ],
+          "doi": "10.58806/ijsrs.2026.v3i5n06",
+          "url": "https://www.semanticscholar.org/paper/c2118e66c5cb94009128f79223a1a29e136b6715",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [],
       "publication_types": [
         "Review"
@@ -39947,7 +40504,8 @@
         "sulfur",
         "virus"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     },
     {
       "id": "87f05f948809d138593479fe44c19a83ae606979",
@@ -39971,7 +40529,77 @@
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "1e24504903b5123ab5362e85adb54d09921b2df7",
+          "title": "Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation",
+          "year": 2026,
+          "journal": "Communications Biology",
+          "authors": [
+            "Xieluyao Wei",
+            "K. Bashir",
+            "Xianrui Tian"
+          ],
+          "doi": "10.1038/s42003-026-10162-7",
+          "url": "https://www.semanticscholar.org/paper/1e24504903b5123ab5362e85adb54d09921b2df7",
+          "citation_count": 0
+        },
+        {
+          "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
+          "title": "Divergent successional patterns and infection dynamics in virion and transcriptionally active soil viral communities following phosphorus amendment and wet-up",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Grant Gogul",
+            "G. M. Allen",
+            "Ikaia Leleiwi"
+          ],
+          "doi": "10.64898/2026.04.11.717596",
+          "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
+          "citation_count": 0
+        },
+        {
+          "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
+          "title": "Active microbial communities and their extrachromosomal elements link organic matter degradation to methane cycling in anoxic sediments",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Bledina Dede",
+            "H.S. Zehnle",
+            "Emilie J. Skoog"
+          ],
+          "doi": "10.64898/2026.04.10.716911",
+          "url": "https://www.semanticscholar.org/paper/fc192390499ad7e6c6111d703eaf0739ab23a6e5",
+          "citation_count": 0
+        },
+        {
+          "id": "84f61fc8facd41009bd9ca97c5af91557c796e43",
+          "title": "Ammonia oxidation and recalcitrant carbon degradation fuel mixotrophic growth in the symbiont community of a deep-sea sponge",
+          "year": 2026,
+          "journal": "Microbiome",
+          "authors": [
+            "Alessandro N. Garritano",
+            "Lilian J. Hill",
+            "Bárbara Ribeiro"
+          ],
+          "doi": "10.1186/s40168-026-02411-y",
+          "url": "https://www.semanticscholar.org/paper/84f61fc8facd41009bd9ca97c5af91557c796e43",
+          "citation_count": 0
+        },
+        {
+          "id": "aa64c758b51ef84f2c2168e9488666f0938077ce",
+          "title": "Source-Dependent Structuring of Hydrogen-Oxidising Bacterial Community Composition During Enrichment and Isolation from Freshwater Environments",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "E. Ozbayram",
+            "M. Nikolausz"
+          ],
+          "doi": "10.3390/microorganisms14061221",
+          "url": "https://www.semanticscholar.org/paper/aa64c758b51ef84f2c2168e9488666f0938077ce",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [],
       "publication_types": [],
       "tldr": "It is demonstrated that following carbon facilitates identiﬁcation of discrete host-virus interactions within the complex soil environment.",
@@ -39982,7 +40610,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00"
+      "detail_enriched_at": "2026-06-02T05:49:19.461260+00:00",
+      "edges_enriched_at": "2026-06-02T23:10:39.860956+00:00"
     }
   ]
 }
