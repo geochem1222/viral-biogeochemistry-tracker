@@ -29,7 +29,7 @@
           <p class="eyebrow">自动更新的研究文献表</p>
           <h1>病毒、噬菌体与 AMGs 如何改写碳氮硫磷循环？</h1>
           <p class="lead">
-            聚焦病毒生态学、噬菌体辅助代谢基因、微生物驱动的生源要素循环，以及海洋、土壤、沉积物等生态系统中的生物地球化学过程。默认从 OpenAlex 与 Crossref 检索，PubMed 可作为补充。
+            聚焦病毒生态学、噬菌体辅助代谢基因、微生物驱动的生源要素循环，以及土壤、水体、沉积物等生态系统中的生物地球化学过程。默认使用 Semantic Scholar 检索与回填引用、参考文献和相似文章。
           </p>
         </div>
         <aside class="hero-panel" aria-label="追踪状态">
@@ -44,7 +44,7 @@
           </div>
           <div>
             <p class="panel-label">数据来源</p>
-            <strong id="source-count">OpenAlex + Crossref</strong>
+            <strong id="source-count">Semantic Scholar</strong>
           </div>
         </aside>
       </section>
@@ -124,7 +124,15 @@
       <section class="paper-list" aria-live="polite">
         <div class="list-header">
           <h2>最新论文表格</h2>
-          <p id="result-count">正在读取数据</p>
+          <div class="list-tools">
+            <p id="result-count">正在读取数据</p>
+            <label for="page-size">每页</label>
+            <select id="page-size" aria-label="每页显示论文数">
+              <option value="25">25</option>
+              <option value="50" selected>50</option>
+              <option value="100">100</option>
+            </select>
+          </div>
         </div>
         <div class="table-wrap">
           <table>
@@ -143,6 +151,13 @@
             <tbody id="papers-body"></tbody>
           </table>
         </div>
+        <nav class="pagination" aria-label="论文分页">
+          <button id="first-page" type="button">首页</button>
+          <button id="prev-page" type="button">上一页</button>
+          <span id="pagination-status">0-0 / 0 篇 · 第 1 / 1 页</span>
+          <button id="next-page" type="button">下一页</button>
+          <button id="last-page" type="button">末页</button>
+        </nav>
         <p id="empty-state" class="empty-state" hidden>没有匹配的论文，换一个关键词试试。</p>
       </section>
     </main>

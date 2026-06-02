@@ -31,7 +31,7 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch latest papers from Semantic Scholar
-        run: python scripts/update_papers.py --retmax 5000 --sources semantic --semantic-search-mode bulk --merge-existing --semantic-enrich-limit 5000 --similar-limit 120 --similar-per-paper 5 --email "${{ vars.CONTACT_EMAIL }}" --semantic-api-key "${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}"
+        run: python scripts/update_papers.py --retmax 5000 --daily-retmax 800 --cache-days 30 --sources semantic --semantic-search-mode bulk --merge-existing --semantic-enrich-limit 5000 --similar-limit 120 --similar-per-paper 5 --email "${{ vars.CONTACT_EMAIL }}" --semantic-api-key "${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}"
 
       - name: Commit updated data
         run: |

@@ -15,6 +15,9 @@ from pathlib import Path
 from typing import Any
 
 
+FULL_LIBRARY_TARGET = 5000
+DEFAULT_DAILY_CANDIDATES = 800
+DEFAULT_CACHE_DAYS = 30
 PUBMED_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 OPENALEX_BASE = "https://api.openalex.org/works"
 CROSSREF_BASE = "https://api.crossref.org/works"
@@ -157,6 +160,27 @@ AND
   OR "sulfate reduction" OR phosphate
 )
 """.replace("\n", " ")
+
+SEMANTIC_BULK_QUERIES = [
+    "viral biogeochemistry",
+    "phage biogeochemistry",
+    "virome biogeochemistry",
+    "auxiliary metabolic genes biogeochemistry",
+    "virus auxiliary metabolic genes carbon",
+    "viral auxiliary metabolic genes nitrogen",
+    "phage auxiliary metabolic genes sulfur",
+    "soil virus carbon nitrogen",
+    "soil phage carbon nitrogen",
+    "soil virome carbon nitrogen",
+    "water virus carbon nitrogen",
+    "freshwater phage biogeochemistry",
+    "lake virus methane",
+    "sediment phage sulfur",
+    "sediment virus phosphorus",
+    "wetland virus methane biogeochemistry",
+    "river virus biogeochemistry",
+    "stream phage biogeochemistry",
+]
 
 PUBMED_QUERY = """
 (
@@ -457,35 +481,42 @@ def fetch_semantic_scholar_bulk(
             "openAccessPdf",
             "fieldsOfStudy",
             "publicationTypes",
-            "tldr",
         ]
     )
-    token = ""
+    per_query_target = max(100, retmax // max(1, len(SEMANTIC_BULK_QUERIES)) + 100)
     papers: list[dict[str, Any]] = []
-    while len(papers) < retmax:
-        params: dict[str, str | int] = {
-            "query": SEMANTIC_BULK_QUERY,
-            "fields": fields,
-            "limit": min(1000, retmax - len(papers)),
-            "sort": "publicationDate:desc",
-        }
-        if token:
-            params["token"] = token
-        try:
-            data = request_json(SEMANTIC_SCHOLAR_BULK_BASE, params, email, api_key)
-        except urllib.error.HTTPError as error:
-            print(f"Semantic Scholar bulk search failed: {error}")
+    for query in SEMANTIC_BULK_QUERIES:
+        token = ""
+        query_count = 0
+        while len(papers) < retmax and query_count < per_query_target:
+            limit = min(1000, retmax - len(papers), per_query_target - query_count)
+            params: dict[str, str | int] = {
+                "query": query,
+                "fields": fields,
+                "limit": limit,
+                "sort": "publicationDate:desc",
+            }
+            if token:
+                params["token"] = token
+            try:
+                data = request_json(SEMANTIC_SCHOLAR_BULK_BASE, params, email, api_key)
+            except urllib.error.HTTPError as error:
+                print(f"Semantic Scholar bulk search failed for query '{query}': {error}")
+                break
+            items = data.get("data", [])
+            batch = [
+                enrich_query_tags(paper, classify(query))
+                for paper in (parse_semantic_scholar_paper(item) for item in items)
+                if paper and is_relevant(paper)
+            ]
+            papers.extend(batch)
+            query_count += len(items)
+            token = data.get("token") or ""
+            if not token or not items:
+                break
+            time.sleep(0.35 if api_key else 1.05)
+        if len(papers) >= retmax:
             break
-        batch = [
-            paper
-            for paper in (parse_semantic_scholar_paper(item) for item in data.get("data", []))
-            if paper and is_relevant(paper)
-        ]
-        papers.extend(batch)
-        token = data.get("token") or ""
-        if not token or not data.get("data"):
-            break
-        time.sleep(0.35 if api_key else 1.05)
     return papers[:retmax]
 
 
@@ -510,6 +541,7 @@ def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
         "publication_date": publication_date,
         "abstract": abstract,
         "url": item.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
+        "semantic_scholar_url": item.get("url", ""),
         "pdf_url": open_pdf.get("url", ""),
         "citation_count": item.get("citationCount", 0),
         "influential_citation_count": item.get("influentialCitationCount", 0),
@@ -557,11 +589,14 @@ def enrich_with_semantic_metadata(
     email: str | None,
     api_key: str | None,
     limit: int | None = None,
+    cache_days: int = DEFAULT_CACHE_DAYS,
 ) -> list[dict[str, Any]]:
+    now = utc_now()
     candidates = [
         paper
         for paper in papers
-        if paper.get("doi") or paper.get("pmid")
+        if (paper.get("doi") or paper.get("pmid") or paper.get("semantic_scholar_id") or paper.get("id"))
+        and not is_recently_enriched(paper, "detail_enriched_at", cache_days, now)
     ]
     if limit:
         candidates = candidates[:limit]
@@ -589,7 +624,7 @@ def enrich_with_semantic_metadata(
         for lookup_id, result in zip(batch_ids, results if isinstance(results, list) else []):
             if not result:
                 continue
-            apply_semantic_metadata(by_lookup_id[lookup_id], result)
+            apply_semantic_metadata(by_lookup_id[lookup_id], result, now)
         time.sleep(0.35 if api_key else 1.05)
 
     return papers
@@ -607,7 +642,7 @@ def semantic_lookup_id(paper: dict[str, Any]) -> str:
     return ""
 
 
-def apply_semantic_metadata(paper: dict[str, Any], item: dict[str, Any]) -> None:
+def apply_semantic_metadata(paper: dict[str, Any], item: dict[str, Any], enriched_at: datetime | None = None) -> None:
     external_ids = item.get("externalIds") or {}
     open_pdf = item.get("openAccessPdf") or {}
     doi = normalize_doi(external_ids.get("DOI", ""))
@@ -627,6 +662,7 @@ def apply_semantic_metadata(paper: dict[str, Any], item: dict[str, Any]) -> None
         paper["pmid"] = external_ids["PubMed"]
     if open_pdf.get("url"):
         paper["pdf_url"] = open_pdf["url"]
+    paper["detail_enriched_at"] = format_timestamp(enriched_at or utc_now())
 
 
 def parse_semantic_references(references: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
@@ -653,14 +689,17 @@ def enrich_with_semantic_recommendations(
     api_key: str | None,
     limit: int,
     per_paper: int,
+    cache_days: int = DEFAULT_CACHE_DAYS,
 ) -> list[dict[str, Any]]:
     if limit <= 0 or per_paper <= 0:
         return papers
 
+    now = utc_now()
     candidates = [
         paper
         for paper in papers
-        if paper.get("semantic_scholar_id") or paper.get("id", "").startswith("S2")
+        if (paper.get("semantic_scholar_id") or paper.get("id", "").startswith("S2"))
+        and not is_recently_enriched(paper, "edges_enriched_at", cache_days, now)
     ][:limit]
     fields = ",".join(["paperId", "title", "year", "venue", "authors", "externalIds", "url", "citationCount"])
 
@@ -679,6 +718,7 @@ def enrich_with_semantic_recommendations(
             continue
         recommended = result.get("recommendedPapers", []) if isinstance(result, dict) else []
         paper["similar_papers"] = parse_semantic_recommended_papers(recommended, paper_id)
+        paper["edges_enriched_at"] = format_timestamp(now)
         time.sleep(0.35 if api_key else 1.05)
 
     return papers
@@ -885,15 +925,106 @@ def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
 
 
 def deduplicate(papers: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    seen: set[str] = set()
+    by_key: dict[str, dict[str, Any]] = {}
     unique: list[dict[str, Any]] = []
     for paper in sorted(papers, key=lambda item: item.get("publication_date", ""), reverse=True):
         key = paper_key(paper)
-        if key in seen:
+        if key in by_key:
+            merge_paper_records(by_key[key], paper)
             continue
-        seen.add(key)
+        by_key[key] = paper
         unique.append(paper)
     return unique
+
+
+def merge_paper_records(target: dict[str, Any], incoming: dict[str, Any]) -> None:
+    target["tags"] = sorted(set(target.get("tags", []) + incoming.get("tags", [])))
+
+    for field in ["authors", "fields_of_study", "publication_types"]:
+        if not target.get(field) and incoming.get(field):
+            target[field] = incoming[field]
+
+    for field in ["references", "similar_papers"]:
+        if len(incoming.get(field, []) or []) > len(target.get(field, []) or []):
+            target[field] = incoming[field]
+
+    for field in ["citation_count", "influential_citation_count", "reference_count"]:
+        target[field] = max(safe_int(target.get(field)), safe_int(incoming.get(field)))
+
+    for field in [
+        "id",
+        "semantic_scholar_id",
+        "semantic_scholar_url",
+        "source",
+        "pmid",
+        "doi",
+        "title",
+        "journal",
+        "publication_date",
+        "abstract",
+        "url",
+        "pdf_url",
+        "metrics_source",
+        "tldr",
+    ]:
+        if incoming.get(field) and not target.get(field):
+            target[field] = incoming[field]
+
+    for field in ["detail_enriched_at", "edges_enriched_at"]:
+        if is_newer_timestamp(incoming.get(field), target.get(field)):
+            target[field] = incoming[field]
+
+
+def utc_now() -> datetime:
+    return datetime.now(timezone.utc)
+
+
+def format_timestamp(value: datetime) -> str:
+    return value.astimezone(timezone.utc).isoformat()
+
+
+def parse_timestamp(value: Any) -> datetime | None:
+    if not value:
+        return None
+    try:
+        text_value = str(value).replace("Z", "+00:00")
+        parsed = datetime.fromisoformat(text_value)
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        return parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def is_recently_enriched(
+    paper: dict[str, Any],
+    field: str,
+    cache_days: int,
+    now: datetime | None = None,
+) -> bool:
+    if cache_days <= 0:
+        return False
+    timestamp = parse_timestamp(paper.get(field))
+    if not timestamp:
+        return False
+    current_time = now or utc_now()
+    age = current_time - timestamp
+    return age.days < cache_days
+
+
+def is_newer_timestamp(left: Any, right: Any) -> bool:
+    left_time = parse_timestamp(left)
+    right_time = parse_timestamp(right)
+    if not left_time:
+        return False
+    return not right_time or left_time > right_time
+
+
+def safe_int(value: Any) -> int:
+    try:
+        return int(value or 0)
+    except (TypeError, ValueError):
+        return 0
 
 
 def enrich_query_tags(paper: dict[str, Any], query_tags: list[str]) -> dict[str, Any]:
@@ -1073,7 +1204,19 @@ def load_existing_papers(output: Path) -> list[dict[str, Any]]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--retmax", type=int, default=160)
+    parser.add_argument("--retmax", type=int, default=FULL_LIBRARY_TARGET)
+    parser.add_argument(
+        "--daily-retmax",
+        type=int,
+        default=DEFAULT_DAILY_CANDIDATES,
+        help="Fresh candidates to fetch once the local cache has reached retmax.",
+    )
+    parser.add_argument(
+        "--cache-days",
+        type=int,
+        default=DEFAULT_CACHE_DAYS,
+        help="Days to reuse Semantic Scholar detail and recommendation metadata.",
+    )
     parser.add_argument("--email", default=None)
     parser.add_argument("--output", default="data/papers.json")
     parser.add_argument(
@@ -1121,21 +1264,28 @@ def main() -> None:
 
     output = Path(args.output)
     sources = [source.strip().lower() for source in args.sources.split(",") if source.strip()]
+    existing_papers = load_existing_papers(output) if args.merge_existing else []
+    fetch_retmax = args.retmax
+    if args.merge_existing and len(existing_papers) >= args.retmax:
+        fetch_retmax = min(args.daily_retmax, args.retmax)
+    elif args.merge_existing:
+        fetch_retmax = args.retmax
+
     all_papers: list[dict[str, Any]] = []
     if "semantic" in sources or "semanticscholar" in sources:
         if args.semantic_search_mode == "bulk":
-            all_papers.extend(fetch_semantic_scholar_bulk(args.retmax, args.email, args.semantic_api_key))
+            all_papers.extend(fetch_semantic_scholar_bulk(fetch_retmax, args.email, args.semantic_api_key))
         else:
-            all_papers.extend(fetch_semantic_scholar(args.retmax, args.email, args.semantic_api_key, args.query_limit))
+            all_papers.extend(fetch_semantic_scholar(fetch_retmax, args.email, args.semantic_api_key, args.query_limit))
     if "openalex" in sources:
-        all_papers.extend(fetch_openalex(args.retmax, args.email, args.query_limit))
+        all_papers.extend(fetch_openalex(fetch_retmax, args.email, args.query_limit))
     if "crossref" in sources:
-        all_papers.extend(fetch_crossref(args.retmax, args.email, args.query_limit))
+        all_papers.extend(fetch_crossref(fetch_retmax, args.email, args.query_limit))
     if "pubmed" in sources:
-        all_papers.extend(fetch_pubmed(max(20, args.retmax // 2), args.email))
+        all_papers.extend(fetch_pubmed(max(20, fetch_retmax // 2), args.email))
 
     if args.merge_existing:
-        all_papers.extend(load_existing_papers(output))
+        all_papers.extend(existing_papers)
 
     papers = deduplicate(all_papers)[: args.retmax]
     if not args.skip_semantic_enrichment:
@@ -1144,6 +1294,7 @@ def main() -> None:
             args.email,
             args.semantic_api_key,
             args.semantic_enrich_limit,
+            args.cache_days,
         )
         papers = enrich_with_semantic_recommendations(
             papers,
@@ -1151,6 +1302,7 @@ def main() -> None:
             args.semantic_api_key,
             args.similar_limit,
             args.similar_per_paper,
+            args.cache_days,
         )
     if not papers and output.exists():
         print("No fresh papers were fetched; keeping the existing data file.")
