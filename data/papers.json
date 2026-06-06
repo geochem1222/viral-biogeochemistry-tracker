@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T22:36:47.697502+00:00",
+  "updated_at": "2026-06-06T22:18:52.931854+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -9473,6 +9473,124 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
+      "id": "14c65b4abb15d30a020d53bf0077744de8630754",
+      "semantic_scholar_id": "14c65b4abb15d30a020d53bf0077744de8630754",
+      "source": "Semantic Scholar",
+      "pmid": "41114005",
+      "doi": "10.1093/ismeco/ycaf164",
+      "title": "Environmental gradients shape viral-host dynamics in the Pearl River estuary",
+      "authors": [
+        "Ruixian Sun",
+        "Wenqian Xu",
+        "Yangbing Xu",
+        "Zhimeng Xu",
+        "Yehui Tan",
+        "Jiying Li",
+        "Hongbin Liu",
+        "C. Yung"
+      ],
+      "journal": "ISME Communications",
+      "publication_date": "2025-01-01",
+      "abstract": "Abstract Marine viruses play critical roles in shaping microbial communities and driving biogeochemical cycles, yet their dynamics in estuarine systems are not well characterized. Here, we conducted a comprehensive metagenomic analysis of viral communities and virus-host interactions across the Pearl River estuary, a dynamic subtropical estuary in southern China. Using 24 metagenomic libraries from eight sampling sites, we identified 29,952 viral populations, with Uroviricota and potential Uroviricota accounted for 80.48% of taxa, underscoring their ecological importance. A key finding of our integrated analysis is the unexpectedly high abundance of nucleocytoplasmic large DNA viruses in offshore waters, which suggests a more significant role for eukaryotic viruses in coastal ecosystems than previously acknowledged and correlates with elevated levels of their eukaryotic hosts. Environmental variables, particularly salinity and nutrient availability, emerged as key drivers of viral and host distribution patterns. By linking environmental gradients to distinct community “envirotypes” and their underlying genomic features, we revealed novel virus-host interactions and highlighted the impact of environmental gradients on microbial ecology. Additionally, viral auxiliary metabolic genes linked to phosphorus and nitrogen metabolism suggest critical roles in modulating host metabolic pathways and influencing nutrient cycling. Our findings demonstrate how spatial heterogeneity and environmental gradients shape viral and microbial ecology in estuarine ecosystems. Our findings provide a holistic, multi-domain view of microbial and viral ecology, demonstrating how integrating prokaryotic, eukaryotic, and viral community analyses offers a more complete understanding of ecosystem function in these critical transition zones.",
+      "url": "https://www.semanticscholar.org/paper/14c65b4abb15d30a020d53bf0077744de8630754",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/14c65b4abb15d30a020d53bf0077744de8630754",
+      "pdf_url": "",
+      "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "45d337499ef19b8af494753db9706e01d14558be",
+          "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "Wenqing Shi",
+            "Lu Liu",
+            "Lilin Wu"
+          ],
+          "doi": "10.1128/msystems.00354-26",
+          "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
+          "citation_count": 0
+        },
+        {
+          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
+          "year": 2026,
+          "journal": "Molecular Ecology",
+          "authors": [
+            "Zong Li",
+            "Minglei Ren",
+            "Ang Hu"
+          ],
+          "doi": "10.1111/mec.70367",
+          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "citation_count": 0
+        },
+        {
+          "id": "b004d5a1d555a3ac4826c9b28281b1918731e1cb",
+          "title": "Environmental drivers of bacterial diversity, distribution, and predicted metabolic potential in Hainan Island mangrove sediments",
+          "year": 2026,
+          "journal": "Frontiers in Marine Science",
+          "authors": [
+            "Fangyan Jiang",
+            "Wenxin Yuan",
+            "Bin Wei"
+          ],
+          "doi": "10.3389/fmars.2026.1835798",
+          "url": "https://www.semanticscholar.org/paper/b004d5a1d555a3ac4826c9b28281b1918731e1cb",
+          "citation_count": 0
+        },
+        {
+          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
+          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay",
+          "year": 2026,
+          "journal": "Scientific Data",
+          "authors": [
+            "Songze Chen",
+            "Shuaishuai Xu",
+            "Zaini Muhammad"
+          ],
+          "doi": "10.1038/s41597-026-07491-x",
+          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
+          "citation_count": 0
+        },
+        {
+          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
+          "year": 2026,
+          "journal": "Viruses",
+          "authors": [
+            "Zijia Wang",
+            "Zongminghan Liu",
+            "Juntao Zeng"
+          ],
+          "doi": "10.3390/v18050500",
+          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "nitrogen",
+        "phosphorus",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
       "id": "35797bf7b2d90e7b057dcf70a22e1e13f7a8c6b1",
       "semantic_scholar_id": "35797bf7b2d90e7b057dcf70a22e1e13f7a8c6b1",
       "source": "Semantic Scholar",
@@ -9631,124 +9749,6 @@
         "nitrogen",
         "soil",
         "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
-      "id": "14c65b4abb15d30a020d53bf0077744de8630754",
-      "semantic_scholar_id": "14c65b4abb15d30a020d53bf0077744de8630754",
-      "source": "Semantic Scholar",
-      "pmid": "41114005",
-      "doi": "10.1093/ismeco/ycaf164",
-      "title": "Environmental gradients shape viral-host dynamics in the Pearl River estuary",
-      "authors": [
-        "Ruixian Sun",
-        "Wenqian Xu",
-        "Yangbing Xu",
-        "Zhimeng Xu",
-        "Yehui Tan",
-        "Jiying Li",
-        "Hongbin Liu",
-        "C. Yung"
-      ],
-      "journal": "ISME Communications",
-      "publication_date": "2025-01-01",
-      "abstract": "Abstract Marine viruses play critical roles in shaping microbial communities and driving biogeochemical cycles, yet their dynamics in estuarine systems are not well characterized. Here, we conducted a comprehensive metagenomic analysis of viral communities and virus-host interactions across the Pearl River estuary, a dynamic subtropical estuary in southern China. Using 24 metagenomic libraries from eight sampling sites, we identified 29,952 viral populations, with Uroviricota and potential Uroviricota accounted for 80.48% of taxa, underscoring their ecological importance. A key finding of our integrated analysis is the unexpectedly high abundance of nucleocytoplasmic large DNA viruses in offshore waters, which suggests a more significant role for eukaryotic viruses in coastal ecosystems than previously acknowledged and correlates with elevated levels of their eukaryotic hosts. Environmental variables, particularly salinity and nutrient availability, emerged as key drivers of viral and host distribution patterns. By linking environmental gradients to distinct community “envirotypes” and their underlying genomic features, we revealed novel virus-host interactions and highlighted the impact of environmental gradients on microbial ecology. Additionally, viral auxiliary metabolic genes linked to phosphorus and nitrogen metabolism suggest critical roles in modulating host metabolic pathways and influencing nutrient cycling. Our findings demonstrate how spatial heterogeneity and environmental gradients shape viral and microbial ecology in estuarine ecosystems. Our findings provide a holistic, multi-domain view of microbial and viral ecology, demonstrating how integrating prokaryotic, eukaryotic, and viral community analyses offers a more complete understanding of ecosystem function in these critical transition zones.",
-      "url": "https://www.semanticscholar.org/paper/14c65b4abb15d30a020d53bf0077744de8630754",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/14c65b4abb15d30a020d53bf0077744de8630754",
-      "pdf_url": "",
-      "citation_count": 3,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "45d337499ef19b8af494753db9706e01d14558be",
-          "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
-          "year": 2026,
-          "journal": "mSystems",
-          "authors": [
-            "Wenqing Shi",
-            "Lu Liu",
-            "Lilin Wu"
-          ],
-          "doi": "10.1128/msystems.00354-26",
-          "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
-          "citation_count": 0
-        },
-        {
-          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
-          "year": 2026,
-          "journal": "Molecular Ecology",
-          "authors": [
-            "Zong Li",
-            "Minglei Ren",
-            "Ang Hu"
-          ],
-          "doi": "10.1111/mec.70367",
-          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "citation_count": 0
-        },
-        {
-          "id": "b004d5a1d555a3ac4826c9b28281b1918731e1cb",
-          "title": "Environmental drivers of bacterial diversity, distribution, and predicted metabolic potential in Hainan Island mangrove sediments",
-          "year": 2026,
-          "journal": "Frontiers in Marine Science",
-          "authors": [
-            "Fangyan Jiang",
-            "Wenxin Yuan",
-            "Bin Wei"
-          ],
-          "doi": "10.3389/fmars.2026.1835798",
-          "url": "https://www.semanticscholar.org/paper/b004d5a1d555a3ac4826c9b28281b1918731e1cb",
-          "citation_count": 0
-        },
-        {
-          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
-          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay",
-          "year": 2026,
-          "journal": "Scientific Data",
-          "authors": [
-            "Songze Chen",
-            "Shuaishuai Xu",
-            "Zaini Muhammad"
-          ],
-          "doi": "10.1038/s41597-026-07491-x",
-          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
-          "citation_count": 0
-        },
-        {
-          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
-          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "Zijia Wang",
-            "Zongminghan Liu",
-            "Juntao Zeng"
-          ],
-          "doi": "10.3390/v18050500",
-          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "nitrogen",
-        "phosphorus",
         "virus",
         "water"
       ],
@@ -26947,123 +26947,6 @@
       "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
     },
     {
-      "id": "4728b31cdbd2f1d1777f8b80594f71511afeb21f",
-      "semantic_scholar_id": "4728b31cdbd2f1d1777f8b80594f71511afeb21f",
-      "source": "Semantic Scholar",
-      "pmid": "34748834",
-      "doi": "10.1016/j.scitotenv.2021.151430",
-      "title": "Wheat yellow mosaic enhances bacterial deterministic processes in a plant-soil system.",
-      "authors": [
-        "Haoqing Zhang",
-        "Chuanfa Wu",
-        "Fangyan Wang",
-        "Haiting Wang",
-        "Guixian Chen",
-        "Ye Cheng",
-        "Jianping Chen",
-        "Jian Yang",
-        "T. Ge"
-      ],
-      "journal": "Science of the Total Environment",
-      "publication_date": "2021-11-01",
-      "abstract": "Understanding the mechanisms that govern microbial community assembly across soil-plant continuum is crucial for predicting the response of ecosystems to environmental changes. However, the impact of the health status of plant on microbial assembly across this continuum still remain poorly understood. Here, we investigated how wheat yellow mosaic (WYM), caused by the wheat mosaic virus transmitted by Polymyxa graminis, affected microbial assembly across soil (bulk soil, rhizosphere soil), and plant (roots and leaves) continuum in a winter wheat (Triticum aestivum L.) system in northern China, using null model and co-occurrence network analysis. The results showed that deterministic processes dominated the bacterial community assembly, whereas stochastic processes were primarily responsible for the assembly of the fungal communities. With increasing levels of WYM, deterministic processes were greatly enhanced for bacterial community assembly, accompanied by a decrease in community niche breadth. Intensified competition between bacteria and fungi and increased soil total nitrogen (TN) and soil organic carbon (SOC) contents were mainly responsible for the enhanced deterministic processes for bacterial community assembly. Random forest modeling indicated a strong potential of rhizosphere bacterial community assembly for predicting the pathological conditions of wheat. Structural equation modeling showed that disease level was positively correlated with SOC and TN contents, competitions between bacteria and fungi, and the contribution of variable selection processes to the bacterial community assembly in the wheat rhizosphere. Our study revealed the ecological mechanisms underlying the associations between microbial communities and soil-borne disease, and highlighted the significance of microbial community assembly for maintaining soil and plant health.",
-      "url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
-      "pdf_url": "",
-      "citation_count": 34,
-      "influential_citation_count": 1,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "a6580e50507212f1ea2f8fcb8be1544627e628ff",
-          "title": "Long-term warming and nitrogen addition drive interface-specific bacterial assembly and enhance soil-leaf microbial connectivity",
-          "year": 2026,
-          "journal": "Journal of Plant Ecology",
-          "authors": [
-            "Yi Zhu",
-            "Yunzhuo Wen",
-            "Lu Bai"
-          ],
-          "doi": "10.1093/jpe/rtag088",
-          "url": "https://www.semanticscholar.org/paper/a6580e50507212f1ea2f8fcb8be1544627e628ff",
-          "citation_count": 0
-        },
-        {
-          "id": "4a447ca3ded38ad9c1bfe8ecf5ed7896dbdccfc2",
-          "title": "Distinct Patterns of Soil Bacterial and Fungal Communities in the Alpine Treeline and Shrubline Ecotone on the Eastern Tibetan Plateau",
-          "year": 2026,
-          "journal": "Forests",
-          "authors": [
-            "Qiurong Liu",
-            "Yutian Wu",
-            "Jun Hu"
-          ],
-          "doi": "10.3390/f17040510",
-          "url": "https://www.semanticscholar.org/paper/4a447ca3ded38ad9c1bfe8ecf5ed7896dbdccfc2",
-          "citation_count": 0
-        },
-        {
-          "id": "0b419a9ed7ccb36e72da71644bcec045e120f7d9",
-          "title": "Bacterial inoculation drives microbiome-mediated resistance to a soil-borne pathogen in wheat",
-          "year": 2026,
-          "journal": "npj Biofilms and Microbiomes",
-          "authors": [
-            "C. Nishisaka",
-            "H. D. Quevedo",
-            "T. A. Pellegrinetti"
-          ],
-          "doi": "10.1038/s41522-026-01021-8",
-          "url": "https://www.semanticscholar.org/paper/0b419a9ed7ccb36e72da71644bcec045e120f7d9",
-          "citation_count": 0
-        },
-        {
-          "id": "acaaad46574001ff522bef1ec0e56a64b9ce0525",
-          "title": "Root exudate‐associated microbiome assembly contributes to viral disease resistance in wheat",
-          "year": 2026,
-          "journal": "New Phytologist",
-          "authors": [
-            "Chuanfa Wu",
-            "Hongwei Liu",
-            "L. Carvalhais"
-          ],
-          "doi": "10.1111/nph.71254",
-          "url": "https://www.semanticscholar.org/paper/acaaad46574001ff522bef1ec0e56a64b9ce0525",
-          "citation_count": 0
-        },
-        {
-          "id": "afcbbee9e3744eec56dec9e872f9d4d81393bce8",
-          "title": "Effects of the Combined Application of Arbuscular Mycorrhizal Fungi and Reconstructed Microbial Communities on Soil Functional Restoration",
-          "year": 2026,
-          "journal": "Land Degradation &amp; Development",
-          "authors": [
-            "Yinli Bi",
-            "Bing-jie Ni",
-            "Kun Wang"
-          ],
-          "doi": "10.1002/ldr.70583",
-          "url": "https://www.semanticscholar.org/paper/afcbbee9e3744eec56dec9e872f9d4d81393bce8",
-          "citation_count": 1
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The ecological mechanisms underlying the associations between microbial communities and soil-borne disease are revealed, and the significance of microbial community assembly for maintaining soil and plant health is highlighted.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
-    },
-    {
       "id": "ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
       "semantic_scholar_id": "ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
       "source": "Semantic Scholar",
@@ -27222,6 +27105,123 @@
         "sulfur",
         "virus",
         "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
+    },
+    {
+      "id": "4728b31cdbd2f1d1777f8b80594f71511afeb21f",
+      "semantic_scholar_id": "4728b31cdbd2f1d1777f8b80594f71511afeb21f",
+      "source": "Semantic Scholar",
+      "pmid": "34748834",
+      "doi": "10.1016/j.scitotenv.2021.151430",
+      "title": "Wheat yellow mosaic enhances bacterial deterministic processes in a plant-soil system.",
+      "authors": [
+        "Haoqing Zhang",
+        "Chuanfa Wu",
+        "Fangyan Wang",
+        "Haiting Wang",
+        "Guixian Chen",
+        "Ye Cheng",
+        "Jianping Chen",
+        "Jian Yang",
+        "T. Ge"
+      ],
+      "journal": "Science of the Total Environment",
+      "publication_date": "2021-11-01",
+      "abstract": "Understanding the mechanisms that govern microbial community assembly across soil-plant continuum is crucial for predicting the response of ecosystems to environmental changes. However, the impact of the health status of plant on microbial assembly across this continuum still remain poorly understood. Here, we investigated how wheat yellow mosaic (WYM), caused by the wheat mosaic virus transmitted by Polymyxa graminis, affected microbial assembly across soil (bulk soil, rhizosphere soil), and plant (roots and leaves) continuum in a winter wheat (Triticum aestivum L.) system in northern China, using null model and co-occurrence network analysis. The results showed that deterministic processes dominated the bacterial community assembly, whereas stochastic processes were primarily responsible for the assembly of the fungal communities. With increasing levels of WYM, deterministic processes were greatly enhanced for bacterial community assembly, accompanied by a decrease in community niche breadth. Intensified competition between bacteria and fungi and increased soil total nitrogen (TN) and soil organic carbon (SOC) contents were mainly responsible for the enhanced deterministic processes for bacterial community assembly. Random forest modeling indicated a strong potential of rhizosphere bacterial community assembly for predicting the pathological conditions of wheat. Structural equation modeling showed that disease level was positively correlated with SOC and TN contents, competitions between bacteria and fungi, and the contribution of variable selection processes to the bacterial community assembly in the wheat rhizosphere. Our study revealed the ecological mechanisms underlying the associations between microbial communities and soil-borne disease, and highlighted the significance of microbial community assembly for maintaining soil and plant health.",
+      "url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
+      "pdf_url": "",
+      "citation_count": 34,
+      "influential_citation_count": 1,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "a6580e50507212f1ea2f8fcb8be1544627e628ff",
+          "title": "Long-term warming and nitrogen addition drive interface-specific bacterial assembly and enhance soil-leaf microbial connectivity",
+          "year": 2026,
+          "journal": "Journal of Plant Ecology",
+          "authors": [
+            "Yi Zhu",
+            "Yunzhuo Wen",
+            "Lu Bai"
+          ],
+          "doi": "10.1093/jpe/rtag088",
+          "url": "https://www.semanticscholar.org/paper/a6580e50507212f1ea2f8fcb8be1544627e628ff",
+          "citation_count": 0
+        },
+        {
+          "id": "4a447ca3ded38ad9c1bfe8ecf5ed7896dbdccfc2",
+          "title": "Distinct Patterns of Soil Bacterial and Fungal Communities in the Alpine Treeline and Shrubline Ecotone on the Eastern Tibetan Plateau",
+          "year": 2026,
+          "journal": "Forests",
+          "authors": [
+            "Qiurong Liu",
+            "Yutian Wu",
+            "Jun Hu"
+          ],
+          "doi": "10.3390/f17040510",
+          "url": "https://www.semanticscholar.org/paper/4a447ca3ded38ad9c1bfe8ecf5ed7896dbdccfc2",
+          "citation_count": 0
+        },
+        {
+          "id": "0b419a9ed7ccb36e72da71644bcec045e120f7d9",
+          "title": "Bacterial inoculation drives microbiome-mediated resistance to a soil-borne pathogen in wheat",
+          "year": 2026,
+          "journal": "npj Biofilms and Microbiomes",
+          "authors": [
+            "C. Nishisaka",
+            "H. D. Quevedo",
+            "T. A. Pellegrinetti"
+          ],
+          "doi": "10.1038/s41522-026-01021-8",
+          "url": "https://www.semanticscholar.org/paper/0b419a9ed7ccb36e72da71644bcec045e120f7d9",
+          "citation_count": 0
+        },
+        {
+          "id": "acaaad46574001ff522bef1ec0e56a64b9ce0525",
+          "title": "Root exudate‐associated microbiome assembly contributes to viral disease resistance in wheat",
+          "year": 2026,
+          "journal": "New Phytologist",
+          "authors": [
+            "Chuanfa Wu",
+            "Hongwei Liu",
+            "L. Carvalhais"
+          ],
+          "doi": "10.1111/nph.71254",
+          "url": "https://www.semanticscholar.org/paper/acaaad46574001ff522bef1ec0e56a64b9ce0525",
+          "citation_count": 0
+        },
+        {
+          "id": "afcbbee9e3744eec56dec9e872f9d4d81393bce8",
+          "title": "Effects of the Combined Application of Arbuscular Mycorrhizal Fungi and Reconstructed Microbial Communities on Soil Functional Restoration",
+          "year": 2026,
+          "journal": "Land Degradation &amp; Development",
+          "authors": [
+            "Yinli Bi",
+            "Bing-jie Ni",
+            "Kun Wang"
+          ],
+          "doi": "10.1002/ldr.70583",
+          "url": "https://www.semanticscholar.org/paper/afcbbee9e3744eec56dec9e872f9d4d81393bce8",
+          "citation_count": 1
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The ecological mechanisms underlying the associations between microbial communities and soil-borne disease are revealed, and the significance of microbial community assembly for maintaining soil and plant health is highlighted.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
       "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
@@ -35100,7 +35100,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://gala.gre.ac.uk/id/eprint/29116/7/29116%20DOMINGUEZ-SALAS_The_2018_Report_of_the_Lancet_Countdown_on_Health_and_Climate_Change_2018.pdf",
-      "citation_count": 758,
+      "citation_count": 759,
       "influential_citation_count": 21,
       "reference_count": 122,
       "references": [
