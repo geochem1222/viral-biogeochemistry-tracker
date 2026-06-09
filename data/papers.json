@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T22:52:02.441089+00:00",
+  "updated_at": "2026-06-09T22:52:05.475580+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -2691,7 +2691,7 @@
       "id": "7bdb2e47a4e3a0039ec575b1993841cedbc4e24e",
       "semantic_scholar_id": "7bdb2e47a4e3a0039ec575b1993841cedbc4e24e",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "41924127",
       "doi": "10.1093/ismeco/ycag051",
       "title": "Complex viral interactions revealed for the harmful bloom-forming dinoflagellate Karenia brevis",
       "authors": [
@@ -2841,8 +2841,12 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
-      "publication_types": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
       "tldr": "The results suggest complex viral interactions within K. brevis blooms may be key to understanding bloom dynamics and developing management tools.",
       "metrics_source": "Semantic Scholar",
       "tags": [
@@ -7702,7 +7706,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://doi.org/10.1038/s41467-025-58695-5",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -10683,7 +10687,7 @@
       "url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "pdf_url": "",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 80,
       "references": [],
@@ -11517,7 +11521,7 @@
         "Jie-Liang Liang",
         "Shi-wei Feng",
         "Pu Jia",
-        "Jing-li Lu",
+        "Jing‐li Lu",
         "Xinzhu Yi",
         "Shaoming Gao",
         "Zhuo-hui Wu",
@@ -14022,7 +14026,7 @@
       "url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.188",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 3,
       "reference_count": 81,
       "references": [
@@ -15290,7 +15294,7 @@
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10880660",
-      "citation_count": 47,
+      "citation_count": 48,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [],
@@ -24045,7 +24049,7 @@
       "authors": [
         "Shaoming Gao",
         "David Páez-Espino",
-        "Jintian Li",
+        "Jin‐tian Li",
         "Hongxia Ai",
         "Jieliang Liang",
         "Zhenhao Luo",
@@ -35100,7 +35104,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://gala.gre.ac.uk/id/eprint/29116/7/29116%20DOMINGUEZ-SALAS_The_2018_Report_of_the_Lancet_Countdown_on_Health_and_Climate_Change_2018.pdf",
-      "citation_count": 759,
+      "citation_count": 761,
       "influential_citation_count": 21,
       "reference_count": 122,
       "references": [
