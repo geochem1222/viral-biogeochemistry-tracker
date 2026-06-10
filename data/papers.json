@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T22:52:05.475580+00:00",
+  "updated_at": "2026-06-10T23:01:56.066201+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -103,12 +103,129 @@
   ],
   "papers": [
     {
+      "id": "0f75f234b1cadfedbf9719c86a4e36ceb560d914",
+      "semantic_scholar_id": "0f75f234b1cadfedbf9719c86a4e36ceb560d914",
+      "source": "Semantic Scholar",
+      "pmid": "42233853",
+      "doi": "10.1021/acs.est.6c01941",
+      "title": "Drought Amplifies Degradable Microplastic Diversity Effects on Soil Bacterial and Viral Ecology.",
+      "authors": [
+        "Tian-Gui Cai",
+        "Da Lin",
+        "Li-Juan Ma",
+        "Ya-Ning Wang",
+        "Bang Ni",
+        "Mao Ye",
+        "Yi-Fei Wang",
+        "Dong Zhu"
+      ],
+      "journal": "Environmental Science and Technology",
+      "publication_date": "2026-06-03",
+      "abstract": "Microplastic (MP) contamination and drought are pervasive global stressors threatening soil ecosystem stability. Yet, the combined effects of MP diversity and drought on soil microbial and viral ecology remain largely unexplored. Here, we conducted a controlled microcosm experiment to examine how increasing MP diversity (0, 1, 3, and 5 types) influences soil bacterial and viral communities, biogeochemical cycling, and ecological risk under drought stress. Degradable MPs exerted stronger effects than nondegradable MPs, altering microbial composition and functional gene profiles. Compared to adequate moisture, drought significantly altered the composition of bacterial and viral communities, enhanced the abundance of functional genes related to carbon and nitrogen fixation, and elevated the prevalence of antibiotic resistance genes (ARGs) and virulence factor genes (VFGs) as the diversity of degradable MPs increased. In response to the increasing diversity of degradable MPs under drought, viral communities exhibited an increased abundance of auxiliary metabolic genes (AMGs) and a higher prevalence of lysogenic lifestyles as an adaptive strategy to environmental stress. Rhizobacter, a key host lacking annotated antiviral defense systems, carried abundant ARGs and VFGs and showed strong positive associations with viral abundance, which suggests it may serve as a crucial hotspot for horizontal gene transfer. These findings reveal that increasing diversity of degradable MPs under drought altered microbial composition, potentially accelerated nutrient turnover, and amplified ecological risks, emphasizing the need to consider multistressor interactions in environmental risk assessments.",
+      "url": "https://www.semanticscholar.org/paper/0f75f234b1cadfedbf9719c86a4e36ceb560d914",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/0f75f234b1cadfedbf9719c86a4e36ceb560d914",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 111,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "6adb57aa83b422b5ab8daf425b27f3a56dd5433b",
+          "title": "Microplastics in Agroecosystems: Effects on Soil Microbiome, Nutrient Dynamics, and Fungal Interactions",
+          "year": 2026,
+          "journal": "Journal of international research in medical and pharmaceutical sciences",
+          "authors": [
+            "Paltu Ram Sahu",
+            "C. Patel",
+            "Abhishek Singh"
+          ],
+          "doi": "10.56557/jirmeps/2026/v21i210559",
+          "url": "https://www.semanticscholar.org/paper/6adb57aa83b422b5ab8daf425b27f3a56dd5433b",
+          "citation_count": 0
+        },
+        {
+          "id": "7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
+          "title": "Metagenomic insights into viral and microbial genes of Russian High-Arctic soil microbiomes.",
+          "year": 2026,
+          "journal": "Communications Biology",
+          "authors": [
+            "Beat Frey",
+            "G. Varliero",
+            "Joel Rüthi"
+          ],
+          "doi": "10.1038/s42003-026-10050-0",
+          "url": "https://www.semanticscholar.org/paper/7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
+          "citation_count": 0
+        },
+        {
+          "id": "1e24504903b5123ab5362e85adb54d09921b2df7",
+          "title": "Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation.",
+          "year": 2026,
+          "journal": "Communications Biology",
+          "authors": [
+            "Xieluyao Wei",
+            "K. Bashir",
+            "Xianrui Tian"
+          ],
+          "doi": "10.1038/s42003-026-10162-7",
+          "url": "https://www.semanticscholar.org/paper/1e24504903b5123ab5362e85adb54d09921b2df7",
+          "citation_count": 0
+        },
+        {
+          "id": "d6f2341967fd4ebcc6957a9462fa31ef5d1427cd",
+          "title": "Soil carbon regulates antibiotic resistance gene dynamics.",
+          "year": 2026,
+          "journal": "Trends in Microbiology",
+          "authors": [
+            "Izhar Ali",
+            "Xia Xu"
+          ],
+          "doi": "10.1016/j.tim.2026.05.002",
+          "url": "https://www.semanticscholar.org/paper/d6f2341967fd4ebcc6957a9462fa31ef5d1427cd",
+          "citation_count": 0
+        },
+        {
+          "id": "1fbadc0e6201b248d92b8e43047029d178a632dc",
+          "title": "Differential effects of conventional and biodegradable microplastics on carbon and nitrogen transformation and greenhouse gas emissions in Cd-contaminated riparian sediments: Responses of microbial community structure.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Haojie Chen",
+            "Danlian Huang",
+            "Wei Zhou"
+          ],
+          "doi": "10.1016/j.watres.2026.126200",
+          "url": "https://www.semanticscholar.org/paper/1fbadc0e6201b248d92b8e43047029d178a632dc",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-10T23:01:52.235108+00:00",
+      "edges_enriched_at": "2026-06-10T23:01:52.801487+00:00"
+    },
+    {
       "id": "45d337499ef19b8af494753db9706e01d14558be",
       "semantic_scholar_id": "45d337499ef19b8af494753db9706e01d14558be",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42148775",
       "doi": "10.1128/msystems.00354-26",
-      "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
+      "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems.",
       "authors": [
         "Wenqing Shi",
         "Lu Liu",
@@ -124,7 +241,7 @@
       ],
       "journal": "mSystems",
       "publication_date": "2026-05-18",
-      "abstract": "\n \n \n Salinity gradients drive microbial diversity and evolution in estuarine-coastal ecosystems, yet viral adaptation remains less well understood. We used metagenomics to study viral adaptation and functions in three representative estuarine-coastal regions in China. Our results reveal salinity-associated adaptations in DNA viruses, with viruses enriched in medium- to high-salinity environments exhibiting higher frequencies of acidic isoelectric points and charged amino acids compared to those enriched in low-salinity environments. Viral genomes encode diverse genes related to ion transporters and organic osmolyte metabolism, suggesting potential roles in osmotic stress responses. Viral microdiversity also varied systematically along the salinity gradient, indicating reduced genetic variation and stronger purifying selection under more saline conditions. Furthermore, we identified diverse AMGs linked to nutrient cycles, with salinity-driven enrichment revealing viral roles in host metabolism. Overall, our findings highlight salinity as a key driver of viral evolution and functional potential in estuarine-coastal ecosystems, providing new insights into how viruses adapt to environmental gradients.\n \n \n \n Salinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems.\n",
+      "abstract": "Salinity gradients drive microbial diversity and evolution in estuarine-coastal ecosystems, yet viral adaptation remains less well understood. We used metagenomics to study viral adaptation and functions in three representative estuarine-coastal regions in China. Our results reveal salinity-associated adaptations in DNA viruses, with viruses enriched in medium- to high-salinity environments exhibiting higher frequencies of acidic isoelectric points and charged amino acids compared to those enriched in low-salinity environments. Viral genomes encode diverse genes related to ion transporters and organic osmolyte metabolism, suggesting potential roles in osmotic stress responses. Viral microdiversity also varied systematically along the salinity gradient, indicating reduced genetic variation and stronger purifying selection under more saline conditions. Furthermore, we identified diverse AMGs linked to nutrient cycles, with salinity-driven enrichment revealing viral roles in host metabolism. Overall, our findings highlight salinity as a key driver of viral evolution and functional potential in estuarine-coastal ecosystems, providing new insights into how viruses adapt to environmental gradients.\n\n\nIMPORTANCE\nSalinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems.",
       "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
       "pdf_url": "",
@@ -202,7 +319,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -337,9 +456,9 @@
       "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
       "semantic_scholar_id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42080299",
       "doi": "10.1111/mec.70367",
-      "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
+      "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake.",
       "authors": [
         "Zong Li",
         "Minglei Ren",
@@ -349,7 +468,7 @@
       ],
       "journal": "Molecular Ecology",
       "publication_date": "2026-05-01",
-      "abstract": "\n Deep freshwater lakes exhibit distinct microbial community stratification across depth gradients, which plays important roles in biogeochemical cycling and ecosystem stability. As crucial regulators of microbiome composition and function, viruses may play key ecological roles in these stratified systems, yet their distribution patterns and ecological significance in deep‐lake surface sediments remain poorly understood. Here, we assessed viral community dynamics and functional potential across the entire water depth gradient (0–155 m) of Fuxian Lake using metagenomics from 44 surface sediment samples. A total of 11,523 viral OTUs were recovered, with only 18% annotated to the family level and approximately 93% classified as putatively lytic. Viral communities showed systematic depth‐related shifts across multiple dimensions. Specifically, alpha diversity, community turnover, and stochastic assembly processes increased significantly with water depth, accompanied by enhanced lytic virus dominance and larger genome sizes. Predicted virus‐host association networks transitioned from highly connected and generalized at shallow depths to increasingly sparse and specialized at greater depths. Virus‐encoded auxiliary metabolic genes showed significantly increasing abundance with water depth, along with functional shifts from host defense to enhanced biosynthesis and energy metabolism, especially regarding carbon fixation and organic matter degradation. Collectively, these results highlight the importance of water depth gradients in structuring viral communities within surface sediments and expand our understanding of viral ecological functions in deep lake ecosystems.",
+      "abstract": "Deep freshwater lakes exhibit distinct microbial community stratification across depth gradients, which plays important roles in biogeochemical cycling and ecosystem stability. As crucial regulators of microbiome composition and function, viruses may play key ecological roles in these stratified systems, yet their distribution patterns and ecological significance in deep-lake surface sediments remain poorly understood. Here, we assessed viral community dynamics and functional potential across the entire water depth gradient (0-155 m) of Fuxian Lake using metagenomics from 44 surface sediment samples. A total of 11,523 viral OTUs were recovered, with only 18% annotated to the family level and approximately 93% classified as putatively lytic. Viral communities showed systematic depth-related shifts across multiple dimensions. Specifically, alpha diversity, community turnover, and stochastic assembly processes increased significantly with water depth, accompanied by enhanced lytic virus dominance and larger genome sizes. Predicted virus-host association networks transitioned from highly connected and generalized at shallow depths to increasingly sparse and specialized at greater depths. Virus-encoded auxiliary metabolic genes showed significantly increasing abundance with water depth, along with functional shifts from host defense to enhanced biosynthesis and energy metabolism, especially regarding carbon fixation and organic matter degradation. Collectively, these results highlight the importance of water depth gradients in structuring viral communities within surface sediments and expand our understanding of viral ecological functions in deep lake ecosystems.",
       "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
       "pdf_url": "",
@@ -429,7 +548,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -450,7 +571,7 @@
       "id": "8638c28d792cc797cbe7b935a6222a79b49b9678",
       "semantic_scholar_id": "8638c28d792cc797cbe7b935a6222a79b49b9678",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42059615",
       "doi": "10.1128/aem.00486-26",
       "title": "Viral architects of the deep biosphere: reshaping the framework of sedimentary biogeochemistry",
       "authors": [
@@ -588,8 +709,12 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
+        "LettersAndComments",
+        "JournalArticle",
         "Review"
       ],
       "tldr": "Sedimentary viruses in marine sediments are positioned as active participants in benthic biogeochemistry—contributing to nutrient cycling, modulating microbial diversity, and influencing organic matter processing and carbon sequestration.",
@@ -607,7 +732,7 @@
       "id": "9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
       "semantic_scholar_id": "9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42037401",
       "doi": "10.1128/aem.02481-25",
       "title": "Lytic viruses drive the decrease in polyphosphate-accumulating and phosphate-solubilizing potential of microbial communities with increasing reservoir age",
       "authors": [
@@ -751,7 +876,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -885,7 +1012,7 @@
       "id": "bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_id": "bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "41996243",
       "doi": "10.1016/j.celrep.2026.117274",
       "title": "Nutrient balance regulates soil microbial health under long-term fertilization",
       "authors": [
@@ -1031,7 +1158,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -1051,7 +1180,7 @@
       "id": "b89ac7911c483c804967a5bbee669ab4eef41846",
       "semantic_scholar_id": "b89ac7911c483c804967a5bbee669ab4eef41846",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "41918132",
       "doi": "10.1186/s40168-026-02361-5",
       "title": "Microbial decomposer diversity and metabolic function during the decomposition of brine shrimp carcasses in a saline lake",
       "authors": [
@@ -1209,7 +1338,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -1961,7 +2092,7 @@
       "id": "347d7b46b88fccc64a7ab37de2b4de41c5556294",
       "semantic_scholar_id": "347d7b46b88fccc64a7ab37de2b4de41c5556294",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "41893466",
       "doi": "10.3390/toxics14030197",
       "title": "Phosphorus-Associated Viral Indicators Override pH as Predictors of Heavy Metal Mobility in Urban Storm Drain Sediments",
       "authors": [
@@ -2102,7 +2233,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -5296,7 +5429,7 @@
       "url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 81,
       "references": [
@@ -13857,7 +13990,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 86,
+      "citation_count": 87,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -15284,7 +15417,7 @@
         "Nuohan Xu",
         "Zhenyan Zhang",
         "Yu Deng",
-        "Michael Gillings",
+        "Michael R Gillings",
         "Tao Lu",
         "H. Qian"
       ],
@@ -22743,7 +22876,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 196,
+      "citation_count": 197,
       "influential_citation_count": 8,
       "reference_count": 123,
       "references": [
@@ -35516,7 +35649,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 520,
+      "citation_count": 521,
       "influential_citation_count": 28,
       "reference_count": 70,
       "references": [
