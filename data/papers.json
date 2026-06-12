@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T23:02:26.244413+00:00",
+  "updated_at": "2026-06-12T22:49:10.472444+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1009,6 +1009,125 @@
       "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
     },
     {
+      "id": "78997c69a12dbab311a2dadcf5a8398d55374206",
+      "semantic_scholar_id": "78997c69a12dbab311a2dadcf5a8398d55374206",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1038/s43247-026-03479-y",
+      "title": "Carbon starvation facilitates low pH-dependent viral lysogeny and auxiliary metabolic potentials in paddy soils",
+      "authors": [
+        "P. Gao",
+        "Zhe Tao",
+        "Yanhan Ji",
+        "Sihan Zhou",
+        "J. Gong",
+        "Chaoyu Deng",
+        "Shuai Zhao",
+        "Yu Shi",
+        "Ning Ling",
+        "Yunfeng Yang",
+        "Jiandong Jiang",
+        "Baozhan Wang",
+        "Xu Liu"
+      ],
+      "journal": "Communications Earth & Environment",
+      "publication_date": "2026-04-10",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/78997c69a12dbab311a2dadcf5a8398d55374206",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/78997c69a12dbab311a2dadcf5a8398d55374206",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 80,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "6a20df5a88ee3f7333a614960f175adbb949fdbc",
+          "title": "Quantitative stable isotope probing (qSIP)-informed metagenomics identifies viruses infecting chemoautotrophs",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "E. Luo",
+            "N. D. Pham",
+            "Timothy J. Rogers"
+          ],
+          "doi": "10.1038/s41467-026-71833-x",
+          "url": "https://www.semanticscholar.org/paper/6a20df5a88ee3f7333a614960f175adbb949fdbc",
+          "citation_count": 0
+        },
+        {
+          "id": "146020433a8c44c09cd060bba83fa86abb4dfd37",
+          "title": "Soil pH and Nitrogen Content Drive the Succession of RubisCO-Harboring Microbial Communities Across Picea asperata Plantation Ages",
+          "year": 2026,
+          "journal": "Biology",
+          "authors": [
+            "Dehui Li",
+            "Yaodan Deng",
+            "Xiaohui Zhao"
+          ],
+          "doi": "10.3390/biology15090725",
+          "url": "https://www.semanticscholar.org/paper/146020433a8c44c09cd060bba83fa86abb4dfd37",
+          "citation_count": 0
+        },
+        {
+          "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
+          "title": "Divergent successional patterns and infection dynamics in virion and transcriptionally active soil viral communities following phosphorus amendment and wet-up",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Grant Gogul",
+            "G. M. Allen",
+            "Ikaia Leleiwi"
+          ],
+          "doi": "10.64898/2026.04.11.717596",
+          "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
+          "citation_count": 0
+        },
+        {
+          "id": "7789da83cb5939b62182e5facff4f35efe8bd24b",
+          "title": "Contrasting elevational patterns of soil and root-associated fungal communities highlight host-driven filtering in Quercus wutaishansea forests",
+          "year": 2026,
+          "journal": "Frontiers in Plant Science",
+          "authors": [
+            "Minyue Fu",
+            "Yulin Kang",
+            "Jianan Zhou"
+          ],
+          "doi": "10.3389/fpls.2026.1825787",
+          "url": "https://www.semanticscholar.org/paper/7789da83cb5939b62182e5facff4f35efe8bd24b",
+          "citation_count": 0
+        },
+        {
+          "id": "d0ffd0837298b1adb4b850794eb1fd3bc0b37f23",
+          "title": "Changes in soil ecological stoichiometry and microbial communities related to leaf stoichiometry of different halophytes",
+          "year": 2026,
+          "journal": "Frontiers in Plant Science",
+          "authors": [
+            "Yaqing Pan",
+            "Zixuan Chen",
+            "Juan Chen"
+          ],
+          "doi": "10.3389/fpls.2026.1793742",
+          "url": "https://www.semanticscholar.org/paper/d0ffd0837298b1adb4b850794eb1fd3bc0b37f23",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Soil viruses influence carbon cycling across pH gradients, with acidic soils showing greater lysogeny and carbon related genes, as revealed by viral communities recovered through size fractionation and tangential flow filtration from twelve paddy fields.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "carbon",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-12T22:49:02.748926+00:00",
+      "edges_enriched_at": "2026-06-12T22:49:03.457522+00:00"
+    },
+    {
       "id": "bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_id": "bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "source": "Semantic Scholar",
@@ -1209,7 +1328,7 @@
       ],
       "journal": "Microbiome",
       "publication_date": "2026-03-31",
-      "abstract": "Background Decomposition of brine shrimp carcasses has a crucial role in carbon cycling of saline lakes, yet the microbial dynamics remain poorly understood. Results Here we integrated metagenomics, metatranscriptomics, culturomics, metabolomics, and microcosm experiments to investigate microbial community succession and function during brine shrimp (Artemia sp.) carcass decomposition in Barkol Lake, a hypersaline lake in China. A total of 149 metagenome-assembled genomes (MAGs) and 77 pure culture genomes were recovered across 33 phyla, with 72.12% genomes representing species-level novel lineages. Our results reveal diverse bacterial and archaeal taxa, including novel lineages from CG03, T1Sed10-126 and rare archaeal taxa (Asgardarchaeota, Thermoplasmatota, Nanoarchaeota, and Halobacteriota), involved in degradation of biomacromolecules—proteins, carbohydrates, lipids, and nucleic acids—via extracellular hydrolysis, nutrient transport, and intracellular catabolism. These taxa exhibit substrate preferences, rapidly responding to the breakdown of polysaccharides and proteins, followed by lipids and nucleic acids. Hydrolyzed oligomers are further oxidized by various microbes through fermentation, sulfate reduction, and methanogenesis via metabolic handoffs. Additionally, viral auxiliary metabolic genes (AMGs) further enhance microbial host functions, contributing to key ecological processes such as carbon cycling and stress response. A temporally structured microbial decomposer network (MDN) was observed, driving mineralization cascades from fermentation to sulfate reduction and methanogenesis. Conclusions This study reveals microbial metabolic handoffs and virus-mediated modulation as critical mechanisms for organic matter turnover, expanding the known diversity and function of decomposers in saline ecosystems. Our findings offer new insights into biogeochemical processes in saline lakes and highlight a synergistic microbial decomposer network involving bacteria, archaea, and viruses that collectively drive nutrient cycling during brine shrimp carcass decomposition. Video Abstract Supplementary Information The online version contains supplementary material available at 10.1186/s40168-026-02361-5.",
+      "abstract": "Decomposition of brine shrimp carcasses has a crucial role in carbon cycling of saline lakes, yet the microbial dynamics remain poorly understood. Here we integrated metagenomics, metatranscriptomics, culturomics, metabolomics, and microcosm experiments to investigate microbial community succession and function during brine shrimp (Artemia sp.) carcass decomposition in Barkol Lake, a hypersaline lake in China. A total of 149 metagenome-assembled genomes (MAGs) and 77 pure culture genomes were recovered across 33 phyla, with 72.12% genomes representing species-level novel lineages. Our results reveal diverse bacterial and archaeal taxa, including novel lineages from CG03, T1Sed10-126 and rare archaeal taxa (Asgardarchaeota, Thermoplasmatota, Nanoarchaeota, and Halobacteriota), involved in degradation of biomacromolecules—proteins, carbohydrates, lipids, and nucleic acids—via extracellular hydrolysis, nutrient transport, and intracellular catabolism. These taxa exhibit substrate preferences, rapidly responding to the breakdown of polysaccharides and proteins, followed by lipids and nucleic acids. Hydrolyzed oligomers are further oxidized by various microbes through fermentation, sulfate reduction, and methanogenesis via metabolic handoffs. Additionally, viral auxiliary metabolic genes (AMGs) further enhance microbial host functions, contributing to key ecological processes such as carbon cycling and stress response. A temporally structured microbial decomposer network (MDN) was observed, driving mineralization cascades from fermentation to sulfate reduction and methanogenesis. This study reveals microbial metabolic handoffs and virus-mediated modulation as critical mechanisms for organic matter turnover, expanding the known diversity and function of decomposers in saline ecosystems. Our findings offer new insights into biogeochemical processes in saline lakes and highlight a synergistic microbial decomposer network involving bacteria, archaea, and viruses that collectively drive nutrient cycling during brine shrimp carcass decomposition. 2LfiC5YNnq1qSEM2R3ayp9 Video Abstract Video Abstract",
       "url": "https://www.semanticscholar.org/paper/b89ac7911c483c804967a5bbee669ab4eef41846",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b89ac7911c483c804967a5bbee669ab4eef41846",
       "pdf_url": "",
@@ -1760,6 +1879,180 @@
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
       "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
+    },
+    {
+      "id": "8b49edd97db5d3feb2076dcd61ef877e75550545",
+      "semantic_scholar_id": "8b49edd97db5d3feb2076dcd61ef877e75550545",
+      "source": "Semantic Scholar",
+      "pmid": "41851145",
+      "doi": "10.1038/s41522-026-00940-w",
+      "title": "Diversity and ecological potential of sediment viruses from Chinese continental shelf seas",
+      "authors": [
+        "Jinhao Shen",
+        "Meiaoxue Han",
+        "Jin Sun",
+        "Hao Yu",
+        "Yeqing Yang",
+        "Kehua Shen",
+        "Yue Su",
+        "Xuechao Chen",
+        "Hui He",
+        "Hongbing Shao",
+        "Jin Sun",
+        "Andrew Mcminn",
+        "Min Wang",
+        "Yantao Liang"
+      ],
+      "journal": "npj Biofilms and Microbiomes",
+      "publication_date": "2026-03-18",
+      "abstract": "Continental shelves are important areas for global biogeochemical cycling, yet the roles of sediment viruses in these areas remain poorly understood. Here, 48 surface sediment samples from the Chinese continental shelf were analyzed, and 12,540 viral operational taxonomic units (vOTUs) were identified. Taxonomic classification found that 93.6% of the vOTUs could not be assigned at the family level, and protein-sharing networks showed that 60.4% were singletons. Viral community structure was shaped primarily by temperature and water depth. A total of 557 auxiliary metabolic genes (AMGs) were identified, including those involved in sulfur reduction and phosphorus acquisition (Pho-family proteins). Additionally, diverse antibiotic resistance genes (ARGs) were detected, suggesting anthropogenic influence. This study reveals the diversity, ecological function, and environmental drivers of viral communities in continental shelf sediments, providing new insights into viral contributions to microbial ecology and biogeochemical processes.",
+      "url": "https://www.semanticscholar.org/paper/8b49edd97db5d3feb2076dcd61ef877e75550545",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/8b49edd97db5d3feb2076dcd61ef877e75550545",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 73,
+      "references": [
+        {
+          "title": "VITAP: a high precision tool for DNA and RNA viral classification based on meta-omic data",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/6c53177c4b04f7ff9de1b409cf34e757c9a624d0",
+          "doi": "10.1038/s41467-025-57500-7"
+        },
+        {
+          "title": "Distribution, burial fluxes and carbon sink effect of sedimentary organic carbon in the eastern China seas",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/1b39aa8bc34907cbf2367b3b06c8c23ddabe30af",
+          "doi": "10.1007/s11430-024-1412-0"
+        },
+        {
+          "title": "Prokaryotic-virus-encoded auxiliary metabolic genes throughout the global oceans",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/0f337866f14f67950acf516d4ae3b6b24d72c140",
+          "doi": "10.1186/s40168-024-01876-z"
+        },
+        {
+          "title": "Predictive mapping of organic carbon stocks in surficial sediments of the Canadian continental margin",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/fed94974e9652f67152c2a81535d3c7973c1a59d",
+          "doi": "10.5194/essd-16-2165-2024"
+        },
+        {
+          "title": "Diversity and potential host-interactions of viruses inhabiting deep-sea seamount sediments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
+          "doi": "10.1038/s41467-024-47600-1"
+        },
+        {
+          "title": "COBRA improves the completeness and contiguity of viral genomes assembled from metagenomes",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3f0150c57b9379346742cc7af2b9457cd8f909de",
+          "doi": "10.1038/s41564-023-01598-2"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "Inherited chitinases enable sustained growth and rapid dispersal of bacteria from chitin particles",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c4d8a09105218a912328c1bf9548197dcddae4aa",
+          "doi": "10.1038/s41564-023-01444-5"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
+          "year": 2026,
+          "journal": "Viruses",
+          "authors": [
+            "Zijia Wang",
+            "Zongminghan Liu",
+            "Juntao Zeng"
+          ],
+          "doi": "10.3390/v18050500",
+          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "citation_count": 0
+        },
+        {
+          "id": "6a20df5a88ee3f7333a614960f175adbb949fdbc",
+          "title": "Quantitative stable isotope probing (qSIP)-informed metagenomics identifies viruses infecting chemoautotrophs",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "E. Luo",
+            "N. D. Pham",
+            "Timothy J. Rogers"
+          ],
+          "doi": "10.1038/s41467-026-71833-x",
+          "url": "https://www.semanticscholar.org/paper/6a20df5a88ee3f7333a614960f175adbb949fdbc",
+          "citation_count": 0
+        },
+        {
+          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
+          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Guillermo Domínguez-Huerta",
+            "A. M. Cabello",
+            "J. J. Santos-Bruña"
+          ],
+          "doi": "10.1093/ismeco/ycag110",
+          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
+          "citation_count": 0
+        },
+        {
+          "id": "b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "title": "Microbial Diversity and Function Linked to Carbon Cycling in Mangrove Sediments",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Nabilah Khairi",
+            "Muhammad Zarul Hanifah Md Zoqratt",
+            "N. Hidayah"
+          ],
+          "doi": "10.64898/2026.05.13.724760",
+          "url": "https://www.semanticscholar.org/paper/b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "citation_count": 0
+        },
+        {
+          "id": "2a7f8a39445e88b1facd0e012af0234e0e31277e",
+          "title": "Vertical stratification and functional coupling of antibiotic resistance and carbon metabolism in thermokarst lake sediments",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Ze Ren",
+            "Mingfeng Zhao",
+            "Ruoting Chen"
+          ],
+          "doi": "10.1093/ismeco/ycag107",
+          "url": "https://www.semanticscholar.org/paper/2a7f8a39445e88b1facd0e012af0234e0e31277e",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The diversity, ecological function, and environmental drivers of viral communities in continental shelf sediments are revealed, providing new insights into viral contributions to microbial ecology and biogeochemical processes.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "phosphorus",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-12T22:49:02.748926+00:00",
+      "edges_enriched_at": "2026-06-12T22:49:03.457522+00:00"
     },
     {
       "id": "2c372b9c4ed597360cfc15360554c6b6fd150880",
@@ -13824,7 +14117,7 @@
       "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47600-1.pdf",
-      "citation_count": 50,
+      "citation_count": 51,
       "influential_citation_count": 7,
       "reference_count": 134,
       "references": [
@@ -13990,7 +14283,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 87,
+      "citation_count": 88,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -15952,7 +16245,7 @@
       "url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae083/57420245/wrae083.pdf",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 92,
       "references": [
@@ -22041,7 +22334,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 188,
+      "citation_count": 189,
       "influential_citation_count": 8,
       "reference_count": 106,
       "references": [
@@ -25458,7 +25751,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 314,
+      "citation_count": 315,
       "influential_citation_count": 5,
       "reference_count": 0,
       "references": [],
@@ -28487,7 +28780,7 @@
       "url": "https://www.semanticscholar.org/paper/fdea5b47cc3ecbb57ed185fe2d9299b3cd0b3968",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fdea5b47cc3ecbb57ed185fe2d9299b3cd0b3968",
       "pdf_url": "https://www.mdpi.com/2076-2607/9/9/1852/pdf",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 21,
       "references": [
@@ -33901,7 +34194,7 @@
       "url": "https://www.semanticscholar.org/paper/d318f8556393855315e64e7cebd7cb40a8f12254",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d318f8556393855315e64e7cebd7cb40a8f12254",
       "pdf_url": "https://msystems.asm.org/content/msys/4/4/e00296-19.full.pdf",
-      "citation_count": 75,
+      "citation_count": 76,
       "influential_citation_count": 6,
       "reference_count": 641,
       "references": [
@@ -35237,7 +35530,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://gala.gre.ac.uk/id/eprint/29116/7/29116%20DOMINGUEZ-SALAS_The_2018_Report_of_the_Lancet_Countdown_on_Health_and_Climate_Change_2018.pdf",
-      "citation_count": 761,
+      "citation_count": 762,
       "influential_citation_count": 21,
       "reference_count": 122,
       "references": [
