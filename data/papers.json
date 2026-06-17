@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T23:00:29.069068+00:00",
+  "updated_at": "2026-06-17T22:57:26.568529+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1831,170 +1831,6 @@
       "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
     },
     {
-      "id": "bee209bdce6c3017abc3fd01a584c647589daeda",
-      "semantic_scholar_id": "bee209bdce6c3017abc3fd01a584c647589daeda",
-      "source": "Semantic Scholar",
-      "pmid": "41851125",
-      "doi": "10.1038/s41467-026-70744-1",
-      "title": "The hidden role of rhizospheric viruses in promoting nitrogen fixation in soils",
-      "authors": [
-        "Dong Zhu",
-        "Wen Zhang",
-        "J.L. Balcázar",
-        "Danrui Wang",
-        "Mingming Sun",
-        "Feng Hu",
-        "J. Peñuelas",
-        "Yong-guan Zhu"
-      ],
-      "journal": "Nature Communications",
-      "publication_date": "2026-03-18",
-      "abstract": "Biological nitrogen fixation is a cornerstone of terrestrial nitrogen cycling, traditionally attributed to bacterial nitrogenase activity. However, the potential contribution of rhizospheric viruses remains largely unexplored. Here, we reveal the global distribution of nitrogen-fixing genes, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and identify nifU as a viral auxiliary metabolic gene (AMG). Analysis of viral communities in rhizosphere and bulk soils cultivated with cowpea showed that viral nifU expression was significantly upregulated in rhizosphere soils. Using 15N₂ stable-isotope tracing and virus transplantation experiments, we demonstrate that virus-encoded nitrogen-fixing AMGs, horizontally transferred from bacteria such as Azospirillum thermophilum (70–99% homology), increased nitrogenase activity from 1.79 to 3.14 nmol C2H4 g-1 dry soil h-1. This enhancement was accompanied by shifts in bacterial community composition, with the relative abundance of the nitrogen-fixing genus Azotobacter reaching 90.8%. These results uncover a previously hidden role of rhizospheric viruses in promoting bacterial nitrogen fixation, suggesting that viral-mediated gene transfer could be leveraged to enhance nitrogen cycling in soils and inform sustainable soil management strategies.",
-      "url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 98,
-      "references": [
-        {
-          "title": "DNA viral community enhances microbial carbon fixation capacity via auxiliary metabolic genes in contaminated soils",
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
-          "doi": "10.1038/s41467-025-64938-2"
-        },
-        {
-          "title": "Copper contamination determined the impact of phages on microbially-driven nitrogen cycling in coastal wetland sediments.",
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
-          "doi": "10.1016/j.jhazmat.2025.137870"
-        },
-        {
-          "title": "The biogeography of soil microbiome potential growth rates",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/3bd20a3d205e12a00c3cefe67187b5eab1141405",
-          "doi": "10.1038/s41467-024-53753-w"
-        },
-        {
-          "title": "Host-virus coevolution drives soil microbial function succession along a millennium land reclamation chronosequence",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/52d9e838a753a4ee371bcf032b42abbf38fdaefc",
-          "doi": "10.1016/j.jare.2024.06.022"
-        },
-        {
-          "title": "Interactive dynamics between rhizosphere bacterial and viral communities facilitate soybean fitness to cadmium stress revealed by time-series metagenomics",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/eb4bf78e48a16d6ddc1346dba7b441c2710e7deb",
-          "doi": "10.1016/j.soilbio.2024.109313"
-        },
-        {
-          "title": "Soil nutrient conditions alter viral lifestyle strategy and potential function in phosphorous and nitrogen metabolisms",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/c11ac6a72f70e0c09c7a90598c034a1e6ede286a",
-          "doi": "10.1016/j.soilbio.2023.109279"
-        },
-        {
-          "title": "The role of the soil microbiome in the colonisation of glacier forefields by Antarctic pearlwort Colobanthus quitensis under current and future climate change scenarios",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/032d5f4628857a2cd412e509cccf81d96c51f6d6",
-          "doi": "10.1016/j.soilbio.2023.109249"
-        },
-        {
-          "title": "Mixed Enterobacter and Klebsiella bacteria enhance soybean biological nitrogen fixation ability when combined with rhizobia inoculation",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/2edc20e68119c64d3fd21fb2a11ea558abf03780",
-          "doi": "10.1016/j.soilbio.2023.109100"
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "54bff19da6193f03848d65fbd69b30c3714e24e0",
-          "title": "Functional and taxonomic shifts in rhizosphere microbiomes of summer legume cover crops",
-          "year": 2026,
-          "journal": "Frontiers in Plant Science",
-          "authors": [
-            "Sri Kiran Reddy Alla",
-            "Vijay Joshi"
-          ],
-          "doi": "10.3389/fpls.2026.1790810",
-          "url": "https://www.semanticscholar.org/paper/54bff19da6193f03848d65fbd69b30c3714e24e0",
-          "citation_count": 0
-        },
-        {
-          "id": "d624b7318e432d912e6efc6f6302e1cdb93c9d73",
-          "title": "Single-cell genomics reveals opportunistic Enterobacterales carrying putative cationic antimicrobial peptide resistance genes in red crown rot-affected soybean rhizoplanes",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Takeru Ochi",
-            "Yohei Nishikawa",
-            "Masako Kifushi"
-          ],
-          "doi": "10.64898/2026.04.07.716964",
-          "url": "https://www.semanticscholar.org/paper/d624b7318e432d912e6efc6f6302e1cdb93c9d73",
-          "citation_count": 0
-        },
-        {
-          "id": "540e716bd28e0de6785cf6b5898bd129eb835217",
-          "title": "Nodule microbiome functions shape the performance of a wild perennial legume",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Moshe Alon",
-            "Guy Dovrat",
-            "Y. Waitz"
-          ],
-          "doi": "10.64898/2026.04.06.716301",
-          "url": "https://www.semanticscholar.org/paper/540e716bd28e0de6785cf6b5898bd129eb835217",
-          "citation_count": 0
-        },
-        {
-          "id": "363e5d3b51dc1b28039dda46c5ff63de4cda0251",
-          "title": "Host genotype and environment shape rhizosphere and root microbiome composition of pecan rootstocks",
-          "year": 2026,
-          "journal": "Frontiers in Microbiomes",
-          "authors": [
-            "P. O. Gabriel",
-            "C. Velasco‐Cruz",
-            "Jennifer J. Randall"
-          ],
-          "doi": "10.3389/frmbi.2026.1778537",
-          "url": "https://www.semanticscholar.org/paper/363e5d3b51dc1b28039dda46c5ff63de4cda0251",
-          "citation_count": 0
-        },
-        {
-          "id": "162b41b09f14102040f07e729fa672bb60c55acc",
-          "title": "The free-living wellspring of symbiotic nitrogen fixation in Bradyrhizobium",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Lu Ling",
-            "Sishuo Wang",
-            "Jinjin Tao"
-          ],
-          "doi": "10.64898/2026.05.28.728359",
-          "url": "https://www.semanticscholar.org/paper/162b41b09f14102040f07e729fa672bb60c55acc",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The global distribution of nitrogen-fixing genes is revealed, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and nifU as a viral auxiliary metabolic gene (AMG) is identified.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
-    },
-    {
       "id": "8b49edd97db5d3feb2076dcd61ef877e75550545",
       "semantic_scholar_id": "8b49edd97db5d3feb2076dcd61ef877e75550545",
       "source": "Semantic Scholar",
@@ -2167,6 +2003,170 @@
       ],
       "detail_enriched_at": "2026-06-12T22:49:02.748926+00:00",
       "edges_enriched_at": "2026-06-12T22:49:03.457522+00:00"
+    },
+    {
+      "id": "bee209bdce6c3017abc3fd01a584c647589daeda",
+      "semantic_scholar_id": "bee209bdce6c3017abc3fd01a584c647589daeda",
+      "source": "Semantic Scholar",
+      "pmid": "41851125",
+      "doi": "10.1038/s41467-026-70744-1",
+      "title": "The hidden role of rhizospheric viruses in promoting nitrogen fixation in soils",
+      "authors": [
+        "Dong Zhu",
+        "Wen Zhang",
+        "J.L. Balcázar",
+        "Danrui Wang",
+        "Mingming Sun",
+        "Feng Hu",
+        "J. Peñuelas",
+        "Yong-guan Zhu"
+      ],
+      "journal": "Nature Communications",
+      "publication_date": "2026-03-18",
+      "abstract": "Biological nitrogen fixation is a cornerstone of terrestrial nitrogen cycling, traditionally attributed to bacterial nitrogenase activity. However, the potential contribution of rhizospheric viruses remains largely unexplored. Here, we reveal the global distribution of nitrogen-fixing genes, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and identify nifU as a viral auxiliary metabolic gene (AMG). Analysis of viral communities in rhizosphere and bulk soils cultivated with cowpea showed that viral nifU expression was significantly upregulated in rhizosphere soils. Using 15N₂ stable-isotope tracing and virus transplantation experiments, we demonstrate that virus-encoded nitrogen-fixing AMGs, horizontally transferred from bacteria such as Azospirillum thermophilum (70–99% homology), increased nitrogenase activity from 1.79 to 3.14 nmol C2H4 g-1 dry soil h-1. This enhancement was accompanied by shifts in bacterial community composition, with the relative abundance of the nitrogen-fixing genus Azotobacter reaching 90.8%. These results uncover a previously hidden role of rhizospheric viruses in promoting bacterial nitrogen fixation, suggesting that viral-mediated gene transfer could be leveraged to enhance nitrogen cycling in soils and inform sustainable soil management strategies.",
+      "url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 98,
+      "references": [
+        {
+          "title": "DNA viral community enhances microbial carbon fixation capacity via auxiliary metabolic genes in contaminated soils",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
+          "doi": "10.1038/s41467-025-64938-2"
+        },
+        {
+          "title": "Copper contamination determined the impact of phages on microbially-driven nitrogen cycling in coastal wetland sediments.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
+          "doi": "10.1016/j.jhazmat.2025.137870"
+        },
+        {
+          "title": "The biogeography of soil microbiome potential growth rates",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3bd20a3d205e12a00c3cefe67187b5eab1141405",
+          "doi": "10.1038/s41467-024-53753-w"
+        },
+        {
+          "title": "Host-virus coevolution drives soil microbial function succession along a millennium land reclamation chronosequence",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/52d9e838a753a4ee371bcf032b42abbf38fdaefc",
+          "doi": "10.1016/j.jare.2024.06.022"
+        },
+        {
+          "title": "Interactive dynamics between rhizosphere bacterial and viral communities facilitate soybean fitness to cadmium stress revealed by time-series metagenomics",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/eb4bf78e48a16d6ddc1346dba7b441c2710e7deb",
+          "doi": "10.1016/j.soilbio.2024.109313"
+        },
+        {
+          "title": "Soil nutrient conditions alter viral lifestyle strategy and potential function in phosphorous and nitrogen metabolisms",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c11ac6a72f70e0c09c7a90598c034a1e6ede286a",
+          "doi": "10.1016/j.soilbio.2023.109279"
+        },
+        {
+          "title": "The role of the soil microbiome in the colonisation of glacier forefields by Antarctic pearlwort Colobanthus quitensis under current and future climate change scenarios",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/032d5f4628857a2cd412e509cccf81d96c51f6d6",
+          "doi": "10.1016/j.soilbio.2023.109249"
+        },
+        {
+          "title": "Mixed Enterobacter and Klebsiella bacteria enhance soybean biological nitrogen fixation ability when combined with rhizobia inoculation",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/2edc20e68119c64d3fd21fb2a11ea558abf03780",
+          "doi": "10.1016/j.soilbio.2023.109100"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "54bff19da6193f03848d65fbd69b30c3714e24e0",
+          "title": "Functional and taxonomic shifts in rhizosphere microbiomes of summer legume cover crops",
+          "year": 2026,
+          "journal": "Frontiers in Plant Science",
+          "authors": [
+            "Sri Kiran Reddy Alla",
+            "Vijay Joshi"
+          ],
+          "doi": "10.3389/fpls.2026.1790810",
+          "url": "https://www.semanticscholar.org/paper/54bff19da6193f03848d65fbd69b30c3714e24e0",
+          "citation_count": 0
+        },
+        {
+          "id": "d624b7318e432d912e6efc6f6302e1cdb93c9d73",
+          "title": "Single-cell genomics reveals opportunistic Enterobacterales carrying putative cationic antimicrobial peptide resistance genes in red crown rot-affected soybean rhizoplanes",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Takeru Ochi",
+            "Yohei Nishikawa",
+            "Masako Kifushi"
+          ],
+          "doi": "10.64898/2026.04.07.716964",
+          "url": "https://www.semanticscholar.org/paper/d624b7318e432d912e6efc6f6302e1cdb93c9d73",
+          "citation_count": 0
+        },
+        {
+          "id": "540e716bd28e0de6785cf6b5898bd129eb835217",
+          "title": "Nodule microbiome functions shape the performance of a wild perennial legume",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Moshe Alon",
+            "Guy Dovrat",
+            "Y. Waitz"
+          ],
+          "doi": "10.64898/2026.04.06.716301",
+          "url": "https://www.semanticscholar.org/paper/540e716bd28e0de6785cf6b5898bd129eb835217",
+          "citation_count": 0
+        },
+        {
+          "id": "363e5d3b51dc1b28039dda46c5ff63de4cda0251",
+          "title": "Host genotype and environment shape rhizosphere and root microbiome composition of pecan rootstocks",
+          "year": 2026,
+          "journal": "Frontiers in Microbiomes",
+          "authors": [
+            "P. O. Gabriel",
+            "C. Velasco‐Cruz",
+            "Jennifer J. Randall"
+          ],
+          "doi": "10.3389/frmbi.2026.1778537",
+          "url": "https://www.semanticscholar.org/paper/363e5d3b51dc1b28039dda46c5ff63de4cda0251",
+          "citation_count": 0
+        },
+        {
+          "id": "162b41b09f14102040f07e729fa672bb60c55acc",
+          "title": "The free-living wellspring of symbiotic nitrogen fixation in Bradyrhizobium",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Lu Ling",
+            "Sishuo Wang",
+            "Jinjin Tao"
+          ],
+          "doi": "10.64898/2026.05.28.728359",
+          "url": "https://www.semanticscholar.org/paper/162b41b09f14102040f07e729fa672bb60c55acc",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The global distribution of nitrogen-fixing genes is revealed, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and nifU as a viral auxiliary metabolic gene (AMG) is identified.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
     },
     {
       "id": "2c372b9c4ed597360cfc15360554c6b6fd150880",
@@ -12577,7 +12577,7 @@
       "url": "https://www.semanticscholar.org/paper/f6d7fd70d83399b97ccadc74ad27de9b3241e128",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f6d7fd70d83399b97ccadc74ad27de9b3241e128",
       "pdf_url": "",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 97,
       "references": [],
@@ -14733,7 +14733,7 @@
       "url": "https://www.semanticscholar.org/paper/7e05a59401fb6f5bfaba33cf8c7040ec17f46328",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7e05a59401fb6f5bfaba33cf8c7040ec17f46328",
       "pdf_url": "https://www.mdpi.com/1999-4915/16/4/535/pdf?version=1711723036",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [
@@ -15928,168 +15928,6 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
-      "id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "semantic_scholar_id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "source": "Semantic Scholar",
-      "pmid": "39021441",
-      "doi": "10.1093/ismeco/ycae084",
-      "title": "Active prokaryotic and eukaryotic viral ecology across spatial scale in a deep-sea brine pool",
-      "authors": [
-        "Benjamin Minch",
-        "Morgan I Chakraborty",
-        "Sam J. Purkis",
-        "Mattie Rodrigue",
-        "M. Moniruzzaman"
-      ],
-      "journal": "bioRxiv",
-      "publication_date": "2024-01-01",
-      "abstract": "Deep-sea brine pools represent rare, extreme environments that focus biodiversity at bathyal to abyssal depths. Despite their small size and distribution, brine pools represent important ecosystems to study because they provide unique insight into the limits of life on Earth, and by analogy, the plausibility of life beyond it. A distinguishing feature of many brine pools is the presence of thick benthic microbial mats which develop at the brine-seawater interface. While these bacterial and archaeal communities have received moderate attention, little is known about the viral communities and their interactions with host populations in these environments. To bridge this knowledge gap, we leveraged metagenomic and metatranscriptomic data from three distinct zones within the NEOM brine pool system (Gulf of Aqaba) to gain insights into the active viral ecology around the pools. Here, we report a remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment. These include giant viruses (phylum: Nucleocytoviricota), RNA viruses, jumbo phages, and polinton-like viruses (PLVs). Many of these appeared to form distinct clades showing the possibility of untapped viral diversity in the brine pool ecosystem. Zone-specific differences in viral community composition and infection strategy were also observed with lysogenic phages seeming to dominate the bacterial mat further away from the pool’s center. Through host matching, viruses infecting metabolically important bacteria and archaea were observed – including a linkage between a jumbo phage and a key manganese-oxidizing and arsenic-metabolizing bacterium. Our findings shed light on the role of viruses in modulating the brine pool microbial community dynamics and biogeochemistry through revealing novel viral diversity, host-virus associations, and spatial-scale heterogeneity in viral dynamics in these extreme environments. These results will provide crucial foundation for further investigation into the adaptations of viruses and their microbial hosts in extreme habitats in the marine ecosystem.",
-      "url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "pdf_url": "https://doi.org/10.1093/ismeco/ycae084",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 127,
-      "references": [
-        {
-          "title": "Single-cell RNA-seq of the rare virosphere reveals the native hosts of giant viruses in the marine environment",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/c1f6553e9747f0e604282157383bf34def3f92a6",
-          "doi": "10.1038/s41564-024-01669-y"
-        },
-        {
-          "title": "Sedimentary porewaters record regional tectonic and climate events that perturbed a deep-sea brine pool in the Gulf of Aqaba, Red Sea.",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/0c3d8e3acb968aa10e8a93761c9d48b10ed4e416",
-          "doi": "10.1016/j.scitotenv.2023.168804"
-        },
-        {
-          "title": "Widespread occurrence and diverse origins of polintoviruses influence lineage-specific genome dynamics in stony corals",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/83bd81cf35bd9481f629c9f431d9305a664153b2",
-          "doi": "10.1093/ve/veae039"
-        },
-        {
-          "title": "Identification of mobile genetic elements with geNomad",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
-          "doi": "10.1038/s41587-023-01953-y"
-        },
-        {
-          "title": "Virologs, viral mimicry, and virocell metabolism: the expanding scale of cellular functions encoded in the complex genomes of giant viruses",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/b600782fb633cde90640008babb80310423c56bb",
-          "doi": "10.1093/femsre/fuad053"
-        },
-        {
-          "title": "Homing in on the rare virosphere reveals the native host of giant viruses",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/9a63180380d722cc825c64975ad22118cf0e2acb",
-          "doi": "10.1101/2023.06.27.546645"
-        },
-        {
-          "title": "Large-scale invasion of unicellular eukaryotic genomes by integrating DNA viruses",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/7881d7b47d7223b62a934d9564c24f4af0dc1e5c",
-          "doi": "10.1073/pnas.2300465120"
-        },
-        {
-          "title": "Genomics discovery of giant fungal viruses from subsurface oceanic crustal fluids",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/1311e1773ab2dd79f9a439dafb9513b327f7db78",
-          "doi": "10.1038/s43705-022-00210-8"
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
-          "title": "Continental-scale multi-omics reveals a distinct microbial-viral biome in sandy beach ecosystems structured by tidal zonation",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Xiyang Dong",
-            "Feng Cai",
-            "Yingchun Han"
-          ],
-          "doi": "10.64898/2026.04.10.717577",
-          "url": "https://www.semanticscholar.org/paper/2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
-          "citation_count": 0
-        },
-        {
-          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
-          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Guillermo Domínguez-Huerta",
-            "A. M. Cabello",
-            "J. J. Santos-Bruña"
-          ],
-          "doi": "10.1093/ismeco/ycag110",
-          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
-          "citation_count": 0
-        },
-        {
-          "id": "9dd8c5e7b0d02759289db0c493ea189d051aedab",
-          "title": "Hawaiian Geothermal Fumaroles Contain Diverse and Novel Viruses",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Pia Sen",
-            "Lausanne Oliver",
-            "K. Makarova"
-          ],
-          "doi": "10.64898/2026.04.06.716669",
-          "url": "https://www.semanticscholar.org/paper/9dd8c5e7b0d02759289db0c493ea189d051aedab",
-          "citation_count": 0
-        },
-        {
-          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Mohammad Moinuddin Sheam",
-            "E. Luo"
-          ],
-          "doi": "10.64898/2026.05.12.724634",
-          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "citation_count": 0
-        },
-        {
-          "id": "813bc33abae343993120ecc1627e7fbb24cb85b7",
-          "title": "Viruses in Extreme Marine Environments and Their Potential Existence in Extraterrestrial Environments",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "Andrew Mcminn",
-            "Yantao Liang",
-            "Ziyue Wang"
-          ],
-          "doi": "10.3390/v18040457",
-          "url": "https://www.semanticscholar.org/paper/813bc33abae343993120ecc1627e7fbb24cb85b7",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine",
-        "Biology"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "A remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment are reported, including giant viruses, RNA viruses, jumbo phages, and polinton-like viruses.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
       "id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "source": "Semantic Scholar",
@@ -16621,6 +16459,168 @@
         "sediment",
         "sulfur",
         "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
+      "id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "semantic_scholar_id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "source": "Semantic Scholar",
+      "pmid": "39021441",
+      "doi": "10.1093/ismeco/ycae084",
+      "title": "Active prokaryotic and eukaryotic viral ecology across spatial scale in a deep-sea brine pool",
+      "authors": [
+        "Benjamin Minch",
+        "Morgan I Chakraborty",
+        "Sam J. Purkis",
+        "Mattie Rodrigue",
+        "M. Moniruzzaman"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2024-01-01",
+      "abstract": "Deep-sea brine pools represent rare, extreme environments that focus biodiversity at bathyal to abyssal depths. Despite their small size and distribution, brine pools represent important ecosystems to study because they provide unique insight into the limits of life on Earth, and by analogy, the plausibility of life beyond it. A distinguishing feature of many brine pools is the presence of thick benthic microbial mats which develop at the brine-seawater interface. While these bacterial and archaeal communities have received moderate attention, little is known about the viral communities and their interactions with host populations in these environments. To bridge this knowledge gap, we leveraged metagenomic and metatranscriptomic data from three distinct zones within the NEOM brine pool system (Gulf of Aqaba) to gain insights into the active viral ecology around the pools. Here, we report a remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment. These include giant viruses (phylum: Nucleocytoviricota), RNA viruses, jumbo phages, and polinton-like viruses (PLVs). Many of these appeared to form distinct clades showing the possibility of untapped viral diversity in the brine pool ecosystem. Zone-specific differences in viral community composition and infection strategy were also observed with lysogenic phages seeming to dominate the bacterial mat further away from the pool’s center. Through host matching, viruses infecting metabolically important bacteria and archaea were observed – including a linkage between a jumbo phage and a key manganese-oxidizing and arsenic-metabolizing bacterium. Our findings shed light on the role of viruses in modulating the brine pool microbial community dynamics and biogeochemistry through revealing novel viral diversity, host-virus associations, and spatial-scale heterogeneity in viral dynamics in these extreme environments. These results will provide crucial foundation for further investigation into the adaptations of viruses and their microbial hosts in extreme habitats in the marine ecosystem.",
+      "url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycae084",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 127,
+      "references": [
+        {
+          "title": "Single-cell RNA-seq of the rare virosphere reveals the native hosts of giant viruses in the marine environment",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/c1f6553e9747f0e604282157383bf34def3f92a6",
+          "doi": "10.1038/s41564-024-01669-y"
+        },
+        {
+          "title": "Sedimentary porewaters record regional tectonic and climate events that perturbed a deep-sea brine pool in the Gulf of Aqaba, Red Sea.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/0c3d8e3acb968aa10e8a93761c9d48b10ed4e416",
+          "doi": "10.1016/j.scitotenv.2023.168804"
+        },
+        {
+          "title": "Widespread occurrence and diverse origins of polintoviruses influence lineage-specific genome dynamics in stony corals",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/83bd81cf35bd9481f629c9f431d9305a664153b2",
+          "doi": "10.1093/ve/veae039"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "Virologs, viral mimicry, and virocell metabolism: the expanding scale of cellular functions encoded in the complex genomes of giant viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/b600782fb633cde90640008babb80310423c56bb",
+          "doi": "10.1093/femsre/fuad053"
+        },
+        {
+          "title": "Homing in on the rare virosphere reveals the native host of giant viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/9a63180380d722cc825c64975ad22118cf0e2acb",
+          "doi": "10.1101/2023.06.27.546645"
+        },
+        {
+          "title": "Large-scale invasion of unicellular eukaryotic genomes by integrating DNA viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/7881d7b47d7223b62a934d9564c24f4af0dc1e5c",
+          "doi": "10.1073/pnas.2300465120"
+        },
+        {
+          "title": "Genomics discovery of giant fungal viruses from subsurface oceanic crustal fluids",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/1311e1773ab2dd79f9a439dafb9513b327f7db78",
+          "doi": "10.1038/s43705-022-00210-8"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
+          "title": "Continental-scale multi-omics reveals a distinct microbial-viral biome in sandy beach ecosystems structured by tidal zonation",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Xiyang Dong",
+            "Feng Cai",
+            "Yingchun Han"
+          ],
+          "doi": "10.64898/2026.04.10.717577",
+          "url": "https://www.semanticscholar.org/paper/2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
+          "citation_count": 0
+        },
+        {
+          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
+          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Guillermo Domínguez-Huerta",
+            "A. M. Cabello",
+            "J. J. Santos-Bruña"
+          ],
+          "doi": "10.1093/ismeco/ycag110",
+          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
+          "citation_count": 0
+        },
+        {
+          "id": "9dd8c5e7b0d02759289db0c493ea189d051aedab",
+          "title": "Hawaiian Geothermal Fumaroles Contain Diverse and Novel Viruses",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Pia Sen",
+            "Lausanne Oliver",
+            "K. Makarova"
+          ],
+          "doi": "10.64898/2026.04.06.716669",
+          "url": "https://www.semanticscholar.org/paper/9dd8c5e7b0d02759289db0c493ea189d051aedab",
+          "citation_count": 0
+        },
+        {
+          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Mohammad Moinuddin Sheam",
+            "E. Luo"
+          ],
+          "doi": "10.64898/2026.05.12.724634",
+          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "citation_count": 0
+        },
+        {
+          "id": "813bc33abae343993120ecc1627e7fbb24cb85b7",
+          "title": "Viruses in Extreme Marine Environments and Their Potential Existence in Extraterrestrial Environments",
+          "year": 2026,
+          "journal": "Viruses",
+          "authors": [
+            "Andrew Mcminn",
+            "Yantao Liang",
+            "Ziyue Wang"
+          ],
+          "doi": "10.3390/v18040457",
+          "url": "https://www.semanticscholar.org/paper/813bc33abae343993120ecc1627e7fbb24cb85b7",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine",
+        "Biology"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "A remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment are reported, including giant viruses, RNA viruses, jumbo phages, and polinton-like viruses.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "sediment",
+        "virus",
+        "water"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
