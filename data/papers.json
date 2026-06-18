@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T22:57:26.568529+00:00",
+  "updated_at": "2026-06-18T23:11:52.348243+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,125 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "a89bf5c996b025345245746245791ca886dc9e5b",
+      "semantic_scholar_id": "a89bf5c996b025345245746245791ca886dc9e5b",
+      "source": "Semantic Scholar",
+      "pmid": "42294682",
+      "doi": "10.1128/mbio.00693-26",
+      "title": "Active prophages as key drivers of microbial adaptation in global soil ecosystems.",
+      "authors": [
+        "C. Ai",
+        "Xiang Tang",
+        "Haoxiang Han",
+        "Yuqi He",
+        "Hongbo Zhang",
+        "Chen Liu",
+        "Han-Peng Liao",
+        "Shungui Zhou"
+      ],
+      "journal": "mBio",
+      "publication_date": "2026-06-15",
+      "abstract": "Soils harbor the most complex microbial diversity on Earth, in which bacteria are ubiquitously infected by temperate phages. While integrated prophages often enhance host fitness, active (inducible) prophages are traditionally perceived as \"molecular time bombs\" due to their intrinsic lysis threat. This dual nature has raised fundamental questions about the true contribution of temperate phages to microbial adaptation and ecosystem stability. To address this gap, we conducted a global-scale integrative analysis by synthesizing 123,207 high-quality bacterial genomes, 183 soil-specific viromic data sets, and 3,749 metagenomes. We established the Global Soil Active Prophage Database (GSAPD), comprising 21,397 high-confidence active prophages, which we found to represent 34.3% of the total soil viral population within our analytical framework. Our comparative genomic analysis reveals that active prophages possess significantly larger genomes and greater genetic complexity compared with their dormant counterparts. Crucially, by mapping phage-encoded auxiliary metabolic genes (AMGs) across diverse biomes, we found that active prophages are disproportionately enriched in key pathways for carbon, nitrogen, and sulfur cycling, as well as specialized resistance mechanisms against heavy metal toxicity. These findings suggest that active prophages act as dynamic reservoirs of functional diversity. We demonstrate that their lytic potential is not merely a survival risk, but a sophisticated mechanism underpinning host environmental adaptation and niche expansion. Ultimately, this study provides a comprehensive global catalog of soil viral pathways and redefines the role of temperate phages as pivotal drivers of microbial evolution and biogeochemical cycling in terrestrial ecosystems.IMPORTANCESoils contain immense microbial diversity, yet the ecological role of temperate phages-especially their active (inducible) forms-remains poorly understood. This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms. By building a comprehensive database and integrating multi-omics data, we show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance. These findings challenge the traditional view of active prophages as purely harmful agents and instead highlight their role as dynamic contributors to microbial function and adaptation. Our work offers new insights into how viruses shape ecosystem processes and provides a valuable resource for future studies on soil microbial ecology and nutrient cycling.",
+      "url": "https://www.semanticscholar.org/paper/a89bf5c996b025345245746245791ca886dc9e5b",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a89bf5c996b025345245746245791ca886dc9e5b",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 64,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "0c3aa6adb31f34a4f2eadad7ccc98501875b74d6",
+          "title": "Metagenome-Assembled Genomes Support the Proposal of Candidatus Flavobacterium genomatis from the Northeast Black Soil Ecosystem",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Xiaoyue Zhang",
+            "Caiyu Lu",
+            "Luotian Lu"
+          ],
+          "doi": "10.3390/microorganisms14061292",
+          "url": "https://www.semanticscholar.org/paper/0c3aa6adb31f34a4f2eadad7ccc98501875b74d6",
+          "citation_count": 0
+        },
+        {
+          "id": "aff75144666e9897a1952238725ee3a972b83270",
+          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "T. Pitot",
+            "C. Girard"
+          ],
+          "doi": "10.1093/femsec/fiag061",
+          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "citation_count": 0
+        },
+        {
+          "id": "b33f80b9d819ce08d313a2f5044804e201b031fe",
+          "title": "Genomic Analysis of Prophage Distribution in Xylella fastidiosa Reveals Extensive Diversity and Horizontal Gene Transfer.",
+          "year": 2026,
+          "journal": "Phytopathology",
+          "authors": [
+            "Miranda Tomás-Tomás",
+            "L. F. Arias-Giraldo",
+            "M. P. Velasco-Amo"
+          ],
+          "doi": "10.1094/phyto-04-25-0141-r",
+          "url": "https://www.semanticscholar.org/paper/b33f80b9d819ce08d313a2f5044804e201b031fe",
+          "citation_count": 0
+        },
+        {
+          "id": "28e3b638fa52189bc52e8eefa541fe90bf2e968f",
+          "title": "Multi-metal contamination is associated with microbial network simplification and functional adaptation in paddy soils: Insights from genome-resolved metagenomics.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Zhizhen Pan",
+            "Weiyi Wang",
+            "Ehssan Torabi"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142406",
+          "url": "https://www.semanticscholar.org/paper/28e3b638fa52189bc52e8eefa541fe90bf2e968f",
+          "citation_count": 0
+        },
+        {
+          "id": "b80f71bc5e80f164b802c48b639148394a0317e4",
+          "title": "Advances in the study of viral diversity and ecological functions in marine hydrothermal ecosystem",
+          "year": 2026,
+          "journal": "Chinese bulletin of Life sciences",
+          "authors": [
+            "Xin Du",
+            "Qin-Yuan Cao",
+            "Xiang Xiao"
+          ],
+          "doi": "10.3724/cbls.2026058",
+          "url": "https://www.semanticscholar.org/paper/b80f71bc5e80f164b802c48b639148394a0317e4",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms and show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-18T23:11:48.534488+00:00",
+      "edges_enriched_at": "2026-06-18T23:11:49.240561+00:00"
+    },
     {
       "id": "19599279d5b59ab33d8438276e997a48fd5db062",
       "semantic_scholar_id": "19599279d5b59ab33d8438276e997a48fd5db062",
@@ -452,121 +571,6 @@
       "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
     },
     {
-      "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
-      "semantic_scholar_id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
-      "source": "Semantic Scholar",
-      "pmid": "42080299",
-      "doi": "10.1111/mec.70367",
-      "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake.",
-      "authors": [
-        "Zong Li",
-        "Minglei Ren",
-        "Ang Hu",
-        "Fanfan Meng",
-        "Jianjun Wang"
-      ],
-      "journal": "Molecular Ecology",
-      "publication_date": "2026-05-01",
-      "abstract": "Deep freshwater lakes exhibit distinct microbial community stratification across depth gradients, which plays important roles in biogeochemical cycling and ecosystem stability. As crucial regulators of microbiome composition and function, viruses may play key ecological roles in these stratified systems, yet their distribution patterns and ecological significance in deep-lake surface sediments remain poorly understood. Here, we assessed viral community dynamics and functional potential across the entire water depth gradient (0-155 m) of Fuxian Lake using metagenomics from 44 surface sediment samples. A total of 11,523 viral OTUs were recovered, with only 18% annotated to the family level and approximately 93% classified as putatively lytic. Viral communities showed systematic depth-related shifts across multiple dimensions. Specifically, alpha diversity, community turnover, and stochastic assembly processes increased significantly with water depth, accompanied by enhanced lytic virus dominance and larger genome sizes. Predicted virus-host association networks transitioned from highly connected and generalized at shallow depths to increasingly sparse and specialized at greater depths. Virus-encoded auxiliary metabolic genes showed significantly increasing abundance with water depth, along with functional shifts from host defense to enhanced biosynthesis and energy metabolism, especially regarding carbon fixation and organic matter degradation. Collectively, these results highlight the importance of water depth gradients in structuring viral communities within surface sediments and expand our understanding of viral ecological functions in deep lake ecosystems.",
-      "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 84,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "c74339d460f257097cc3a25748e2b043d9c5207e",
-          "title": "Continental-Scale Climatic Zones Drive Reorganization of Lake Sediment Microbiome: Diversity, Assembly and Interaction Networks",
-          "year": 2026,
-          "journal": "Microorganisms",
-          "authors": [
-            "Fanjin Ye",
-            "Shuailiang Lu",
-            "Yanfang Tian"
-          ],
-          "doi": "10.3390/microorganisms14051013",
-          "url": "https://www.semanticscholar.org/paper/c74339d460f257097cc3a25748e2b043d9c5207e",
-          "citation_count": 0
-        },
-        {
-          "id": "9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
-          "title": "Lytic viruses drive the decrease in polyphosphate-accumulating and phosphate-solubilizing potential of microbial communities with increasing reservoir age",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Qiusheng Wu",
-            "Debin Wu",
-            "Jiayi Wang"
-          ],
-          "doi": "10.1128/aem.02481-25",
-          "url": "https://www.semanticscholar.org/paper/9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
-          "citation_count": 0
-        },
-        {
-          "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
-          "title": "Active microbial communities and their extrachromosomal elements link organic matter degradation to methane cycling in anoxic sediments",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Bledina Dede",
-            "H.S. Zehnle",
-            "Emilie J. Skoog"
-          ],
-          "doi": "10.64898/2026.04.10.716911",
-          "url": "https://www.semanticscholar.org/paper/fc192390499ad7e6c6111d703eaf0739ab23a6e5",
-          "citation_count": 0
-        },
-        {
-          "id": "b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
-          "title": "Microbial Diversity and Function Linked to Carbon Cycling in Mangrove Sediments",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Nabilah Khairi",
-            "Muhammad Zarul Hanifah Md Zoqratt",
-            "N. Hidayah"
-          ],
-          "doi": "10.64898/2026.05.13.724760",
-          "url": "https://www.semanticscholar.org/paper/b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
-          "citation_count": 0
-        },
-        {
-          "id": "2a7f8a39445e88b1facd0e012af0234e0e31277e",
-          "title": "Vertical stratification and functional coupling of antibiotic resistance and carbon metabolism in thermokarst lake sediments",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Ze Ren",
-            "Mingfeng Zhao",
-            "Ruoting Chen"
-          ],
-          "doi": "10.1093/ismeco/ycag107",
-          "url": "https://www.semanticscholar.org/paper/2a7f8a39445e88b1facd0e012af0234e0e31277e",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The importance of water depth gradients in structuring viral communities within surface sediments is highlighted and understanding of viral ecological functions in deep lake ecosystems is expanded.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "carbon",
-        "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
-    },
-    {
       "id": "1e6e64e567f59f25f4c4e402415ad01074a86f07",
       "semantic_scholar_id": "1e6e64e567f59f25f4c4e402415ad01074a86f07",
       "source": "Semantic Scholar",
@@ -675,6 +679,121 @@
         "biogeochemistry",
         "carbon",
         "nitrogen",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
+    },
+    {
+      "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+      "semantic_scholar_id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+      "source": "Semantic Scholar",
+      "pmid": "42080299",
+      "doi": "10.1111/mec.70367",
+      "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake.",
+      "authors": [
+        "Zong Li",
+        "Minglei Ren",
+        "Ang Hu",
+        "Fanfan Meng",
+        "Jianjun Wang"
+      ],
+      "journal": "Molecular Ecology",
+      "publication_date": "2026-05-01",
+      "abstract": "Deep freshwater lakes exhibit distinct microbial community stratification across depth gradients, which plays important roles in biogeochemical cycling and ecosystem stability. As crucial regulators of microbiome composition and function, viruses may play key ecological roles in these stratified systems, yet their distribution patterns and ecological significance in deep-lake surface sediments remain poorly understood. Here, we assessed viral community dynamics and functional potential across the entire water depth gradient (0-155 m) of Fuxian Lake using metagenomics from 44 surface sediment samples. A total of 11,523 viral OTUs were recovered, with only 18% annotated to the family level and approximately 93% classified as putatively lytic. Viral communities showed systematic depth-related shifts across multiple dimensions. Specifically, alpha diversity, community turnover, and stochastic assembly processes increased significantly with water depth, accompanied by enhanced lytic virus dominance and larger genome sizes. Predicted virus-host association networks transitioned from highly connected and generalized at shallow depths to increasingly sparse and specialized at greater depths. Virus-encoded auxiliary metabolic genes showed significantly increasing abundance with water depth, along with functional shifts from host defense to enhanced biosynthesis and energy metabolism, especially regarding carbon fixation and organic matter degradation. Collectively, these results highlight the importance of water depth gradients in structuring viral communities within surface sediments and expand our understanding of viral ecological functions in deep lake ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 84,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "c74339d460f257097cc3a25748e2b043d9c5207e",
+          "title": "Continental-Scale Climatic Zones Drive Reorganization of Lake Sediment Microbiome: Diversity, Assembly and Interaction Networks",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Fanjin Ye",
+            "Shuailiang Lu",
+            "Yanfang Tian"
+          ],
+          "doi": "10.3390/microorganisms14051013",
+          "url": "https://www.semanticscholar.org/paper/c74339d460f257097cc3a25748e2b043d9c5207e",
+          "citation_count": 0
+        },
+        {
+          "id": "9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
+          "title": "Lytic viruses drive the decrease in polyphosphate-accumulating and phosphate-solubilizing potential of microbial communities with increasing reservoir age",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Qiusheng Wu",
+            "Debin Wu",
+            "Jiayi Wang"
+          ],
+          "doi": "10.1128/aem.02481-25",
+          "url": "https://www.semanticscholar.org/paper/9cd8dfb438be1a4abdb9772932eb0591c2c0e30e",
+          "citation_count": 0
+        },
+        {
+          "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
+          "title": "Active microbial communities and their extrachromosomal elements link organic matter degradation to methane cycling in anoxic sediments",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Bledina Dede",
+            "H.S. Zehnle",
+            "Emilie J. Skoog"
+          ],
+          "doi": "10.64898/2026.04.10.716911",
+          "url": "https://www.semanticscholar.org/paper/fc192390499ad7e6c6111d703eaf0739ab23a6e5",
+          "citation_count": 0
+        },
+        {
+          "id": "b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "title": "Microbial Diversity and Function Linked to Carbon Cycling in Mangrove Sediments",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Nabilah Khairi",
+            "Muhammad Zarul Hanifah Md Zoqratt",
+            "N. Hidayah"
+          ],
+          "doi": "10.64898/2026.05.13.724760",
+          "url": "https://www.semanticscholar.org/paper/b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "citation_count": 0
+        },
+        {
+          "id": "2a7f8a39445e88b1facd0e012af0234e0e31277e",
+          "title": "Vertical stratification and functional coupling of antibiotic resistance and carbon metabolism in thermokarst lake sediments",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Ze Ren",
+            "Mingfeng Zhao",
+            "Ruoting Chen"
+          ],
+          "doi": "10.1093/ismeco/ycag107",
+          "url": "https://www.semanticscholar.org/paper/2a7f8a39445e88b1facd0e012af0234e0e31277e",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The importance of water depth gradients in structuring viral communities within surface sediments is highlighted and understanding of viral ecological functions in deep lake ecosystems is expanded.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
         "virus",
         "water"
       ],
@@ -1831,6 +1950,170 @@
       "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
     },
     {
+      "id": "bee209bdce6c3017abc3fd01a584c647589daeda",
+      "semantic_scholar_id": "bee209bdce6c3017abc3fd01a584c647589daeda",
+      "source": "Semantic Scholar",
+      "pmid": "41851125",
+      "doi": "10.1038/s41467-026-70744-1",
+      "title": "The hidden role of rhizospheric viruses in promoting nitrogen fixation in soils",
+      "authors": [
+        "Dong Zhu",
+        "Wen Zhang",
+        "J.L. Balcázar",
+        "Danrui Wang",
+        "Mingming Sun",
+        "Feng Hu",
+        "J. Peñuelas",
+        "Yong-guan Zhu"
+      ],
+      "journal": "Nature Communications",
+      "publication_date": "2026-03-18",
+      "abstract": "Biological nitrogen fixation is a cornerstone of terrestrial nitrogen cycling, traditionally attributed to bacterial nitrogenase activity. However, the potential contribution of rhizospheric viruses remains largely unexplored. Here, we reveal the global distribution of nitrogen-fixing genes, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and identify nifU as a viral auxiliary metabolic gene (AMG). Analysis of viral communities in rhizosphere and bulk soils cultivated with cowpea showed that viral nifU expression was significantly upregulated in rhizosphere soils. Using 15N₂ stable-isotope tracing and virus transplantation experiments, we demonstrate that virus-encoded nitrogen-fixing AMGs, horizontally transferred from bacteria such as Azospirillum thermophilum (70–99% homology), increased nitrogenase activity from 1.79 to 3.14 nmol C2H4 g-1 dry soil h-1. This enhancement was accompanied by shifts in bacterial community composition, with the relative abundance of the nitrogen-fixing genus Azotobacter reaching 90.8%. These results uncover a previously hidden role of rhizospheric viruses in promoting bacterial nitrogen fixation, suggesting that viral-mediated gene transfer could be leveraged to enhance nitrogen cycling in soils and inform sustainable soil management strategies.",
+      "url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 98,
+      "references": [
+        {
+          "title": "DNA viral community enhances microbial carbon fixation capacity via auxiliary metabolic genes in contaminated soils",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
+          "doi": "10.1038/s41467-025-64938-2"
+        },
+        {
+          "title": "Copper contamination determined the impact of phages on microbially-driven nitrogen cycling in coastal wetland sediments.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
+          "doi": "10.1016/j.jhazmat.2025.137870"
+        },
+        {
+          "title": "The biogeography of soil microbiome potential growth rates",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3bd20a3d205e12a00c3cefe67187b5eab1141405",
+          "doi": "10.1038/s41467-024-53753-w"
+        },
+        {
+          "title": "Host-virus coevolution drives soil microbial function succession along a millennium land reclamation chronosequence",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/52d9e838a753a4ee371bcf032b42abbf38fdaefc",
+          "doi": "10.1016/j.jare.2024.06.022"
+        },
+        {
+          "title": "Interactive dynamics between rhizosphere bacterial and viral communities facilitate soybean fitness to cadmium stress revealed by time-series metagenomics",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/eb4bf78e48a16d6ddc1346dba7b441c2710e7deb",
+          "doi": "10.1016/j.soilbio.2024.109313"
+        },
+        {
+          "title": "Soil nutrient conditions alter viral lifestyle strategy and potential function in phosphorous and nitrogen metabolisms",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c11ac6a72f70e0c09c7a90598c034a1e6ede286a",
+          "doi": "10.1016/j.soilbio.2023.109279"
+        },
+        {
+          "title": "The role of the soil microbiome in the colonisation of glacier forefields by Antarctic pearlwort Colobanthus quitensis under current and future climate change scenarios",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/032d5f4628857a2cd412e509cccf81d96c51f6d6",
+          "doi": "10.1016/j.soilbio.2023.109249"
+        },
+        {
+          "title": "Mixed Enterobacter and Klebsiella bacteria enhance soybean biological nitrogen fixation ability when combined with rhizobia inoculation",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/2edc20e68119c64d3fd21fb2a11ea558abf03780",
+          "doi": "10.1016/j.soilbio.2023.109100"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "54bff19da6193f03848d65fbd69b30c3714e24e0",
+          "title": "Functional and taxonomic shifts in rhizosphere microbiomes of summer legume cover crops",
+          "year": 2026,
+          "journal": "Frontiers in Plant Science",
+          "authors": [
+            "Sri Kiran Reddy Alla",
+            "Vijay Joshi"
+          ],
+          "doi": "10.3389/fpls.2026.1790810",
+          "url": "https://www.semanticscholar.org/paper/54bff19da6193f03848d65fbd69b30c3714e24e0",
+          "citation_count": 0
+        },
+        {
+          "id": "d624b7318e432d912e6efc6f6302e1cdb93c9d73",
+          "title": "Single-cell genomics reveals opportunistic Enterobacterales carrying putative cationic antimicrobial peptide resistance genes in red crown rot-affected soybean rhizoplanes",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Takeru Ochi",
+            "Yohei Nishikawa",
+            "Masako Kifushi"
+          ],
+          "doi": "10.64898/2026.04.07.716964",
+          "url": "https://www.semanticscholar.org/paper/d624b7318e432d912e6efc6f6302e1cdb93c9d73",
+          "citation_count": 0
+        },
+        {
+          "id": "540e716bd28e0de6785cf6b5898bd129eb835217",
+          "title": "Nodule microbiome functions shape the performance of a wild perennial legume",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Moshe Alon",
+            "Guy Dovrat",
+            "Y. Waitz"
+          ],
+          "doi": "10.64898/2026.04.06.716301",
+          "url": "https://www.semanticscholar.org/paper/540e716bd28e0de6785cf6b5898bd129eb835217",
+          "citation_count": 0
+        },
+        {
+          "id": "363e5d3b51dc1b28039dda46c5ff63de4cda0251",
+          "title": "Host genotype and environment shape rhizosphere and root microbiome composition of pecan rootstocks",
+          "year": 2026,
+          "journal": "Frontiers in Microbiomes",
+          "authors": [
+            "P. O. Gabriel",
+            "C. Velasco‐Cruz",
+            "Jennifer J. Randall"
+          ],
+          "doi": "10.3389/frmbi.2026.1778537",
+          "url": "https://www.semanticscholar.org/paper/363e5d3b51dc1b28039dda46c5ff63de4cda0251",
+          "citation_count": 0
+        },
+        {
+          "id": "162b41b09f14102040f07e729fa672bb60c55acc",
+          "title": "The free-living wellspring of symbiotic nitrogen fixation in Bradyrhizobium",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Lu Ling",
+            "Sishuo Wang",
+            "Jinjin Tao"
+          ],
+          "doi": "10.64898/2026.05.28.728359",
+          "url": "https://www.semanticscholar.org/paper/162b41b09f14102040f07e729fa672bb60c55acc",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The global distribution of nitrogen-fixing genes is revealed, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and nifU as a viral auxiliary metabolic gene (AMG) is identified.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
+    },
+    {
       "id": "8b49edd97db5d3feb2076dcd61ef877e75550545",
       "semantic_scholar_id": "8b49edd97db5d3feb2076dcd61ef877e75550545",
       "source": "Semantic Scholar",
@@ -2003,170 +2286,6 @@
       ],
       "detail_enriched_at": "2026-06-12T22:49:02.748926+00:00",
       "edges_enriched_at": "2026-06-12T22:49:03.457522+00:00"
-    },
-    {
-      "id": "bee209bdce6c3017abc3fd01a584c647589daeda",
-      "semantic_scholar_id": "bee209bdce6c3017abc3fd01a584c647589daeda",
-      "source": "Semantic Scholar",
-      "pmid": "41851125",
-      "doi": "10.1038/s41467-026-70744-1",
-      "title": "The hidden role of rhizospheric viruses in promoting nitrogen fixation in soils",
-      "authors": [
-        "Dong Zhu",
-        "Wen Zhang",
-        "J.L. Balcázar",
-        "Danrui Wang",
-        "Mingming Sun",
-        "Feng Hu",
-        "J. Peñuelas",
-        "Yong-guan Zhu"
-      ],
-      "journal": "Nature Communications",
-      "publication_date": "2026-03-18",
-      "abstract": "Biological nitrogen fixation is a cornerstone of terrestrial nitrogen cycling, traditionally attributed to bacterial nitrogenase activity. However, the potential contribution of rhizospheric viruses remains largely unexplored. Here, we reveal the global distribution of nitrogen-fixing genes, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and identify nifU as a viral auxiliary metabolic gene (AMG). Analysis of viral communities in rhizosphere and bulk soils cultivated with cowpea showed that viral nifU expression was significantly upregulated in rhizosphere soils. Using 15N₂ stable-isotope tracing and virus transplantation experiments, we demonstrate that virus-encoded nitrogen-fixing AMGs, horizontally transferred from bacteria such as Azospirillum thermophilum (70–99% homology), increased nitrogenase activity from 1.79 to 3.14 nmol C2H4 g-1 dry soil h-1. This enhancement was accompanied by shifts in bacterial community composition, with the relative abundance of the nitrogen-fixing genus Azotobacter reaching 90.8%. These results uncover a previously hidden role of rhizospheric viruses in promoting bacterial nitrogen fixation, suggesting that viral-mediated gene transfer could be leveraged to enhance nitrogen cycling in soils and inform sustainable soil management strategies.",
-      "url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee209bdce6c3017abc3fd01a584c647589daeda",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 98,
-      "references": [
-        {
-          "title": "DNA viral community enhances microbial carbon fixation capacity via auxiliary metabolic genes in contaminated soils",
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
-          "doi": "10.1038/s41467-025-64938-2"
-        },
-        {
-          "title": "Copper contamination determined the impact of phages on microbially-driven nitrogen cycling in coastal wetland sediments.",
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
-          "doi": "10.1016/j.jhazmat.2025.137870"
-        },
-        {
-          "title": "The biogeography of soil microbiome potential growth rates",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/3bd20a3d205e12a00c3cefe67187b5eab1141405",
-          "doi": "10.1038/s41467-024-53753-w"
-        },
-        {
-          "title": "Host-virus coevolution drives soil microbial function succession along a millennium land reclamation chronosequence",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/52d9e838a753a4ee371bcf032b42abbf38fdaefc",
-          "doi": "10.1016/j.jare.2024.06.022"
-        },
-        {
-          "title": "Interactive dynamics between rhizosphere bacterial and viral communities facilitate soybean fitness to cadmium stress revealed by time-series metagenomics",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/eb4bf78e48a16d6ddc1346dba7b441c2710e7deb",
-          "doi": "10.1016/j.soilbio.2024.109313"
-        },
-        {
-          "title": "Soil nutrient conditions alter viral lifestyle strategy and potential function in phosphorous and nitrogen metabolisms",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/c11ac6a72f70e0c09c7a90598c034a1e6ede286a",
-          "doi": "10.1016/j.soilbio.2023.109279"
-        },
-        {
-          "title": "The role of the soil microbiome in the colonisation of glacier forefields by Antarctic pearlwort Colobanthus quitensis under current and future climate change scenarios",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/032d5f4628857a2cd412e509cccf81d96c51f6d6",
-          "doi": "10.1016/j.soilbio.2023.109249"
-        },
-        {
-          "title": "Mixed Enterobacter and Klebsiella bacteria enhance soybean biological nitrogen fixation ability when combined with rhizobia inoculation",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/2edc20e68119c64d3fd21fb2a11ea558abf03780",
-          "doi": "10.1016/j.soilbio.2023.109100"
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "54bff19da6193f03848d65fbd69b30c3714e24e0",
-          "title": "Functional and taxonomic shifts in rhizosphere microbiomes of summer legume cover crops",
-          "year": 2026,
-          "journal": "Frontiers in Plant Science",
-          "authors": [
-            "Sri Kiran Reddy Alla",
-            "Vijay Joshi"
-          ],
-          "doi": "10.3389/fpls.2026.1790810",
-          "url": "https://www.semanticscholar.org/paper/54bff19da6193f03848d65fbd69b30c3714e24e0",
-          "citation_count": 0
-        },
-        {
-          "id": "d624b7318e432d912e6efc6f6302e1cdb93c9d73",
-          "title": "Single-cell genomics reveals opportunistic Enterobacterales carrying putative cationic antimicrobial peptide resistance genes in red crown rot-affected soybean rhizoplanes",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Takeru Ochi",
-            "Yohei Nishikawa",
-            "Masako Kifushi"
-          ],
-          "doi": "10.64898/2026.04.07.716964",
-          "url": "https://www.semanticscholar.org/paper/d624b7318e432d912e6efc6f6302e1cdb93c9d73",
-          "citation_count": 0
-        },
-        {
-          "id": "540e716bd28e0de6785cf6b5898bd129eb835217",
-          "title": "Nodule microbiome functions shape the performance of a wild perennial legume",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Moshe Alon",
-            "Guy Dovrat",
-            "Y. Waitz"
-          ],
-          "doi": "10.64898/2026.04.06.716301",
-          "url": "https://www.semanticscholar.org/paper/540e716bd28e0de6785cf6b5898bd129eb835217",
-          "citation_count": 0
-        },
-        {
-          "id": "363e5d3b51dc1b28039dda46c5ff63de4cda0251",
-          "title": "Host genotype and environment shape rhizosphere and root microbiome composition of pecan rootstocks",
-          "year": 2026,
-          "journal": "Frontiers in Microbiomes",
-          "authors": [
-            "P. O. Gabriel",
-            "C. Velasco‐Cruz",
-            "Jennifer J. Randall"
-          ],
-          "doi": "10.3389/frmbi.2026.1778537",
-          "url": "https://www.semanticscholar.org/paper/363e5d3b51dc1b28039dda46c5ff63de4cda0251",
-          "citation_count": 0
-        },
-        {
-          "id": "162b41b09f14102040f07e729fa672bb60c55acc",
-          "title": "The free-living wellspring of symbiotic nitrogen fixation in Bradyrhizobium",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Lu Ling",
-            "Sishuo Wang",
-            "Jinjin Tao"
-          ],
-          "doi": "10.64898/2026.05.28.728359",
-          "url": "https://www.semanticscholar.org/paper/162b41b09f14102040f07e729fa672bb60c55acc",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The global distribution of nitrogen-fixing genes is revealed, with widespread detection of nifA, nifL, nifU, and nifH in both bacteria and viruses, and nifU as a viral auxiliary metabolic gene (AMG) is identified.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:36:10.070382+00:00"
     },
     {
       "id": "2c372b9c4ed597360cfc15360554c6b6fd150880",
@@ -4943,7 +5062,7 @@
       "url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [],
@@ -6488,169 +6607,6 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
-      "id": "acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
-      "semantic_scholar_id": "acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
-      "source": "Semantic Scholar",
-      "pmid": "40740321",
-      "doi": "10.3389/fmicb.2025.1645559",
-      "title": "The interplay of nitrogen sources and viral communities in the biodegradation of atrazine in agricultural soils",
-      "authors": [
-        "Yongfeng Wang",
-        "M. Radosevich",
-        "Lu Yang",
-        "Ying Zhang",
-        "Ninghui Xie",
-        "Xiaolong Liang"
-      ],
-      "journal": "Frontiers in Microbiology",
-      "publication_date": "2025-07-16",
-      "abstract": "Atrazine is a widely used herbicide, and its degradation is primarily mediated by microbial activity. However, the interplay between nutrient availability and viral infections on microbial degradation of atrazine remains unexplored. Here, we investigated atrazine degradation under different nitrogen amendments (ammonium, nitrate, and urine) and the influence of soil viruses (intracellular and extracellular viruses). The results showed that atrazine degradation was greater with the addition of extracellular viruses without exogenous nitrogen sources. The added nitrogen sources (nitrate and urine) completely inhibited atrazine degradation. Ammonium impeded atrazine degradation, which was promoted with the addition of intracellular viruses. The metagenomic-based evidence revealed that nitrogen amendments significantly alter bacterial and viral community composition. Peduoviridae emerged as the predominant viral family, with its prevalence and temperate phage ratio strongly influenced by nitrogen availability, underscoring the role of nutrient dynamics in shaping virus-host interactions. The presence of viruses selectively enriched atrazine degradation genes and auxiliary metabolic genes (AMGs) associated with key microbial metabolic pathways, revealing potential mechanisms by which viral infections contribute to pollutant biodegradation. The findings highlight the complex interplay between viral predation, microbial adaptation, and nitrogen-driven shifts in microbial community structure and function, offering new perspectives on how viruses shape bioremediation processes in agroecosystems.",
-      "url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
-      "pdf_url": "",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 34,
-      "references": [
-        {
-          "title": "Studying soil viral ecology under an ecosystem services framework",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/dccd4645e131934f24eb9f7ab933325775931b89",
-          "doi": "10.1016/j.apsoil.2024.105339"
-        },
-        {
-          "title": "Adaptive strategies and ecological roles of phages in habitats under physicochemical stress.",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/de1e20198749511d4e11cb468cb69379c12d1bb5",
-          "doi": "10.1016/j.tim.2024.02.002"
-        },
-        {
-          "title": "Characteristics of bacterial community and extracellular enzymes in response to atrazine application in black soil.",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/ac8347d20ccd1206e9a10d074209ed6665889f9d",
-          "doi": "10.1016/j.envpol.2023.123286"
-        },
-        {
-          "title": "Core bacteria carrying the genes associated with the degradation of atrazine in different soils.",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/cce25edff5796f04a2b1d4ac598d093524557bdd",
-          "doi": "10.1016/j.envint.2023.108303"
-        },
-        {
-          "title": "Phages in vermicomposts enrich functional gene content and facilitate pesticide degradation in soil.",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/86dcb03df996ca38452ba70baf1cd004b7143e56",
-          "doi": "10.1016/j.envint.2023.108175"
-        },
-        {
-          "title": "Benzo[a]pyrene stress impacts adaptive strategies and ecological functions of earthworm intestinal viromes",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/9d23adadbc92c8df563c10dbe1a0deaab287c177",
-          "doi": "10.1038/s41396-023-01408-x"
-        },
-        {
-          "title": "Rapid biodegradation of atrazine by a novel Paenarthrobacter ureafaciens ZY and its effects on soil native microbial community dynamic",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/b783fcb02ce4f6e12d013cedaac69ab5ee780fcc",
-          "doi": "10.3389/fmicb.2022.1103168"
-        },
-        {
-          "title": "Underexplored viral auxiliary metabolic genes in soil: Diversity and eco-evolutionary significance.",
-          "year": 2022,
-          "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
-          "doi": "10.1111/1462-2920.16329"
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
-          "title": "Divergent successional patterns and infection dynamics in virion and transcriptionally active soil viral communities following phosphorus amendment and wet-up",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Grant Gogul",
-            "G. M. Allen",
-            "Ikaia Leleiwi"
-          ],
-          "doi": "10.64898/2026.04.11.717596",
-          "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
-          "citation_count": 0
-        },
-        {
-          "id": "719af27784a54fd30f43a29e17a75881395350f7",
-          "title": "Preceding crops may reduce denitrification potential and enhance ammonium assimilation pathways",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Juan Li",
-            "Ming Liu",
-            "Chengwei Yang"
-          ],
-          "doi": "10.3389/fmicb.2026.1808894",
-          "url": "https://www.semanticscholar.org/paper/719af27784a54fd30f43a29e17a75881395350f7",
-          "citation_count": 0
-        },
-        {
-          "id": "5dea3e5e1299429a95a49b17d6776c1fb014b16c",
-          "title": "The Seasonal and Spatial Patterns of Planktonic Bacterial and Fungal Community Structure and the Response to Environmental Factors in the Danjiangkou Reservoir, China",
-          "year": 2026,
-          "journal": "Environmental Microbiology Reports",
-          "authors": [
-            "Yarui Cheng",
-            "Xiaoyu Lu",
-            "Zunwei Ke"
-          ],
-          "doi": "10.1111/1758-2229.70362",
-          "url": "https://www.semanticscholar.org/paper/5dea3e5e1299429a95a49b17d6776c1fb014b16c",
-          "citation_count": 0
-        },
-        {
-          "id": "2ff39aa6464fbc39b22e66a9453ac44d60621e5b",
-          "title": "Biodegradable microplastics influence on organic component microbial transformation during sludge composting",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Zixuan Wang",
-            "Yuewei Du",
-            "Yunfei Gao"
-          ],
-          "doi": "10.3389/fmicb.2026.1830632",
-          "url": "https://www.semanticscholar.org/paper/2ff39aa6464fbc39b22e66a9453ac44d60621e5b",
-          "citation_count": 0
-        },
-        {
-          "id": "17ddcb2e3c9c4d0881d6efcdf00c3ea6f834a716",
-          "title": "Microbial dynamics along nutrient flow and removal in an integrated multitrophic aquaculture system",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Dzung Nguyen",
-            "O. Ovadia",
-            "Matan Masasa"
-          ],
-          "doi": "10.3389/fmicb.2026.1781931",
-          "url": "https://www.semanticscholar.org/paper/17ddcb2e3c9c4d0881d6efcdf00c3ea6f834a716",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
       "id": "139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_id": "139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "source": "Semantic Scholar",
@@ -6813,6 +6769,169 @@
       "metrics_source": "Semantic Scholar",
       "tags": [
         "biogeochemistry",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
+      "id": "acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
+      "semantic_scholar_id": "acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
+      "source": "Semantic Scholar",
+      "pmid": "40740321",
+      "doi": "10.3389/fmicb.2025.1645559",
+      "title": "The interplay of nitrogen sources and viral communities in the biodegradation of atrazine in agricultural soils",
+      "authors": [
+        "Yongfeng Wang",
+        "M. Radosevich",
+        "Lu Yang",
+        "Ying Zhang",
+        "Ninghui Xie",
+        "Xiaolong Liang"
+      ],
+      "journal": "Frontiers in Microbiology",
+      "publication_date": "2025-07-16",
+      "abstract": "Atrazine is a widely used herbicide, and its degradation is primarily mediated by microbial activity. However, the interplay between nutrient availability and viral infections on microbial degradation of atrazine remains unexplored. Here, we investigated atrazine degradation under different nitrogen amendments (ammonium, nitrate, and urine) and the influence of soil viruses (intracellular and extracellular viruses). The results showed that atrazine degradation was greater with the addition of extracellular viruses without exogenous nitrogen sources. The added nitrogen sources (nitrate and urine) completely inhibited atrazine degradation. Ammonium impeded atrazine degradation, which was promoted with the addition of intracellular viruses. The metagenomic-based evidence revealed that nitrogen amendments significantly alter bacterial and viral community composition. Peduoviridae emerged as the predominant viral family, with its prevalence and temperate phage ratio strongly influenced by nitrogen availability, underscoring the role of nutrient dynamics in shaping virus-host interactions. The presence of viruses selectively enriched atrazine degradation genes and auxiliary metabolic genes (AMGs) associated with key microbial metabolic pathways, revealing potential mechanisms by which viral infections contribute to pollutant biodegradation. The findings highlight the complex interplay between viral predation, microbial adaptation, and nitrogen-driven shifts in microbial community structure and function, offering new perspectives on how viruses shape bioremediation processes in agroecosystems.",
+      "url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
+      "pdf_url": "",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 34,
+      "references": [
+        {
+          "title": "Studying soil viral ecology under an ecosystem services framework",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/dccd4645e131934f24eb9f7ab933325775931b89",
+          "doi": "10.1016/j.apsoil.2024.105339"
+        },
+        {
+          "title": "Adaptive strategies and ecological roles of phages in habitats under physicochemical stress.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/de1e20198749511d4e11cb468cb69379c12d1bb5",
+          "doi": "10.1016/j.tim.2024.02.002"
+        },
+        {
+          "title": "Characteristics of bacterial community and extracellular enzymes in response to atrazine application in black soil.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/ac8347d20ccd1206e9a10d074209ed6665889f9d",
+          "doi": "10.1016/j.envpol.2023.123286"
+        },
+        {
+          "title": "Core bacteria carrying the genes associated with the degradation of atrazine in different soils.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/cce25edff5796f04a2b1d4ac598d093524557bdd",
+          "doi": "10.1016/j.envint.2023.108303"
+        },
+        {
+          "title": "Phages in vermicomposts enrich functional gene content and facilitate pesticide degradation in soil.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/86dcb03df996ca38452ba70baf1cd004b7143e56",
+          "doi": "10.1016/j.envint.2023.108175"
+        },
+        {
+          "title": "Benzo[a]pyrene stress impacts adaptive strategies and ecological functions of earthworm intestinal viromes",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/9d23adadbc92c8df563c10dbe1a0deaab287c177",
+          "doi": "10.1038/s41396-023-01408-x"
+        },
+        {
+          "title": "Rapid biodegradation of atrazine by a novel Paenarthrobacter ureafaciens ZY and its effects on soil native microbial community dynamic",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/b783fcb02ce4f6e12d013cedaac69ab5ee780fcc",
+          "doi": "10.3389/fmicb.2022.1103168"
+        },
+        {
+          "title": "Underexplored viral auxiliary metabolic genes in soil: Diversity and eco-evolutionary significance.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
+          "doi": "10.1111/1462-2920.16329"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
+          "title": "Divergent successional patterns and infection dynamics in virion and transcriptionally active soil viral communities following phosphorus amendment and wet-up",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Grant Gogul",
+            "G. M. Allen",
+            "Ikaia Leleiwi"
+          ],
+          "doi": "10.64898/2026.04.11.717596",
+          "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
+          "citation_count": 0
+        },
+        {
+          "id": "719af27784a54fd30f43a29e17a75881395350f7",
+          "title": "Preceding crops may reduce denitrification potential and enhance ammonium assimilation pathways",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Juan Li",
+            "Ming Liu",
+            "Chengwei Yang"
+          ],
+          "doi": "10.3389/fmicb.2026.1808894",
+          "url": "https://www.semanticscholar.org/paper/719af27784a54fd30f43a29e17a75881395350f7",
+          "citation_count": 0
+        },
+        {
+          "id": "5dea3e5e1299429a95a49b17d6776c1fb014b16c",
+          "title": "The Seasonal and Spatial Patterns of Planktonic Bacterial and Fungal Community Structure and the Response to Environmental Factors in the Danjiangkou Reservoir, China",
+          "year": 2026,
+          "journal": "Environmental Microbiology Reports",
+          "authors": [
+            "Yarui Cheng",
+            "Xiaoyu Lu",
+            "Zunwei Ke"
+          ],
+          "doi": "10.1111/1758-2229.70362",
+          "url": "https://www.semanticscholar.org/paper/5dea3e5e1299429a95a49b17d6776c1fb014b16c",
+          "citation_count": 0
+        },
+        {
+          "id": "2ff39aa6464fbc39b22e66a9453ac44d60621e5b",
+          "title": "Biodegradable microplastics influence on organic component microbial transformation during sludge composting",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Zixuan Wang",
+            "Yuewei Du",
+            "Yunfei Gao"
+          ],
+          "doi": "10.3389/fmicb.2026.1830632",
+          "url": "https://www.semanticscholar.org/paper/2ff39aa6464fbc39b22e66a9453ac44d60621e5b",
+          "citation_count": 0
+        },
+        {
+          "id": "17ddcb2e3c9c4d0881d6efcdf00c3ea6f834a716",
+          "title": "Microbial dynamics along nutrient flow and removal in an integrated multitrophic aquaculture system",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Dzung Nguyen",
+            "O. Ovadia",
+            "Matan Masasa"
+          ],
+          "doi": "10.3389/fmicb.2026.1781931",
+          "url": "https://www.semanticscholar.org/paper/17ddcb2e3c9c4d0881d6efcdf00c3ea6f834a716",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "nitrogen",
         "soil",
         "virus"
       ],
@@ -7629,7 +7748,7 @@
       "url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "pdf_url": "",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -7766,6 +7885,123 @@
         "amg",
         "carbon",
         "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
+      "id": "eb01d0f8797bf230493c81c87854f21f3213571a",
+      "semantic_scholar_id": "eb01d0f8797bf230493c81c87854f21f3213571a",
+      "source": "Semantic Scholar",
+      "pmid": "40367785",
+      "doi": "10.1016/j.jhazmat.2025.138594",
+      "title": "Unveiling the dynamic viral landscape across developmental stages of cold seep ecosystems: Implications for global marine biogeochemistry.",
+      "authors": [
+        "Yuanyuan Wang",
+        "Shanzi Huang",
+        "Jianguo He",
+        "Zhengqi Feng",
+        "Wenbo Wu",
+        "Changjun Guo",
+        "Jianguo He"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2025-05-12",
+      "abstract": "Cold seeps are methane-rich ecosystems playing pivotal roles in global biogeochemical cycling, yet their viral communities remain underexplored. We present the first comprehensive viral metagenomic analysis across developmental stages of the Haima Cold Seep. Characterizing viral assemblages from chemoautotrophic, mature, and extinct seep sediments revealed 4272 viral operational taxonomic units, with 77 % representing novel lineages, highlighting cold seeps' unique viral diversity. Viral community structure and diversity varied significantly by seep stage, with highest diversity in the chemoautotrophic stage. While Siphoviridae and Microviridae dominated, their relative abundances shifted with maturity. Gammaproteobacteria emerged as predominant viral hosts, exhibiting distinct interaction patterns across stages. Notably, the chemoautotrophic stage harbored the highest abundance and diversity of virus-encoded auxiliary metabolic genes (AMGs; ∼450 AMGs), with significantly enriched carbohydrate metabolism and central carbon pathway genes (2.2-fold and 1.8-fold higher respectively, p < 0.005), amino acid metabolism (1.9-fold, p = 0.003), and sulfur relay system genes (2.0-fold, p = 0.002). In contrast, the mature stage exhibited distinct enrichment in energy metabolism genes (up to 3.9-fold difference between sites, p < 0.001) and xenobiotics degradation pathways, suggesting stage-specific viral impacts on biogeochemical cycling. Lytic lifestyles prevailed across stages, indicating dynamic virus-host interactions during seep development. These findings unveil complex viral ecology in cold seeps, with potential influences on microbial community structure and biogeochemical processes. Providing a foundation for understanding viral roles in cold seep ecosystem functioning and biogeochemical cycles, this study has implications for marine microbial ecology and environmental biotechnology.",
+      "url": "https://www.semanticscholar.org/paper/eb01d0f8797bf230493c81c87854f21f3213571a",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/eb01d0f8797bf230493c81c87854f21f3213571a",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 77,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
+          "year": 2026,
+          "journal": "Molecular Ecology",
+          "authors": [
+            "Zong Li",
+            "Minglei Ren",
+            "Ang Hu"
+          ],
+          "doi": "10.1111/mec.70367",
+          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "citation_count": 0
+        },
+        {
+          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
+          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay",
+          "year": 2026,
+          "journal": "Scientific Data",
+          "authors": [
+            "Songze Chen",
+            "Shuaishuai Xu",
+            "Zaini Muhammad"
+          ],
+          "doi": "10.1038/s41597-026-07491-x",
+          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
+          "citation_count": 0
+        },
+        {
+          "id": "7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
+          "title": "Metagenomic insights into viral and microbial genes of Russian High-Arctic soil microbiomes",
+          "year": 2026,
+          "journal": "Communications Biology",
+          "authors": [
+            "Beat Frey",
+            "G. Varliero",
+            "Joel Rüthi"
+          ],
+          "doi": "10.1038/s42003-026-10050-0",
+          "url": "https://www.semanticscholar.org/paper/7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
+          "citation_count": 0
+        },
+        {
+          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
+          "year": 2026,
+          "journal": "Viruses",
+          "authors": [
+            "Zijia Wang",
+            "Zongminghan Liu",
+            "Juntao Zeng"
+          ],
+          "doi": "10.3390/v18050500",
+          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "citation_count": 0
+        },
+        {
+          "id": "b004d5a1d555a3ac4826c9b28281b1918731e1cb",
+          "title": "Environmental drivers of bacterial diversity, distribution, and predicted metabolic potential in Hainan Island mangrove sediments",
+          "year": 2026,
+          "journal": "Frontiers in Marine Science",
+          "authors": [
+            "Fangyan Jiang",
+            "Wenxin Yuan",
+            "Bin Wei"
+          ],
+          "doi": "10.3389/fmars.2026.1835798",
+          "url": "https://www.semanticscholar.org/paper/b004d5a1d555a3ac4826c9b28281b1918731e1cb",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Characterizing viral assemblages from chemoautotrophic, mature, and extinct seep sediments revealed 4272 viral operational taxonomic units, with 77 % representing novel lineages, highlighting cold seeps' unique viral diversity.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
         "virus"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
@@ -7927,123 +8163,6 @@
         "biogeochemistry",
         "carbon",
         "sediment",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
-      "id": "eb01d0f8797bf230493c81c87854f21f3213571a",
-      "semantic_scholar_id": "eb01d0f8797bf230493c81c87854f21f3213571a",
-      "source": "Semantic Scholar",
-      "pmid": "40367785",
-      "doi": "10.1016/j.jhazmat.2025.138594",
-      "title": "Unveiling the dynamic viral landscape across developmental stages of cold seep ecosystems: Implications for global marine biogeochemistry.",
-      "authors": [
-        "Yuanyuan Wang",
-        "Shanzi Huang",
-        "Jianguo He",
-        "Zhengqi Feng",
-        "Wenbo Wu",
-        "Changjun Guo",
-        "Jianguo He"
-      ],
-      "journal": "Journal of Hazardous Materials",
-      "publication_date": "2025-05-12",
-      "abstract": "Cold seeps are methane-rich ecosystems playing pivotal roles in global biogeochemical cycling, yet their viral communities remain underexplored. We present the first comprehensive viral metagenomic analysis across developmental stages of the Haima Cold Seep. Characterizing viral assemblages from chemoautotrophic, mature, and extinct seep sediments revealed 4272 viral operational taxonomic units, with 77 % representing novel lineages, highlighting cold seeps' unique viral diversity. Viral community structure and diversity varied significantly by seep stage, with highest diversity in the chemoautotrophic stage. While Siphoviridae and Microviridae dominated, their relative abundances shifted with maturity. Gammaproteobacteria emerged as predominant viral hosts, exhibiting distinct interaction patterns across stages. Notably, the chemoautotrophic stage harbored the highest abundance and diversity of virus-encoded auxiliary metabolic genes (AMGs; ∼450 AMGs), with significantly enriched carbohydrate metabolism and central carbon pathway genes (2.2-fold and 1.8-fold higher respectively, p < 0.005), amino acid metabolism (1.9-fold, p = 0.003), and sulfur relay system genes (2.0-fold, p = 0.002). In contrast, the mature stage exhibited distinct enrichment in energy metabolism genes (up to 3.9-fold difference between sites, p < 0.001) and xenobiotics degradation pathways, suggesting stage-specific viral impacts on biogeochemical cycling. Lytic lifestyles prevailed across stages, indicating dynamic virus-host interactions during seep development. These findings unveil complex viral ecology in cold seeps, with potential influences on microbial community structure and biogeochemical processes. Providing a foundation for understanding viral roles in cold seep ecosystem functioning and biogeochemical cycles, this study has implications for marine microbial ecology and environmental biotechnology.",
-      "url": "https://www.semanticscholar.org/paper/eb01d0f8797bf230493c81c87854f21f3213571a",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/eb01d0f8797bf230493c81c87854f21f3213571a",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 77,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
-          "year": 2026,
-          "journal": "Molecular Ecology",
-          "authors": [
-            "Zong Li",
-            "Minglei Ren",
-            "Ang Hu"
-          ],
-          "doi": "10.1111/mec.70367",
-          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "citation_count": 0
-        },
-        {
-          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
-          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay",
-          "year": 2026,
-          "journal": "Scientific Data",
-          "authors": [
-            "Songze Chen",
-            "Shuaishuai Xu",
-            "Zaini Muhammad"
-          ],
-          "doi": "10.1038/s41597-026-07491-x",
-          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
-          "citation_count": 0
-        },
-        {
-          "id": "7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
-          "title": "Metagenomic insights into viral and microbial genes of Russian High-Arctic soil microbiomes",
-          "year": 2026,
-          "journal": "Communications Biology",
-          "authors": [
-            "Beat Frey",
-            "G. Varliero",
-            "Joel Rüthi"
-          ],
-          "doi": "10.1038/s42003-026-10050-0",
-          "url": "https://www.semanticscholar.org/paper/7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
-          "citation_count": 0
-        },
-        {
-          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
-          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "Zijia Wang",
-            "Zongminghan Liu",
-            "Juntao Zeng"
-          ],
-          "doi": "10.3390/v18050500",
-          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
-          "citation_count": 0
-        },
-        {
-          "id": "b004d5a1d555a3ac4826c9b28281b1918731e1cb",
-          "title": "Environmental drivers of bacterial diversity, distribution, and predicted metabolic potential in Hainan Island mangrove sediments",
-          "year": 2026,
-          "journal": "Frontiers in Marine Science",
-          "authors": [
-            "Fangyan Jiang",
-            "Wenxin Yuan",
-            "Bin Wei"
-          ],
-          "doi": "10.3389/fmars.2026.1835798",
-          "url": "https://www.semanticscholar.org/paper/b004d5a1d555a3ac4826c9b28281b1918731e1cb",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Characterizing viral assemblages from chemoautotrophic, mature, and extinct seep sediments revealed 4272 viral operational taxonomic units, with 77 % representing novel lineages, highlighting cold seeps' unique viral diversity.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "carbon",
-        "sediment",
-        "sulfur",
         "virus"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
@@ -8246,7 +8365,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://doi.org/10.1038/s41467-025-58695-5",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -9310,7 +9429,7 @@
       "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
       "pdf_url": "",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 90,
       "references": [],
@@ -11060,7 +11179,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -13367,7 +13486,7 @@
       "doi": "10.1093/femsml/uqae011",
       "title": "Time-series metaproteogenomics of a high-CO2 aquifer reveals active viruses with fluctuating abundances and broad host ranges",
       "authors": [
-        "Carrie J. Moore",
+        "C. J. Moore",
         "Till L. V. Bornemann",
         "Perla Abigail Figueroa-Gonzalez",
         "S. Esser",
@@ -13809,117 +13928,6 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
-      "id": "4e6b22f9851540125f23c10c7b98719382a94a74",
-      "semantic_scholar_id": "4e6b22f9851540125f23c10c7b98719382a94a74",
-      "source": "Semantic Scholar",
-      "pmid": "38763202",
-      "doi": "10.1016/j.scitotenv.2024.173229",
-      "title": "Pepper mild mottle virus as an effective tool in microbial source tracking for deficient domestic on-site water treatment systems.",
-      "authors": [
-        "Alejandro Monleon",
-        "Laurence Gill"
-      ],
-      "journal": "Science of the Total Environment",
-      "publication_date": "2024-05-01",
-      "abstract": "Pollution from domestic on-site wastewater treatment systems (OWTS) is a significant contaminant pressure in many rural catchments. However, due to their design, and dispersed proliferation, it is difficult to assess their impact. Water testing methodologies employ bacterial culturing methods and chemical analysis which may lose resolution and/or specificity being confounded by diffuse agricultural sources within a rural environment. In this study, we successfully assessed the applicability of Pepper Mild Mottle Virus (PMMoV) as a human faecal source tracker for deficient on-site wastewater treatment systems. The transport of PMMoV was first studied in the effluent of a 30 cm deep soil column which was dosed for 510 days with primary influent from a conventional septic system. The removal of PMMoV through the 30 cm deep soil column was quantified with a 5-day seeding trial employing primary influent mixed with PMMoV sourced from Tabasco pepper product ®. The trial was then carried out at field scale with the seeding solution dosed into an operational percolation trench receiving septic tank effluent which had been instrumented for porewater sampling. Samples were taken at depths of 10 cm, 30 cm, and 50 cm across the length of the trench at distances of 1 m, 7.5 m, and 17.5 m from the inlet of the trench. PMMoV was detected on all days of the trial, with a peak concentration of 1 × 106 found at the rear of the trench on day 2 of the seeding trial. Finally, to assess the effectiveness of PPMoV as a microbial source tracking tool from a water receptor perspective, three rural catchments with high densities of OWTSs were sampled and analysed for hourly variations in biological parameters which included total coliforms, Escherichia coli, PMMoV, and chemical parameters total organic carbon, total nitrogen, and total carbon. PMMoV was detected in all river samples over a 24-hour period, thereby indicating its suitability as a tracer of human wastewater effluent in such environments with multiple diffuse sources.",
-      "url": "https://www.semanticscholar.org/paper/4e6b22f9851540125f23c10c7b98719382a94a74",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e6b22f9851540125f23c10c7b98719382a94a74",
-      "pdf_url": "",
-      "citation_count": 3,
-      "influential_citation_count": 1,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "9d1dc229bc4638a4c94dc77cad7692fb744514ab",
-          "title": "Comparison of pepper mild mottle virus with established human sewage markers in Thailand",
-          "year": 2026,
-          "journal": "Journal of Water and Health",
-          "authors": [
-            "Phongsawat Paisantham",
-            "Natnaree Satsue",
-            "J. Sangsanont"
-          ],
-          "doi": "10.2166/wh.2026.205",
-          "url": "https://www.semanticscholar.org/paper/9d1dc229bc4638a4c94dc77cad7692fb744514ab",
-          "citation_count": 0
-        },
-        {
-          "id": "c351239b0acf44d4cd0881e85c9b12143e5e67b6",
-          "title": "Volatile Solids Outperform Pepper Mild Mottle Virus (PMMoV) as a Normalizing Parameter in Wastewater-Based Epidemiology: A 3-Year Multi-Site Comparative Study",
-          "year": 2026,
-          "journal": "Journal of Applied Microbiology",
-          "authors": [
-            "Hassan Waseem",
-            "L. Bitter",
-            "Tim Garant"
-          ],
-          "doi": "10.1093/jambio/lxag110",
-          "url": "https://www.semanticscholar.org/paper/c351239b0acf44d4cd0881e85c9b12143e5e67b6",
-          "citation_count": 0
-        },
-        {
-          "id": "d3a09875f5f86fc5706f54215ecbcac907cbd245",
-          "title": "Impact of Spatiotemporal Characteristics of Microbial Communities in Typical Wastewater Treatment Processes on Treatment Efficiency",
-          "year": 2026,
-          "journal": "Water",
-          "authors": [
-            "Jia Liu",
-            "Lingfei Zhang",
-            "Jie Guo"
-          ],
-          "doi": "10.3390/w18080887",
-          "url": "https://www.semanticscholar.org/paper/d3a09875f5f86fc5706f54215ecbcac907cbd245",
-          "citation_count": 0
-        },
-        {
-          "id": "627686e95730f31258a0978fb8c3f5f6c30d4248",
-          "title": "Genetic Evaluation of Pepper Mild Mottle Virus as an Indicator in Water Quality Monitoring and Human Fecal Contamination in Swedish Waters",
-          "year": 2026,
-          "journal": "Food and Environmnetal Virology",
-          "authors": [
-            "Marianela Patzi Churqui",
-            "Fredy Saguti",
-            "Timur Tunovic"
-          ],
-          "doi": "10.1007/s12560-026-09690-6",
-          "url": "https://www.semanticscholar.org/paper/627686e95730f31258a0978fb8c3f5f6c30d4248",
-          "citation_count": 0
-        },
-        {
-          "id": "2426ec9dff62ccc52dfe6dd7901155be4e66156c",
-          "title": "Additional treatment of biologically treated wastewater using environmentally friendly sorbents",
-          "year": 2026,
-          "journal": "International Conference “Environmental Engineering”",
-          "authors": [
-            "Haider Ali",
-            "A. Mažeikienė",
-            "D. Paliulis"
-          ],
-          "doi": "10.3846/enviro.2026.1694",
-          "url": "https://www.semanticscholar.org/paper/2426ec9dff62ccc52dfe6dd7901155be4e66156c",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
       "id": "3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_id": "3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "source": "Semantic Scholar",
@@ -14083,6 +14091,117 @@
         "carbon",
         "soil",
         "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
+      "id": "4e6b22f9851540125f23c10c7b98719382a94a74",
+      "semantic_scholar_id": "4e6b22f9851540125f23c10c7b98719382a94a74",
+      "source": "Semantic Scholar",
+      "pmid": "38763202",
+      "doi": "10.1016/j.scitotenv.2024.173229",
+      "title": "Pepper mild mottle virus as an effective tool in microbial source tracking for deficient domestic on-site water treatment systems.",
+      "authors": [
+        "Alejandro Monleon",
+        "Laurence Gill"
+      ],
+      "journal": "Science of the Total Environment",
+      "publication_date": "2024-05-01",
+      "abstract": "Pollution from domestic on-site wastewater treatment systems (OWTS) is a significant contaminant pressure in many rural catchments. However, due to their design, and dispersed proliferation, it is difficult to assess their impact. Water testing methodologies employ bacterial culturing methods and chemical analysis which may lose resolution and/or specificity being confounded by diffuse agricultural sources within a rural environment. In this study, we successfully assessed the applicability of Pepper Mild Mottle Virus (PMMoV) as a human faecal source tracker for deficient on-site wastewater treatment systems. The transport of PMMoV was first studied in the effluent of a 30 cm deep soil column which was dosed for 510 days with primary influent from a conventional septic system. The removal of PMMoV through the 30 cm deep soil column was quantified with a 5-day seeding trial employing primary influent mixed with PMMoV sourced from Tabasco pepper product ®. The trial was then carried out at field scale with the seeding solution dosed into an operational percolation trench receiving septic tank effluent which had been instrumented for porewater sampling. Samples were taken at depths of 10 cm, 30 cm, and 50 cm across the length of the trench at distances of 1 m, 7.5 m, and 17.5 m from the inlet of the trench. PMMoV was detected on all days of the trial, with a peak concentration of 1 × 106 found at the rear of the trench on day 2 of the seeding trial. Finally, to assess the effectiveness of PPMoV as a microbial source tracking tool from a water receptor perspective, three rural catchments with high densities of OWTSs were sampled and analysed for hourly variations in biological parameters which included total coliforms, Escherichia coli, PMMoV, and chemical parameters total organic carbon, total nitrogen, and total carbon. PMMoV was detected in all river samples over a 24-hour period, thereby indicating its suitability as a tracer of human wastewater effluent in such environments with multiple diffuse sources.",
+      "url": "https://www.semanticscholar.org/paper/4e6b22f9851540125f23c10c7b98719382a94a74",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e6b22f9851540125f23c10c7b98719382a94a74",
+      "pdf_url": "",
+      "citation_count": 3,
+      "influential_citation_count": 1,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "9d1dc229bc4638a4c94dc77cad7692fb744514ab",
+          "title": "Comparison of pepper mild mottle virus with established human sewage markers in Thailand",
+          "year": 2026,
+          "journal": "Journal of Water and Health",
+          "authors": [
+            "Phongsawat Paisantham",
+            "Natnaree Satsue",
+            "J. Sangsanont"
+          ],
+          "doi": "10.2166/wh.2026.205",
+          "url": "https://www.semanticscholar.org/paper/9d1dc229bc4638a4c94dc77cad7692fb744514ab",
+          "citation_count": 0
+        },
+        {
+          "id": "c351239b0acf44d4cd0881e85c9b12143e5e67b6",
+          "title": "Volatile Solids Outperform Pepper Mild Mottle Virus (PMMoV) as a Normalizing Parameter in Wastewater-Based Epidemiology: A 3-Year Multi-Site Comparative Study",
+          "year": 2026,
+          "journal": "Journal of Applied Microbiology",
+          "authors": [
+            "Hassan Waseem",
+            "L. Bitter",
+            "Tim Garant"
+          ],
+          "doi": "10.1093/jambio/lxag110",
+          "url": "https://www.semanticscholar.org/paper/c351239b0acf44d4cd0881e85c9b12143e5e67b6",
+          "citation_count": 0
+        },
+        {
+          "id": "d3a09875f5f86fc5706f54215ecbcac907cbd245",
+          "title": "Impact of Spatiotemporal Characteristics of Microbial Communities in Typical Wastewater Treatment Processes on Treatment Efficiency",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Jia Liu",
+            "Lingfei Zhang",
+            "Jie Guo"
+          ],
+          "doi": "10.3390/w18080887",
+          "url": "https://www.semanticscholar.org/paper/d3a09875f5f86fc5706f54215ecbcac907cbd245",
+          "citation_count": 0
+        },
+        {
+          "id": "627686e95730f31258a0978fb8c3f5f6c30d4248",
+          "title": "Genetic Evaluation of Pepper Mild Mottle Virus as an Indicator in Water Quality Monitoring and Human Fecal Contamination in Swedish Waters",
+          "year": 2026,
+          "journal": "Food and Environmnetal Virology",
+          "authors": [
+            "Marianela Patzi Churqui",
+            "Fredy Saguti",
+            "Timur Tunovic"
+          ],
+          "doi": "10.1007/s12560-026-09690-6",
+          "url": "https://www.semanticscholar.org/paper/627686e95730f31258a0978fb8c3f5f6c30d4248",
+          "citation_count": 0
+        },
+        {
+          "id": "2426ec9dff62ccc52dfe6dd7901155be4e66156c",
+          "title": "Additional treatment of biologically treated wastewater using environmentally friendly sorbents",
+          "year": 2026,
+          "journal": "International Conference “Environmental Engineering”",
+          "authors": [
+            "Haider Ali",
+            "A. Mažeikienė",
+            "D. Paliulis"
+          ],
+          "doi": "10.3846/enviro.2026.1694",
+          "url": "https://www.semanticscholar.org/paper/2426ec9dff62ccc52dfe6dd7901155be4e66156c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
@@ -14397,7 +14516,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 88,
+      "citation_count": 89,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -15928,6 +16047,417 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
+      "id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "semantic_scholar_id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "source": "Semantic Scholar",
+      "pmid": "39021441",
+      "doi": "10.1093/ismeco/ycae084",
+      "title": "Active prokaryotic and eukaryotic viral ecology across spatial scale in a deep-sea brine pool",
+      "authors": [
+        "Benjamin Minch",
+        "Morgan I Chakraborty",
+        "Sam J. Purkis",
+        "Mattie Rodrigue",
+        "M. Moniruzzaman"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2024-01-01",
+      "abstract": "Deep-sea brine pools represent rare, extreme environments that focus biodiversity at bathyal to abyssal depths. Despite their small size and distribution, brine pools represent important ecosystems to study because they provide unique insight into the limits of life on Earth, and by analogy, the plausibility of life beyond it. A distinguishing feature of many brine pools is the presence of thick benthic microbial mats which develop at the brine-seawater interface. While these bacterial and archaeal communities have received moderate attention, little is known about the viral communities and their interactions with host populations in these environments. To bridge this knowledge gap, we leveraged metagenomic and metatranscriptomic data from three distinct zones within the NEOM brine pool system (Gulf of Aqaba) to gain insights into the active viral ecology around the pools. Here, we report a remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment. These include giant viruses (phylum: Nucleocytoviricota), RNA viruses, jumbo phages, and polinton-like viruses (PLVs). Many of these appeared to form distinct clades showing the possibility of untapped viral diversity in the brine pool ecosystem. Zone-specific differences in viral community composition and infection strategy were also observed with lysogenic phages seeming to dominate the bacterial mat further away from the pool’s center. Through host matching, viruses infecting metabolically important bacteria and archaea were observed – including a linkage between a jumbo phage and a key manganese-oxidizing and arsenic-metabolizing bacterium. Our findings shed light on the role of viruses in modulating the brine pool microbial community dynamics and biogeochemistry through revealing novel viral diversity, host-virus associations, and spatial-scale heterogeneity in viral dynamics in these extreme environments. These results will provide crucial foundation for further investigation into the adaptations of viruses and their microbial hosts in extreme habitats in the marine ecosystem.",
+      "url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycae084",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 127,
+      "references": [
+        {
+          "title": "Single-cell RNA-seq of the rare virosphere reveals the native hosts of giant viruses in the marine environment",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/c1f6553e9747f0e604282157383bf34def3f92a6",
+          "doi": "10.1038/s41564-024-01669-y"
+        },
+        {
+          "title": "Sedimentary porewaters record regional tectonic and climate events that perturbed a deep-sea brine pool in the Gulf of Aqaba, Red Sea.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/0c3d8e3acb968aa10e8a93761c9d48b10ed4e416",
+          "doi": "10.1016/j.scitotenv.2023.168804"
+        },
+        {
+          "title": "Widespread occurrence and diverse origins of polintoviruses influence lineage-specific genome dynamics in stony corals",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/83bd81cf35bd9481f629c9f431d9305a664153b2",
+          "doi": "10.1093/ve/veae039"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "Virologs, viral mimicry, and virocell metabolism: the expanding scale of cellular functions encoded in the complex genomes of giant viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/b600782fb633cde90640008babb80310423c56bb",
+          "doi": "10.1093/femsre/fuad053"
+        },
+        {
+          "title": "Homing in on the rare virosphere reveals the native host of giant viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/9a63180380d722cc825c64975ad22118cf0e2acb",
+          "doi": "10.1101/2023.06.27.546645"
+        },
+        {
+          "title": "Large-scale invasion of unicellular eukaryotic genomes by integrating DNA viruses",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/7881d7b47d7223b62a934d9564c24f4af0dc1e5c",
+          "doi": "10.1073/pnas.2300465120"
+        },
+        {
+          "title": "Genomics discovery of giant fungal viruses from subsurface oceanic crustal fluids",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/1311e1773ab2dd79f9a439dafb9513b327f7db78",
+          "doi": "10.1038/s43705-022-00210-8"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
+          "title": "Continental-scale multi-omics reveals a distinct microbial-viral biome in sandy beach ecosystems structured by tidal zonation",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Xiyang Dong",
+            "Feng Cai",
+            "Yingchun Han"
+          ],
+          "doi": "10.64898/2026.04.10.717577",
+          "url": "https://www.semanticscholar.org/paper/2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
+          "citation_count": 0
+        },
+        {
+          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
+          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Guillermo Domínguez-Huerta",
+            "A. M. Cabello",
+            "J. J. Santos-Bruña"
+          ],
+          "doi": "10.1093/ismeco/ycag110",
+          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
+          "citation_count": 0
+        },
+        {
+          "id": "9dd8c5e7b0d02759289db0c493ea189d051aedab",
+          "title": "Hawaiian Geothermal Fumaroles Contain Diverse and Novel Viruses",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Pia Sen",
+            "Lausanne Oliver",
+            "K. Makarova"
+          ],
+          "doi": "10.64898/2026.04.06.716669",
+          "url": "https://www.semanticscholar.org/paper/9dd8c5e7b0d02759289db0c493ea189d051aedab",
+          "citation_count": 0
+        },
+        {
+          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Mohammad Moinuddin Sheam",
+            "E. Luo"
+          ],
+          "doi": "10.64898/2026.05.12.724634",
+          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "citation_count": 0
+        },
+        {
+          "id": "813bc33abae343993120ecc1627e7fbb24cb85b7",
+          "title": "Viruses in Extreme Marine Environments and Their Potential Existence in Extraterrestrial Environments",
+          "year": 2026,
+          "journal": "Viruses",
+          "authors": [
+            "Andrew Mcminn",
+            "Yantao Liang",
+            "Ziyue Wang"
+          ],
+          "doi": "10.3390/v18040457",
+          "url": "https://www.semanticscholar.org/paper/813bc33abae343993120ecc1627e7fbb24cb85b7",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine",
+        "Biology"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "A remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment are reported, including giant viruses, RNA viruses, jumbo phages, and polinton-like viruses.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "sediment",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
+      "id": "88f79b67732b62a691e5286cf527ca5cd07cd693",
+      "semantic_scholar_id": "88f79b67732b62a691e5286cf527ca5cd07cd693",
+      "source": "Semantic Scholar",
+      "pmid": "39441997",
+      "doi": "10.1093/ismejo/wrae216",
+      "title": "Metagenomic time series reveals a Western English Channel viral community dominated by members with strong seasonal signals",
+      "authors": [
+        "Luis M. Bolaños",
+        "M. Michelsen",
+        "Ben Temperton"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2024-01-01",
+      "abstract": "Abstract Marine viruses are key players of ocean biogeochemistry, profoundly influencing microbial community ecology and evolution. Despite their importance, few studies have explored continuous inter-seasonal viral metagenomic time series in marine environments. Viral dynamics are complex, influenced by multiple factors such as host population dynamics and environmental conditions. To disentangle the complexity of viral communities, we developed an unsupervised machine learning framework to classify viral contigs into “chronotypes” based on temporal abundance patterns. Analysing an inter-seasonal monthly time series of surface viral metagenomes from the Western English Channel, we identified chronotypes and compared their functional and evolutionary profiles. Results revealed a consistent annual cycle with steep compositional changes from winter to summer and steadier transitions from summer to winter. Seasonal chronotypes were enriched in potential auxiliary metabolic genes of the ferrochelatases and 2OG-Fe(II) oxygenase orthologous groups compared to non-seasonal types. Chronotypes clustered into four groups based on their correlation profiles with environmental parameters, primarily driven by temperature and nutrients. Viral contigs exhibited a rapid turnover of polymorphisms, akin to Red Queen dynamics. However, within seasonal chronotypes, some sequences exhibited annual polymorphism recurrence, suggesting that a fraction of the seasonal viral populations evolve more slowly. Classification into chronotypes revealed viral genomic signatures linked to temporal patterns, likely reflecting metabolic adaptations to environmental fluctuations and host dynamics. This novel framework enables the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.",
+      "url": "https://www.semanticscholar.org/paper/88f79b67732b62a691e5286cf527ca5cd07cd693",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/88f79b67732b62a691e5286cf527ca5cd07cd693",
+      "pdf_url": "",
+      "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
+          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay",
+          "year": 2026,
+          "journal": "Scientific Data",
+          "authors": [
+            "Songze Chen",
+            "Shuaishuai Xu",
+            "Zaini Muhammad"
+          ],
+          "doi": "10.1038/s41597-026-07491-x",
+          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
+          "citation_count": 0
+        },
+        {
+          "id": "13d0cfdb00b203cc9930e52272ff2122daeda02e",
+          "title": "Expansive Diversity and Temporal Dynamics of Emerging Polinton-like Viruses in a Marine Ecosystem",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Ethan Mimick",
+            "C. Bellas",
+            "N. Ahlgren"
+          ],
+          "doi": "10.64898/2026.05.28.728513",
+          "url": "https://www.semanticscholar.org/paper/13d0cfdb00b203cc9930e52272ff2122daeda02e",
+          "citation_count": 0
+        },
+        {
+          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
+          "year": 2026,
+          "journal": "Viruses",
+          "authors": [
+            "Zijia Wang",
+            "Zongminghan Liu",
+            "Juntao Zeng"
+          ],
+          "doi": "10.3390/v18050500",
+          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
+          "citation_count": 0
+        },
+        {
+          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
+          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Guillermo Domínguez-Huerta",
+            "A. M. Cabello",
+            "J. J. Santos-Bruña"
+          ],
+          "doi": "10.1093/ismeco/ycag110",
+          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
+          "citation_count": 0
+        },
+        {
+          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
+          "year": 2026,
+          "journal": "Molecular Ecology",
+          "authors": [
+            "Zong Li",
+            "Minglei Ren",
+            "Ang Hu"
+          ],
+          "doi": "10.1111/mec.70367",
+          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "An unsupervised machine learning framework is developed to classify viral contigs into “chronotypes” based on temporal abundance patterns, enabling the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
+      "id": "13fd1521fd3269aa0b4627f07f8a741fced7900d",
+      "semantic_scholar_id": "13fd1521fd3269aa0b4627f07f8a741fced7900d",
+      "source": "Semantic Scholar",
+      "pmid": "38452204",
+      "doi": "10.1093/ismejo/wrae035",
+      "title": "High niche specificity and host genetic diversity of groundwater viruses",
+      "authors": [
+        "Emilie Gios",
+        "Olivia E. Mosley",
+        "M. Hoggard",
+        "Kim M. Handley"
+      ],
+      "journal": "The ISME Journal",
+      "publication_date": "2024-01-01",
+      "abstract": "Abstract Viruses are key members of microbial communities that exert control over host abundance and metabolism, thereby influencing ecosystem processes and biogeochemical cycles. Aquifers are known to host taxonomically diverse microbial life, yet little is known about viruses infecting groundwater microbial communities. Here, we analysed 16 metagenomes from a broad range of groundwater physicochemistries. We recovered 1571 viral genomes that clustered into 468 high-quality viral operational taxonomic units. At least 15% were observed to be transcriptionally active, although lysis was likely constrained by the resource-limited groundwater environment. Most were unclassified (95%), and the remaining 5% were Caudoviricetes. Comparisons with viruses inhabiting other aquifers revealed no shared species, indicating substantial unexplored viral diversity. In silico predictions linked 22.4% of the viruses to microbial host populations, including to ultra-small prokaryotes, such as Patescibacteria and Nanoarchaeota. Many predicted hosts were associated with the biogeochemical cycling of carbon, nitrogen, and sulfur. Metabolic predictions revealed the presence of 205 putative auxiliary metabolic genes, involved in diverse processes associated with the utilization of the host’s intracellular resources for biosynthesis and transformation reactions, including those involved in nucleotide sugar, glycan, cofactor, and vitamin metabolism. Viruses, prokaryotes overall, and predicted prokaryotic hosts exhibited narrow spatial distributions, and relative abundance correlations with the same groundwater parameters (e.g. dissolved oxygen, nitrate, and iron), consistent with host control over viral distributions. Results provide insights into underexplored groundwater viruses, and indicate the large extent to which viruses may manipulate microbial communities and biogeochemistry in the terrestrial subsurface.",
+      "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
+      "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
+      "citation_count": 20,
+      "influential_citation_count": 3,
+      "reference_count": 4,
+      "references": [
+        {
+          "title": "VIBRANT: automated recovery, annotation and curation of microbial viruses, and evaluation of viral community function from genomic sequences",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/81742fc948e0a89a2a2fed54c32590289722b5a1",
+          "doi": "10.1186/s40168-020-00867-0"
+        },
+        {
+          "title": "Fast and sensitive protein alignment using DIAMOND",
+          "year": 2014,
+          "url": "https://www.semanticscholar.org/paper/c3380127c45af3833ae5d1d6f8f0856d97838ea5",
+          "doi": "10.1038/nmeth.3176"
+        },
+        {
+          "title": "MEGAN analysis of metagenomic data.",
+          "year": 2007,
+          "url": "https://www.semanticscholar.org/paper/dfe199440352079a9ebeb0851a2322c9ff0627dc",
+          "doi": "10.1101/GR.5969107"
+        },
+        {
+          "title": "Trace: Tennessee Research and Creative Exchange Prodigal: Prokaryotic Gene Recognition and Translation Initiation Site Identification Recommended Citation Prodigal: Prokaryotic Gene Recognition and Translation Initiation Site Identification",
+          "year": null,
+          "url": "https://www.semanticscholar.org/paper/f8ef4906784598947c08b9f23fa03a82a5157d9c",
+          "doi": ""
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "fe1b7abb38be357e292b6e477d3012773a915685",
+          "title": "Diversity and taxonomy of giant algal viruses: chloroviruses lead the way",
+          "year": 2026,
+          "journal": "Journal of Virology",
+          "authors": [
+            "Rodrigo A. L. Rodrigues"
+          ],
+          "doi": "10.1128/jvi.01688-25",
+          "url": "https://www.semanticscholar.org/paper/fe1b7abb38be357e292b6e477d3012773a915685",
+          "citation_count": 0
+        },
+        {
+          "id": "b80f71bc5e80f164b802c48b639148394a0317e4",
+          "title": "Advances in the study of viral diversity and ecological functions in marine hydrothermal ecosystem",
+          "year": 2026,
+          "journal": "Chinese bulletin of Life sciences",
+          "authors": [
+            "Xin Du",
+            "Qin-Yuan Cao",
+            "Xiang Xiao"
+          ],
+          "doi": "10.3724/cbls.2026058",
+          "url": "https://www.semanticscholar.org/paper/b80f71bc5e80f164b802c48b639148394a0317e4",
+          "citation_count": 0
+        },
+        {
+          "id": "2ece6c3f20aacf8014e8abc6ff4c77e9793a56e6",
+          "title": "From storms to warming seas: a long-term metabarcoding survey reveals seasonal dynamics and genetic resilience of non-indigenous species in port communities",
+          "year": 2026,
+          "journal": "Frontiers in Marine Science",
+          "authors": [
+            "J. Zarcero",
+            "A. Antich",
+            "O. S. Wangensteen"
+          ],
+          "doi": "10.3389/fmars.2026.1768149",
+          "url": "https://www.semanticscholar.org/paper/2ece6c3f20aacf8014e8abc6ff4c77e9793a56e6",
+          "citation_count": 0
+        },
+        {
+          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
+          "year": 2026,
+          "journal": "Molecular Ecology",
+          "authors": [
+            "Zong Li",
+            "Minglei Ren",
+            "Ang Hu"
+          ],
+          "doi": "10.1111/mec.70367",
+          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "citation_count": 0
+        },
+        {
+          "id": "e605c309ae2b51dbe7f7576423a407a25b49e9a2",
+          "title": "Spatial scale break in ecological strategies for host use by plant viruses",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Michael McLeish",
+            "Adrián D Zamfir",
+            "B. Babalola"
+          ],
+          "doi": "10.3389/fmicb.2026.1797573",
+          "url": "https://www.semanticscholar.org/paper/e605c309ae2b51dbe7f7576423a407a25b49e9a2",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Analysis of metagenomes from a broad range of groundwater physicochemistries provides insights into underexplored groundwater viruses, and indicates the large extent to which viruses may manipulate microbial communities and biogeochemistry in the terrestrial subsurface.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
       "id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "source": "Semantic Scholar",
@@ -16085,144 +16615,6 @@
         "amg",
         "carbon",
         "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
-      "id": "13fd1521fd3269aa0b4627f07f8a741fced7900d",
-      "semantic_scholar_id": "13fd1521fd3269aa0b4627f07f8a741fced7900d",
-      "source": "Semantic Scholar",
-      "pmid": "38452204",
-      "doi": "10.1093/ismejo/wrae035",
-      "title": "High niche specificity and host genetic diversity of groundwater viruses",
-      "authors": [
-        "Emilie Gios",
-        "Olivia E. Mosley",
-        "M. Hoggard",
-        "Kim M. Handley"
-      ],
-      "journal": "The ISME Journal",
-      "publication_date": "2024-01-01",
-      "abstract": "Abstract Viruses are key members of microbial communities that exert control over host abundance and metabolism, thereby influencing ecosystem processes and biogeochemical cycles. Aquifers are known to host taxonomically diverse microbial life, yet little is known about viruses infecting groundwater microbial communities. Here, we analysed 16 metagenomes from a broad range of groundwater physicochemistries. We recovered 1571 viral genomes that clustered into 468 high-quality viral operational taxonomic units. At least 15% were observed to be transcriptionally active, although lysis was likely constrained by the resource-limited groundwater environment. Most were unclassified (95%), and the remaining 5% were Caudoviricetes. Comparisons with viruses inhabiting other aquifers revealed no shared species, indicating substantial unexplored viral diversity. In silico predictions linked 22.4% of the viruses to microbial host populations, including to ultra-small prokaryotes, such as Patescibacteria and Nanoarchaeota. Many predicted hosts were associated with the biogeochemical cycling of carbon, nitrogen, and sulfur. Metabolic predictions revealed the presence of 205 putative auxiliary metabolic genes, involved in diverse processes associated with the utilization of the host’s intracellular resources for biosynthesis and transformation reactions, including those involved in nucleotide sugar, glycan, cofactor, and vitamin metabolism. Viruses, prokaryotes overall, and predicted prokaryotic hosts exhibited narrow spatial distributions, and relative abundance correlations with the same groundwater parameters (e.g. dissolved oxygen, nitrate, and iron), consistent with host control over viral distributions. Results provide insights into underexplored groundwater viruses, and indicate the large extent to which viruses may manipulate microbial communities and biogeochemistry in the terrestrial subsurface.",
-      "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
-      "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
-      "citation_count": 20,
-      "influential_citation_count": 3,
-      "reference_count": 4,
-      "references": [
-        {
-          "title": "VIBRANT: automated recovery, annotation and curation of microbial viruses, and evaluation of viral community function from genomic sequences",
-          "year": 2020,
-          "url": "https://www.semanticscholar.org/paper/81742fc948e0a89a2a2fed54c32590289722b5a1",
-          "doi": "10.1186/s40168-020-00867-0"
-        },
-        {
-          "title": "Fast and sensitive protein alignment using DIAMOND",
-          "year": 2014,
-          "url": "https://www.semanticscholar.org/paper/c3380127c45af3833ae5d1d6f8f0856d97838ea5",
-          "doi": "10.1038/nmeth.3176"
-        },
-        {
-          "title": "MEGAN analysis of metagenomic data.",
-          "year": 2007,
-          "url": "https://www.semanticscholar.org/paper/dfe199440352079a9ebeb0851a2322c9ff0627dc",
-          "doi": "10.1101/GR.5969107"
-        },
-        {
-          "title": "Trace: Tennessee Research and Creative Exchange Prodigal: Prokaryotic Gene Recognition and Translation Initiation Site Identification Recommended Citation Prodigal: Prokaryotic Gene Recognition and Translation Initiation Site Identification",
-          "year": null,
-          "url": "https://www.semanticscholar.org/paper/f8ef4906784598947c08b9f23fa03a82a5157d9c",
-          "doi": ""
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "fe1b7abb38be357e292b6e477d3012773a915685",
-          "title": "Diversity and taxonomy of giant algal viruses: chloroviruses lead the way",
-          "year": 2026,
-          "journal": "Journal of Virology",
-          "authors": [
-            "Rodrigo A. L. Rodrigues"
-          ],
-          "doi": "10.1128/jvi.01688-25",
-          "url": "https://www.semanticscholar.org/paper/fe1b7abb38be357e292b6e477d3012773a915685",
-          "citation_count": 0
-        },
-        {
-          "id": "b80f71bc5e80f164b802c48b639148394a0317e4",
-          "title": "Advances in the study of viral diversity and ecological functions in marine hydrothermal ecosystem",
-          "year": 2026,
-          "journal": "Chinese bulletin of Life sciences",
-          "authors": [
-            "Xin Du",
-            "Qin-Yuan Cao",
-            "Xiang Xiao"
-          ],
-          "doi": "10.3724/cbls.2026058",
-          "url": "https://www.semanticscholar.org/paper/b80f71bc5e80f164b802c48b639148394a0317e4",
-          "citation_count": 0
-        },
-        {
-          "id": "2ece6c3f20aacf8014e8abc6ff4c77e9793a56e6",
-          "title": "From storms to warming seas: a long-term metabarcoding survey reveals seasonal dynamics and genetic resilience of non-indigenous species in port communities",
-          "year": 2026,
-          "journal": "Frontiers in Marine Science",
-          "authors": [
-            "J. Zarcero",
-            "A. Antich",
-            "O. S. Wangensteen"
-          ],
-          "doi": "10.3389/fmars.2026.1768149",
-          "url": "https://www.semanticscholar.org/paper/2ece6c3f20aacf8014e8abc6ff4c77e9793a56e6",
-          "citation_count": 0
-        },
-        {
-          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
-          "year": 2026,
-          "journal": "Molecular Ecology",
-          "authors": [
-            "Zong Li",
-            "Minglei Ren",
-            "Ang Hu"
-          ],
-          "doi": "10.1111/mec.70367",
-          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "citation_count": 0
-        },
-        {
-          "id": "e605c309ae2b51dbe7f7576423a407a25b49e9a2",
-          "title": "Spatial scale break in ecological strategies for host use by plant viruses",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Michael McLeish",
-            "Adrián D Zamfir",
-            "B. Babalola"
-          ],
-          "doi": "10.3389/fmicb.2026.1797573",
-          "url": "https://www.semanticscholar.org/paper/e605c309ae2b51dbe7f7576423a407a25b49e9a2",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Analysis of metagenomes from a broad range of groundwater physicochemistries provides insights into underexplored groundwater viruses, and indicates the large extent to which viruses may manipulate microbial communities and biogeochemistry in the terrestrial subsurface.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "sulfur",
         "virus",
         "water"
       ],
@@ -16464,168 +16856,6 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
-      "id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "semantic_scholar_id": "dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "source": "Semantic Scholar",
-      "pmid": "39021441",
-      "doi": "10.1093/ismeco/ycae084",
-      "title": "Active prokaryotic and eukaryotic viral ecology across spatial scale in a deep-sea brine pool",
-      "authors": [
-        "Benjamin Minch",
-        "Morgan I Chakraborty",
-        "Sam J. Purkis",
-        "Mattie Rodrigue",
-        "M. Moniruzzaman"
-      ],
-      "journal": "bioRxiv",
-      "publication_date": "2024-01-01",
-      "abstract": "Deep-sea brine pools represent rare, extreme environments that focus biodiversity at bathyal to abyssal depths. Despite their small size and distribution, brine pools represent important ecosystems to study because they provide unique insight into the limits of life on Earth, and by analogy, the plausibility of life beyond it. A distinguishing feature of many brine pools is the presence of thick benthic microbial mats which develop at the brine-seawater interface. While these bacterial and archaeal communities have received moderate attention, little is known about the viral communities and their interactions with host populations in these environments. To bridge this knowledge gap, we leveraged metagenomic and metatranscriptomic data from three distinct zones within the NEOM brine pool system (Gulf of Aqaba) to gain insights into the active viral ecology around the pools. Here, we report a remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment. These include giant viruses (phylum: Nucleocytoviricota), RNA viruses, jumbo phages, and polinton-like viruses (PLVs). Many of these appeared to form distinct clades showing the possibility of untapped viral diversity in the brine pool ecosystem. Zone-specific differences in viral community composition and infection strategy were also observed with lysogenic phages seeming to dominate the bacterial mat further away from the pool’s center. Through host matching, viruses infecting metabolically important bacteria and archaea were observed – including a linkage between a jumbo phage and a key manganese-oxidizing and arsenic-metabolizing bacterium. Our findings shed light on the role of viruses in modulating the brine pool microbial community dynamics and biogeochemistry through revealing novel viral diversity, host-virus associations, and spatial-scale heterogeneity in viral dynamics in these extreme environments. These results will provide crucial foundation for further investigation into the adaptations of viruses and their microbial hosts in extreme habitats in the marine ecosystem.",
-      "url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/dc213dc5c7358640e39b1687863e4ed6def15faf",
-      "pdf_url": "https://doi.org/10.1093/ismeco/ycae084",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 127,
-      "references": [
-        {
-          "title": "Single-cell RNA-seq of the rare virosphere reveals the native hosts of giant viruses in the marine environment",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/c1f6553e9747f0e604282157383bf34def3f92a6",
-          "doi": "10.1038/s41564-024-01669-y"
-        },
-        {
-          "title": "Sedimentary porewaters record regional tectonic and climate events that perturbed a deep-sea brine pool in the Gulf of Aqaba, Red Sea.",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/0c3d8e3acb968aa10e8a93761c9d48b10ed4e416",
-          "doi": "10.1016/j.scitotenv.2023.168804"
-        },
-        {
-          "title": "Widespread occurrence and diverse origins of polintoviruses influence lineage-specific genome dynamics in stony corals",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/83bd81cf35bd9481f629c9f431d9305a664153b2",
-          "doi": "10.1093/ve/veae039"
-        },
-        {
-          "title": "Identification of mobile genetic elements with geNomad",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
-          "doi": "10.1038/s41587-023-01953-y"
-        },
-        {
-          "title": "Virologs, viral mimicry, and virocell metabolism: the expanding scale of cellular functions encoded in the complex genomes of giant viruses",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/b600782fb633cde90640008babb80310423c56bb",
-          "doi": "10.1093/femsre/fuad053"
-        },
-        {
-          "title": "Homing in on the rare virosphere reveals the native host of giant viruses",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/9a63180380d722cc825c64975ad22118cf0e2acb",
-          "doi": "10.1101/2023.06.27.546645"
-        },
-        {
-          "title": "Large-scale invasion of unicellular eukaryotic genomes by integrating DNA viruses",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/7881d7b47d7223b62a934d9564c24f4af0dc1e5c",
-          "doi": "10.1073/pnas.2300465120"
-        },
-        {
-          "title": "Genomics discovery of giant fungal viruses from subsurface oceanic crustal fluids",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/1311e1773ab2dd79f9a439dafb9513b327f7db78",
-          "doi": "10.1038/s43705-022-00210-8"
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
-          "title": "Continental-scale multi-omics reveals a distinct microbial-viral biome in sandy beach ecosystems structured by tidal zonation",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Xiyang Dong",
-            "Feng Cai",
-            "Yingchun Han"
-          ],
-          "doi": "10.64898/2026.04.10.717577",
-          "url": "https://www.semanticscholar.org/paper/2d8f1b726387eaf0bd734b6ef353c2cff85fb806",
-          "citation_count": 0
-        },
-        {
-          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
-          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Guillermo Domínguez-Huerta",
-            "A. M. Cabello",
-            "J. J. Santos-Bruña"
-          ],
-          "doi": "10.1093/ismeco/ycag110",
-          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
-          "citation_count": 0
-        },
-        {
-          "id": "9dd8c5e7b0d02759289db0c493ea189d051aedab",
-          "title": "Hawaiian Geothermal Fumaroles Contain Diverse and Novel Viruses",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Pia Sen",
-            "Lausanne Oliver",
-            "K. Makarova"
-          ],
-          "doi": "10.64898/2026.04.06.716669",
-          "url": "https://www.semanticscholar.org/paper/9dd8c5e7b0d02759289db0c493ea189d051aedab",
-          "citation_count": 0
-        },
-        {
-          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Mohammad Moinuddin Sheam",
-            "E. Luo"
-          ],
-          "doi": "10.64898/2026.05.12.724634",
-          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "citation_count": 0
-        },
-        {
-          "id": "813bc33abae343993120ecc1627e7fbb24cb85b7",
-          "title": "Viruses in Extreme Marine Environments and Their Potential Existence in Extraterrestrial Environments",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "Andrew Mcminn",
-            "Yantao Liang",
-            "Ziyue Wang"
-          ],
-          "doi": "10.3390/v18040457",
-          "url": "https://www.semanticscholar.org/paper/813bc33abae343993120ecc1627e7fbb24cb85b7",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine",
-        "Biology"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "A remarkable diversity and activity of viruses of all nucleic acid types and genome sizes that infect prokaryotic and eukaryotic hosts in this environment are reported, including giant viruses, RNA viruses, jumbo phages, and polinton-like viruses.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
       "id": "48ed1367c33ad2fe9cf83f7f204ab4a795278531",
       "semantic_scholar_id": "48ed1367c33ad2fe9cf83f7f204ab4a795278531",
       "source": "Semantic Scholar",
@@ -16734,117 +16964,6 @@
         "nitrogen",
         "soil",
         "virus"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
-      "id": "88f79b67732b62a691e5286cf527ca5cd07cd693",
-      "semantic_scholar_id": "88f79b67732b62a691e5286cf527ca5cd07cd693",
-      "source": "Semantic Scholar",
-      "pmid": "39441997",
-      "doi": "10.1093/ismejo/wrae216",
-      "title": "Metagenomic time series reveals a Western English Channel viral community dominated by members with strong seasonal signals",
-      "authors": [
-        "Luis M. Bolaños",
-        "M. Michelsen",
-        "Ben Temperton"
-      ],
-      "journal": "The ISME Journal",
-      "publication_date": "2024-01-01",
-      "abstract": "Abstract Marine viruses are key players of ocean biogeochemistry, profoundly influencing microbial community ecology and evolution. Despite their importance, few studies have explored continuous inter-seasonal viral metagenomic time series in marine environments. Viral dynamics are complex, influenced by multiple factors such as host population dynamics and environmental conditions. To disentangle the complexity of viral communities, we developed an unsupervised machine learning framework to classify viral contigs into “chronotypes” based on temporal abundance patterns. Analysing an inter-seasonal monthly time series of surface viral metagenomes from the Western English Channel, we identified chronotypes and compared their functional and evolutionary profiles. Results revealed a consistent annual cycle with steep compositional changes from winter to summer and steadier transitions from summer to winter. Seasonal chronotypes were enriched in potential auxiliary metabolic genes of the ferrochelatases and 2OG-Fe(II) oxygenase orthologous groups compared to non-seasonal types. Chronotypes clustered into four groups based on their correlation profiles with environmental parameters, primarily driven by temperature and nutrients. Viral contigs exhibited a rapid turnover of polymorphisms, akin to Red Queen dynamics. However, within seasonal chronotypes, some sequences exhibited annual polymorphism recurrence, suggesting that a fraction of the seasonal viral populations evolve more slowly. Classification into chronotypes revealed viral genomic signatures linked to temporal patterns, likely reflecting metabolic adaptations to environmental fluctuations and host dynamics. This novel framework enables the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.",
-      "url": "https://www.semanticscholar.org/paper/88f79b67732b62a691e5286cf527ca5cd07cd693",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/88f79b67732b62a691e5286cf527ca5cd07cd693",
-      "pdf_url": "",
-      "citation_count": 3,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
-          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay",
-          "year": 2026,
-          "journal": "Scientific Data",
-          "authors": [
-            "Songze Chen",
-            "Shuaishuai Xu",
-            "Zaini Muhammad"
-          ],
-          "doi": "10.1038/s41597-026-07491-x",
-          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
-          "citation_count": 0
-        },
-        {
-          "id": "13d0cfdb00b203cc9930e52272ff2122daeda02e",
-          "title": "Expansive Diversity and Temporal Dynamics of Emerging Polinton-like Viruses in a Marine Ecosystem",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Ethan Mimick",
-            "C. Bellas",
-            "N. Ahlgren"
-          ],
-          "doi": "10.64898/2026.05.28.728513",
-          "url": "https://www.semanticscholar.org/paper/13d0cfdb00b203cc9930e52272ff2122daeda02e",
-          "citation_count": 0
-        },
-        {
-          "id": "9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
-          "title": "Annual Dynamics and Functional Traits of Viral Communities in Tropical Intertidal Sands of Sanya Bay",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "Zijia Wang",
-            "Zongminghan Liu",
-            "Juntao Zeng"
-          ],
-          "doi": "10.3390/v18050500",
-          "url": "https://www.semanticscholar.org/paper/9ecf9286ae7ae18a3bec61d6b316d46e01389ead",
-          "citation_count": 0
-        },
-        {
-          "id": "aa1c1f2a718c9eef22194b3294da334570099e73",
-          "title": "Ecology of prokaryotic DNA viruses in a highly impacted coastal lagoon revealed through comparative and temporal metagenomics",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Guillermo Domínguez-Huerta",
-            "A. M. Cabello",
-            "J. J. Santos-Bruña"
-          ],
-          "doi": "10.1093/ismeco/ycag110",
-          "url": "https://www.semanticscholar.org/paper/aa1c1f2a718c9eef22194b3294da334570099e73",
-          "citation_count": 0
-        },
-        {
-          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
-          "year": 2026,
-          "journal": "Molecular Ecology",
-          "authors": [
-            "Zong Li",
-            "Minglei Ren",
-            "Ang Hu"
-          ],
-          "doi": "10.1111/mec.70367",
-          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "An unsupervised machine learning framework is developed to classify viral contigs into “chronotypes” based on temporal abundance patterns, enabling the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "virus",
-        "water"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
@@ -17767,7 +17886,7 @@
       "url": "https://www.semanticscholar.org/paper/44a815ec6f202b1676f630d05a3e15c3f8864842",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/44a815ec6f202b1676f630d05a3e15c3f8864842",
       "pdf_url": "https://www.mdpi.com/2223-7747/12/17/3066/pdf?version=1693192440",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 0,
       "reference_count": 185,
       "references": [
@@ -18985,7 +19104,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 205,
+      "citation_count": 208,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -20917,7 +21036,7 @@
       "url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "pdf_url": "https://doi.org/10.1128/mbio.03009-22",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 2,
       "reference_count": 104,
       "references": [
@@ -21832,7 +21951,7 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
-      "citation_count": 50,
+      "citation_count": 51,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -22448,7 +22567,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 190,
+      "citation_count": 191,
       "influential_citation_count": 8,
       "reference_count": 106,
       "references": [
@@ -23869,6 +23988,112 @@
       "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
     },
     {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "О.В. Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "c2cf65f5e9c3523152e8008f2847288dde647cfe",
+          "title": "In Vitro Micro-Propagation of Chrysanthemum (Poornima) Using Apical Meristem",
+          "year": 2026,
+          "journal": "2026 4th International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+          "authors": [
+            "Ashwini D.S",
+            "Santosh Singh"
+          ],
+          "doi": "10.1109/ICKECS70176.2026.11528142",
+          "url": "https://www.semanticscholar.org/paper/c2cf65f5e9c3523152e8008f2847288dde647cfe",
+          "citation_count": 0
+        },
+        {
+          "id": "da446150df76ec184458507a4511e6bd2eb1489a",
+          "title": "INFLUENCE OF NUTRIENT MEDIA COMPOSITION AND NUMBER OF PASSAGES ON REGENERATION OF POTATO MICROPLANTS",
+          "year": 2026,
+          "journal": "Research papers on agronomy",
+          "authors": [
+            "E. Oves",
+            "N. Gaitova",
+            "Yana Yurievna Dobrova"
+          ],
+          "doi": "10.35244/2658-7963-2026-20-1-26-34",
+          "url": "https://www.semanticscholar.org/paper/da446150df76ec184458507a4511e6bd2eb1489a",
+          "citation_count": 0
+        },
+        {
+          "id": "79089519c9393e00170ee7843f4b242bebd0bf01",
+          "title": "Large-scale Vegetative Propagation of Paulownia using Plant Tissue Culture Techniques",
+          "year": 2026,
+          "journal": "Agricultural Science Digest - A Research Journal",
+          "authors": [
+            "Z. A. AL-Hussaini",
+            "J. A. Ali",
+            "A. Shatha"
+          ],
+          "doi": "10.18805/ag.df-848",
+          "url": "https://www.semanticscholar.org/paper/79089519c9393e00170ee7843f4b242bebd0bf01",
+          "citation_count": 0
+        },
+        {
+          "id": "bf0c212e32e53629adf891b8d0a541bfa3d2a563",
+          "title": "In vitro Propagation and Foliar Micromorphological Studies of Dillenia indica L.: An Underutilized Fruit Tree",
+          "year": 2026,
+          "journal": "",
+          "authors": [
+            "Amit Singh",
+            "Srishti Yadav",
+            "Manoj K. Rai"
+          ],
+          "doi": "10.2478/johr-2026-0006",
+          "url": "https://www.semanticscholar.org/paper/bf0c212e32e53629adf891b8d0a541bfa3d2a563",
+          "citation_count": 0
+        },
+        {
+          "id": "b4132c5c4ab95eb80699884033924033d5bc16fb",
+          "title": "Development of an in vitro propagation system for the desiccation-tolerant Barbacenia purpurea",
+          "year": 2026,
+          "journal": "Plant",
+          "authors": [
+            "Pablo Silva-Villatoro",
+            "Gerardo Alejo-Jacuinde",
+            "Shumayla"
+          ],
+          "doi": "10.1007/s11627-026-10648-3",
+          "url": "https://www.semanticscholar.org/paper/b4132c5c4ab95eb80699884033924033d5bc16fb",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
+    },
+    {
       "id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "semantic_scholar_id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "source": "Semantic Scholar",
@@ -24021,112 +24246,6 @@
         "nitrogen",
         "phosphorus",
         "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T06:13:56.724752+00:00"
-    },
-    {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "О.В. Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "c2cf65f5e9c3523152e8008f2847288dde647cfe",
-          "title": "In Vitro Micro-Propagation of Chrysanthemum (Poornima) Using Apical Meristem",
-          "year": 2026,
-          "journal": "2026 4th International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
-          "authors": [
-            "Ashwini D.S",
-            "Santosh Singh"
-          ],
-          "doi": "10.1109/ICKECS70176.2026.11528142",
-          "url": "https://www.semanticscholar.org/paper/c2cf65f5e9c3523152e8008f2847288dde647cfe",
-          "citation_count": 0
-        },
-        {
-          "id": "da446150df76ec184458507a4511e6bd2eb1489a",
-          "title": "INFLUENCE OF NUTRIENT MEDIA COMPOSITION AND NUMBER OF PASSAGES ON REGENERATION OF POTATO MICROPLANTS",
-          "year": 2026,
-          "journal": "Research papers on agronomy",
-          "authors": [
-            "E. Oves",
-            "N. Gaitova",
-            "Yana Yurievna Dobrova"
-          ],
-          "doi": "10.35244/2658-7963-2026-20-1-26-34",
-          "url": "https://www.semanticscholar.org/paper/da446150df76ec184458507a4511e6bd2eb1489a",
-          "citation_count": 0
-        },
-        {
-          "id": "79089519c9393e00170ee7843f4b242bebd0bf01",
-          "title": "Large-scale Vegetative Propagation of Paulownia using Plant Tissue Culture Techniques",
-          "year": 2026,
-          "journal": "Agricultural Science Digest - A Research Journal",
-          "authors": [
-            "Z. A. AL-Hussaini",
-            "J. A. Ali",
-            "A. Shatha"
-          ],
-          "doi": "10.18805/ag.df-848",
-          "url": "https://www.semanticscholar.org/paper/79089519c9393e00170ee7843f4b242bebd0bf01",
-          "citation_count": 0
-        },
-        {
-          "id": "bf0c212e32e53629adf891b8d0a541bfa3d2a563",
-          "title": "In vitro Propagation and Foliar Micromorphological Studies of Dillenia indica L.: An Underutilized Fruit Tree",
-          "year": 2026,
-          "journal": "",
-          "authors": [
-            "Amit Singh",
-            "Srishti Yadav",
-            "Manoj K. Rai"
-          ],
-          "doi": "10.2478/johr-2026-0006",
-          "url": "https://www.semanticscholar.org/paper/bf0c212e32e53629adf891b8d0a541bfa3d2a563",
-          "citation_count": 0
-        },
-        {
-          "id": "b4132c5c4ab95eb80699884033924033d5bc16fb",
-          "title": "Development of an in vitro propagation system for the desiccation-tolerant Barbacenia purpurea",
-          "year": 2026,
-          "journal": "Plant",
-          "authors": [
-            "Pablo Silva-Villatoro",
-            "Gerardo Alejo-Jacuinde",
-            "Shumayla"
-          ],
-          "doi": "10.1007/s11627-026-10648-3",
-          "url": "https://www.semanticscholar.org/paper/b4132c5c4ab95eb80699884033924033d5bc16fb",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
         "virus",
         "water"
       ],
@@ -24323,7 +24442,7 @@
       "url": "https://www.semanticscholar.org/paper/1a72a6d3da2f12991604b6b323fc48ae8e14ba18",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a72a6d3da2f12991604b6b323fc48ae8e14ba18",
       "pdf_url": "https://doi.org/10.1128/mbio.00052-22",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 110,
       "references": [
@@ -25865,7 +25984,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 318,
+      "citation_count": 321,
       "influential_citation_count": 5,
       "reference_count": 0,
       "references": [],
@@ -36553,7 +36672,7 @@
       "url": "https://www.semanticscholar.org/paper/29d1b6483225b47d5f962cede854842595cdb1c7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/29d1b6483225b47d5f962cede854842595cdb1c7",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-017-0374-3",
-      "citation_count": 97,
+      "citation_count": 98,
       "influential_citation_count": 7,
       "reference_count": 108,
       "references": [
