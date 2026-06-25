@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:40:56.677974+00:00",
+  "updated_at": "2026-06-25T22:48:25.487879+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,117 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "c8ecd00761de6191e45077783333c0d521f2d045",
+      "semantic_scholar_id": "c8ecd00761de6191e45077783333c0d521f2d045",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1128/msystems.00395-26",
+      "title": "Bacteriophage replication strategies are associated with organic matter energy content on coral reefs",
+      "authors": [
+        "Natascha S. Varona",
+        "Lisa Schellenberg",
+        "Will Barnes",
+        "Yun Scholten",
+        "Andreas F. Haas",
+        "Cynthia Silveira"
+      ],
+      "journal": "mSystems",
+      "publication_date": "2026-06-22",
+      "abstract": "\n \n \n \n Bacteriophages, viruses that infect bacteria, play a crucial role in carbon cycling within marine environments. In coral reefs, dissolved organic matter (DOM) released by benthic primary producers such as algae fuels heterotrophic microbial growth, which can be detrimental to corals. This microbialization process has been associated with the abundance and replication strategies of bacteriophages, but the direct relationship between reef DOM composition and bacteriophage communities remains unclear. Here, we combine metabolomics, metagenomes, and viromes to demonstrate that phage communities have significant relationships with DOM composition on the reefs of Curaçao, Southern Caribbean. While total viral abundances did not significantly correlate with overall dissolved organic carbon (DOC) concentration on these reefs, co-occurrence networks identified thousands of statistically significant associations between free or cell-associated viruses and organic compounds. Cell-associated phages had significantly more positive associations with compounds that had a reduced nominal oxidative state of carbon (NOSC). Furthermore, temperate phages were more frequently correlated with metabolites exhibiting higher Gibbs energy than putatively lytic phages. Six of the ten viruses with the highest number of positive associations with metabolites were temperate (i.e., encoded an integrase or were identified as a prophage), despite this network consisting of approximately 90% lytic viruses. These temperate viruses were predicted to infect members of the genus\n Sphingobium\n . Together, these findings reveal a connection between phage replication strategies and DOM energy availability, with potential implications for coral reef biogeochemistry.\n \n \n \n Coral reefs are highly dynamic ecosystems where microbial communities and organic matter cycles are intricately linked. This study provides new insights into how bacteriophages interact with dissolved organic matter (DOM) composition, revealing that cell-associated bacteriophages, particularly temperate phages, are associated with more energy-rich organic compounds. These findings suggest that DOM could affect the lysis-lysogeny decision of temperate phages or that lysogeny may play an underappreciated role in shaping the reef carbon cycle. Energy-rich organic compounds have generally been associated with increased algal abundances and coral decline. By demonstrating significant connections between viral infection strategies and the energy content of DOM, our results highlight the potential for phages to influence coral reef biogeochemistry and health.\n \n",
+      "url": "https://www.semanticscholar.org/paper/c8ecd00761de6191e45077783333c0d521f2d045",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c8ecd00761de6191e45077783333c0d521f2d045",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 77,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "1a9a3989ce9b6f4e23ae57f9c361c68446cb4929",
+          "title": "Species‐specific processing of fluorescent dissolved organic matter by Caribbean sponges",
+          "year": 2026,
+          "journal": "Limnology and Oceanography",
+          "authors": [
+            "J. Keleher",
+            "Cole G. Easson",
+            "Christopher J Freeman"
+          ],
+          "doi": "10.1002/lno.70412",
+          "url": "https://www.semanticscholar.org/paper/1a9a3989ce9b6f4e23ae57f9c361c68446cb4929",
+          "citation_count": 0
+        },
+        {
+          "id": "8bfa762918f07d5e47036d314cf51e135d54a2da",
+          "title": "Microbial Controls on Dissolved Organic Nitrogen Cycling During Long‐Term Degradation Experiments",
+          "year": 2026,
+          "journal": "Geophysical Research Letters",
+          "authors": [
+            "Richard LaBrie",
+            "R. Maranger",
+            "Luc Tremblay"
+          ],
+          "doi": "10.1029/2025gl119790",
+          "url": "https://www.semanticscholar.org/paper/8bfa762918f07d5e47036d314cf51e135d54a2da",
+          "citation_count": 0
+        },
+        {
+          "id": "657cd4286a75683dc3d971cfb9b7893f8e701542",
+          "title": "Habitat complexity enhances primary productivity on coral reefs.",
+          "year": 2026,
+          "journal": "Nature Ecology & Evolution",
+          "authors": [
+            "Mike McWilliam",
+            "M. Dornelas",
+            "M. Hoogenboom"
+          ],
+          "doi": "10.1038/s41559-026-03093-3",
+          "url": "https://www.semanticscholar.org/paper/657cd4286a75683dc3d971cfb9b7893f8e701542",
+          "citation_count": 0
+        },
+        {
+          "id": "cc0b5c228f79e2cd2d6c04ccf3804956a38d1a5e",
+          "title": "The role of phages in plant-associated microbial communities.",
+          "year": 2026,
+          "journal": "Essays in Biochemistry",
+          "authors": [
+            "Renee E. Smith",
+            "D. Holtappels"
+          ],
+          "doi": "10.1042/ebc20250035",
+          "url": "https://www.semanticscholar.org/paper/cc0b5c228f79e2cd2d6c04ccf3804956a38d1a5e",
+          "citation_count": 0
+        },
+        {
+          "id": "65598a70b7ea97f80553d29f72b4439322ce6baa",
+          "title": "Artificial reefs alter viral communities and functional traits in coastal waters.",
+          "year": 2026,
+          "journal": "Marine Environmental Research",
+          "authors": [
+            "Jia Yao",
+            "Ting Zhu",
+            "Weitao Tian"
+          ],
+          "doi": "10.1016/j.marenvres.2026.108131",
+          "url": "https://www.semanticscholar.org/paper/65598a70b7ea97f80553d29f72b4439322ce6baa",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The findings suggest that DOM could affect the lysis-lysogeny decision of temperate phages or that lysogeny may play an underappreciated role in shaping the reef carbon cycle, and highlight the potential for phages to influence coral reef biogeochemistry and health.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-25T22:48:22.512732+00:00",
+      "edges_enriched_at": "2026-06-25T22:48:23.047521+00:00"
+    },
     {
       "id": "a89bf5c996b025345245746245791ca886dc9e5b",
       "semantic_scholar_id": "a89bf5c996b025345245746245791ca886dc9e5b",
@@ -458,7 +569,7 @@
       "source": "Semantic Scholar",
       "pmid": "42148775",
       "doi": "10.1128/msystems.00354-26",
-      "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems.",
+      "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
       "authors": [
         "Wenqing Shi",
         "Lu Liu",
@@ -474,7 +585,7 @@
       ],
       "journal": "mSystems",
       "publication_date": "2026-05-18",
-      "abstract": "Salinity gradients drive microbial diversity and evolution in estuarine-coastal ecosystems, yet viral adaptation remains less well understood. We used metagenomics to study viral adaptation and functions in three representative estuarine-coastal regions in China. Our results reveal salinity-associated adaptations in DNA viruses, with viruses enriched in medium- to high-salinity environments exhibiting higher frequencies of acidic isoelectric points and charged amino acids compared to those enriched in low-salinity environments. Viral genomes encode diverse genes related to ion transporters and organic osmolyte metabolism, suggesting potential roles in osmotic stress responses. Viral microdiversity also varied systematically along the salinity gradient, indicating reduced genetic variation and stronger purifying selection under more saline conditions. Furthermore, we identified diverse AMGs linked to nutrient cycles, with salinity-driven enrichment revealing viral roles in host metabolism. Overall, our findings highlight salinity as a key driver of viral evolution and functional potential in estuarine-coastal ecosystems, providing new insights into how viruses adapt to environmental gradients.\n\n\nIMPORTANCE\nSalinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems.",
+      "abstract": "ABSTRACT Salinity gradients drive microbial diversity and evolution in estuarine-coastal ecosystems, yet viral adaptation remains less well understood. We used metagenomics to study viral adaptation and functions in three representative estuarine-coastal regions in China. Our results reveal salinity-associated adaptations in DNA viruses, with viruses enriched in medium- to high-salinity environments exhibiting higher frequencies of acidic isoelectric points and charged amino acids compared to those enriched in low-salinity environments. Viral genomes encode diverse genes related to ion transporters and organic osmolyte metabolism, suggesting potential roles in osmotic stress responses. Viral microdiversity also varied systematically along the salinity gradient, indicating reduced genetic variation and stronger purifying selection under more saline conditions. Furthermore, we identified diverse AMGs linked to nutrient cycles, with salinity-driven enrichment revealing viral roles in host metabolism. Overall, our findings highlight salinity as a key driver of viral evolution and functional potential in estuarine-coastal ecosystems, providing new insights into how viruses adapt to environmental gradients. IMPORTANCE Salinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems.",
       "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
       "pdf_url": "",
@@ -4833,7 +4944,7 @@
       "url": "https://www.semanticscholar.org/paper/2f7441d295e9bbbf402c9e264839896e3d72f4d2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2f7441d295e9bbbf402c9e264839896e3d72f4d2",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 71,
       "references": [],
@@ -5230,7 +5341,7 @@
       "url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [],
@@ -5846,7 +5957,7 @@
       "url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 87,
       "references": [],
@@ -6123,7 +6234,7 @@
       "url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 81,
       "references": [
@@ -6964,7 +7075,7 @@
       "url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 34,
       "references": [
@@ -8533,7 +8644,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://doi.org/10.1038/s41467-025-58695-5",
-      "citation_count": 17,
+      "citation_count": 18,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -11230,7 +11341,7 @@
       "url": "https://www.semanticscholar.org/paper/13dc0df228709e1ddf13b78a50b1e4a4f53ae36c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13dc0df228709e1ddf13b78a50b1e4a4f53ae36c",
       "pdf_url": "",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [],
@@ -11914,7 +12025,7 @@
       "url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "pdf_url": "",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 5,
       "reference_count": 106,
       "references": [
@@ -15300,7 +15411,7 @@
       "url": "https://www.semanticscholar.org/paper/a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "pdf_url": "https://doi.org/10.1016/j.jes.2024.02.032",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 66,
       "references": [
@@ -15463,7 +15574,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://www.nature.com/articles/s41467-024-46109-x.pdf",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -16506,7 +16617,7 @@
       "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 3,
       "reference_count": 4,
       "references": [
@@ -19707,7 +19818,7 @@
       "url": "https://www.semanticscholar.org/paper/46110e92d54ab7b8bf103973cdf86470f4745b8c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/46110e92d54ab7b8bf103973cdf86470f4745b8c",
       "pdf_url": "https://www.nature.com/articles/s43247-023-00796-4.pdf",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 115,
       "references": [
@@ -19975,7 +20086,7 @@
       "url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "pdf_url": "",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 2,
       "reference_count": 88,
       "references": [],
@@ -21368,7 +21479,7 @@
       "url": "https://www.semanticscholar.org/paper/85b2d42f5073bd00dd53a6a2e6e0935ae2b9eb91",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85b2d42f5073bd00dd53a6a2e6e0935ae2b9eb91",
       "pdf_url": "https://www.mdpi.com/1999-4907/14/2/342/pdf?version=1675935636",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 49,
       "references": [
@@ -23570,7 +23681,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 200,
+      "citation_count": 201,
       "influential_citation_count": 8,
       "reference_count": 123,
       "references": [
@@ -25164,7 +25275,7 @@
       "url": "https://www.semanticscholar.org/paper/d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d5933918ef3a8a3274f85804ef5d2bc6556d12a5",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.834581/pdf",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 140,
       "references": [
@@ -26152,7 +26263,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 321,
+      "citation_count": 322,
       "influential_citation_count": 5,
       "reference_count": 0,
       "references": [],
@@ -26264,7 +26375,7 @@
       "url": "https://www.semanticscholar.org/paper/e89d0a745860afaa5014179250e34c8ce8ceb450",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e89d0a745860afaa5014179250e34c8ce8ceb450",
       "pdf_url": "",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 1,
       "reference_count": 110,
       "references": [],
@@ -27800,7 +27911,7 @@
       "url": "https://www.semanticscholar.org/paper/ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae58b7ebeeec84b1313d1c1d640868916b1cebd9",
       "pdf_url": "https://doi.org/10.21203/rs.3.rs-1021375/v1",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 107,
       "references": [
@@ -33626,7 +33737,7 @@
       "url": "https://www.semanticscholar.org/paper/4821549f7e13f68fb88862288588dbe3d5877573",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4821549f7e13f68fb88862288588dbe3d5877573",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00936-4",
-      "citation_count": 63,
+      "citation_count": 64,
       "influential_citation_count": 3,
       "reference_count": 83,
       "references": [
@@ -35489,7 +35600,7 @@
       "url": "https://www.semanticscholar.org/paper/e867d2c9f1de13a6b07dcaed6b096f324f8cfddd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e867d2c9f1de13a6b07dcaed6b096f324f8cfddd",
       "pdf_url": "https://www.mdpi.com/1999-4907/10/3/240/pdf?version=1552032540",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 1,
       "reference_count": 98,
       "references": [
@@ -36343,7 +36454,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 521,
+      "citation_count": 522,
       "influential_citation_count": 28,
       "reference_count": 70,
       "references": [
@@ -36840,7 +36951,7 @@
       "url": "https://www.semanticscholar.org/paper/29d1b6483225b47d5f962cede854842595cdb1c7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/29d1b6483225b47d5f962cede854842595cdb1c7",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-017-0374-3",
-      "citation_count": 98,
+      "citation_count": 99,
       "influential_citation_count": 7,
       "reference_count": 108,
       "references": [
@@ -39306,7 +39417,7 @@
       "url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "pdf_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2013-14-11-r123",
-      "citation_count": 230,
+      "citation_count": 231,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
