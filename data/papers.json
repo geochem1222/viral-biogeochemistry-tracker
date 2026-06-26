@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:48:25.487879+00:00",
+  "updated_at": "2026-06-26T22:37:47.773395+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -110,12 +110,12 @@
       "doi": "10.1128/msystems.00395-26",
       "title": "Bacteriophage replication strategies are associated with organic matter energy content on coral reefs",
       "authors": [
-        "Natascha S. Varona",
-        "Lisa Schellenberg",
+        "N. Varona",
+        "L. Schellenberg",
         "Will Barnes",
-        "Yun Scholten",
+        "Yun J. H. Scholten",
         "Andreas F. Haas",
-        "Cynthia Silveira"
+        "Cynthia B. Silveira"
       ],
       "journal": "mSystems",
       "publication_date": "2026-06-22",
@@ -562,6 +562,120 @@
       ],
       "detail_enriched_at": "2026-06-10T23:01:52.235108+00:00",
       "edges_enriched_at": "2026-06-10T23:01:52.801487+00:00"
+    },
+    {
+      "id": "7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
+      "semantic_scholar_id": "7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
+      "source": "Semantic Scholar",
+      "pmid": "42337996",
+      "doi": "10.1002/mbo3.70330",
+      "title": "Bacteriophages in the Rhizosphere: Roles in Nutrient Cycling, Bacterial Community Structure, and Animal-Mediated Dispersal.",
+      "authors": [
+        "Majid Komijani",
+        "Hassan Maddahi",
+        "M. Rezaei",
+        "M. H. Abnosi",
+        "Abdullah Khalaf Ahmed"
+      ],
+      "journal": "MicrobiologyOpen",
+      "publication_date": "2026-06-01",
+      "abstract": "The rhizosphere, a critical soil layer around plant roots, is enriched with carbon from root exudates, influencing microbial communities that can either protect against or cause plant diseases. Bacteriophages significantly impact soil nutrient cycles and ecosystem processes through cell lysis and horizontal gene transfer. They play a vital role in the rhizosphere by affecting plant stress responses and climate adaptation. Bacteriophages exert a range of negative effects on Actinobacteria, impacting their ecological and physiological functions by diminishing Actinobacteria's roles in antibiotic production, soil health, and plant growth. Phage predation affects nutrient cycling by influencing nitrogen and carbon metabolism, with evidence showing that phages can alter microbial diversity and function, leading to changes in soil ammonium levels and carbon decomposition rates. In wastewater treatment, bacteriophages can improve process efficiency by targeting harmful bacteria, managing foam formation, and enhancing sludge reduction through enzymatic action. Additionally, bacteriophage dispersal mechanisms in the rhizosphere can be enhanced by rhizosphere-associated animals. Numerous invertebrate and vertebrate animals can significantly alter the rhizosphere environment by amplifying, mobilizing, and distributing both phages and bacterial hosts. Herein, three main mechanisms by which animals enhance the dispersal of bacteriophages in the rhizosphere are discussed. This review discusses bacteriophages' roles in soil ecosystems, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal-mediated phage dispersal mechanisms. Overall, while bacteriophages have potential biotechnological applications, their negative effects on microbial functions and nutrient cycling highlight the need for balanced use and further research.",
+      "url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 163,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "dffb563ab5712a7f85e7c4e0e47ea6542b8f044a",
+          "title": "The soil microbiome of the Caatinga drylands in Brazil.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "L. A. D. de Tacca",
+            "R. N. Lima",
+            "Marco A de Oliveira"
+          ],
+          "doi": "10.1038/s41598-026-50433-1",
+          "url": "https://www.semanticscholar.org/paper/dffb563ab5712a7f85e7c4e0e47ea6542b8f044a",
+          "citation_count": 0
+        },
+        {
+          "id": "cc0b5c228f79e2cd2d6c04ccf3804956a38d1a5e",
+          "title": "The role of phages in plant-associated microbial communities.",
+          "year": 2026,
+          "journal": "Essays in Biochemistry",
+          "authors": [
+            "Renee E. Smith",
+            "D. Holtappels"
+          ],
+          "doi": "10.1042/ebc20250035",
+          "url": "https://www.semanticscholar.org/paper/cc0b5c228f79e2cd2d6c04ccf3804956a38d1a5e",
+          "citation_count": 0
+        },
+        {
+          "id": "0b419a9ed7ccb36e72da71644bcec045e120f7d9",
+          "title": "Bacterial inoculation drives microbiome-mediated resistance to a soil-borne pathogen in wheat.",
+          "year": 2026,
+          "journal": "npj Biofilms and Microbiomes",
+          "authors": [
+            "C. Nishisaka",
+            "H. D. Quevedo",
+            "T. A. Pellegrinetti"
+          ],
+          "doi": "10.1038/s41522-026-01021-8",
+          "url": "https://www.semanticscholar.org/paper/0b419a9ed7ccb36e72da71644bcec045e120f7d9",
+          "citation_count": 0
+        },
+        {
+          "id": "731e191697a68f618178e01597a89ff486f965e9",
+          "title": "Abiotic Stress Reshapes Rhizosphere Community Assembly and Tea Quality: Root Exudates, Plant–Soil Interactions and Microbial Management",
+          "year": 2026,
+          "journal": "Plants",
+          "authors": [
+            "Yujie Song",
+            "Hiroto Yamashita",
+            "Takashi Ikka"
+          ],
+          "doi": "10.3390/plants15121869",
+          "url": "https://www.semanticscholar.org/paper/731e191697a68f618178e01597a89ff486f965e9",
+          "citation_count": 0
+        },
+        {
+          "id": "14678a7aa329bc1e1c29d79ddfac983bf8a4be40",
+          "title": "Climate-driven shifts in soil microbiomes: implications for plant resilience in agriculture",
+          "year": 2026,
+          "journal": "Frontiers in Climate",
+          "authors": [
+            "Anagha Bhagat",
+            "Manasi Mishra"
+          ],
+          "doi": "10.3389/fclim.2026.1803685",
+          "url": "https://www.semanticscholar.org/paper/14678a7aa329bc1e1c29d79ddfac983bf8a4be40",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "Review",
+        "JournalArticle"
+      ],
+      "tldr": "Bacteriophages' roles in soil ecosystems are discussed, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal-mediated phage dispersal mechanisms.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-26T22:37:44.492951+00:00",
+      "edges_enriched_at": "2026-06-26T22:37:45.228684+00:00"
     },
     {
       "id": "45d337499ef19b8af494753db9706e01d14558be",
@@ -3192,7 +3306,7 @@
       "url": "https://www.semanticscholar.org/paper/6088bae8148e075021142668d486f8f20c4703e3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6088bae8148e075021142668d486f8f20c4703e3",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 126,
       "references": [
@@ -9995,7 +10109,7 @@
       "url": "https://www.semanticscholar.org/paper/d06b74eea83428a7e2b61f3b0a11aa48902d8bfe",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d06b74eea83428a7e2b61f3b0a11aa48902d8bfe",
       "pdf_url": "",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 55,
       "references": [],
@@ -14795,7 +14909,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 89,
+      "citation_count": 90,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -21479,7 +21593,7 @@
       "url": "https://www.semanticscholar.org/paper/85b2d42f5073bd00dd53a6a2e6e0935ae2b9eb91",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85b2d42f5073bd00dd53a6a2e6e0935ae2b9eb91",
       "pdf_url": "https://www.mdpi.com/1999-4907/14/2/342/pdf?version=1675935636",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 49,
       "references": [
@@ -25002,7 +25116,7 @@
       "url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "pdf_url": "https://www.nature.com/articles/s41467-022-30049-5.pdf",
-      "citation_count": 89,
+      "citation_count": 90,
       "influential_citation_count": 2,
       "reference_count": 95,
       "references": [
@@ -25604,7 +25718,7 @@
       "url": "https://www.semanticscholar.org/paper/cdf451352ee2f4cde256b07ea678e092fcc7e04c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cdf451352ee2f4cde256b07ea678e092fcc7e04c",
       "pdf_url": "https://environmentalmicrobiome.biomedcentral.com/track/pdf/10.1186/s40793-022-00410-8",
-      "citation_count": 29,
+      "citation_count": 30,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -26759,7 +26873,7 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725595",
-      "citation_count": 47,
+      "citation_count": 48,
       "influential_citation_count": 0,
       "reference_count": 116,
       "references": [
@@ -28960,7 +29074,7 @@
       "url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "pdf_url": "https://www.nature.com/articles/s43705-022-00109-4.pdf",
-      "citation_count": 68,
+      "citation_count": 69,
       "influential_citation_count": 1,
       "reference_count": 77,
       "references": [
@@ -31737,7 +31851,7 @@
       "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
-      "citation_count": 115,
+      "citation_count": 116,
       "influential_citation_count": 6,
       "reference_count": 139,
       "references": [
@@ -32460,7 +32574,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8190135",
-      "citation_count": 193,
+      "citation_count": 194,
       "influential_citation_count": 9,
       "reference_count": 92,
       "references": [
@@ -33510,7 +33624,7 @@
       "url": "https://www.semanticscholar.org/paper/d3da0f2c7993b29d05271e996fefceaa14568774",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d3da0f2c7993b29d05271e996fefceaa14568774",
       "pdf_url": "https://sfamjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.15010",
-      "citation_count": 103,
+      "citation_count": 104,
       "influential_citation_count": 4,
       "reference_count": 73,
       "references": [],
@@ -36454,7 +36568,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 522,
+      "citation_count": 523,
       "influential_citation_count": 28,
       "reference_count": 70,
       "references": [
@@ -39417,7 +39531,7 @@
       "url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "pdf_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2013-14-11-r123",
-      "citation_count": 231,
+      "citation_count": 232,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
