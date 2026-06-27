@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:37:47.773395+00:00",
+  "updated_at": "2026-06-27T22:17:35.386100+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -569,7 +569,7 @@
       "source": "Semantic Scholar",
       "pmid": "42337996",
       "doi": "10.1002/mbo3.70330",
-      "title": "Bacteriophages in the Rhizosphere: Roles in Nutrient Cycling, Bacterial Community Structure, and Animal-Mediated Dispersal.",
+      "title": "Bacteriophages in the Rhizosphere: Roles in Nutrient Cycling, Bacterial Community Structure, and Animal‐Mediated Dispersal",
       "authors": [
         "Majid Komijani",
         "Hassan Maddahi",
@@ -579,7 +579,7 @@
       ],
       "journal": "MicrobiologyOpen",
       "publication_date": "2026-06-01",
-      "abstract": "The rhizosphere, a critical soil layer around plant roots, is enriched with carbon from root exudates, influencing microbial communities that can either protect against or cause plant diseases. Bacteriophages significantly impact soil nutrient cycles and ecosystem processes through cell lysis and horizontal gene transfer. They play a vital role in the rhizosphere by affecting plant stress responses and climate adaptation. Bacteriophages exert a range of negative effects on Actinobacteria, impacting their ecological and physiological functions by diminishing Actinobacteria's roles in antibiotic production, soil health, and plant growth. Phage predation affects nutrient cycling by influencing nitrogen and carbon metabolism, with evidence showing that phages can alter microbial diversity and function, leading to changes in soil ammonium levels and carbon decomposition rates. In wastewater treatment, bacteriophages can improve process efficiency by targeting harmful bacteria, managing foam formation, and enhancing sludge reduction through enzymatic action. Additionally, bacteriophage dispersal mechanisms in the rhizosphere can be enhanced by rhizosphere-associated animals. Numerous invertebrate and vertebrate animals can significantly alter the rhizosphere environment by amplifying, mobilizing, and distributing both phages and bacterial hosts. Herein, three main mechanisms by which animals enhance the dispersal of bacteriophages in the rhizosphere are discussed. This review discusses bacteriophages' roles in soil ecosystems, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal-mediated phage dispersal mechanisms. Overall, while bacteriophages have potential biotechnological applications, their negative effects on microbial functions and nutrient cycling highlight the need for balanced use and further research.",
+      "abstract": "ABSTRACT The rhizosphere, a critical soil layer around plant roots, is enriched with carbon from root exudates, influencing microbial communities that can either protect against or cause plant diseases. Bacteriophages significantly impact soil nutrient cycles and ecosystem processes through cell lysis and horizontal gene transfer. They play a vital role in the rhizosphere by affecting plant stress responses and climate adaptation. Bacteriophages exert a range of negative effects on Actinobacteria, impacting their ecological and physiological functions by diminishing Actinobacteria's roles in antibiotic production, soil health, and plant growth. Phage predation affects nutrient cycling by influencing nitrogen and carbon metabolism, with evidence showing that phages can alter microbial diversity and function, leading to changes in soil ammonium levels and carbon decomposition rates. In wastewater treatment, bacteriophages can improve process efficiency by targeting harmful bacteria, managing foam formation, and enhancing sludge reduction through enzymatic action. Additionally, bacteriophage dispersal mechanisms in the rhizosphere can be enhanced by rhizosphere‐associated animals. Numerous invertebrate and vertebrate animals can significantly alter the rhizosphere environment by amplifying, mobilizing, and distributing both phages and bacterial hosts. Herein, three main mechanisms by which animals enhance the dispersal of bacteriophages in the rhizosphere are discussed. This review discusses bacteriophages' roles in soil ecosystems, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal‐mediated phage dispersal mechanisms. Overall, while bacteriophages have potential biotechnological applications, their negative effects on microbial functions and nutrient cycling highlight the need for balanced use and further research.",
       "url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
       "pdf_url": "",
@@ -1778,7 +1778,7 @@
       "url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -3297,7 +3297,7 @@
       "authors": [
         "Akbar Adjie Pratama",
         "Olga Pérez-Carrascal",
-        "Matthew B. Sullivan",
+        "M. Sullivan",
         "Kirsten Küsel"
       ],
       "journal": "Nature Communications",
@@ -4204,7 +4204,7 @@
         "Kelly C. Wrighton",
         "S. Saleska",
         "Emily Eloe-Fadrosh",
-        "Matthew B. Sullivan",
+        "M. Sullivan",
         "Virginia I. Rich"
       ],
       "journal": "Nature Communications",
@@ -9648,7 +9648,7 @@
         "R. Neurath",
         "S. Kosina",
         "K. Louie",
-        "Matthew B. Sullivan",
+        "M. Sullivan",
         "Simon Roux",
         "K. Zengler",
         "Vivek K. Mutalik",
@@ -13436,7 +13436,7 @@
         "B. Bolduc",
         "K. Wrighton",
         "Virginia I. Rich",
-        "Matthew B. Sullivan"
+        "M. Sullivan"
       ],
       "journal": "Environmental Microbiology",
       "publication_date": "2024-07-01",
@@ -36568,7 +36568,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 523,
+      "citation_count": 524,
       "influential_citation_count": 28,
       "reference_count": 70,
       "references": [
