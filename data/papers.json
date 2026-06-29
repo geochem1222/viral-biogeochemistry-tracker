@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T22:16:41.989260+00:00",
+  "updated_at": "2026-06-29T22:33:03.958963+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,122 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+      "semantic_scholar_id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+      "source": "Semantic Scholar",
+      "pmid": "42361879",
+      "doi": "10.1016/j.envres.2026.125118",
+      "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+      "authors": [
+        "Zuhan Ge",
+        "Saqi Wang",
+        "Nan Zhang",
+        "Yaguang Li",
+        "Deying Huang",
+        "Jibiao Zhang"
+      ],
+      "journal": "Environmental Research",
+      "publication_date": "2026-06-26",
+      "abstract": "Ecological floating beds (EFBs), plant-substrate floating treatment systems, have been widely implemented in aquatic ecological restoration, where microbes play crucial roles in nutrient cycling and material transformation. However, the ecology of viruses in EFBs remains poorly understood. Here, prokaryotic and metagenome-derived viral communities in a full-scale EFB were analyzed over 12 months utilizing 84 samples from biofilms, plant roots, and surrounding water. Viral communities, dominantly by Caudoviricetes (96.7%), exhibited temporal and habitat-dependent responses that contrasted with their prokaryotic hosts. Deterministic processes, primarily temperature and total organic carbon, shaped viral community composition and auxiliary metabolic gene (AMG) repertoires. Temperate viruses were enriched in biofilms and roots (8.91%-13.45%) compared to water (7.75%), indicating distinct interactions with attached prokaryotes and highlighting these niches as potential metabolic hotspots. Virus-host linkage analyses connected viruses to dominant prokaryotes and revealed abundant AMGs (n = 3,703; 238 types), including genes implicated in carbon, phosphorus and sulfur transformations. Furthermore, prokaryotic C/N/P/S-cycling gene repertoires showed stronger coupling in attached habitats, whereas viruses carrying element-cycling AMGs were relatively more abundant in water. These findings provide a genome-resolved view of habitat-dependent viral community structure and auxiliary metabolic potential in EFBs, identifying attached habitats as important compartments for future validation of virus-host interactions and their possible links to restoration-related biogeochemical processes.",
+      "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 84,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "aff75144666e9897a1952238725ee3a972b83270",
+          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "T. Pitot",
+            "C. Girard"
+          ],
+          "doi": "10.1093/femsec/fiag061",
+          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "citation_count": 0
+        },
+        {
+          "id": "73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake.",
+          "year": 2026,
+          "journal": "Molecular Ecology",
+          "authors": [
+            "Zong Li",
+            "Minglei Ren",
+            "Ang Hu"
+          ],
+          "doi": "10.1111/mec.70367",
+          "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
+          "citation_count": 0
+        },
+        {
+          "id": "65598a70b7ea97f80553d29f72b4439322ce6baa",
+          "title": "Artificial reefs alter viral communities and functional traits in coastal waters.",
+          "year": 2026,
+          "journal": "Marine Environmental Research",
+          "authors": [
+            "Jia Yao",
+            "Ting Zhu",
+            "Weitao Tian"
+          ],
+          "doi": "10.1016/j.marenvres.2026.108131",
+          "url": "https://www.semanticscholar.org/paper/65598a70b7ea97f80553d29f72b4439322ce6baa",
+          "citation_count": 0
+        },
+        {
+          "id": "074c4e8c085b1b00f85a750912cca446c79946ad",
+          "title": "Habitat-driven taxonomic and functional differentiation of microbial communities across water and sediments in a large eutrophic shallow lake deciphered by metagenomics.",
+          "year": 2026,
+          "journal": "Microbiology Research",
+          "authors": [
+            "M. Yuan",
+            "Shijie Dong",
+            "Jiangxia Luo"
+          ],
+          "doi": "10.1016/j.micres.2026.128553",
+          "url": "https://www.semanticscholar.org/paper/074c4e8c085b1b00f85a750912cca446c79946ad",
+          "citation_count": 0
+        },
+        {
+          "id": "d5ded7415a6f01cebf9848dd82682ca074348ab1",
+          "title": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts.",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Michael Hoggard",
+            "Emilie Gios",
+            "H. S. Tee"
+          ],
+          "doi": "10.1038/s41467-026-73439-9",
+          "url": "https://www.semanticscholar.org/paper/d5ded7415a6f01cebf9848dd82682ca074348ab1",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "A genome-resolved view of habitat-dependent viral community structure and auxiliary metabolic potential in EFBs is provided, identifying attached habitats as important compartments for future validation of virus-host interactions and their possible links to restoration-related biogeochemical processes.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "phosphorus",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-06-29T22:33:01.015160+00:00",
+      "edges_enriched_at": "2026-06-29T22:33:01.663652+00:00"
+    },
     {
       "id": "c8ecd00761de6191e45077783333c0d521f2d045",
       "semantic_scholar_id": "c8ecd00761de6191e45077783333c0d521f2d045",
@@ -12139,7 +12255,7 @@
       "url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "pdf_url": "",
-      "citation_count": 24,
+      "citation_count": 25,
       "influential_citation_count": 5,
       "reference_count": 106,
       "references": [
@@ -14743,7 +14859,7 @@
       "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47600-1.pdf",
-      "citation_count": 51,
+      "citation_count": 52,
       "influential_citation_count": 7,
       "reference_count": 134,
       "references": [
@@ -16731,7 +16847,7 @@
       "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 3,
       "reference_count": 4,
       "references": [
@@ -19337,7 +19453,7 @@
       "url": "https://www.semanticscholar.org/paper/68c1abdfef311bffa569daae30716c4a872122b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68c1abdfef311bffa569daae30716c4a872122b7",
       "pdf_url": "https://www.nature.com/articles/s43705-023-00335-4.pdf",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -20633,7 +20749,7 @@
       "url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-023-01666-z",
-      "citation_count": 47,
+      "citation_count": 48,
       "influential_citation_count": 3,
       "reference_count": 117,
       "references": [
@@ -22960,7 +23076,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 193,
+      "citation_count": 194,
       "influential_citation_count": 8,
       "reference_count": 106,
       "references": [
@@ -25116,7 +25232,7 @@
       "url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "pdf_url": "https://www.nature.com/articles/s41467-022-30049-5.pdf",
-      "citation_count": 90,
+      "citation_count": 91,
       "influential_citation_count": 2,
       "reference_count": 95,
       "references": [
@@ -27510,7 +27626,7 @@
       "url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
       "pdf_url": "https://www.nature.com/articles/s41396-021-01143-1.pdf",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 3,
       "reference_count": 132,
       "references": [
@@ -31130,7 +31246,7 @@
       "url": "https://www.semanticscholar.org/paper/d3d9194f24ad360b370ffdd4b0f3f450c5fe3eeb",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d3d9194f24ad360b370ffdd4b0f3f450c5fe3eeb",
       "pdf_url": "",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 1,
       "reference_count": 82,
       "references": [],
@@ -32402,7 +32518,7 @@
       "url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
       "pdf_url": "https://www.nature.com/articles/s41396-021-00932-y.pdf",
-      "citation_count": 180,
+      "citation_count": 181,
       "influential_citation_count": 19,
       "reference_count": 104,
       "references": [
@@ -32574,7 +32690,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8190135",
-      "citation_count": 194,
+      "citation_count": 195,
       "influential_citation_count": 9,
       "reference_count": 92,
       "references": [
@@ -37230,7 +37346,7 @@
       "url": "https://www.semanticscholar.org/paper/9bf5d54b2cfccb8f12c9fbc4cf21299451c43858",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9bf5d54b2cfccb8f12c9fbc4cf21299451c43858",
       "pdf_url": "https://www.nature.com/articles/s41598-017-12462-9.pdf",
-      "citation_count": 41,
+      "citation_count": 42,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [
@@ -39751,7 +39867,7 @@
       "url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057355&type=printable",
-      "citation_count": 325,
+      "citation_count": 326,
       "influential_citation_count": 23,
       "reference_count": 74,
       "references": [
