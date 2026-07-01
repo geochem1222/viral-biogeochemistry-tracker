@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:42:13.777292+00:00",
+  "updated_at": "2026-07-01T22:41:36.132526+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -698,7 +698,7 @@
       "abstract": "ABSTRACT The rhizosphere, a critical soil layer around plant roots, is enriched with carbon from root exudates, influencing microbial communities that can either protect against or cause plant diseases. Bacteriophages significantly impact soil nutrient cycles and ecosystem processes through cell lysis and horizontal gene transfer. They play a vital role in the rhizosphere by affecting plant stress responses and climate adaptation. Bacteriophages exert a range of negative effects on Actinobacteria, impacting their ecological and physiological functions by diminishing Actinobacteria's roles in antibiotic production, soil health, and plant growth. Phage predation affects nutrient cycling by influencing nitrogen and carbon metabolism, with evidence showing that phages can alter microbial diversity and function, leading to changes in soil ammonium levels and carbon decomposition rates. In wastewater treatment, bacteriophages can improve process efficiency by targeting harmful bacteria, managing foam formation, and enhancing sludge reduction through enzymatic action. Additionally, bacteriophage dispersal mechanisms in the rhizosphere can be enhanced by rhizosphere‐associated animals. Numerous invertebrate and vertebrate animals can significantly alter the rhizosphere environment by amplifying, mobilizing, and distributing both phages and bacterial hosts. Herein, three main mechanisms by which animals enhance the dispersal of bacteriophages in the rhizosphere are discussed. This review discusses bacteriophages' roles in soil ecosystems, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal‐mediated phage dispersal mechanisms. Overall, while bacteriophages have potential biotechnological applications, their negative effects on microbial functions and nutrient cycling highlight the need for balanced use and further research.",
       "url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1002/mbo3.70330",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 163,
@@ -3413,7 +3413,7 @@
       "authors": [
         "Akbar Adjie Pratama",
         "Olga Pérez-Carrascal",
-        "M. Sullivan",
+        "Matthew B. Sullivan",
         "Kirsten Küsel"
       ],
       "journal": "Nature Communications",
@@ -4320,7 +4320,7 @@
         "Kelly C. Wrighton",
         "S. Saleska",
         "Emily Eloe-Fadrosh",
-        "M. Sullivan",
+        "Matthew B. Sullivan",
         "Virginia I. Rich"
       ],
       "journal": "Nature Communications",
@@ -9764,7 +9764,7 @@
         "R. Neurath",
         "S. Kosina",
         "K. Louie",
-        "M. Sullivan",
+        "Matthew B. Sullivan",
         "Simon Roux",
         "K. Zengler",
         "Vivek K. Mutalik",
@@ -13552,7 +13552,7 @@
         "B. Bolduc",
         "K. Wrighton",
         "Virginia I. Rich",
-        "M. Sullivan"
+        "Matthew B. Sullivan"
       ],
       "journal": "Environmental Microbiology",
       "publication_date": "2024-07-01",
@@ -15506,6 +15506,121 @@
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
     },
     {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chaonan Li",
+        "Haijun Liao",
+        "Lin Xu",
+        "Changting Wang",
+        "Minjie Yao",
+        "Junming Wang",
+        "Xiangzheng Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "",
+      "citation_count": 5,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "ad946998ad754a37097a74167b2efd858d30dcaa",
+          "title": "Comprehensive genomic analyses revealed the adaptation strategies of Exiguobacterium and its phage genomic diversity",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Yiping Tian",
+            "Leyi Zou",
+            "Yuhee Ji"
+          ],
+          "doi": "10.3389/fmicb.2026.1841508",
+          "url": "https://www.semanticscholar.org/paper/ad946998ad754a37097a74167b2efd858d30dcaa",
+          "citation_count": 0
+        },
+        {
+          "id": "333f972527afb28e39a878d579a87f4fbb036509",
+          "title": "Transition From Land to Sea: Comparative Genomics Illuminates the Adaptive Evolution of the Intertidal Spider",
+          "year": 2026,
+          "journal": "Molecular Ecology Resources",
+          "authors": [
+            "Fan Li",
+            "Yunyun Lv",
+            "Chao Bian"
+          ],
+          "doi": "10.1111/1755-0998.70147",
+          "url": "https://www.semanticscholar.org/paper/333f972527afb28e39a878d579a87f4fbb036509",
+          "citation_count": 0
+        },
+        {
+          "id": "41918bc57c81ef50fd3d64c8f1556b757d025009",
+          "title": "Chromid-like secondary replicons as predicted key sites of biosynthetic gene clusters in\n Ktedonobacteria",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "Shuhei Yabe",
+            "Yu Zheng",
+            "Shunji Takahashi"
+          ],
+          "doi": "10.1128/msystems.00197-26",
+          "url": "https://www.semanticscholar.org/paper/41918bc57c81ef50fd3d64c8f1556b757d025009",
+          "citation_count": 0
+        },
+        {
+          "id": "fb53664ab299b176d21da5327a794803141a863e",
+          "title": "Metagenomic expansion of Joyebacterota identifies\n Cavimicrobium\n , a dominant sulfide-producing lineage in anoxic marine ecosystems",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Xing Chen",
+            "Chun-Xu Xue",
+            "Jinyan Wang"
+          ],
+          "doi": "10.1093/ismeco/ycag137",
+          "url": "https://www.semanticscholar.org/paper/fb53664ab299b176d21da5327a794803141a863e",
+          "citation_count": 0
+        },
+        {
+          "id": "7fa9a51e28598bfc921c8c56591cfbeb8acb16af",
+          "title": "Mitochondrial genomes resolve phylogenetic conflicts and lineage-specific adaptive dynamics in Ophiuroidea: insights from deep-sea lineages",
+          "year": 2026,
+          "journal": "Zoosystematics and Evolution",
+          "authors": [
+            "Weihao Xu",
+            "Jiying Na",
+            "Kexin Gao"
+          ],
+          "doi": "10.3897/zse.102.163746",
+          "url": "https://www.semanticscholar.org/paper/7fa9a51e28598bfc921c8c56591cfbeb8acb16af",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
+      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
+    },
+    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -15664,121 +15779,6 @@
         "phosphorus",
         "virus",
         "water"
-      ],
-      "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
-      "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
-    },
-    {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chaonan Li",
-        "Haijun Liao",
-        "Lin Xu",
-        "Changting Wang",
-        "Minjie Yao",
-        "Junming Wang",
-        "Xiangzheng Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "",
-      "citation_count": 5,
-      "influential_citation_count": 0,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "ad946998ad754a37097a74167b2efd858d30dcaa",
-          "title": "Comprehensive genomic analyses revealed the adaptation strategies of Exiguobacterium and its phage genomic diversity",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Yiping Tian",
-            "Leyi Zou",
-            "Yuhee Ji"
-          ],
-          "doi": "10.3389/fmicb.2026.1841508",
-          "url": "https://www.semanticscholar.org/paper/ad946998ad754a37097a74167b2efd858d30dcaa",
-          "citation_count": 0
-        },
-        {
-          "id": "333f972527afb28e39a878d579a87f4fbb036509",
-          "title": "Transition From Land to Sea: Comparative Genomics Illuminates the Adaptive Evolution of the Intertidal Spider",
-          "year": 2026,
-          "journal": "Molecular Ecology Resources",
-          "authors": [
-            "Fan Li",
-            "Yunyun Lv",
-            "Chao Bian"
-          ],
-          "doi": "10.1111/1755-0998.70147",
-          "url": "https://www.semanticscholar.org/paper/333f972527afb28e39a878d579a87f4fbb036509",
-          "citation_count": 0
-        },
-        {
-          "id": "41918bc57c81ef50fd3d64c8f1556b757d025009",
-          "title": "Chromid-like secondary replicons as predicted key sites of biosynthetic gene clusters in\n Ktedonobacteria",
-          "year": 2026,
-          "journal": "mSystems",
-          "authors": [
-            "Shuhei Yabe",
-            "Yu Zheng",
-            "Shunji Takahashi"
-          ],
-          "doi": "10.1128/msystems.00197-26",
-          "url": "https://www.semanticscholar.org/paper/41918bc57c81ef50fd3d64c8f1556b757d025009",
-          "citation_count": 0
-        },
-        {
-          "id": "fb53664ab299b176d21da5327a794803141a863e",
-          "title": "Metagenomic expansion of Joyebacterota identifies\n Cavimicrobium\n , a dominant sulfide-producing lineage in anoxic marine ecosystems",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Xing Chen",
-            "Chun-Xu Xue",
-            "Jinyan Wang"
-          ],
-          "doi": "10.1093/ismeco/ycag137",
-          "url": "https://www.semanticscholar.org/paper/fb53664ab299b176d21da5327a794803141a863e",
-          "citation_count": 0
-        },
-        {
-          "id": "7fa9a51e28598bfc921c8c56591cfbeb8acb16af",
-          "title": "Mitochondrial genomes resolve phylogenetic conflicts and lineage-specific adaptive dynamics in Ophiuroidea: insights from deep-sea lineages",
-          "year": 2026,
-          "journal": "Zoosystematics and Evolution",
-          "authors": [
-            "Weihao Xu",
-            "Jiying Na",
-            "Kexin Gao"
-          ],
-          "doi": "10.3897/zse.102.163746",
-          "url": "https://www.semanticscholar.org/paper/7fa9a51e28598bfc921c8c56591cfbeb8acb16af",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
       ],
       "detail_enriched_at": "2026-06-02T05:35:32.487273+00:00",
       "edges_enriched_at": "2026-06-02T05:49:22.079256+00:00"
