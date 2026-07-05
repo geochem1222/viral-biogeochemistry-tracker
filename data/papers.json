@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T22:16:27.998599+00:00",
+  "updated_at": "2026-07-05T22:15:07.053619+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -5167,7 +5167,7 @@
       "url": "https://www.semanticscholar.org/paper/86ddc2b43da35b786413b602b412b6437893b26a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/86ddc2b43da35b786413b602b412b6437893b26a",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 99,
       "references": [
@@ -10668,6 +10668,174 @@
       "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
     },
     {
+      "id": "e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
+      "semantic_scholar_id": "e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
+      "source": "Semantic Scholar",
+      "pmid": "40294083",
+      "doi": "10.1099/mgen.0.001403",
+      "title": "Isolation, complete characterization and phylogeography of the first bacteriophage against Vibrio neocaledonicus, which encodes a pyruvate phosphate dikinase and represents a novel viral family",
+      "authors": [
+        "Xin Chen",
+        "Ruize Liu",
+        "Wei Wang",
+        "Yundan Liu",
+        "Jianhua Sun",
+        "Hongbing Shao",
+        "Andrew Mcminn",
+        "Min Wang",
+        "Yantao Liang"
+      ],
+      "journal": "Microbial Genomics",
+      "publication_date": "2025-04-01",
+      "abstract": "Abstract Vibrio are widely distributed in aquatic environments and are major pathogens commonly found in aquaculture environments, playing a significant role in human production activities and maintaining ecological stability. Here, a novel phage, vB_VneS_J26, which infects Vibrio neocaledonicus, was isolated from coastal seawater in Qingdao, China. Transmission electron microscopy revealed that vB_VneS_J26 exhibits siphovirus morphotype, with a linear double-stranded DNA genome of 82,477 bp in length and G+C content of 45.11 mol%, encoding 122 putative ORFs. Three auxiliary metabolic genes related to carbon metabolism and host cell redox processes were identified, including a pyruvate phosphate dikinase, which catalyses the reversible conversion between phosphoenolpyruvate and pyruvate and is rarely detected in viruses. Whole-genome phylogenetic and comparative genomic analyses suggested that vB_VneS_J26 represents a potential novel viral family, comprising six isolated vibriophages, proposed as Modirecodeviridae. Phylogeographic analysis indicated that Modirecodeviridae is primarily distributed in epipelagic and mesopelagic zones of the Arctic and temperate tropical oceans.",
+      "url": "https://www.semanticscholar.org/paper/e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
+      "pdf_url": "https://doi.org/10.1099/mgen.0.001403",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 85,
+      "references": [
+        {
+          "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/7572ba7f604ef95d7acdd657ebac458106bd35df",
+          "doi": "10.1038/s41586-024-07487-w"
+        },
+        {
+          "title": "Interactive Tree of Life (iTOL) v6: recent updates to the phylogenetic tree display and annotation tool",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/5f2454d757afbf5ae5802fece14ed5ed8ed78d69",
+          "doi": "10.1093/nar/gkae268"
+        },
+        {
+          "title": "Protocol for optimizing production and quality control of infective EcoHIV virions",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/87ddd365c5b96ccb20e982d6856ad897fa2015e3",
+          "doi": "10.1016/j.xpro.2023.102368"
+        },
+        {
+          "title": "Psychrobacter Phage Encoding an Antibiotics Resistance Gene Represents a Novel Caudoviral Family",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/bf7d388b7c923716dd303c21815ed958249bb7d2",
+          "doi": "10.1128/spectrum.05335-22"
+        },
+        {
+          "title": "Esters of Quinoxaline-7-Carboxylate 1,4-Di-N-Oxide as Potential Inhibitors of Glycolytic Enzymes of Entamoeba Histolytica: In Silico Approach.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/89446abd3c7e31f2a1276cb47e19bd7a4791d523",
+          "doi": "10.2174/1573409919666230417135204"
+        },
+        {
+          "title": "BigSeqKit: a parallel Big Data toolkit to process FASTA and FASTQ files at scale",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/04a117da32798a1d8ab457081d417de3df611010",
+          "doi": "10.1093/gigascience/giad062"
+        },
+        {
+          "title": "Vibrio spp.: Life Strategies, Ecology, and Risks in a Changing Environment",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/15db38eceb6c2d528c36b29adf5d83125495ec42",
+          "doi": "10.3390/d14020097"
+        },
+        {
+          "title": "Novel Viral Communities Potentially Assisting in Carbon, Nitrogen, and Sulfur Metabolism in the Upper Slope Sediments of Mariana Trench",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
+          "doi": "10.1128/msystems.01358-21"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "31b1b6ec4f12a6c2b8dc672f44254eae79b856c4",
+          "title": "Isolation and Genome Characterization of Escherichia Phage vB_EcoA-Sparklingdew",
+          "year": 2026,
+          "journal": "Genes",
+          "authors": [
+            "I. Pchelin",
+            "V. M. Shutov",
+            "T. Nguyen"
+          ],
+          "doi": "10.3390/genes17060650",
+          "url": "https://www.semanticscholar.org/paper/31b1b6ec4f12a6c2b8dc672f44254eae79b856c4",
+          "citation_count": 0
+        },
+        {
+          "id": "e4e821fa406e1c238e893c747700fd6404f2376c",
+          "title": "Morphological and complete genome analysis of a novel Clostridium perfringens phage CpP_VarHS, isolated from wastewater",
+          "year": 2026,
+          "journal": "Frontiers in Pharmacology",
+          "authors": [
+            "Hamza Saghrouchni",
+            "Semra Tasdurmazli",
+            "I. Kilic"
+          ],
+          "doi": "10.3389/fphar.2026.1807000",
+          "url": "https://www.semanticscholar.org/paper/e4e821fa406e1c238e893c747700fd6404f2376c",
+          "citation_count": 0
+        },
+        {
+          "id": "b4fcce18e15bfe25ff269723ca90e9235c18b252",
+          "title": "A giant virus in a small lake: characterization of a new tropical algal virus expands the geographical and genetic diversity of the Brazilian virosphere",
+          "year": 2026,
+          "journal": "Journal of Virology",
+          "authors": [
+            "C. A. C. Filho",
+            "Isadora Canto",
+            "B. B. Botelho"
+          ],
+          "doi": "10.1128/jvi.00318-26",
+          "url": "https://www.semanticscholar.org/paper/b4fcce18e15bfe25ff269723ca90e9235c18b252",
+          "citation_count": 0
+        },
+        {
+          "id": "c16a5472164d42c9ad3418a5437d0e7764b3dab5",
+          "title": "Isolation and characterization of Avs-1, a bacteriophage effective against the aquaculture pathogen Aeromonas veronii",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Chen Li",
+            "Jiayi Liu",
+            "Xinran Long"
+          ],
+          "doi": "10.1128/aem.02334-25",
+          "url": "https://www.semanticscholar.org/paper/c16a5472164d42c9ad3418a5437d0e7764b3dab5",
+          "citation_count": 0
+        },
+        {
+          "id": "17b0f18a0cad74325f386f8315d382acf6e88c78",
+          "title": "Complete genome and functional insights into Microbacterium sp. strain FBCC-B4120, a novel freshwater isolate with diverse biotechnological traits",
+          "year": 2026,
+          "journal": "PLoS ONE",
+          "authors": [
+            "Jina Kim",
+            "Hyaekang Kim",
+            "J. Goh"
+          ],
+          "doi": "10.1371/journal.pone.0347549",
+          "url": "https://www.semanticscholar.org/paper/17b0f18a0cad74325f386f8315d382acf6e88c78",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "It is suggested that vB_VneS_J26 represents a potential novel viral family, comprising six isolated vibriophages, proposed as Modirecodeviridae, which is primarily distributed in epipelagic and mesopelagic zones of the Arctic and temperate tropical oceans.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "phosphorus",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
+    },
+    {
       "id": "37207d5f899123253e1d6c18ebd63382696f53e0",
       "semantic_scholar_id": "37207d5f899123253e1d6c18ebd63382696f53e0",
       "source": "Semantic Scholar",
@@ -10899,174 +11067,6 @@
         "nitrogen",
         "phosphorus",
         "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
-    },
-    {
-      "id": "e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
-      "semantic_scholar_id": "e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
-      "source": "Semantic Scholar",
-      "pmid": "40294083",
-      "doi": "10.1099/mgen.0.001403",
-      "title": "Isolation, complete characterization and phylogeography of the first bacteriophage against Vibrio neocaledonicus, which encodes a pyruvate phosphate dikinase and represents a novel viral family",
-      "authors": [
-        "Xin Chen",
-        "Ruize Liu",
-        "Wei Wang",
-        "Yundan Liu",
-        "Jianhua Sun",
-        "Hongbing Shao",
-        "Andrew Mcminn",
-        "Min Wang",
-        "Yantao Liang"
-      ],
-      "journal": "Microbial Genomics",
-      "publication_date": "2025-04-01",
-      "abstract": "Abstract Vibrio are widely distributed in aquatic environments and are major pathogens commonly found in aquaculture environments, playing a significant role in human production activities and maintaining ecological stability. Here, a novel phage, vB_VneS_J26, which infects Vibrio neocaledonicus, was isolated from coastal seawater in Qingdao, China. Transmission electron microscopy revealed that vB_VneS_J26 exhibits siphovirus morphotype, with a linear double-stranded DNA genome of 82,477 bp in length and G+C content of 45.11 mol%, encoding 122 putative ORFs. Three auxiliary metabolic genes related to carbon metabolism and host cell redox processes were identified, including a pyruvate phosphate dikinase, which catalyses the reversible conversion between phosphoenolpyruvate and pyruvate and is rarely detected in viruses. Whole-genome phylogenetic and comparative genomic analyses suggested that vB_VneS_J26 represents a potential novel viral family, comprising six isolated vibriophages, proposed as Modirecodeviridae. Phylogeographic analysis indicated that Modirecodeviridae is primarily distributed in epipelagic and mesopelagic zones of the Arctic and temperate tropical oceans.",
-      "url": "https://www.semanticscholar.org/paper/e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/e7888dc3eb7c5a3efd118d9cd72de2f9f888609f",
-      "pdf_url": "https://doi.org/10.1099/mgen.0.001403",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 85,
-      "references": [
-        {
-          "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/7572ba7f604ef95d7acdd657ebac458106bd35df",
-          "doi": "10.1038/s41586-024-07487-w"
-        },
-        {
-          "title": "Interactive Tree of Life (iTOL) v6: recent updates to the phylogenetic tree display and annotation tool",
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/5f2454d757afbf5ae5802fece14ed5ed8ed78d69",
-          "doi": "10.1093/nar/gkae268"
-        },
-        {
-          "title": "Protocol for optimizing production and quality control of infective EcoHIV virions",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/87ddd365c5b96ccb20e982d6856ad897fa2015e3",
-          "doi": "10.1016/j.xpro.2023.102368"
-        },
-        {
-          "title": "Psychrobacter Phage Encoding an Antibiotics Resistance Gene Represents a Novel Caudoviral Family",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/bf7d388b7c923716dd303c21815ed958249bb7d2",
-          "doi": "10.1128/spectrum.05335-22"
-        },
-        {
-          "title": "Esters of Quinoxaline-7-Carboxylate 1,4-Di-N-Oxide as Potential Inhibitors of Glycolytic Enzymes of Entamoeba Histolytica: In Silico Approach.",
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/89446abd3c7e31f2a1276cb47e19bd7a4791d523",
-          "doi": "10.2174/1573409919666230417135204"
-        },
-        {
-          "title": "BigSeqKit: a parallel Big Data toolkit to process FASTA and FASTQ files at scale",
-          "year": 2022,
-          "url": "https://www.semanticscholar.org/paper/04a117da32798a1d8ab457081d417de3df611010",
-          "doi": "10.1093/gigascience/giad062"
-        },
-        {
-          "title": "Vibrio spp.: Life Strategies, Ecology, and Risks in a Changing Environment",
-          "year": 2022,
-          "url": "https://www.semanticscholar.org/paper/15db38eceb6c2d528c36b29adf5d83125495ec42",
-          "doi": "10.3390/d14020097"
-        },
-        {
-          "title": "Novel Viral Communities Potentially Assisting in Carbon, Nitrogen, and Sulfur Metabolism in the Upper Slope Sediments of Mariana Trench",
-          "year": 2022,
-          "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
-          "doi": "10.1128/msystems.01358-21"
-        }
-      ],
-      "similar_papers": [
-        {
-          "id": "31b1b6ec4f12a6c2b8dc672f44254eae79b856c4",
-          "title": "Isolation and Genome Characterization of Escherichia Phage vB_EcoA-Sparklingdew",
-          "year": 2026,
-          "journal": "Genes",
-          "authors": [
-            "I. Pchelin",
-            "V. M. Shutov",
-            "T. Nguyen"
-          ],
-          "doi": "10.3390/genes17060650",
-          "url": "https://www.semanticscholar.org/paper/31b1b6ec4f12a6c2b8dc672f44254eae79b856c4",
-          "citation_count": 0
-        },
-        {
-          "id": "e4e821fa406e1c238e893c747700fd6404f2376c",
-          "title": "Morphological and complete genome analysis of a novel Clostridium perfringens phage CpP_VarHS, isolated from wastewater",
-          "year": 2026,
-          "journal": "Frontiers in Pharmacology",
-          "authors": [
-            "Hamza Saghrouchni",
-            "Semra Tasdurmazli",
-            "I. Kilic"
-          ],
-          "doi": "10.3389/fphar.2026.1807000",
-          "url": "https://www.semanticscholar.org/paper/e4e821fa406e1c238e893c747700fd6404f2376c",
-          "citation_count": 0
-        },
-        {
-          "id": "b4fcce18e15bfe25ff269723ca90e9235c18b252",
-          "title": "A giant virus in a small lake: characterization of a new tropical algal virus expands the geographical and genetic diversity of the Brazilian virosphere",
-          "year": 2026,
-          "journal": "Journal of Virology",
-          "authors": [
-            "C. A. C. Filho",
-            "Isadora Canto",
-            "B. B. Botelho"
-          ],
-          "doi": "10.1128/jvi.00318-26",
-          "url": "https://www.semanticscholar.org/paper/b4fcce18e15bfe25ff269723ca90e9235c18b252",
-          "citation_count": 0
-        },
-        {
-          "id": "c16a5472164d42c9ad3418a5437d0e7764b3dab5",
-          "title": "Isolation and characterization of Avs-1, a bacteriophage effective against the aquaculture pathogen Aeromonas veronii",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Chen Li",
-            "Jiayi Liu",
-            "Xinran Long"
-          ],
-          "doi": "10.1128/aem.02334-25",
-          "url": "https://www.semanticscholar.org/paper/c16a5472164d42c9ad3418a5437d0e7764b3dab5",
-          "citation_count": 0
-        },
-        {
-          "id": "17b0f18a0cad74325f386f8315d382acf6e88c78",
-          "title": "Complete genome and functional insights into Microbacterium sp. strain FBCC-B4120, a novel freshwater isolate with diverse biotechnological traits",
-          "year": 2026,
-          "journal": "PLoS ONE",
-          "authors": [
-            "Jina Kim",
-            "Hyaekang Kim",
-            "J. Goh"
-          ],
-          "doi": "10.1371/journal.pone.0347549",
-          "url": "https://www.semanticscholar.org/paper/17b0f18a0cad74325f386f8315d382acf6e88c78",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "It is suggested that vB_VneS_J26 represents a potential novel viral family, comprising six isolated vibriophages, proposed as Modirecodeviridae, which is primarily distributed in epipelagic and mesopelagic zones of the Arctic and temperate tropical oceans.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "carbon",
-        "phosphorus",
         "virus",
         "water"
       ],
@@ -11422,7 +11422,7 @@
       "url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a5821505595e6a27076b8fea056f715e5fbcec7a",
       "pdf_url": "",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 90,
       "references": [],
@@ -12762,118 +12762,6 @@
       "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
     },
     {
-      "id": "a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
-      "semantic_scholar_id": "a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
-      "source": "Semantic Scholar",
-      "pmid": "39528031",
-      "doi": "10.1016/j.biortech.2024.131791",
-      "title": "Virus-prokaryote interactions assist pollutant removal in constructed wetlands.",
-      "authors": [
-        "Nan Zhang",
-        "Dong Zhu",
-        "Zhiyuan Yao",
-        "David Z. Zhu"
-      ],
-      "journal": "Bioresource Technology",
-      "publication_date": "2024-11-01",
-      "abstract": "As a vital part of microbial communities, viruses in constructed wetlands (CWs) remain poorly explored, yet they could significantly affect pollutant removal. Here, two pilot-scale CWs were built to investigate the viral community under different hydraulic loading rates (HLRs) using in-depth metagenomic analysis. Gene-sharing networks suggested that the CWs were pools of unexplored viruses. A higher abundance of prokaryotic functional genes related to sulfur cycling and denitrification was observed in the higher HLR condition, which was associated with greater removal of total nitrogen and nitrate nitrogen compared to the lower HLR condition. Viruses also affect nitrogen pollutant removal by potentially infecting functional prokaryotes, such as denitrification bacteria and ammonia-oxidizing bacteria, and by providing auxiliary metabolic genes involved in sulfur and nitrogen cycling. These findings reveal the significance of viruses in pollutant removal in CWs and enhance the understanding of the relationship between engineering design parameters and performance from microbial perspectives.",
-      "url": "https://www.semanticscholar.org/paper/a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
-      "pdf_url": "",
-      "citation_count": 4,
-      "influential_citation_count": 0,
-      "reference_count": 41,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "839d63db0f6dd756e5c83579eb0f2126b9367621",
-          "title": "Antibiotics removal and nutrient transformation in constructed wetlands using novel aluminum Sludge-Derived Substrates.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Yunjie Hou",
-            "Baiming Ren",
-            "Jiayuan Song"
-          ],
-          "doi": "10.1016/j.biortech.2026.134779",
-          "url": "https://www.semanticscholar.org/paper/839d63db0f6dd756e5c83579eb0f2126b9367621",
-          "citation_count": 0
-        },
-        {
-          "id": "1f87131593937f5a09bf12f1af9bd66e6a0ab563",
-          "title": "Enhancement of nitrogen removal in constructed Wetlands: Comparative insights from single-strain and natural consortia inoculation.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Qian Wang",
-            "Ting Zhang",
-            "Kejin Zong"
-          ],
-          "doi": "10.1016/j.biortech.2026.135049",
-          "url": "https://www.semanticscholar.org/paper/1f87131593937f5a09bf12f1af9bd66e6a0ab563",
-          "citation_count": 0
-        },
-        {
-          "id": "5287b1a94a9869eaa685cd37d727d118849f7100",
-          "title": "Shotgun Metagenomic Analysis of Microbial Community Dynamics in Wastewater Treatment Through Constructed Wetlands.",
-          "year": 2026,
-          "journal": "Methods in molecular biology",
-          "authors": [
-            "Georgios Miliotis",
-            "Anna Tumeo"
-          ],
-          "doi": "10.1007/978-1-0716-5080-6_4",
-          "url": "https://www.semanticscholar.org/paper/5287b1a94a9869eaa685cd37d727d118849f7100",
-          "citation_count": 0
-        },
-        {
-          "id": "dbca82ed10e543987b6fd07068cb4c5e3a5621fb",
-          "title": "Microbial Bioremediation Strategies for Restoration of Urban Lakes in India: A Review",
-          "year": 2026,
-          "journal": "Archives of Applied Sciences",
-          "authors": [
-            "V. V",
-            "B. G",
-            "D. Reddy"
-          ],
-          "doi": "10.5455/aas.20251229101149",
-          "url": "https://www.semanticscholar.org/paper/dbca82ed10e543987b6fd07068cb4c5e3a5621fb",
-          "citation_count": 0
-        },
-        {
-          "id": "f4cae8aaa92ddbb1098ecd41e5c0dc21b666c0ce",
-          "title": "Decoding the effect of intermittent feeding strategy on the performances of modular moving bed constructed wetland: Nitrogen removal and antimicrobial resistance dissemination.",
-          "year": 2026,
-          "journal": "Journal of Hazardous Materials",
-          "authors": [
-            "Lei Zhou",
-            "Jiawei Xie",
-            "Liming Zhang"
-          ],
-          "doi": "10.1016/j.jhazmat.2026.142288",
-          "url": "https://www.semanticscholar.org/paper/f4cae8aaa92ddbb1098ecd41e5c0dc21b666c0ce",
-          "citation_count": 1
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Two pilot-scale CWs were built to investigate the viral community under different hydraulic loading rates using in-depth metagenomic analysis, revealing the significance of viruses in pollutant removal in CWs and enhancing the understanding of the relationship between engineering design parameters and performance from microbial perspectives.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "nitrogen",
-        "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
-    },
-    {
       "id": "835c26ae2cd959c13d04fb3d7534c85996748707",
       "semantic_scholar_id": "835c26ae2cd959c13d04fb3d7534c85996748707",
       "source": "Semantic Scholar",
@@ -13036,6 +12924,118 @@
       ],
       "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
       "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
+    },
+    {
+      "id": "a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
+      "semantic_scholar_id": "a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
+      "source": "Semantic Scholar",
+      "pmid": "39528031",
+      "doi": "10.1016/j.biortech.2024.131791",
+      "title": "Virus-prokaryote interactions assist pollutant removal in constructed wetlands.",
+      "authors": [
+        "Nan Zhang",
+        "Dong Zhu",
+        "Zhiyuan Yao",
+        "David Z. Zhu"
+      ],
+      "journal": "Bioresource Technology",
+      "publication_date": "2024-11-01",
+      "abstract": "As a vital part of microbial communities, viruses in constructed wetlands (CWs) remain poorly explored, yet they could significantly affect pollutant removal. Here, two pilot-scale CWs were built to investigate the viral community under different hydraulic loading rates (HLRs) using in-depth metagenomic analysis. Gene-sharing networks suggested that the CWs were pools of unexplored viruses. A higher abundance of prokaryotic functional genes related to sulfur cycling and denitrification was observed in the higher HLR condition, which was associated with greater removal of total nitrogen and nitrate nitrogen compared to the lower HLR condition. Viruses also affect nitrogen pollutant removal by potentially infecting functional prokaryotes, such as denitrification bacteria and ammonia-oxidizing bacteria, and by providing auxiliary metabolic genes involved in sulfur and nitrogen cycling. These findings reveal the significance of viruses in pollutant removal in CWs and enhance the understanding of the relationship between engineering design parameters and performance from microbial perspectives.",
+      "url": "https://www.semanticscholar.org/paper/a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a1cd58ca6bbb127fff3665b1e2ebb18a6f881e82",
+      "pdf_url": "",
+      "citation_count": 4,
+      "influential_citation_count": 0,
+      "reference_count": 41,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "839d63db0f6dd756e5c83579eb0f2126b9367621",
+          "title": "Antibiotics removal and nutrient transformation in constructed wetlands using novel aluminum Sludge-Derived Substrates.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Yunjie Hou",
+            "Baiming Ren",
+            "Jiayuan Song"
+          ],
+          "doi": "10.1016/j.biortech.2026.134779",
+          "url": "https://www.semanticscholar.org/paper/839d63db0f6dd756e5c83579eb0f2126b9367621",
+          "citation_count": 0
+        },
+        {
+          "id": "1f87131593937f5a09bf12f1af9bd66e6a0ab563",
+          "title": "Enhancement of nitrogen removal in constructed Wetlands: Comparative insights from single-strain and natural consortia inoculation.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Qian Wang",
+            "Ting Zhang",
+            "Kejin Zong"
+          ],
+          "doi": "10.1016/j.biortech.2026.135049",
+          "url": "https://www.semanticscholar.org/paper/1f87131593937f5a09bf12f1af9bd66e6a0ab563",
+          "citation_count": 0
+        },
+        {
+          "id": "5287b1a94a9869eaa685cd37d727d118849f7100",
+          "title": "Shotgun Metagenomic Analysis of Microbial Community Dynamics in Wastewater Treatment Through Constructed Wetlands.",
+          "year": 2026,
+          "journal": "Methods in molecular biology",
+          "authors": [
+            "Georgios Miliotis",
+            "Anna Tumeo"
+          ],
+          "doi": "10.1007/978-1-0716-5080-6_4",
+          "url": "https://www.semanticscholar.org/paper/5287b1a94a9869eaa685cd37d727d118849f7100",
+          "citation_count": 0
+        },
+        {
+          "id": "dbca82ed10e543987b6fd07068cb4c5e3a5621fb",
+          "title": "Microbial Bioremediation Strategies for Restoration of Urban Lakes in India: A Review",
+          "year": 2026,
+          "journal": "Archives of Applied Sciences",
+          "authors": [
+            "V. V",
+            "B. G",
+            "D. Reddy"
+          ],
+          "doi": "10.5455/aas.20251229101149",
+          "url": "https://www.semanticscholar.org/paper/dbca82ed10e543987b6fd07068cb4c5e3a5621fb",
+          "citation_count": 0
+        },
+        {
+          "id": "f4cae8aaa92ddbb1098ecd41e5c0dc21b666c0ce",
+          "title": "Decoding the effect of intermittent feeding strategy on the performances of modular moving bed constructed wetland: Nitrogen removal and antimicrobial resistance dissemination.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Lei Zhou",
+            "Jiawei Xie",
+            "Liming Zhang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142288",
+          "url": "https://www.semanticscholar.org/paper/f4cae8aaa92ddbb1098ecd41e5c0dc21b666c0ce",
+          "citation_count": 1
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Two pilot-scale CWs were built to investigate the viral community under different hydraulic loading rates using in-depth metagenomic analysis, revealing the significance of viruses in pollutant removal in CWs and enhancing the understanding of the relationship between engineering design parameters and performance from microbial perspectives.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "nitrogen",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
     },
     {
       "id": "13dc0df228709e1ddf13b78a50b1e4a4f53ae36c",
@@ -13339,7 +13339,7 @@
       "url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "pdf_url": "",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 80,
       "references": [],
@@ -15986,7 +15986,7 @@
       "url": "https://www.semanticscholar.org/paper/0f8bcaa88b7654c97a70f38df32376c954cccdd9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0f8bcaa88b7654c97a70f38df32376c954cccdd9",
       "pdf_url": "https://doi.org/10.1016/j.envres.2024.119070",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -16719,7 +16719,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 91,
+      "citation_count": 92,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -22076,7 +22076,7 @@
       "url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "pdf_url": "",
-      "citation_count": 54,
+      "citation_count": 55,
       "influential_citation_count": 2,
       "reference_count": 88,
       "references": [],
@@ -22978,7 +22978,7 @@
       "url": "https://www.semanticscholar.org/paper/36b09e839f59b57591254509fe033344804d6f46",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/36b09e839f59b57591254509fe033344804d6f46",
       "pdf_url": "https://doi.org/10.1128/msystems.01211-22",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 1,
       "reference_count": 85,
       "references": [
@@ -24227,7 +24227,7 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -24842,7 +24842,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 197,
+      "citation_count": 199,
       "influential_citation_count": 9,
       "reference_count": 106,
       "references": [
@@ -26170,7 +26170,7 @@
       "url": "https://www.semanticscholar.org/paper/a40505208678c773c2db9056d5f425ebf2f4bd2d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a40505208678c773c2db9056d5f425ebf2f4bd2d",
       "pdf_url": "https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A25841/datastream/PDF2/Wu-2022-Phage-bacterium_interactions_and_nutrient_availability-%28accepted_version%29.pdf",
-      "citation_count": 19,
+      "citation_count": 20,
       "influential_citation_count": 0,
       "reference_count": 23,
       "references": [],
@@ -26256,108 +26256,6 @@
         "nitrogen",
         "soil",
         "virus"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
-    },
-    {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "О.В. Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
-          "title": "Efficient Micropropagation System for Tuberose (Polianthes tuberosa L.) from Cormel-derived Explants Using Optimized Cytokinins and Auxins",
-          "year": 2026,
-          "journal": "Asian Plant Research Journal",
-          "authors": [
-            "Md Al Amin",
-            "Md. Monirul Islam",
-            "Talha Zubair Masror"
-          ],
-          "doi": "10.9734/aprj/2026/v14i3377",
-          "url": "https://www.semanticscholar.org/paper/b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
-          "citation_count": 0
-        },
-        {
-          "id": "7031956b08e5686781459bce760e13b1b048f917",
-          "title": "A review on in-vitro propagation of Philodendron",
-          "year": 2026,
-          "journal": "Plant Cell Tissue and Organ Culture",
-          "authors": [
-            "P. Yumkhaibam",
-            "Arpita Mandal Khan",
-            "Martina Irengbam"
-          ],
-          "doi": "10.1007/s11240-026-03502-2",
-          "url": "https://www.semanticscholar.org/paper/7031956b08e5686781459bce760e13b1b048f917",
-          "citation_count": 0
-        },
-        {
-          "id": "ad3d78cc0a5322fcaf32dfe391efae6f27437718",
-          "title": "Micropropagation of Stevia rebaudiana: Optimizing Shoot Multiplication and Ex vitro Rooting Establishment",
-          "year": 2026,
-          "journal": "Journal of environmental horticulture",
-          "authors": [
-            "Ingrid Tuyuc",
-            "C. Iglesias",
-            "Thiago Gibbin Marconi"
-          ],
-          "doi": "10.24266/0738-2898-44.2.59",
-          "url": "https://www.semanticscholar.org/paper/ad3d78cc0a5322fcaf32dfe391efae6f27437718",
-          "citation_count": 0
-        },
-        {
-          "id": "4de5776a1466e935f87944a7a4a92c64d7421b2c",
-          "title": "Effect of BA and Kin on Initiation and Multiplication of Marjoram Plant Origanum majorana L.",
-          "year": 2026,
-          "journal": "The future of Horticulture",
-          "authors": [],
-          "doi": "10.37229/fsa.fjh.2026.05.06",
-          "url": "https://www.semanticscholar.org/paper/4de5776a1466e935f87944a7a4a92c64d7421b2c",
-          "citation_count": 0
-        },
-        {
-          "id": "4bbda7eeabee9212d313d3b376594cbcd947bb7c",
-          "title": "Effects of cytokinin–auxin combinations on in vitro propagation of Nepenthes mirabilis (Lour.) Druce",
-          "year": 2026,
-          "journal": "Kufa Journal for Agricultural Sciences",
-          "authors": [
-            "Phi Hoang Nhat",
-            "Tram Pham Thi My"
-          ],
-          "doi": "10.36077/kjas/2026/v18i2.23210",
-          "url": "https://www.semanticscholar.org/paper/4bbda7eeabee9212d313d3b376594cbcd947bb7c",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus",
-        "water"
       ],
       "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
       "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
@@ -26518,6 +26416,108 @@
         "nitrogen",
         "phosphorus",
         "sediment",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
+    },
+    {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "О.В. Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
+          "title": "Efficient Micropropagation System for Tuberose (Polianthes tuberosa L.) from Cormel-derived Explants Using Optimized Cytokinins and Auxins",
+          "year": 2026,
+          "journal": "Asian Plant Research Journal",
+          "authors": [
+            "Md Al Amin",
+            "Md. Monirul Islam",
+            "Talha Zubair Masror"
+          ],
+          "doi": "10.9734/aprj/2026/v14i3377",
+          "url": "https://www.semanticscholar.org/paper/b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
+          "citation_count": 0
+        },
+        {
+          "id": "7031956b08e5686781459bce760e13b1b048f917",
+          "title": "A review on in-vitro propagation of Philodendron",
+          "year": 2026,
+          "journal": "Plant Cell Tissue and Organ Culture",
+          "authors": [
+            "P. Yumkhaibam",
+            "Arpita Mandal Khan",
+            "Martina Irengbam"
+          ],
+          "doi": "10.1007/s11240-026-03502-2",
+          "url": "https://www.semanticscholar.org/paper/7031956b08e5686781459bce760e13b1b048f917",
+          "citation_count": 0
+        },
+        {
+          "id": "ad3d78cc0a5322fcaf32dfe391efae6f27437718",
+          "title": "Micropropagation of Stevia rebaudiana: Optimizing Shoot Multiplication and Ex vitro Rooting Establishment",
+          "year": 2026,
+          "journal": "Journal of environmental horticulture",
+          "authors": [
+            "Ingrid Tuyuc",
+            "C. Iglesias",
+            "Thiago Gibbin Marconi"
+          ],
+          "doi": "10.24266/0738-2898-44.2.59",
+          "url": "https://www.semanticscholar.org/paper/ad3d78cc0a5322fcaf32dfe391efae6f27437718",
+          "citation_count": 0
+        },
+        {
+          "id": "4de5776a1466e935f87944a7a4a92c64d7421b2c",
+          "title": "Effect of BA and Kin on Initiation and Multiplication of Marjoram Plant Origanum majorana L.",
+          "year": 2026,
+          "journal": "The future of Horticulture",
+          "authors": [],
+          "doi": "10.37229/fsa.fjh.2026.05.06",
+          "url": "https://www.semanticscholar.org/paper/4de5776a1466e935f87944a7a4a92c64d7421b2c",
+          "citation_count": 0
+        },
+        {
+          "id": "4bbda7eeabee9212d313d3b376594cbcd947bb7c",
+          "title": "Effects of cytokinin–auxin combinations on in vitro propagation of Nepenthes mirabilis (Lour.) Druce",
+          "year": 2026,
+          "journal": "Kufa Journal for Agricultural Sciences",
+          "authors": [
+            "Phi Hoang Nhat",
+            "Tram Pham Thi My"
+          ],
+          "doi": "10.36077/kjas/2026/v18i2.23210",
+          "url": "https://www.semanticscholar.org/paper/4bbda7eeabee9212d313d3b376594cbcd947bb7c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
         "virus",
         "water"
       ],
@@ -26714,7 +26714,7 @@
       "url": "https://www.semanticscholar.org/paper/1a72a6d3da2f12991604b6b323fc48ae8e14ba18",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a72a6d3da2f12991604b6b323fc48ae8e14ba18",
       "pdf_url": "https://doi.org/10.1128/mbio.00052-22",
-      "citation_count": 19,
+      "citation_count": 21,
       "influential_citation_count": 0,
       "reference_count": 110,
       "references": [
@@ -28091,7 +28091,7 @@
       "url": "https://www.semanticscholar.org/paper/71c2f8ada82748afc401f9a0a6630de8f4da36be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/71c2f8ada82748afc401f9a0a6630de8f4da36be",
       "pdf_url": "https://www.nature.com/articles/s41396-022-01202-1.pdf",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 86,
       "references": [
@@ -28363,7 +28363,7 @@
       "url": "https://www.semanticscholar.org/paper/e89d0a745860afaa5014179250e34c8ce8ceb450",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e89d0a745860afaa5014179250e34c8ce8ceb450",
       "pdf_url": "",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 1,
       "reference_count": 110,
       "references": [],
@@ -31783,7 +31783,7 @@
       "url": "https://www.semanticscholar.org/paper/beb44cf0b6a305e9697cd6edbdb9f8f7441d3daf",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/beb44cf0b6a305e9697cd6edbdb9f8f7441d3daf",
       "pdf_url": "https://dspace.mit.edu/bitstream/1721.1/131283/2/mSystems.00537-21.pdf",
-      "citation_count": 10,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -34281,8 +34281,8 @@
       "abstract": "In marine ecosystems, viruses exert control on the composition and metabolism of microbial communities, influencing overall biogeochemical cycling. Deep sea sediments associated with cold seeps are known to host taxonomically diverse microbial communities, but little is known about viruses infecting these microorganisms. Here, we probed metagenomes from seven geographically diverse cold seeps across global oceans to assess viral diversity, virus–host interaction, and virus-encoded auxiliary metabolic genes (AMGs). Gene-sharing network comparisons with viruses inhabiting other ecosystems reveal that cold seep sediments harbour considerable unexplored viral diversity. Most cold seep viruses display high degrees of endemism with seep fluid flux being one of the main drivers of viral community composition. In silico predictions linked 14.2% of the viruses to microbial host populations with many belonging to poorly understood candidate bacterial and archaeal phyla. Lysis was predicted to be a predominant viral lifestyle based on lineage-specific virus/host abundance ratios. Metabolic predictions of prokaryotic host genomes and viral AMGs suggest that viruses influence microbial hydrocarbon biodegradation at cold seeps, as well as other carbon, sulfur and nitrogen cycling via virus-induced mortality and/or metabolic augmentation. Overall, these findings reveal the global diversity and biogeography of cold seep viruses and indicate how viruses may manipulate seep microbial ecology and biogeochemistry.",
       "url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
-      "pdf_url": "https://www.nature.com/articles/s41396-021-00932-y.pdf",
-      "citation_count": 181,
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/09/08/2020.09.08.284018.full.pdf",
+      "citation_count": 182,
       "influential_citation_count": 19,
       "reference_count": 104,
       "references": [
@@ -34455,7 +34455,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://doi.org/10.21203/rs.3.rs-68034/v1",
-      "citation_count": 196,
+      "citation_count": 198,
       "influential_citation_count": 9,
       "reference_count": 91,
       "references": [
@@ -38443,7 +38443,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 525,
+      "citation_count": 526,
       "influential_citation_count": 29,
       "reference_count": 70,
       "references": [
@@ -39742,7 +39742,7 @@
       "url": "https://www.semanticscholar.org/paper/45b093b66636748cd0cca1a2bde4aad745882a34",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/45b093b66636748cd0cca1a2bde4aad745882a34",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmars.2016.00082/pdf",
-      "citation_count": 69,
+      "citation_count": 70,
       "influential_citation_count": 5,
       "reference_count": 128,
       "references": [
