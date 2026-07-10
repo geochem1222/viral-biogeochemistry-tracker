@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T22:44:50.079472+00:00",
+  "updated_at": "2026-07-10T22:18:09.160917+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -129,7 +129,7 @@
       ],
       "journal": "Global Change Biology",
       "publication_date": "2026-07-01",
-      "abstract": "",
+      "abstract": "Soil viruses are crucial for microbial life, biogeochemical cycles of carbon and nutrients, and for microbial necromass formation. We hypothesized that the effects of viruses on these processes depend on organic matter and nutrient availability in soils. Here, we combined a 34-year long-term fertilization trial, 150 sequenced soil metagenomes, and microcosm experiments to explore how viruses modulate carbon and nutrient dynamics depending on resource availability. We uncovered 2789 viral populations (vOTUs) grouping into 301 viral clusters, 91% of which were previously unknown. Organically fertilized soils harbored most lytic viruses carrying diverse element cycling-related auxiliary viral genes (AVGs) acquired through co-evolution and horizontal gene transfer. Synthesis and heterologous expression assays further indicated that four AVGs (i.e., cbhA, pel, wbpD, GT2) had higher transcript levels in Escherichia coli under nutrient rich than nutrient poor conditions. Addition of virus particles to soils raised microbial carbon use efficiency (CUE; biomass production relative to carbon uptake) and accelerated microbial turnover leading to boosted microbial necromass formation by 14%. Conversely, in soils without organic fertilizers, viruses facilitate bacterial adaptation to stress (e.g., defense system and interference competition) and accelerate microbial decomposition of organic matter. 35 days after virus addition, CO2 and N2O emissions increased by 41% and 52%, respectively. Finally, we propose the Viral Entombing-Priming (VEP) framework to describe the contrasting roles of viruses in carbon and nutrient dynamics depending on soil fertility. This work reveals the viral \"Matthew effect\" (the rich get richer and the poor get poorer) in resource-rich and resource-poor soils and could unlock nature-based pathways to raise carbon and nutrient retention for sustainable agriculture.",
       "url": "https://www.semanticscholar.org/paper/b07522f4b7be09a736a10bc484e4955a9985c860",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b07522f4b7be09a736a10bc484e4955a9985c860",
       "pdf_url": "",
@@ -5459,7 +5459,7 @@
       "url": "https://www.semanticscholar.org/paper/405f862b13052ac8c60a59609d6a149cd82b8379",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/405f862b13052ac8c60a59609d6a149cd82b8379",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 140,
       "references": [
@@ -6138,7 +6138,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -8266,7 +8266,7 @@
       "url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "pdf_url": "",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [
@@ -9706,7 +9706,7 @@
       "url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "pdf_url": "",
-      "citation_count": 17,
+      "citation_count": 18,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -10322,7 +10322,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://doi.org/10.1038/s41467-025-58695-5",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -11947,7 +11947,7 @@
       "url": "https://www.semanticscholar.org/paper/2fed4228991bd0565586197f0694dfedf20b8d21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2fed4228991bd0565586197f0694dfedf20b8d21",
       "pdf_url": "https://doi.org/10.1038/s41598-025-89418-x",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 39,
       "references": [
@@ -13293,7 +13293,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -13460,7 +13460,7 @@
       "url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "pdf_url": "",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 80,
       "references": [],
@@ -13857,7 +13857,7 @@
       "url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "pdf_url": "",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 6,
       "reference_count": 106,
       "references": [
@@ -16276,7 +16276,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 81,
+      "citation_count": 83,
       "influential_citation_count": 1,
       "reference_count": 114,
       "references": [
@@ -16840,7 +16840,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 92,
+      "citation_count": 93,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -18276,7 +18276,7 @@
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10880660",
-      "citation_count": 50,
+      "citation_count": 51,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [],
@@ -21493,7 +21493,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 213,
+      "citation_count": 216,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -24963,7 +24963,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 199,
+      "citation_count": 202,
       "influential_citation_count": 9,
       "reference_count": 106,
       "references": [
@@ -28871,7 +28871,7 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725595",
-      "citation_count": 48,
+      "citation_count": 49,
       "influential_citation_count": 0,
       "reference_count": 116,
       "references": [
@@ -38564,7 +38564,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 526,
+      "citation_count": 527,
       "influential_citation_count": 29,
       "reference_count": 70,
       "references": [
