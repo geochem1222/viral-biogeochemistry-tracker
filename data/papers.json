@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T22:18:09.160917+00:00",
+  "updated_at": "2026-07-11T22:10:30.026089+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -574,7 +574,7 @@
       "source": "Semantic Scholar",
       "pmid": "42294682",
       "doi": "10.1128/mbio.00693-26",
-      "title": "Active prophages as key drivers of microbial adaptation in global soil ecosystems.",
+      "title": "Active prophages as key drivers of microbial adaptation in global soil ecosystems",
       "authors": [
         "C. Ai",
         "Xiang Tang",
@@ -587,7 +587,7 @@
       ],
       "journal": "mBio",
       "publication_date": "2026-06-15",
-      "abstract": "Soils harbor the most complex microbial diversity on Earth, in which bacteria are ubiquitously infected by temperate phages. While integrated prophages often enhance host fitness, active (inducible) prophages are traditionally perceived as \"molecular time bombs\" due to their intrinsic lysis threat. This dual nature has raised fundamental questions about the true contribution of temperate phages to microbial adaptation and ecosystem stability. To address this gap, we conducted a global-scale integrative analysis by synthesizing 123,207 high-quality bacterial genomes, 183 soil-specific viromic data sets, and 3,749 metagenomes. We established the Global Soil Active Prophage Database (GSAPD), comprising 21,397 high-confidence active prophages, which we found to represent 34.3% of the total soil viral population within our analytical framework. Our comparative genomic analysis reveals that active prophages possess significantly larger genomes and greater genetic complexity compared with their dormant counterparts. Crucially, by mapping phage-encoded auxiliary metabolic genes (AMGs) across diverse biomes, we found that active prophages are disproportionately enriched in key pathways for carbon, nitrogen, and sulfur cycling, as well as specialized resistance mechanisms against heavy metal toxicity. These findings suggest that active prophages act as dynamic reservoirs of functional diversity. We demonstrate that their lytic potential is not merely a survival risk, but a sophisticated mechanism underpinning host environmental adaptation and niche expansion. Ultimately, this study provides a comprehensive global catalog of soil viral pathways and redefines the role of temperate phages as pivotal drivers of microbial evolution and biogeochemical cycling in terrestrial ecosystems.IMPORTANCESoils contain immense microbial diversity, yet the ecological role of temperate phages-especially their active (inducible) forms-remains poorly understood. This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms. By building a comprehensive database and integrating multi-omics data, we show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance. These findings challenge the traditional view of active prophages as purely harmful agents and instead highlight their role as dynamic contributors to microbial function and adaptation. Our work offers new insights into how viruses shape ecosystem processes and provides a valuable resource for future studies on soil microbial ecology and nutrient cycling.",
+      "abstract": "ABSTRACT Soils harbor the most complex microbial diversity on Earth, in which bacteria are ubiquitously infected by temperate phages. While integrated prophages often enhance host fitness, active (inducible) prophages are traditionally perceived as “molecular time bombs” due to their intrinsic lysis threat. This dual nature has raised fundamental questions about the true contribution of temperate phages to microbial adaptation and ecosystem stability. To address this gap, we conducted a global-scale integrative analysis by synthesizing 123,207 high-quality bacterial genomes, 183 soil-specific viromic data sets, and 3,749 metagenomes. We established the Global Soil Active Prophage Database (GSAPD), comprising 21,397 high-confidence active prophages, which we found to represent 34.3% of the total soil viral population within our analytical framework. Our comparative genomic analysis reveals that active prophages possess significantly larger genomes and greater genetic complexity compared with their dormant counterparts. Crucially, by mapping phage-encoded auxiliary metabolic genes (AMGs) across diverse biomes, we found that active prophages are disproportionately enriched in key pathways for carbon, nitrogen, and sulfur cycling, as well as specialized resistance mechanisms against heavy metal toxicity. These findings suggest that active prophages act as dynamic reservoirs of functional diversity. We demonstrate that their lytic potential is not merely a survival risk, but a sophisticated mechanism underpinning host environmental adaptation and niche expansion. Ultimately, this study provides a comprehensive global catalog of soil viral pathways and redefines the role of temperate phages as pivotal drivers of microbial evolution and biogeochemical cycling in terrestrial ecosystems. IMPORTANCE Soils contain immense microbial diversity, yet the ecological role of temperate phages—especially their active (inducible) forms—remains poorly understood. This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms. By building a comprehensive database and integrating multi-omics data, we show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance. These findings challenge the traditional view of active prophages as purely harmful agents and instead highlight their role as dynamic contributors to microbial function and adaptation. Our work offers new insights into how viruses shape ecosystem processes and provides a valuable resource for future studies on soil microbial ecology and nutrient cycling.",
       "url": "https://www.semanticscholar.org/paper/a89bf5c996b025345245746245791ca886dc9e5b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a89bf5c996b025345245746245791ca886dc9e5b",
       "pdf_url": "https://doi.org/10.1128/mbio.00693-26",
@@ -830,72 +830,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "6adb57aa83b422b5ab8daf425b27f3a56dd5433b",
-          "title": "Microplastics in Agroecosystems: Effects on Soil Microbiome, Nutrient Dynamics, and Fungal Interactions",
+          "id": "9104c49baa95419cf3d4335bc368c97810fce052",
+          "title": "Protist Predation Rapidly Reshapes Soil Microbial Gene Expression Linked to Nutrient Processing, Resistance, Virulence, and Gene Mobility Traits.",
           "year": 2026,
-          "journal": "Journal of international research in medical and pharmaceutical sciences",
+          "journal": "Environmental Science and Technology",
           "authors": [
-            "Paltu Ram Sahu",
-            "C. Patel",
-            "Abhishek Singh"
+            "Dishant Patel",
+            "Matthew Heidenblut",
+            "Rebecca L. Mau"
           ],
-          "doi": "10.56557/jirmeps/2026/v21i210559",
-          "url": "https://www.semanticscholar.org/paper/6adb57aa83b422b5ab8daf425b27f3a56dd5433b",
+          "doi": "10.1021/acs.est.5c18948",
+          "url": "https://www.semanticscholar.org/paper/9104c49baa95419cf3d4335bc368c97810fce052",
           "citation_count": 0
         },
         {
-          "id": "7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
-          "title": "Metagenomic insights into viral and microbial genes of Russian High-Arctic soil microbiomes.",
+          "id": "43aa8045e09a6a4ad07cc424870aa561857044d6",
+          "title": "Manure application enhances ARG enrichment by aged microplastics in rhizosphere networks: New insights into MP biofilms as key interfaces.",
           "year": 2026,
-          "journal": "Communications Biology",
+          "journal": "Journal of Environmental Management",
           "authors": [
-            "Beat Frey",
-            "G. Varliero",
-            "Joel Rüthi"
+            "Tong Li",
+            "Jifei Xu",
+            "Yuhua Jiang"
           ],
-          "doi": "10.1038/s42003-026-10050-0",
-          "url": "https://www.semanticscholar.org/paper/7a63a07b7c0a59d445c702370b35cb4dfc2497e8",
+          "doi": "10.1016/j.jenvman.2026.130392",
+          "url": "https://www.semanticscholar.org/paper/43aa8045e09a6a4ad07cc424870aa561857044d6",
           "citation_count": 0
         },
         {
-          "id": "1e24504903b5123ab5362e85adb54d09921b2df7",
-          "title": "Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation.",
+          "id": "e40e01d86f7b47c3ac4f6b2410a18fe1e5d82faa",
+          "title": "Biodegradable polylactic acid microplastics affect nutrient cycling during the entire crop growth cycle: Implications for soil ecosystem multifunctionality.",
           "year": 2026,
-          "journal": "Communications Biology",
+          "journal": "Environmental Pollution",
           "authors": [
-            "Xieluyao Wei",
-            "K. Bashir",
-            "Xianrui Tian"
+            "Qian Cui",
+            "Feilong Wang",
+            "Xiaoling Shan"
           ],
-          "doi": "10.1038/s42003-026-10162-7",
-          "url": "https://www.semanticscholar.org/paper/1e24504903b5123ab5362e85adb54d09921b2df7",
+          "doi": "10.1016/j.envpol.2026.128664",
+          "url": "https://www.semanticscholar.org/paper/e40e01d86f7b47c3ac4f6b2410a18fe1e5d82faa",
           "citation_count": 0
         },
         {
-          "id": "d6f2341967fd4ebcc6957a9462fa31ef5d1427cd",
-          "title": "Soil carbon regulates antibiotic resistance gene dynamics.",
+          "id": "f526b94cbc6135240434b78ea6cdd880307a91df",
+          "title": "PE microplastics and sulfadiazine drive cross-domain microbial restructuring and antibiotic resistance gene dynamics in biofilms.",
           "year": 2026,
-          "journal": "Trends in Microbiology",
+          "journal": "Journal of Hazardous Materials",
           "authors": [
-            "Izhar Ali",
-            "Xia Xu"
+            "Shenglong Ma",
+            "Baowei Zhao",
+            "Hui Liu"
           ],
-          "doi": "10.1016/j.tim.2026.05.002",
-          "url": "https://www.semanticscholar.org/paper/d6f2341967fd4ebcc6957a9462fa31ef5d1427cd",
+          "doi": "10.1016/j.jhazmat.2026.142269",
+          "url": "https://www.semanticscholar.org/paper/f526b94cbc6135240434b78ea6cdd880307a91df",
           "citation_count": 0
         },
         {
-          "id": "1fbadc0e6201b248d92b8e43047029d178a632dc",
-          "title": "Differential effects of conventional and biodegradable microplastics on carbon and nitrogen transformation and greenhouse gas emissions in Cd-contaminated riparian sediments: Responses of microbial community structure.",
+          "id": "8d82104b63f0ecb7519cd6290913d83480657bab",
+          "title": "Nitrate-reducing bacteria bridge nitrogen cycling and antibiotic resistance in river ecosystems.",
           "year": 2026,
-          "journal": "Water Research",
+          "journal": "Nature Communications",
           "authors": [
-            "Haojie Chen",
-            "Danlian Huang",
-            "Wei Zhou"
+            "Chunfang Deng",
+            "Hetong Cai",
+            "Kongyan Luo"
           ],
-          "doi": "10.1016/j.watres.2026.126200",
-          "url": "https://www.semanticscholar.org/paper/1fbadc0e6201b248d92b8e43047029d178a632dc",
+          "doi": "10.1038/s41467-026-74161-2",
+          "url": "https://www.semanticscholar.org/paper/8d82104b63f0ecb7519cd6290913d83480657bab",
           "citation_count": 0
         }
       ],
@@ -915,8 +916,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-06-10T23:01:52.235108+00:00",
-      "edges_enriched_at": "2026-06-10T23:01:52.801487+00:00"
+      "detail_enriched_at": "2026-07-11T22:10:17.312642+00:00",
+      "edges_enriched_at": "2026-07-11T22:10:26.159600+00:00"
     },
     {
       "id": "7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
@@ -15328,7 +15329,7 @@
       "url": "https://www.semanticscholar.org/paper/482d581e3f0d182f4d925508bf24b21328d36a4b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/482d581e3f0d182f4d925508bf24b21328d36a4b",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16665",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 127,
       "references": [
@@ -17009,7 +17010,7 @@
       "url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.188",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 3,
       "reference_count": 81,
       "references": [
@@ -17620,7 +17621,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://www.nature.com/articles/s41467-024-46109-x.pdf",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -28371,7 +28372,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 326,
+      "citation_count": 327,
       "influential_citation_count": 7,
       "reference_count": 0,
       "references": [],
@@ -30190,7 +30191,7 @@
       "url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
       "pdf_url": "",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -30632,7 +30633,7 @@
       "url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-021-01154-2",
-      "citation_count": 88,
+      "citation_count": 89,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -34576,7 +34577,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://doi.org/10.21203/rs.3.rs-68034/v1",
-      "citation_count": 199,
+      "citation_count": 200,
       "influential_citation_count": 9,
       "reference_count": 91,
       "references": [
@@ -36466,6 +36467,114 @@
       "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
     },
     {
+      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.46427/gold2020.1931",
+      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
+      "authors": [
+        "O. Nigro",
+        "L. McKay",
+        "K. Luttrell",
+        "W. Inskeep"
+      ],
+      "journal": "Goldschmidt Abstracts",
+      "publication_date": "2020-01-01",
+      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
+      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "aff75144666e9897a1952238725ee3a972b83270",
+          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "T. Pitot",
+            "C. Girard"
+          ],
+          "doi": "10.1093/femsec/fiag061",
+          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "citation_count": 0
+        },
+        {
+          "id": "19599279d5b59ab33d8438276e997a48fd5db062",
+          "title": "Salinity-driven niche partitioning of aquatic viruses in one of Europe's largest estuaries.",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "J. Gołębiowska",
+            "J. Woodhouse",
+            "Sven P. Tobias-Hünefeldt"
+          ],
+          "doi": "10.1128/aem.00807-26",
+          "url": "https://www.semanticscholar.org/paper/19599279d5b59ab33d8438276e997a48fd5db062",
+          "citation_count": 0
+        },
+        {
+          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zuhan Ge",
+            "Saqi Wang",
+            "Nan Zhang"
+          ],
+          "doi": "10.1016/j.envres.2026.125118",
+          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "citation_count": 0
+        },
+        {
+          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Mohammad Moinuddin Sheam",
+            "E. Luo"
+          ],
+          "doi": "10.64898/2026.05.12.724634",
+          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "citation_count": 0
+        },
+        {
+          "id": "447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
+          "title": "Salinity-driven nonlinear responses of microbial functional genes in sediment biogeochemical cycling across a salt lake gradient.",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Mingxian Han",
+            "Jianrong Huang",
+            "Jian Yang"
+          ],
+          "doi": "10.1128/aem.00721-26",
+          "url": "https://www.semanticscholar.org/paper/447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-04T22:13:26.486150+00:00"
+    },
+    {
       "id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "semantic_scholar_id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "source": "Semantic Scholar",
@@ -36572,114 +36681,6 @@
         "carbon",
         "nitrogen",
         "phosphorus",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-04T22:13:26.486150+00:00"
-    },
-    {
-      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.46427/gold2020.1931",
-      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
-      "authors": [
-        "O. Nigro",
-        "L. McKay",
-        "K. Luttrell",
-        "W. Inskeep"
-      ],
-      "journal": "Goldschmidt Abstracts",
-      "publication_date": "2020-01-01",
-      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
-      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "aff75144666e9897a1952238725ee3a972b83270",
-          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
-          "year": 2026,
-          "journal": "FEMS Microbiology Ecology",
-          "authors": [
-            "T. Pitot",
-            "C. Girard"
-          ],
-          "doi": "10.1093/femsec/fiag061",
-          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
-          "citation_count": 0
-        },
-        {
-          "id": "19599279d5b59ab33d8438276e997a48fd5db062",
-          "title": "Salinity-driven niche partitioning of aquatic viruses in one of Europe's largest estuaries.",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "J. Gołębiowska",
-            "J. Woodhouse",
-            "Sven P. Tobias-Hünefeldt"
-          ],
-          "doi": "10.1128/aem.00807-26",
-          "url": "https://www.semanticscholar.org/paper/19599279d5b59ab33d8438276e997a48fd5db062",
-          "citation_count": 0
-        },
-        {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
-          ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
-          "citation_count": 0
-        },
-        {
-          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Mohammad Moinuddin Sheam",
-            "E. Luo"
-          ],
-          "doi": "10.64898/2026.05.12.724634",
-          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "citation_count": 0
-        },
-        {
-          "id": "447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
-          "title": "Salinity-driven nonlinear responses of microbial functional genes in sediment biogeochemical cycling across a salt lake gradient.",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Mingxian Han",
-            "Jianrong Huang",
-            "Jian Yang"
-          ],
-          "doi": "10.1128/aem.00721-26",
-          "url": "https://www.semanticscholar.org/paper/447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "sediment",
-        "sulfur",
         "virus",
         "water"
       ],
@@ -37992,7 +37993,7 @@
       "url": "https://www.semanticscholar.org/paper/62072a836459945610a36b09df2b043035a96fd1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/62072a836459945610a36b09df2b043035a96fd1",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-018-0606-1",
-      "citation_count": 28,
+      "citation_count": 29,
       "influential_citation_count": 0,
       "reference_count": 101,
       "references": [
