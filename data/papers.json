@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T22:10:30.026089+00:00",
+  "updated_at": "2026-07-12T22:09:05.119749+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -7312,7 +7312,7 @@
       "url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 87,
       "references": [],
@@ -8267,7 +8267,7 @@
       "url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "pdf_url": "",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [
@@ -13294,7 +13294,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -16675,7 +16675,7 @@
       "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47600-1.pdf",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 8,
       "reference_count": 134,
       "references": [
@@ -17621,7 +17621,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://www.nature.com/articles/s41467-024-46109-x.pdf",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -18663,7 +18663,7 @@
       "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 4,
       "reference_count": 4,
       "references": [
@@ -23434,7 +23434,7 @@
       "url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "pdf_url": "https://doi.org/10.1128/mbio.03009-22",
-      "citation_count": 41,
+      "citation_count": 42,
       "influential_citation_count": 2,
       "reference_count": 104,
       "references": [
@@ -28042,7 +28042,7 @@
         "Luis M. Bolaños",
         "Ashley G. Bell",
         "M. Michelsen",
-        "M. Allen",
+        "Michael J. Allen",
         "Ben Temperton"
       ],
       "journal": "Applied and Environmental Microbiology",
@@ -30292,7 +30292,7 @@
       "doi": "10.3389/fmicb.2021.748961",
       "title": "Microbial Ecology of Oxygen Minimum Zones Amidst Ocean Deoxygenation",
       "authors": [
-        "Andrew M. Long",
+        "Andrew Long",
         "Sophie K. Jurgensen",
         "Ariel R. Petchel",
         "Emily R. Savoie",
@@ -31556,7 +31556,7 @@
         "Luis M. Bolaños",
         "Ashley G. Bell",
         "M. Michelsen",
-        "M. Allen",
+        "Michael J. Allen",
         "Ben Temperton"
       ],
       "journal": "bioRxiv",
@@ -36467,114 +36467,6 @@
       "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
     },
     {
-      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.46427/gold2020.1931",
-      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
-      "authors": [
-        "O. Nigro",
-        "L. McKay",
-        "K. Luttrell",
-        "W. Inskeep"
-      ],
-      "journal": "Goldschmidt Abstracts",
-      "publication_date": "2020-01-01",
-      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
-      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "aff75144666e9897a1952238725ee3a972b83270",
-          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
-          "year": 2026,
-          "journal": "FEMS Microbiology Ecology",
-          "authors": [
-            "T. Pitot",
-            "C. Girard"
-          ],
-          "doi": "10.1093/femsec/fiag061",
-          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
-          "citation_count": 0
-        },
-        {
-          "id": "19599279d5b59ab33d8438276e997a48fd5db062",
-          "title": "Salinity-driven niche partitioning of aquatic viruses in one of Europe's largest estuaries.",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "J. Gołębiowska",
-            "J. Woodhouse",
-            "Sven P. Tobias-Hünefeldt"
-          ],
-          "doi": "10.1128/aem.00807-26",
-          "url": "https://www.semanticscholar.org/paper/19599279d5b59ab33d8438276e997a48fd5db062",
-          "citation_count": 0
-        },
-        {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
-          ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
-          "citation_count": 0
-        },
-        {
-          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Mohammad Moinuddin Sheam",
-            "E. Luo"
-          ],
-          "doi": "10.64898/2026.05.12.724634",
-          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
-          "citation_count": 0
-        },
-        {
-          "id": "447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
-          "title": "Salinity-driven nonlinear responses of microbial functional genes in sediment biogeochemical cycling across a salt lake gradient.",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Mingxian Han",
-            "Jianrong Huang",
-            "Jian Yang"
-          ],
-          "doi": "10.1128/aem.00721-26",
-          "url": "https://www.semanticscholar.org/paper/447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "sediment",
-        "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-04T22:13:26.486150+00:00"
-    },
-    {
       "id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "semantic_scholar_id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "source": "Semantic Scholar",
@@ -36681,6 +36573,114 @@
         "carbon",
         "nitrogen",
         "phosphorus",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-04T22:13:26.486150+00:00"
+    },
+    {
+      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.46427/gold2020.1931",
+      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
+      "authors": [
+        "O. Nigro",
+        "L. McKay",
+        "K. Luttrell",
+        "W. Inskeep"
+      ],
+      "journal": "Goldschmidt Abstracts",
+      "publication_date": "2020-01-01",
+      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
+      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "aff75144666e9897a1952238725ee3a972b83270",
+          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "T. Pitot",
+            "C. Girard"
+          ],
+          "doi": "10.1093/femsec/fiag061",
+          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "citation_count": 0
+        },
+        {
+          "id": "19599279d5b59ab33d8438276e997a48fd5db062",
+          "title": "Salinity-driven niche partitioning of aquatic viruses in one of Europe's largest estuaries.",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "J. Gołębiowska",
+            "J. Woodhouse",
+            "Sven P. Tobias-Hünefeldt"
+          ],
+          "doi": "10.1128/aem.00807-26",
+          "url": "https://www.semanticscholar.org/paper/19599279d5b59ab33d8438276e997a48fd5db062",
+          "citation_count": 0
+        },
+        {
+          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zuhan Ge",
+            "Saqi Wang",
+            "Nan Zhang"
+          ],
+          "doi": "10.1016/j.envres.2026.125118",
+          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "citation_count": 0
+        },
+        {
+          "id": "9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "title": "The biogeography of hydrothermal vent giant viruses across the global ocean",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Mohammad Moinuddin Sheam",
+            "E. Luo"
+          ],
+          "doi": "10.64898/2026.05.12.724634",
+          "url": "https://www.semanticscholar.org/paper/9c58ed0ba7d83ff5622f1eefc99e5bc6cdcb35ae",
+          "citation_count": 0
+        },
+        {
+          "id": "447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
+          "title": "Salinity-driven nonlinear responses of microbial functional genes in sediment biogeochemical cycling across a salt lake gradient.",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Mingxian Han",
+            "Jianrong Huang",
+            "Jian Yang"
+          ],
+          "doi": "10.1128/aem.00721-26",
+          "url": "https://www.semanticscholar.org/paper/447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
         "virus",
         "water"
       ],
@@ -38565,7 +38565,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 527,
+      "citation_count": 529,
       "influential_citation_count": 29,
       "reference_count": 70,
       "references": [
@@ -38739,7 +38739,7 @@
       "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "pdf_url": "https://doi.org/10.1128/msystems.00076-18",
-      "citation_count": 275,
+      "citation_count": 276,
       "influential_citation_count": 3,
       "reference_count": 182,
       "references": [
