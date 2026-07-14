@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T22:15:05.704277+00:00",
+  "updated_at": "2026-07-14T22:14:37.381551+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1496,7 +1496,7 @@
       "source": "Semantic Scholar",
       "pmid": "42098386",
       "doi": "10.1038/s42003-026-10162-7",
-      "title": "Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation.",
+      "title": "Microplastic and lead shift microbiomes enriching viral auxiliary metabolic genes for potential polylactic acid degradation",
       "authors": [
         "Xieluyao Wei",
         "Kinza Bashir",
@@ -1512,7 +1512,7 @@
       ],
       "journal": "Communications Biology",
       "publication_date": "2026-05-07",
-      "abstract": "Biodegradable microplastics and heavy metals increasingly co-occur in soils through plastic mulching, organic amendments, and legacy metal contamination. Yet, their combined effects on soil-plant-microbiota interactions remain unclear, particularly for the virus. Here we evaluated the impacts of bio-MPs, polylactic acid (PLA), lead (Pb), and their combination on buckwheat and rhizosphere bacterial-viral communities. Co-contamination reduced soil pH and nutrient availability, increased Pb accumulation in plant tissues and suppressed buckwheat growth. Metagenomic analyses revealed that both bacterial and viral communities were altered under Pb-containing treatments. Bacterial genes associated with carbon and phosphorus metabolism were suppressed, while viral auxiliary metabolic genes (AMGs) related to carbon utilization were enriched, especially carbohydrate esterases that hydrolyze PLA ester bonds. A putative AMG-associated carbohydrate esterase gene (P9222_28545) was identified and the esterase activity confirmed via heterologous expression in E. coli. These findings highlight a potential role of viruses in mediating microplastic degradation in soils.",
+      "abstract": "Biodegradable microplastics and heavy metals increasingly co-occur in soils through plastic mulching, organic amendments, and legacy metal contamination. Yet, their combined effects on soil–plant–microbiota interactions remain unclear, particularly for the virus. Here we evaluated the impacts of bio-MPs, polylactic acid (PLA), lead (Pb), and their combination on buckwheat and rhizosphere bacterial-viral communities. Co-contamination reduced soil pH and nutrient availability, increased Pb accumulation in plant tissues and suppressed buckwheat growth. Metagenomic analyses revealed that both bacterial and viral communities were altered under Pb-containing treatments. Bacterial genes associated with carbon and phosphorus metabolism were suppressed, while viral auxiliary metabolic genes (AMGs) related to carbon utilization were enriched, especially carbohydrate esterases that hydrolyze PLA ester bonds. A putative AMG-associated carbohydrate esterase gene (P9222_28545) was identified and the esterase activity confirmed via heterologous expression in E. coli. These findings highlight a potential role of viruses in mediating microplastic degradation in soils. PLA–Pb co-contamination disrupts soil–plant-microbiome interactions and suppresses plant growth, while enriching viral AMGs, including carbohydrate esterases, that may facilitate bioplastic degradation and reshape rhizosphere microbial functions.",
       "url": "https://www.semanticscholar.org/paper/1e24504903b5123ab5362e85adb54d09921b2df7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1e24504903b5123ab5362e85adb54d09921b2df7",
       "pdf_url": "https://www.nature.com/articles/s42003-026-10162-7_reference.pdf",
@@ -2581,73 +2581,73 @@
       ],
       "similar_papers": [
         {
-          "id": "6a20df5a88ee3f7333a614960f175adbb949fdbc",
-          "title": "Quantitative stable isotope probing (qSIP)-informed metagenomics identifies viruses infecting chemoautotrophs",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "E. Luo",
-            "N. D. Pham",
-            "Timothy J. Rogers"
-          ],
-          "doi": "10.1038/s41467-026-71833-x",
-          "url": "https://www.semanticscholar.org/paper/6a20df5a88ee3f7333a614960f175adbb949fdbc",
-          "citation_count": 0
-        },
-        {
-          "id": "146020433a8c44c09cd060bba83fa86abb4dfd37",
-          "title": "Soil pH and Nitrogen Content Drive the Succession of RubisCO-Harboring Microbial Communities Across Picea asperata Plantation Ages",
-          "year": 2026,
-          "journal": "Biology",
-          "authors": [
-            "Dehui Li",
-            "Yaodan Deng",
-            "Xiaohui Zhao"
-          ],
-          "doi": "10.3390/biology15090725",
-          "url": "https://www.semanticscholar.org/paper/146020433a8c44c09cd060bba83fa86abb4dfd37",
-          "citation_count": 0
-        },
-        {
-          "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
-          "title": "Divergent successional patterns and infection dynamics in virion and transcriptionally active soil viral communities following phosphorus amendment and wet-up",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Grant Gogul",
-            "G. M. Allen",
-            "Ikaia Leleiwi"
-          ],
-          "doi": "10.64898/2026.04.11.717596",
-          "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
-          "citation_count": 0
-        },
-        {
-          "id": "7789da83cb5939b62182e5facff4f35efe8bd24b",
-          "title": "Contrasting elevational patterns of soil and root-associated fungal communities highlight host-driven filtering in Quercus wutaishansea forests",
+          "id": "16f8fcd93e63025eb494fd9816b88bcb90560cc9",
+          "title": "Maize recruits beneficial microorganisms via rhizosphere metabolites as signals to construct a functional network for saline–alkaline stress resistance",
           "year": 2026,
           "journal": "Frontiers in Plant Science",
           "authors": [
-            "Minyue Fu",
-            "Yulin Kang",
-            "Jianan Zhou"
+            "Yehui Han",
+            "Xinyuan Li",
+            "Chao Zhou"
           ],
-          "doi": "10.3389/fpls.2026.1825787",
-          "url": "https://www.semanticscholar.org/paper/7789da83cb5939b62182e5facff4f35efe8bd24b",
+          "doi": "10.3389/fpls.2026.1843423",
+          "url": "https://www.semanticscholar.org/paper/16f8fcd93e63025eb494fd9816b88bcb90560cc9",
           "citation_count": 0
         },
         {
-          "id": "d0ffd0837298b1adb4b850794eb1fd3bc0b37f23",
-          "title": "Changes in soil ecological stoichiometry and microbial communities related to leaf stoichiometry of different halophytes",
+          "id": "39eec16475887266c50b81ee633950aa9245e572",
+          "title": "Differences in carbon sequestration capacity, rhizosphere microorganisms and metabolic functions among different herbaceous plants",
           "year": 2026,
           "journal": "Frontiers in Plant Science",
           "authors": [
-            "Yaqing Pan",
-            "Zixuan Chen",
-            "Juan Chen"
+            "Yu Zhou",
+            "Pushun Bian",
+            "Chen Yang"
           ],
-          "doi": "10.3389/fpls.2026.1793742",
-          "url": "https://www.semanticscholar.org/paper/d0ffd0837298b1adb4b850794eb1fd3bc0b37f23",
+          "doi": "10.3389/fpls.2026.1849153",
+          "url": "https://www.semanticscholar.org/paper/39eec16475887266c50b81ee633950aa9245e572",
+          "citation_count": 0
+        },
+        {
+          "id": "ae9ea059e3502663b8e0a99293489ca3e30cdb30",
+          "title": "Global and regional soil salinization drives bacterial diversity loss and biogeochemical imbalance",
+          "year": 2026,
+          "journal": "Communications Earth & Environment",
+          "authors": [
+            "Chao Yang",
+            "Qian Zhang",
+            "Mengmeng Diao"
+          ],
+          "doi": "10.1038/s43247-026-03688-5",
+          "url": "https://www.semanticscholar.org/paper/ae9ea059e3502663b8e0a99293489ca3e30cdb30",
+          "citation_count": 0
+        },
+        {
+          "id": "45d337499ef19b8af494753db9706e01d14558be",
+          "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "Wenqing Shi",
+            "Lu Liu",
+            "Lilin Wu"
+          ],
+          "doi": "10.1128/msystems.00354-26",
+          "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
+          "citation_count": 0
+        },
+        {
+          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zuhan Ge",
+            "Saqi Wang",
+            "Nan Zhang"
+          ],
+          "doi": "10.1016/j.envres.2026.125118",
+          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
           "citation_count": 0
         }
       ],
@@ -2664,7 +2664,7 @@
         "virus"
       ],
       "detail_enriched_at": "2026-07-13T22:14:16.160152+00:00",
-      "edges_enriched_at": "2026-06-12T22:49:03.457522+00:00"
+      "edges_enriched_at": "2026-07-14T22:14:34.809597+00:00"
     },
     {
       "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
@@ -21664,7 +21664,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 216,
+      "citation_count": 217,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -25134,7 +25134,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 202,
+      "citation_count": 203,
       "influential_citation_count": 9,
       "reference_count": 106,
       "references": [
@@ -25637,7 +25637,7 @@
       "url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "pdf_url": "https://www.nature.com/articles/s41467-022-32993-8.pdf",
-      "citation_count": 48,
+      "citation_count": 49,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -26553,6 +26553,108 @@
       "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
     },
     {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "О.В. Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
+          "title": "Efficient Micropropagation System for Tuberose (Polianthes tuberosa L.) from Cormel-derived Explants Using Optimized Cytokinins and Auxins",
+          "year": 2026,
+          "journal": "Asian Plant Research Journal",
+          "authors": [
+            "Md Al Amin",
+            "Md. Monirul Islam",
+            "Talha Zubair Masror"
+          ],
+          "doi": "10.9734/aprj/2026/v14i3377",
+          "url": "https://www.semanticscholar.org/paper/b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
+          "citation_count": 0
+        },
+        {
+          "id": "7031956b08e5686781459bce760e13b1b048f917",
+          "title": "A review on in-vitro propagation of Philodendron",
+          "year": 2026,
+          "journal": "Plant Cell Tissue and Organ Culture",
+          "authors": [
+            "P. Yumkhaibam",
+            "Arpita Mandal Khan",
+            "Martina Irengbam"
+          ],
+          "doi": "10.1007/s11240-026-03502-2",
+          "url": "https://www.semanticscholar.org/paper/7031956b08e5686781459bce760e13b1b048f917",
+          "citation_count": 0
+        },
+        {
+          "id": "ad3d78cc0a5322fcaf32dfe391efae6f27437718",
+          "title": "Micropropagation of Stevia rebaudiana: Optimizing Shoot Multiplication and Ex vitro Rooting Establishment",
+          "year": 2026,
+          "journal": "Journal of environmental horticulture",
+          "authors": [
+            "Ingrid Tuyuc",
+            "C. Iglesias",
+            "Thiago Gibbin Marconi"
+          ],
+          "doi": "10.24266/0738-2898-44.2.59",
+          "url": "https://www.semanticscholar.org/paper/ad3d78cc0a5322fcaf32dfe391efae6f27437718",
+          "citation_count": 0
+        },
+        {
+          "id": "4de5776a1466e935f87944a7a4a92c64d7421b2c",
+          "title": "Effect of BA and Kin on Initiation and Multiplication of Marjoram Plant Origanum majorana L.",
+          "year": 2026,
+          "journal": "The future of Horticulture",
+          "authors": [],
+          "doi": "10.37229/fsa.fjh.2026.05.06",
+          "url": "https://www.semanticscholar.org/paper/4de5776a1466e935f87944a7a4a92c64d7421b2c",
+          "citation_count": 0
+        },
+        {
+          "id": "4bbda7eeabee9212d313d3b376594cbcd947bb7c",
+          "title": "Effects of cytokinin–auxin combinations on in vitro propagation of Nepenthes mirabilis (Lour.) Druce",
+          "year": 2026,
+          "journal": "Kufa Journal for Agricultural Sciences",
+          "authors": [
+            "Phi Hoang Nhat",
+            "Tram Pham Thi My"
+          ],
+          "doi": "10.36077/kjas/2026/v18i2.23210",
+          "url": "https://www.semanticscholar.org/paper/4bbda7eeabee9212d313d3b376594cbcd947bb7c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
+    },
+    {
       "id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "semantic_scholar_id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "source": "Semantic Scholar",
@@ -26708,108 +26810,6 @@
         "nitrogen",
         "phosphorus",
         "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-03T22:17:52.403497+00:00"
-    },
-    {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "О.В. Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
-          "title": "Efficient Micropropagation System for Tuberose (Polianthes tuberosa L.) from Cormel-derived Explants Using Optimized Cytokinins and Auxins",
-          "year": 2026,
-          "journal": "Asian Plant Research Journal",
-          "authors": [
-            "Md Al Amin",
-            "Md. Monirul Islam",
-            "Talha Zubair Masror"
-          ],
-          "doi": "10.9734/aprj/2026/v14i3377",
-          "url": "https://www.semanticscholar.org/paper/b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
-          "citation_count": 0
-        },
-        {
-          "id": "7031956b08e5686781459bce760e13b1b048f917",
-          "title": "A review on in-vitro propagation of Philodendron",
-          "year": 2026,
-          "journal": "Plant Cell Tissue and Organ Culture",
-          "authors": [
-            "P. Yumkhaibam",
-            "Arpita Mandal Khan",
-            "Martina Irengbam"
-          ],
-          "doi": "10.1007/s11240-026-03502-2",
-          "url": "https://www.semanticscholar.org/paper/7031956b08e5686781459bce760e13b1b048f917",
-          "citation_count": 0
-        },
-        {
-          "id": "ad3d78cc0a5322fcaf32dfe391efae6f27437718",
-          "title": "Micropropagation of Stevia rebaudiana: Optimizing Shoot Multiplication and Ex vitro Rooting Establishment",
-          "year": 2026,
-          "journal": "Journal of environmental horticulture",
-          "authors": [
-            "Ingrid Tuyuc",
-            "C. Iglesias",
-            "Thiago Gibbin Marconi"
-          ],
-          "doi": "10.24266/0738-2898-44.2.59",
-          "url": "https://www.semanticscholar.org/paper/ad3d78cc0a5322fcaf32dfe391efae6f27437718",
-          "citation_count": 0
-        },
-        {
-          "id": "4de5776a1466e935f87944a7a4a92c64d7421b2c",
-          "title": "Effect of BA and Kin on Initiation and Multiplication of Marjoram Plant Origanum majorana L.",
-          "year": 2026,
-          "journal": "The future of Horticulture",
-          "authors": [],
-          "doi": "10.37229/fsa.fjh.2026.05.06",
-          "url": "https://www.semanticscholar.org/paper/4de5776a1466e935f87944a7a4a92c64d7421b2c",
-          "citation_count": 0
-        },
-        {
-          "id": "4bbda7eeabee9212d313d3b376594cbcd947bb7c",
-          "title": "Effects of cytokinin–auxin combinations on in vitro propagation of Nepenthes mirabilis (Lour.) Druce",
-          "year": 2026,
-          "journal": "Kufa Journal for Agricultural Sciences",
-          "authors": [
-            "Phi Hoang Nhat",
-            "Tram Pham Thi My"
-          ],
-          "doi": "10.36077/kjas/2026/v18i2.23210",
-          "url": "https://www.semanticscholar.org/paper/4bbda7eeabee9212d313d3b376594cbcd947bb7c",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
         "virus",
         "water"
       ],
@@ -34747,7 +34747,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://doi.org/10.21203/rs.3.rs-68034/v1",
-      "citation_count": 200,
+      "citation_count": 201,
       "influential_citation_count": 9,
       "reference_count": 91,
       "references": [
