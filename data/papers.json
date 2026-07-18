@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T22:08:13.728400+00:00",
+  "updated_at": "2026-07-18T22:10:06.311486+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -103,6 +103,122 @@
   ],
   "papers": [
     {
+      "id": "576127ca9255de18a30762d503abcdc549b0b737",
+      "semantic_scholar_id": "576127ca9255de18a30762d503abcdc549b0b737",
+      "source": "Semantic Scholar",
+      "pmid": "42464266",
+      "doi": "10.1186/s12915-026-02685-6",
+      "title": "Diversity and potential ecological roles of viruses in Pleistocene permafrost.",
+      "authors": [
+        "Changhua He",
+        "Yuntong Du",
+        "K. Lloyd",
+        "Tatiana A. Vishnivetskaya",
+        "E. Rivkina",
+        "Hongchen Jiang",
+        "Renxing Liang"
+      ],
+      "journal": "BMC Biology",
+      "publication_date": "2026-07-16",
+      "abstract": "BACKGROUND\nAncient permafrost, formed during past glacial periods, is widespread in Siberia and other Arctic regions. Even though these soils have remained below 0 °C over geological time periods, the widespread presence of bacteria and archaea in permafrost is well documented. However, the diversity of viruses in ancient permafrost of different geological ages and their potential ecological roles are still poorly understood.\n\n\nRESULTS\nWe applied metagenomics to characterize viruses from Middle to Late Pleistocene permafrost sediments from Siberia. A total of 2697 viral operational taxonomic units (vOTUs) were recovered through metagenomic assembly and virus identification. Viral diversity in the Middle Pleistocene permafrost was much higher than that in the Late Pleistocene. The virus communities at different depths of the Middle Pleistocene permafrost showed great similarity to each other but were significantly different from those of the Late Pleistocene, with Azeredovirinae, Peduoviridae, and Fiersviridae being the predominant viruses in Pleistocene permafrost. The viruses were predicted to carry auxiliary metabolic genes potentially involved in cold adaptation and elemental (C and N) biogeochemical cycling in ancient permafrost. The virus-host prediction revealed that microorganisms such as bacteria and archaea are the main hosts and only a few eukaryotic hosts were identified.\n\n\nCONCLUSIONS\nOur results show that permafrost viral communities in Siberia exhibit remarkable diversity and may have played a significant ecological role in ancient permafrost over geological time. While the release of viruses from thawing deep permafrost could pose a relatively small risk to human health and environment, it could have significant impacts on the carbon cycle, potentially influencing climate change feedback in permafrost regions.",
+      "url": "https://www.semanticscholar.org/paper/576127ca9255de18a30762d503abcdc549b0b737",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/576127ca9255de18a30762d503abcdc549b0b737",
+      "pdf_url": "https://doi.org/10.1186/s12915-026-02685-6",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zuhan Ge",
+            "Saqi Wang",
+            "Nan Zhang"
+          ],
+          "doi": "10.1016/j.envres.2026.125118",
+          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "citation_count": 0
+        },
+        {
+          "id": "8232cc9c0834c4e65c39eecd676e39267d873948",
+          "title": "Isolation of a Cohort of Giant Viruses From Above the Arctic Circle in Northern Norway.",
+          "year": 2026,
+          "journal": "Environmental Microbiology",
+          "authors": [
+            "V. Queiroz",
+            "Juliana Miranda Tatara",
+            "Abdeali M. Jivaji"
+          ],
+          "doi": "10.1111/1462-2920.70366",
+          "url": "https://www.semanticscholar.org/paper/8232cc9c0834c4e65c39eecd676e39267d873948",
+          "citation_count": 0
+        },
+        {
+          "id": "aff75144666e9897a1952238725ee3a972b83270",
+          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "T. Pitot",
+            "C. Girard"
+          ],
+          "doi": "10.1093/femsec/fiag061",
+          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "citation_count": 0
+        },
+        {
+          "id": "83ffa6b12e940d082a00d31edf56f9ffa3968da4",
+          "title": "Mobilization of the ancient resistome from thawing permafrost.",
+          "year": 2026,
+          "journal": "Critical reviews in microbiology",
+          "authors": [
+            "M. Rehman",
+            "W. Sajjad",
+            "Shichang Kang"
+          ],
+          "doi": "10.1080/1040841X.2026.2698958",
+          "url": "https://www.semanticscholar.org/paper/83ffa6b12e940d082a00d31edf56f9ffa3968da4",
+          "citation_count": 0
+        },
+        {
+          "id": "3f12f22c5a2375f21d0ede06ae2a043ddd8086b7",
+          "title": "Metagenomic Insights into the Viral and Bacterial Communities of a Shrimp Farm Ecosystem: Diversity and Ecological Significance",
+          "year": 2026,
+          "journal": "Fishes",
+          "authors": [
+            "T. Encinas-García",
+            "F. Mendoza-Cano",
+            "J. Martínez"
+          ],
+          "doi": "10.3390/fishes11060364",
+          "url": "https://www.semanticscholar.org/paper/3f12f22c5a2375f21d0ede06ae2a043ddd8086b7",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The results show that permafrost viral communities in Siberia exhibit remarkable diversity and may have played a significant ecological role in ancient permafrost over geological time.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-07-18T22:10:02.423195+00:00",
+      "edges_enriched_at": "2026-07-18T22:10:02.907266+00:00"
+    },
+    {
       "id": "5498caec82ea3e0c360ea951374e72a797add356",
       "semantic_scholar_id": "5498caec82ea3e0c360ea951374e72a797add356",
       "source": "Semantic Scholar",
@@ -110,21 +226,21 @@
       "doi": "10.1093/ismeco/ycag207",
       "title": "Diverse but temporally stable virome in a 1.2 km deep karst aquifer accessed via Moab Khotsong mine, South Africa",
       "authors": [
-        "Nathaniel E Jobe",
-        "Daniel S Jones",
-        "Julio César Castillo Hernandez",
-        "Alba Gómez-Arias",
-        "Devan M Nisson",
-        "Cassandra H Skaar",
-        "Tullis C Onstott",
-        "Thomas L Kieft"
+        "Nathaniel E. Jobe",
+        "Daniel S. Jones",
+        "J. C. Hernandez",
+        "A. Gómez-Arias",
+        "D. Nisson",
+        "Cassandra H. Skaar",
+        "T. Onstott",
+        "T. Kieft"
       ],
       "journal": "ISME Communications",
       "publication_date": "2026-07-16",
       "abstract": "\n Despite their ubiquity, viruses remain understudied in many of Earth’s environments. The deep subsurface contains a large portion of Earth’s biomass and can be expected to hold a rich store of viruses as well. We investigated the viral community in a 1.2-kilometer-deep dolomitic aquifer accessed in the Moab Khotsong gold mine in South Africa by microscopically quantifying virus-like particles (VLP) and cells and conducting a metagenomic survey of viruses and their associations with the microbial community. VLP:cell ratios were low (~1:1). Viral sequences were recovered from filtered (0.2 μm) water, presumably representing free virions, and from the >0.2-μm fraction that also included microbial cells. Viruses were diverse and 78% novel, and the viral communities were relatively unchanged at four sampling dates spanning five years. Host prediction indicated viral infection of the dominant bacterial taxon, Rhodocyclaceae, with temperate phages. Other sulfur-oxidizing bacteria, e.g. Thiomicrospiraceae, were also associated with temperate phages. Viral genomes include auxiliary metabolic genes (AMGs), with most of them being class II, which favor host persistence. Taken together, the low VLP:cell ratio, class II AMGs, and temporally stable viromes point to dominance of lysogeny and piggyback-the-persistent viral-host interactions in this deep aquifer. The many novel viruses observed here suggest that the terrestrial subsurface is an untapped reservoir of viral diversity.",
       "url": "https://www.semanticscholar.org/paper/5498caec82ea3e0c360ea951374e72a797add356",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5498caec82ea3e0c360ea951374e72a797add356",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycag207",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 0,
@@ -985,7 +1101,7 @@
       ],
       "journal": "mBio",
       "publication_date": "2026-06-15",
-      "abstract": "ABSTRACT Soils harbor the most complex microbial diversity on Earth, in which bacteria are ubiquitously infected by temperate phages. While integrated prophages often enhance host fitness, active (inducible) prophages are traditionally perceived as “molecular time bombs” due to their intrinsic lysis threat. This dual nature has raised fundamental questions about the true contribution of temperate phages to microbial adaptation and ecosystem stability. To address this gap, we conducted a global-scale integrative analysis by synthesizing 123,207 high-quality bacterial genomes, 183 soil-specific viromic data sets, and 3,749 metagenomes. We established the Global Soil Active Prophage Database (GSAPD), comprising 21,397 high-confidence active prophages, which we found to represent 34.3% of the total soil viral population within our analytical framework. Our comparative genomic analysis reveals that active prophages possess significantly larger genomes and greater genetic complexity compared with their dormant counterparts. Crucially, by mapping phage-encoded auxiliary metabolic genes (AMGs) across diverse biomes, we found that active prophages are disproportionately enriched in key pathways for carbon, nitrogen, and sulfur cycling, as well as specialized resistance mechanisms against heavy metal toxicity. These findings suggest that active prophages act as dynamic reservoirs of functional diversity. We demonstrate that their lytic potential is not merely a survival risk, but a sophisticated mechanism underpinning host environmental adaptation and niche expansion. Ultimately, this study provides a comprehensive global catalog of soil viral pathways and redefines the role of temperate phages as pivotal drivers of microbial evolution and biogeochemical cycling in terrestrial ecosystems. IMPORTANCE Soils contain immense microbial diversity, yet the ecological role of temperate phages—especially their active (inducible) forms—remains poorly understood. This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms. By building a comprehensive database and integrating multi-omics data, we show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance. These findings challenge the traditional view of active prophages as purely harmful agents and instead highlight their role as dynamic contributors to microbial function and adaptation. Our work offers new insights into how viruses shape ecosystem processes and provides a valuable resource for future studies on soil microbial ecology and nutrient cycling.",
+      "abstract": "ABSTRACT Soils harbor the most complex microbial diversity on Earth, in which bacteria are ubiquitously infected by temperate phages. While integrated prophages often enhance host fitness, active (inducible) prophages are traditionally perceived as “molecular time bombs” due to their intrinsic lysis threat. This dual nature has raised fundamental questions about the true contribution of temperate phages to microbial adaptation and ecosystem stability. To address this gap, we conducted a global-scale integrative analysis by synthesizing 123,207 high-quality bacterial genomes, 183 soil-specific viromic data sets, and 3,749 metagenomes. We established the Global Soil Active Prophage Database (GSAPD), comprising 21,397 high-confidence active prophages, which we found to represent 34.3% of the total soil viral population within our analytical framework. Our comparative genomic analysis reveals that active prophages possess significantly larger genomes and greater genetic complexity compared with their dormant counterparts. Crucially, by mapping phage-encoded auxiliary metabolic genes (AMGs) across diverse biomes, we found that active prophages are disproportionately enriched in key pathways for carbon, nitrogen, and sulfur cycling, as well as specialized resistance mechanisms against heavy metal toxicity. These findings suggest that active prophages act as dynamic reservoirs of functional diversity. We demonstrate that their lytic potential is not merely a survival risk, but a sophisticated mechanism underpinning host environmental adaptation and niche expansion. Ultimately, this study provides a comprehensive global catalog of soil viral pathways and redefines the role of temperate phages as pivotal drivers of microbial evolution and biogeochemical cycling in terrestrial ecosystems. IMPORTANCE Soils contain immense microbial diversity, yet the ecological role of temperate phages—especially their active (inducible) forms—remains poorly understood. This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms. By building a comprehensive database and integrating multi-omics data, we show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance. These findings challenge the traditional view of active prophages as purely harmful agents and instead highlight their role as dynamic contributors to microbial function and adaptation. Our work offers new insights into how viruses shape ecosystem processes and provides a valuable resource for future studies on soil microbial ecology and nutrient cycling. Soils contain immense microbial diversity, yet the ecological role of temperate phages—especially their active (inducible) forms—remains poorly understood. This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms. By building a comprehensive database and integrating multi-omics data, we show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance. These findings challenge the traditional view of active prophages as purely harmful agents and instead highlight their role as dynamic contributors to microbial function and adaptation. Our work offers new insights into how viruses shape ecosystem processes and provides a valuable resource for future studies on soil microbial ecology and nutrient cycling.",
       "url": "https://www.semanticscholar.org/paper/a89bf5c996b025345245746245791ca886dc9e5b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a89bf5c996b025345245746245791ca886dc9e5b",
       "pdf_url": "https://doi.org/10.1128/mbio.00693-26",
@@ -1091,7 +1207,7 @@
       "source": "Semantic Scholar",
       "pmid": "42267811",
       "doi": "10.1128/aem.00807-26",
-      "title": "Salinity-driven niche partitioning of aquatic viruses in one of Europe's largest estuaries.",
+      "title": "Salinity-driven niche partitioning of aquatic viruses in one of Europe’s largest estuaries",
       "authors": [
         "J. Gołębiowska",
         "J. Woodhouse",
@@ -1100,7 +1216,7 @@
       ],
       "journal": "Applied and Environmental Microbiology",
       "publication_date": "2026-06-10",
-      "abstract": "Viruses are a vital part of the aquatic food web and hold a profound role in carbon and energy cycling at different trophic levels. Despite the rising interest in aquatic viruses, very few studies were conducted in estuaries, where freshwater and marine communities meet along the salinity gradient. We present a paired analysis of metagenomic and metatranscriptomic data focusing on the viral fraction derived from seasonal sampling between May 2021 and November 2022 in one of Europe's largest estuaries, the temperate mesotidal Elbe River downstream of Hamburg. Our results reveal a sharp delineation of viral communities along specific salinity niches and provide evidence for their adaptation. This implicates viruses as a structural component of microbial and phytoplankton ecology across the estuary. We provide a detailed overview of the spatiotemporal distribution of viruses, including taxonomy and hosts, which emphasizes the role of giant viruses (Megaviricetes) in waters of lower salinity and RNA viruses in marine environments. We identify, besides salinity, total dissolved phosphate and temperature as the main drivers of estuarine viral communities. We find a broad spectrum of metabolic pathways, potentially altered by viruses via auxiliary metabolic genes. Potential metabolisms impacted included the underlying carbon processes like photosynthesis or methane metabolism, but may also extend to some xenobiotics and antibiotics metabolisms in this anthropogenically altered estuary. This is the first detailed molecular study of viruses in the Elbe Estuary, shedding light on viral communities and their ecological roles in controlling microbial populations at the base of the estuarine food web.\n\n\nIMPORTANCE\nEstuaries are the interfaces between marine and limnic waters, with their own specific hydrological and biochemical processes due to, e.g., salinity gradients, tides, and terrestrial inflows. In particular, they are sites of intensive carbon cycling. Their often high economic importance causes substantial anthropogenic pressure on the ecosystem. All of these result in extremely complex factors interacting and influencing microbial populations. Our study provides a first comprehensive overview of the viral communities in Europe's largest estuary. We made an attempt to disentangle the numerous environmental parameters, and we highlight salinity as the most important factor, providing evidence of its multidimensional influence on the estuarine virome. Our findings deepen our understanding of viral communities and their interactions with microbes and bring us a step closer to their role in aquatic food webs, particularly in carbon turnover in estuaries.",
+      "abstract": "ABSTRACT Viruses are a vital part of the aquatic food web and hold a profound role in carbon and energy cycling at different trophic levels. Despite the rising interest in aquatic viruses, very few studies were conducted in estuaries, where freshwater and marine communities meet along the salinity gradient. We present a paired analysis of metagenomic and metatranscriptomic data focusing on the viral fraction derived from seasonal sampling between May 2021 and November 2022 in one of Europe’s largest estuaries, the temperate mesotidal Elbe River downstream of Hamburg. Our results reveal a sharp delineation of viral communities along specific salinity niches and provide evidence for their adaptation. This implicates viruses as a structural component of microbial and phytoplankton ecology across the estuary. We provide a detailed overview of the spatiotemporal distribution of viruses, including taxonomy and hosts, which emphasizes the role of giant viruses (Megaviricetes) in waters of lower salinity and RNA viruses in marine environments. We identify, besides salinity, total dissolved phosphate and temperature as the main drivers of estuarine viral communities. We find a broad spectrum of metabolic pathways, potentially altered by viruses via auxiliary metabolic genes. Potential metabolisms impacted included the underlying carbon processes like photosynthesis or methane metabolism, but may also extend to some xenobiotics and antibiotics metabolisms in this anthropogenically altered estuary. This is the first detailed molecular study of viruses in the Elbe Estuary, shedding light on viral communities and their ecological roles in controlling microbial populations at the base of the estuarine food web. IMPORTANCE Estuaries are the interfaces between marine and limnic waters, with their own specific hydrological and biochemical processes due to, e.g., salinity gradients, tides, and terrestrial inflows. In particular, they are sites of intensive carbon cycling. Their often high economic importance causes substantial anthropogenic pressure on the ecosystem. All of these result in extremely complex factors interacting and influencing microbial populations. Our study provides a first comprehensive overview of the viral communities in Europe’s largest estuary. We made an attempt to disentangle the numerous environmental parameters, and we highlight salinity as the most important factor, providing evidence of its multidimensional influence on the estuarine virome. Our findings deepen our understanding of viral communities and their interactions with microbes and bring us a step closer to their role in aquatic food webs, particularly in carbon turnover in estuaries. Estuaries are the interfaces between marine and limnic waters, with their own specific hydrological and biochemical processes due to, e.g., salinity gradients, tides, and terrestrial inflows. In particular, they are sites of intensive carbon cycling. Their often high economic importance causes substantial anthropogenic pressure on the ecosystem. All of these result in extremely complex factors interacting and influencing microbial populations. Our study provides a first comprehensive overview of the viral communities in Europe’s largest estuary. We made an attempt to disentangle the numerous environmental parameters, and we highlight salinity as the most important factor, providing evidence of its multidimensional influence on the estuarine virome. Our findings deepen our understanding of viral communities and their interactions with microbes and bring us a step closer to their role in aquatic food webs, particularly in carbon turnover in estuaries.",
       "url": "https://www.semanticscholar.org/paper/19599279d5b59ab33d8438276e997a48fd5db062",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/19599279d5b59ab33d8438276e997a48fd5db062",
       "pdf_url": "https://doi.org/10.1128/aem.00807-26",
@@ -1382,7 +1498,7 @@
       ],
       "journal": "MicrobiologyOpen",
       "publication_date": "2026-06-01",
-      "abstract": "ABSTRACT The rhizosphere, a critical soil layer around plant roots, is enriched with carbon from root exudates, influencing microbial communities that can either protect against or cause plant diseases. Bacteriophages significantly impact soil nutrient cycles and ecosystem processes through cell lysis and horizontal gene transfer. They play a vital role in the rhizosphere by affecting plant stress responses and climate adaptation. Bacteriophages exert a range of negative effects on Actinobacteria, impacting their ecological and physiological functions by diminishing Actinobacteria's roles in antibiotic production, soil health, and plant growth. Phage predation affects nutrient cycling by influencing nitrogen and carbon metabolism, with evidence showing that phages can alter microbial diversity and function, leading to changes in soil ammonium levels and carbon decomposition rates. In wastewater treatment, bacteriophages can improve process efficiency by targeting harmful bacteria, managing foam formation, and enhancing sludge reduction through enzymatic action. Additionally, bacteriophage dispersal mechanisms in the rhizosphere can be enhanced by rhizosphere‐associated animals. Numerous invertebrate and vertebrate animals can significantly alter the rhizosphere environment by amplifying, mobilizing, and distributing both phages and bacterial hosts. Herein, three main mechanisms by which animals enhance the dispersal of bacteriophages in the rhizosphere are discussed. This review discusses bacteriophages' roles in soil ecosystems, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal‐mediated phage dispersal mechanisms. Overall, while bacteriophages have potential biotechnological applications, their negative effects on microbial functions and nutrient cycling highlight the need for balanced use and further research.",
+      "abstract": "The rhizosphere, a critical soil layer around plant roots, is enriched with carbon from root exudates, influencing microbial communities that can either protect against or cause plant diseases. Bacteriophages significantly impact soil nutrient cycles and ecosystem processes through cell lysis and horizontal gene transfer. They play a vital role in the rhizosphere by affecting plant stress responses and climate adaptation. Bacteriophages exert a range of negative effects on Actinobacteria, impacting their ecological and physiological functions by diminishing Actinobacteria's roles in antibiotic production, soil health, and plant growth. Phage predation affects nutrient cycling by influencing nitrogen and carbon metabolism, with evidence showing that phages can alter microbial diversity and function, leading to changes in soil ammonium levels and carbon decomposition rates. In wastewater treatment, bacteriophages can improve process efficiency by targeting harmful bacteria, managing foam formation, and enhancing sludge reduction through enzymatic action. Additionally, bacteriophage dispersal mechanisms in the rhizosphere can be enhanced by rhizosphere‐associated animals. Numerous invertebrate and vertebrate animals can significantly alter the rhizosphere environment by amplifying, mobilizing, and distributing both phages and bacterial hosts. Herein, three main mechanisms by which animals enhance the dispersal of bacteriophages in the rhizosphere are discussed. This review discusses bacteriophages' roles in soil ecosystems, highlighting their impact on nutrient cycling, plant health, and soil remediation, as well as animal‐mediated phage dispersal mechanisms. Overall, while bacteriophages have potential biotechnological applications, their negative effects on microbial functions and nutrient cycling highlight the need for balanced use and further research.",
       "url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
       "pdf_url": "https://doi.org/10.1002/mbo3.70330",
@@ -1669,7 +1785,7 @@
       ],
       "journal": "mSystems",
       "publication_date": "2026-05-18",
-      "abstract": "ABSTRACT Salinity gradients drive microbial diversity and evolution in estuarine-coastal ecosystems, yet viral adaptation remains less well understood. We used metagenomics to study viral adaptation and functions in three representative estuarine-coastal regions in China. Our results reveal salinity-associated adaptations in DNA viruses, with viruses enriched in medium- to high-salinity environments exhibiting higher frequencies of acidic isoelectric points and charged amino acids compared to those enriched in low-salinity environments. Viral genomes encode diverse genes related to ion transporters and organic osmolyte metabolism, suggesting potential roles in osmotic stress responses. Viral microdiversity also varied systematically along the salinity gradient, indicating reduced genetic variation and stronger purifying selection under more saline conditions. Furthermore, we identified diverse AMGs linked to nutrient cycles, with salinity-driven enrichment revealing viral roles in host metabolism. Overall, our findings highlight salinity as a key driver of viral evolution and functional potential in estuarine-coastal ecosystems, providing new insights into how viruses adapt to environmental gradients. IMPORTANCE Salinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems.",
+      "abstract": "ABSTRACT Salinity gradients drive microbial diversity and evolution in estuarine-coastal ecosystems, yet viral adaptation remains less well understood. We used metagenomics to study viral adaptation and functions in three representative estuarine-coastal regions in China. Our results reveal salinity-associated adaptations in DNA viruses, with viruses enriched in medium- to high-salinity environments exhibiting higher frequencies of acidic isoelectric points and charged amino acids compared to those enriched in low-salinity environments. Viral genomes encode diverse genes related to ion transporters and organic osmolyte metabolism, suggesting potential roles in osmotic stress responses. Viral microdiversity also varied systematically along the salinity gradient, indicating reduced genetic variation and stronger purifying selection under more saline conditions. Furthermore, we identified diverse AMGs linked to nutrient cycles, with salinity-driven enrichment revealing viral roles in host metabolism. Overall, our findings highlight salinity as a key driver of viral evolution and functional potential in estuarine-coastal ecosystems, providing new insights into how viruses adapt to environmental gradients. IMPORTANCE Salinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems. Salinity is a defining environmental gradient in estuarine-coastal systems, yet its role in shaping viral molecular evolution remains poorly understood. By integrating metagenomes, viromes, and metatranscriptomes across three estuaries, this study demonstrates that salinity exerts a strong and consistent imprint on DNA viruses. Increasing salinity selects for viral genomes encoding ion-transport and osmolyte-related proteins and drives systematic shifts in viral proteome composition toward osmoadaptive physicochemical properties. At the population level, higher salinity is associated with reduced viral microdiversity and stronger purifying selection, indicating constrained evolutionary space under osmotic stress. Viral auxiliary metabolic gene repertoires are structured along salinity gradients, with functional differentiation in carbon, nutrient, and nucleotide metabolism. Together, these findings identify salinity as a key evolutionary filter linking viral physiological adaptation, evolutionary dynamics, and functional potential in estuarine and coastal ecosystems.",
       "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
       "pdf_url": "https://doi.org/10.1128/msystems.00354-26",
@@ -1956,7 +2072,7 @@
       ],
       "journal": "Limnology and Oceanography",
       "publication_date": "2026-05-01",
-      "abstract": "\n \n The sea‐surface microlayer (hereafter microlayer), which forms the interface between the ocean and atmosphere, plays a key role in nutrient cycling and microbial dynamics. Coastal slicks, which are viscous and biogenic surface films, often serve as hotspots for microbial activity, yet their structure and interactions remain incompletely understood. Here, we investigated viral and microbial abundance, surfactants, dissolved organic carbon, and total dissolved nitrogen in slick microlayer and their corresponding underlying water in the coastal Baltic Sea. Dissolved organic carbon and total dissolved nitrogen showed minor enrichment in the microlayer, while surfactants were elevated in several slicks. Some microbial abundances were significantly higher in the slick microlayer, including prokaryotes and different phytoplankton size classes. Co‐occurrence network analysis revealed clusters in the slick: surfactant‐associated groups (nanophytoplankton groups, viruses) and surfactant‐independent groups (cyanobacteria, picophytoplankton). Cyanobacteria were enriched in the slick microlayer relative to the slick underlying water, and their abundance in the microlayer was negatively correlated with total dissolved nitrogen and dissolved organic carbon. Viruses were positively correlated with prokaryotes in both the slick microlayer and slick underlying water, and additionally with microphytoplankton in the slick underlying water. Microscopic analysis of the > 100 \n μ\n m slick fraction revealed a detritus‐dominated matrix containing juvenile sporophytes, pennate diatoms, filamentous cyanobacteria, and a ciliate‐dominated microzooplankton community. Overall, the microlayer within slicks in this eutrophic coastal system contained elevated microbial and viral densities, along with distinct patterns of correlations among community members, indicating that it can locally influence surface‐layer biogeochemistry and ecology.\n",
+      "abstract": "The sea‐surface microlayer (hereafter microlayer), which forms the interface between the ocean and atmosphere, plays a key role in nutrient cycling and microbial dynamics. Coastal slicks, which are viscous and biogenic surface films, often serve as hotspots for microbial activity, yet their structure and interactions remain incompletely understood. Here, we investigated viral and microbial abundance, surfactants, dissolved organic carbon, and total dissolved nitrogen in slick microlayer and their corresponding underlying water in the coastal Baltic Sea. Dissolved organic carbon and total dissolved nitrogen showed minor enrichment in the microlayer, while surfactants were elevated in several slicks. Some microbial abundances were significantly higher in the slick microlayer, including prokaryotes and different phytoplankton size classes. Co‐occurrence network analysis revealed clusters in the slick: surfactant‐associated groups (nanophytoplankton groups, viruses) and surfactant‐independent groups (cyanobacteria, picophytoplankton). Cyanobacteria were enriched in the slick microlayer relative to the slick underlying water, and their abundance in the microlayer was negatively correlated with total dissolved nitrogen and dissolved organic carbon. Viruses were positively correlated with prokaryotes in both the slick microlayer and slick underlying water, and additionally with microphytoplankton in the slick underlying water. Microscopic analysis of the > 100 μm slick fraction revealed a detritus‐dominated matrix containing juvenile sporophytes, pennate diatoms, filamentous cyanobacteria, and a ciliate‐dominated microzooplankton community. Overall, the microlayer within slicks in this eutrophic coastal system contained elevated microbial and viral densities, along with distinct patterns of correlations among community members, indicating that it can locally influence surface‐layer biogeochemistry and ecology.",
       "url": "https://www.semanticscholar.org/paper/1e6e64e567f59f25f4c4e402415ad01074a86f07",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1e6e64e567f59f25f4c4e402415ad01074a86f07",
       "pdf_url": "https://doi.org/10.1002/lno.70387",
@@ -2107,7 +2223,7 @@
       "source": "Semantic Scholar",
       "pmid": "42080299",
       "doi": "10.1111/mec.70367",
-      "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake.",
+      "title": "Depth Stratification Shapes Viral Diversity, Interactions, and Metabolic Potential in a Deep Freshwater Lake",
       "authors": [
         "Zong Li",
         "Minglei Ren",
@@ -2117,7 +2233,7 @@
       ],
       "journal": "Molecular Ecology",
       "publication_date": "2026-05-01",
-      "abstract": "Deep freshwater lakes exhibit distinct microbial community stratification across depth gradients, which plays important roles in biogeochemical cycling and ecosystem stability. As crucial regulators of microbiome composition and function, viruses may play key ecological roles in these stratified systems, yet their distribution patterns and ecological significance in deep-lake surface sediments remain poorly understood. Here, we assessed viral community dynamics and functional potential across the entire water depth gradient (0-155 m) of Fuxian Lake using metagenomics from 44 surface sediment samples. A total of 11,523 viral OTUs were recovered, with only 18% annotated to the family level and approximately 93% classified as putatively lytic. Viral communities showed systematic depth-related shifts across multiple dimensions. Specifically, alpha diversity, community turnover, and stochastic assembly processes increased significantly with water depth, accompanied by enhanced lytic virus dominance and larger genome sizes. Predicted virus-host association networks transitioned from highly connected and generalized at shallow depths to increasingly sparse and specialized at greater depths. Virus-encoded auxiliary metabolic genes showed significantly increasing abundance with water depth, along with functional shifts from host defense to enhanced biosynthesis and energy metabolism, especially regarding carbon fixation and organic matter degradation. Collectively, these results highlight the importance of water depth gradients in structuring viral communities within surface sediments and expand our understanding of viral ecological functions in deep lake ecosystems.",
+      "abstract": "Deep freshwater lakes exhibit distinct microbial community stratification across depth gradients, which plays important roles in biogeochemical cycling and ecosystem stability. As crucial regulators of microbiome composition and function, viruses may play key ecological roles in these stratified systems, yet their distribution patterns and ecological significance in deep‐lake surface sediments remain poorly understood. Here, we assessed viral community dynamics and functional potential across the entire water depth gradient (0–155 m) of Fuxian Lake using metagenomics from 44 surface sediment samples. A total of 11,523 viral OTUs were recovered, with only 18% annotated to the family level and approximately 93% classified as putatively lytic. Viral communities showed systematic depth‐related shifts across multiple dimensions. Specifically, alpha diversity, community turnover, and stochastic assembly processes increased significantly with water depth, accompanied by enhanced lytic virus dominance and larger genome sizes. Predicted virus‐host association networks transitioned from highly connected and generalized at shallow depths to increasingly sparse and specialized at greater depths. Virus‐encoded auxiliary metabolic genes showed significantly increasing abundance with water depth, along with functional shifts from host defense to enhanced biosynthesis and energy metabolism, especially regarding carbon fixation and organic matter degradation. Collectively, these results highlight the importance of water depth gradients in structuring viral communities within surface sediments and expand our understanding of viral ecological functions in deep lake ecosystems.",
       "url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/73bfa9540f9841fbdb08b531af27b51222482e6d",
       "pdf_url": "",
@@ -26293,7 +26409,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 207,
+      "citation_count": 208,
       "influential_citation_count": 8,
       "reference_count": 124,
       "references": [
@@ -32738,7 +32854,7 @@
       "url": "https://www.semanticscholar.org/paper/4e55ac4429d55d5fc28210f929bfcdcca1b99991",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e55ac4429d55d5fc28210f929bfcdcca1b99991",
       "pdf_url": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02408-w",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 9,
       "reference_count": 90,
       "references": [
