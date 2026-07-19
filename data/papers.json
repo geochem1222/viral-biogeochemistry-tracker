@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T22:10:06.311486+00:00",
+  "updated_at": "2026-07-19T22:11:28.097398+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1107,12 +1107,75 @@
       "pdf_url": "https://doi.org/10.1128/mbio.00693-26",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 64,
-      "references": [],
+      "reference_count": 67,
+      "references": [
+        {
+          "title": "Omnipresent Allies: The Role of Temperate Phages in Microbial Adaptation Across Ecosystems.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/49046bc242de9bd3ae6bbdd27587786bad8106cf",
+          "doi": "10.1111/1462-2920.70204"
+        },
+        {
+          "title": "A call for caution in the biological interpretation of viral auxiliary metabolic genes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b695661ee127de0ac4e443eaace8ecc440d05233",
+          "doi": "10.1038/s41564-025-02095-4"
+        },
+        {
+          "title": "Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
+          "doi": "10.1002/advs.202506449"
+        },
+        {
+          "title": "Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
+          "doi": "10.1038/s41467-025-58695-5"
+        },
+        {
+          "title": "CoverM: read alignment statistics for metagenomics",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/c6f79fd8ddf662dfbef36d8d9341eea25674ec4c",
+          "doi": "10.1093/bioinformatics/btaf147"
+        },
+        {
+          "title": "Prophage-DB: a comprehensive database to explore diversity, distribution, and ecology of prophages",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8f3b3b29dada1c98d8946588078da704f56c9889",
+          "doi": "10.1186/s40793-024-00659-1"
+        },
+        {
+          "title": "Prophage-encoded chitinase gene supports growth of its bacterial host isolated from deep-sea sediments",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/302b96c2ff1e8a7b81e34b92d02616ea316797a4",
+          "doi": "10.1093/ismejo/wraf004"
+        },
+        {
+          "title": "Prophage-encoded antibiotic resistance genes are enriched in human-impacted environments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/892db047ae590b45cfc41aa5aba5e17c5abb8117",
+          "doi": "10.1038/s41467-024-52450-y"
+        }
+      ],
       "similar_papers": [
         {
+          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
+          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "year": 2026,
+          "journal": "Microbial Ecology",
+          "authors": [
+            "Manar-Aleslam M. Mattar",
+            "Walaa A Eraqi",
+            "Mohamed Bakr Zaki"
+          ],
+          "doi": "10.1007/s00248-026-02818-y",
+          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "citation_count": 0
+        },
+        {
           "id": "0c3aa6adb31f34a4f2eadad7ccc98501875b74d6",
-          "title": "Metagenome-Assembled Genomes Support the Proposal of Candidatus Flavobacterium genomatis from the Northeast Black Soil Ecosystem",
+          "title": "Metagenome-Assembled Genomes Support the Proposal of Candidatus Flavobacterium genomatis from the Northeast Black Soil Ecosystem",
           "year": 2026,
           "journal": "Microorganisms",
           "authors": [
@@ -1125,58 +1188,45 @@
           "citation_count": 0
         },
         {
-          "id": "aff75144666e9897a1952238725ee3a972b83270",
-          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
+          "id": "0f554cbda9804740ff2ef2c7daae713e5e61b9d8",
+          "title": "Genome-resolved metagenomics reveals conserved, flexible and emerging symbioses across global leafhoppers",
           "year": 2026,
-          "journal": "FEMS Microbiology Ecology",
+          "journal": "bioRxiv",
           "authors": [
-            "T. Pitot",
-            "C. Girard"
+            "T. A. Pellegrinetti",
+            "Joshua Molligan",
+            "Abraão Almeida Santos"
           ],
-          "doi": "10.1093/femsec/fiag061",
-          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "doi": "10.64898/2026.05.20.726650",
+          "url": "https://www.semanticscholar.org/paper/0f554cbda9804740ff2ef2c7daae713e5e61b9d8",
           "citation_count": 0
         },
         {
-          "id": "b33f80b9d819ce08d313a2f5044804e201b031fe",
-          "title": "Genomic Analysis of Prophage Distribution in Xylella fastidiosa Reveals Extensive Diversity and Horizontal Gene Transfer.",
+          "id": "bc3e9ad6a2e83f48b78c3cf7526249531664b24e",
+          "title": "Host life-history strategy is a critical determinant of virulent phage infection propensity",
           "year": 2026,
-          "journal": "Phytopathology",
+          "journal": "The ISME Journal",
           "authors": [
-            "Miranda Tomás-Tomás",
-            "L. F. Arias-Giraldo",
-            "M. P. Velasco-Amo"
+            "Chuncheng Wu",
+            "Jacques Mathieu",
+            "C. Schwarz"
           ],
-          "doi": "10.1094/phyto-04-25-0141-r",
-          "url": "https://www.semanticscholar.org/paper/b33f80b9d819ce08d313a2f5044804e201b031fe",
+          "doi": "10.1093/ismejo/wrag168",
+          "url": "https://www.semanticscholar.org/paper/bc3e9ad6a2e83f48b78c3cf7526249531664b24e",
           "citation_count": 0
         },
         {
-          "id": "28e3b638fa52189bc52e8eefa541fe90bf2e968f",
-          "title": "Multi-metal contamination is associated with microbial network simplification and functional adaptation in paddy soils: Insights from genome-resolved metagenomics.",
+          "id": "6ff7ea0b205a120ea250f3f41c7fa83f2679818c",
+          "title": "The functional structure of foxtail millet rhizoplane microbiome and its association with yield",
           "year": 2026,
-          "journal": "Journal of Hazardous Materials",
+          "journal": "Microbiology spectrum",
           "authors": [
-            "Zhizhen Pan",
-            "Weiyi Wang",
-            "Ehssan Torabi"
+            "Canzhi Jin",
+            "Qiuge Chen",
+            "Xin Liu"
           ],
-          "doi": "10.1016/j.jhazmat.2026.142406",
-          "url": "https://www.semanticscholar.org/paper/28e3b638fa52189bc52e8eefa541fe90bf2e968f",
-          "citation_count": 0
-        },
-        {
-          "id": "b80f71bc5e80f164b802c48b639148394a0317e4",
-          "title": "Advances in the study of viral diversity and ecological functions in marine hydrothermal ecosystem",
-          "year": 2026,
-          "journal": "Chinese bulletin of Life sciences",
-          "authors": [
-            "Xin Du",
-            "Qin-Yuan Cao",
-            "Xiang Xiao"
-          ],
-          "doi": "10.3724/cbls.2026058",
-          "url": "https://www.semanticscholar.org/paper/b80f71bc5e80f164b802c48b639148394a0317e4",
+          "doi": "10.1128/spectrum.00707-26",
+          "url": "https://www.semanticscholar.org/paper/6ff7ea0b205a120ea250f3f41c7fa83f2679818c",
           "citation_count": 0
         }
       ],
@@ -1186,7 +1236,7 @@
       "publication_types": [
         "JournalArticle"
       ],
-      "tldr": "This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms and show that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance.",
+      "tldr": "This study provides the first global-scale assessment of active prophages in soils, revealing that they are widespread and functionally distinct from dormant forms, and shows that active prophages are enriched in genes linked to key biogeochemical processes and stress resistance.",
       "metrics_source": "Semantic Scholar",
       "tags": [
         "amg",
@@ -1198,8 +1248,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-06-18T23:11:48.534488+00:00",
-      "edges_enriched_at": "2026-06-18T23:11:49.240561+00:00"
+      "detail_enriched_at": "2026-07-19T22:11:20.451461+00:00",
+      "edges_enriched_at": "2026-07-19T22:11:21.118914+00:00"
     },
     {
       "id": "19599279d5b59ab33d8438276e997a48fd5db062",
@@ -6751,7 +6801,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -8879,7 +8929,7 @@
       "url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "pdf_url": "",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [
@@ -9477,7 +9527,7 @@
       "url": "https://www.semanticscholar.org/paper/b76e9496d8ec0a9d9fcd5faa6bf09e06fa74eb06",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b76e9496d8ec0a9d9fcd5faa6bf09e06fa74eb06",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 74,
       "references": [],
@@ -11994,7 +12044,7 @@
       "url": "https://www.semanticscholar.org/paper/e768732e60574df92b6334b58a7e6f1def6a71d1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e768732e60574df92b6334b58a7e6f1def6a71d1",
       "pdf_url": "https://doi.org/10.1111/pce.15456",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 68,
       "references": [
@@ -16889,7 +16939,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 83,
+      "citation_count": 84,
       "influential_citation_count": 1,
       "reference_count": 114,
       "references": [
@@ -17453,7 +17503,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2318160121",
-      "citation_count": 93,
+      "citation_count": 94,
       "influential_citation_count": 1,
       "reference_count": 49,
       "references": [
@@ -25576,7 +25626,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 205,
+      "citation_count": 207,
       "influential_citation_count": 9,
       "reference_count": 106,
       "references": [
@@ -26409,7 +26459,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 208,
+      "citation_count": 209,
       "influential_citation_count": 8,
       "reference_count": 124,
       "references": [
@@ -26904,7 +26954,7 @@
       "url": "https://www.semanticscholar.org/paper/a40505208678c773c2db9056d5f425ebf2f4bd2d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a40505208678c773c2db9056d5f425ebf2f4bd2d",
       "pdf_url": "https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A25841/datastream/PDF2/Wu-2022-Phage-bacterium_interactions_and_nutrient_availability-%28accepted_version%29.pdf",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 0,
       "reference_count": 23,
       "references": [],
@@ -28984,7 +29034,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 328,
+      "citation_count": 330,
       "influential_citation_count": 7,
       "reference_count": 0,
       "references": [],
@@ -37435,7 +37485,7 @@
       "url": "https://www.semanticscholar.org/paper/d318f8556393855315e64e7cebd7cb40a8f12254",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d318f8556393855315e64e7cebd7cb40a8f12254",
       "pdf_url": "https://msystems.asm.org/content/msys/4/4/e00296-19.full.pdf",
-      "citation_count": 77,
+      "citation_count": 78,
       "influential_citation_count": 6,
       "reference_count": 643,
       "references": [
@@ -38769,7 +38819,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "https://figshare.com/articles/journal_contribution/The_2018_report_of_the_Lancet_Countdown_on_health_and_climate_change_shaping_the_health_of_nations_for_centuries_to_come/23464325",
-      "citation_count": 763,
+      "citation_count": 765,
       "influential_citation_count": 22,
       "reference_count": 122,
       "references": [
@@ -39351,7 +39401,7 @@
       "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "pdf_url": "https://doi.org/10.1128/msystems.00076-18",
-      "citation_count": 276,
+      "citation_count": 277,
       "influential_citation_count": 3,
       "reference_count": 182,
       "references": [
@@ -40636,7 +40686,7 @@
       "url": "https://www.semanticscholar.org/paper/9884c124dc5877323ab62cdaa4374784cfbf7fdb",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9884c124dc5877323ab62cdaa4374784cfbf7fdb",
       "pdf_url": "https://ri.conicet.gov.ar/bitstream/11336/69929/2/CONICET_Digital_Nro.d98d9f0b-e33a-44b3-85b7-4483741d1722_A.pdf",
-      "citation_count": 101,
+      "citation_count": 102,
       "influential_citation_count": 5,
       "reference_count": 76,
       "references": [
