@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:11:28.097398+00:00",
+  "updated_at": "2026-07-20T22:15:52.008467+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -2787,46 +2787,60 @@
       ],
       "similar_papers": [
         {
-          "id": "7facbff58211837816e45d038936279f262c3b44",
-          "title": "Genome-resolved metagenomics reveals a high diversity of novel, non-methanogenic lineages in an Andean páramo wetland",
+          "id": "51b2350006ebbc99af9a6d4c599aaf21c8a17739",
+          "title": "Microbial diversity, functional potential, and antimicrobial resistance across soil depth in fire-affected rotational shifting cultivation soils",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Soil Ecology Letters",
           "authors": [
-            "Daniela Betancurt-Anzola",
-            "J. Vanegas",
-            "Sophie K. Jurgensen"
+            "Noppol Arunrat",
+            "Wuttichai Mhuantong",
+            "S. Sereenonchai"
           ],
-          "doi": "10.64898/2026.04.28.721461",
-          "url": "https://www.semanticscholar.org/paper/7facbff58211837816e45d038936279f262c3b44",
+          "doi": "10.1007/s42832-026-0468-6",
+          "url": "https://www.semanticscholar.org/paper/51b2350006ebbc99af9a6d4c599aaf21c8a17739",
           "citation_count": 0
         },
         {
-          "id": "2a7f8a39445e88b1facd0e012af0234e0e31277e",
-          "title": "Vertical stratification and functional coupling of antibiotic resistance and carbon metabolism in thermokarst lake sediments",
+          "id": "61d3d74d0d143ec53ee41ed570fc3636ecd6950e",
+          "title": "Phosphorus availability mediates pathway-specific nitrogen cycling in stratified peatland microbiomes",
           "year": 2026,
           "journal": "ISME Communications",
           "authors": [
-            "Ze Ren",
-            "Mingfeng Zhao",
-            "Ruoting Chen"
+            "Shuaizhi Guo",
+            "N. McNamara",
+            "Gary D Bending"
           ],
-          "doi": "10.1093/ismeco/ycag107",
-          "url": "https://www.semanticscholar.org/paper/2a7f8a39445e88b1facd0e012af0234e0e31277e",
+          "doi": "10.1093/ismeco/ycag143",
+          "url": "https://www.semanticscholar.org/paper/61d3d74d0d143ec53ee41ed570fc3636ecd6950e",
           "citation_count": 0
         },
         {
-          "id": "9b0e737dfda39aa31f972c39d850c7e284e83dff",
-          "title": "Decade-long warming accelerates antibiotic resistance in grassland soils",
+          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
+          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
           "year": 2026,
-          "journal": "Nature",
+          "journal": "Microbial Ecology",
           "authors": [
-            "Linwei Wu",
-            "Da-shuai Mu",
-            "Jing An"
+            "Manar-Aleslam M. Mattar",
+            "Walaa A Eraqi",
+            "Mohamed Bakr Zaki"
           ],
-          "doi": "10.1038/s41586-026-10413-x",
-          "url": "https://www.semanticscholar.org/paper/9b0e737dfda39aa31f972c39d850c7e284e83dff",
-          "citation_count": 1
+          "doi": "10.1007/s00248-026-02818-y",
+          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "citation_count": 0
+        },
+        {
+          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Shuhong Zhang",
+            "Yongkang Chen",
+            "Junwei Peng"
+          ],
+          "doi": "10.1002/ppp.70041",
+          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "citation_count": 0
         },
         {
           "id": "ae9ea059e3502663b8e0a99293489ca3e30cdb30",
@@ -2840,19 +2854,6 @@
           ],
           "doi": "10.1038/s43247-026-03688-5",
           "url": "https://www.semanticscholar.org/paper/ae9ea059e3502663b8e0a99293489ca3e30cdb30",
-          "citation_count": 0
-        },
-        {
-          "id": "54bff19da6193f03848d65fbd69b30c3714e24e0",
-          "title": "Functional and taxonomic shifts in rhizosphere microbiomes of summer legume cover crops",
-          "year": 2026,
-          "journal": "Frontiers in Plant Science",
-          "authors": [
-            "Sri Kiran Reddy Alla",
-            "Vijay Joshi"
-          ],
-          "doi": "10.3389/fpls.2026.1790810",
-          "url": "https://www.semanticscholar.org/paper/54bff19da6193f03848d65fbd69b30c3714e24e0",
           "citation_count": 0
         }
       ],
@@ -2871,8 +2872,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-06-19T22:16:44.670446+00:00",
-      "edges_enriched_at": "2026-06-19T22:16:45.585158+00:00"
+      "detail_enriched_at": "2026-07-20T22:15:27.564131+00:00",
+      "edges_enriched_at": "2026-07-20T22:15:48.376758+00:00"
     },
     {
       "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
@@ -38819,7 +38820,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "https://figshare.com/articles/journal_contribution/The_2018_report_of_the_Lancet_Countdown_on_health_and_climate_change_shaping_the_health_of_nations_for_centuries_to_come/23464325",
-      "citation_count": 765,
+      "citation_count": 766,
       "influential_citation_count": 22,
       "reference_count": 122,
       "references": [
@@ -38979,7 +38980,7 @@
       "url": "https://www.semanticscholar.org/paper/fc81a12ccb8bb7ea649d382e619a86d3a79d9b06",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fc81a12ccb8bb7ea649d382e619a86d3a79d9b06",
       "pdf_url": "",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 1,
       "reference_count": 52,
       "references": [],
