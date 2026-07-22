@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:14:41.724498+00:00",
+  "updated_at": "2026-07-22T22:19:15.763909+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,176 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+      "semantic_scholar_id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1002/mlf2.70087",
+      "title": "Ecosystem retrogression enhances cross‐domain microbial stability and increases the genetic potential for nutrient cycling",
+      "authors": [
+        "Javier A. Ceja‐Navarro",
+        "Dishant Patel",
+        "Garret Genco",
+        "Alyssa Byer",
+        "Daliang Ning",
+        "Kenneth H. Wan",
+        "Susan E. Celniker",
+        "Jizhong Zhou",
+        "Paul Dijkstra",
+        "Bruce A. Hungate",
+        "Jennifer Pett‐Ridge",
+        "Eoin L. Brodie"
+      ],
+      "journal": "mLife",
+      "publication_date": "2026-07-19",
+      "abstract": "\n Ecosystem retrogression drives nutrient depletion, reduced productivity, and profound reorganization of soil microbial communities. Using amplicon sequencing and genome‐resolved metagenomics, we examined how cross‐domain microbial networks and functional gene potential respond to long‐term phosphorus and nitrogen limitation along the well‐characterized Ecological Staircase chronosequence in Mendocino, California, USA. Microbial diversity and abundance declined sharply with terrace age for prokaryotes, predatory protists, and bacteriophages, whereas fungi and phototrophic protists increased in nutrient‐depleted, acidic soils. These compositional shifts were accompanied by major changes in reconstructed microbial networks: relative modularity increased alongside robustness, indicating adaptive reorganization that may sustain ecosystem function under resource scarcity. Fungi emerged as central stabilizers in these restructured networks, carrying enriched genetic potential to degrade plant polymers and mobilize phosphorus and nitrogen. Despite a decline in overall phage diversity, the relative abundance of phages encoding phosphorus‐mobilizing auxiliary metabolic genes increased, suggesting that viral contributions to host phosphorus metabolism may be enhanced under nutrient limitation. Together, these results demonstrate that ecosystem retrogression drives cross‐domain microbial reorganization toward fewer but more interconnected lineages, characterized by greater integration of functional genetic potential. This reorganization enhances the potential for functional resilience under extreme nutrient limitation, revealing how microbial networks adapt to maintain the capacity for nutrient cycling and stability as soils age and fertility declines.",
+      "url": "https://www.semanticscholar.org/paper/4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+      "pdf_url": "https://doi.org/10.1002/mlf2.70087",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 102,
+      "references": [
+        {
+          "title": "Unveiling the microbial realm with VEBA 2.0: a modular bioinformatics suite for end-to-end genome-resolved prokaryotic, (micro)eukaryotic and viral multi-omics from either short- or long-read sequencing",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/d890470ebeb8987fae6bda41157d762878e91699",
+          "doi": "10.1093/nar/gkae528"
+        },
+        {
+          "title": "Hidden diversity and potential ecological function of phosphorus acquisition genes in widespread terrestrial bacteriophages",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/f56f00109230a38d4f005b098e3bf6f7cdabb836",
+          "doi": "10.1038/s41467-024-47214-7"
+        },
+        {
+          "title": "Divergent Fungal Community Dynamics of Thuja sutchuenensis in Arid Environments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/22a7ef239dfd0b0ba935d9db042af62ea3e6ae9b",
+          "doi": "10.3390/microorganisms12030446"
+        },
+        {
+          "title": "Root-associated helotiales fungi: Overlooked players in plant nutrition",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/5b5339198f5965825b6533ac72239ea26986f444",
+          "doi": "10.1016/j.soilbio.2024.109363"
+        },
+        {
+          "title": "Soil nutrient conditions alter viral lifestyle strategy and potential function in phosphorous and nitrogen metabolisms",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c11ac6a72f70e0c09c7a90598c034a1e6ede286a",
+          "doi": "10.1016/j.soilbio.2023.109279"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "iPHoP: An integrated machine learning framework to maximize host prediction for metagenome-derived viruses of archaea and bacteria",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/fdc0e34dcb7921d392071647394a27d493d49357",
+          "doi": "10.1371/journal.pbio.3002083"
+        },
+        {
+          "title": "A Mineral-Doped Micromodel Platform Demonstrates Fungal Bridging of Carbon Hot Spots and Hyphal Transport of Mineral-Derived Nutrients",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/9fa1f0158e1edff249121073eb958c901f89029d",
+          "doi": "10.1128/msystems.00913-22"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "4aa64d9b9ec9cfa9d025b72e4e9ef00f32c0767e",
+          "title": "Beyond diversity: the functional mechanisms of microbial adapations under climate change in alpine deserts.",
+          "year": 2026,
+          "journal": "Environmental Microbiome",
+          "authors": [
+            "Lu Gan",
+            "Zhiyong Yang",
+            "Yuan Zhang"
+          ],
+          "doi": "10.1186/s40793-026-00928-1",
+          "url": "https://www.semanticscholar.org/paper/4aa64d9b9ec9cfa9d025b72e4e9ef00f32c0767e",
+          "citation_count": 0
+        },
+        {
+          "id": "9104c49baa95419cf3d4335bc368c97810fce052",
+          "title": "Protist Predation Rapidly Reshapes Soil Microbial Gene Expression Linked to Nutrient Processing, Resistance, Virulence, and Gene Mobility Traits.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Dishant Patel",
+            "Matthew Heidenblut",
+            "Rebecca L. Mau"
+          ],
+          "doi": "10.1021/acs.est.5c18948",
+          "url": "https://www.semanticscholar.org/paper/9104c49baa95419cf3d4335bc368c97810fce052",
+          "citation_count": 0
+        },
+        {
+          "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "title": "Experimental drought drives divergent succession of soil microbiota.",
+          "year": 2026,
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "authors": [
+            "Sihang Deng",
+            "Yunfeng Yang",
+            "Xue Guo"
+          ],
+          "doi": "10.1073/pnas.2537753123",
+          "url": "https://www.semanticscholar.org/paper/d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "citation_count": 0
+        },
+        {
+          "id": "4fbaa1d54096816492ab4df67c0f82e526894c0c",
+          "title": "Third-generation RNA Amplicon Sequencing Reveals the Dynamics of Microbial Communities in the Tidal Reach of a Subtropical Estuary.",
+          "year": 2026,
+          "journal": "Microbial Ecology",
+          "authors": [
+            "Qiqi Deng",
+            "Jialing Li",
+            "Xiaoqing Luo"
+          ],
+          "doi": "10.1007/s00248-026-02804-4",
+          "url": "https://www.semanticscholar.org/paper/4fbaa1d54096816492ab4df67c0f82e526894c0c",
+          "citation_count": 0
+        },
+        {
+          "id": "d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
+          "title": "Invertebrates gut viromes mediate microbial adaptation to pharmaceutical diversity under warming.",
+          "year": 2026,
+          "journal": "Microbiome",
+          "authors": [
+            "Ya-ning Wang",
+            "Jing-Ting Zheng",
+            "Xue-Peng Chen"
+          ],
+          "doi": "10.1186/s40168-026-02465-y",
+          "url": "https://www.semanticscholar.org/paper/d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Results demonstrate that ecosystem retrogression drives cross‐domain microbial reorganization toward fewer but more interconnected lineages, characterized by greater integration of functional genetic potential, which enhances the potential for functional resilience under extreme nutrient limitation.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "nitrogen",
+        "phosphorus",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-22T22:19:10.485467+00:00",
+      "edges_enriched_at": "2026-07-22T22:19:11.492890+00:00"
+    },
     {
       "id": "576127ca9255de18a30762d503abcdc549b0b737",
       "semantic_scholar_id": "576127ca9255de18a30762d503abcdc549b0b737",
@@ -6802,7 +6972,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -8090,7 +8260,7 @@
       "url": "https://www.semanticscholar.org/paper/806ed8270273727efd2324e2aed8c6df58be89be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/806ed8270273727efd2324e2aed8c6df58be89be",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 70,
       "references": [
@@ -10986,7 +11156,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://doi.org/10.1038/s41467-025-58695-5",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -17673,7 +17843,7 @@
       "url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.188",
-      "citation_count": 41,
+      "citation_count": 42,
       "influential_citation_count": 3,
       "reference_count": 81,
       "references": [
@@ -25012,7 +25182,7 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -26460,7 +26630,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 209,
+      "citation_count": 210,
       "influential_citation_count": 8,
       "reference_count": 124,
       "references": [
@@ -30009,7 +30179,7 @@
       "url": "https://www.semanticscholar.org/paper/2a3fe06bd2d33ea2eb4acf51f63d2faeca483195",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2a3fe06bd2d33ea2eb4acf51f63d2faeca483195",
       "pdf_url": "https://doi.org/10.1101/2021.11.08.467685",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 1,
       "reference_count": 117,
       "references": [
@@ -31734,7 +31904,7 @@
       "url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "pdf_url": "https://www.nature.com/articles/s43705-022-00109-4.pdf",
-      "citation_count": 69,
+      "citation_count": 70,
       "influential_citation_count": 1,
       "reference_count": 77,
       "references": [
@@ -35240,7 +35410,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://doi.org/10.21203/rs.3.rs-68034/v1",
-      "citation_count": 201,
+      "citation_count": 202,
       "influential_citation_count": 9,
       "reference_count": 91,
       "references": [
@@ -42884,7 +43054,7 @@
       "url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10539-012-9344-0.pdf",
-      "citation_count": 33,
+      "citation_count": 34,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
