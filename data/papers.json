@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:21:51.997181+00:00",
+  "updated_at": "2026-07-24T22:28:35.531174+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -110,18 +110,18 @@
       "doi": "10.1002/mlf2.70087",
       "title": "Ecosystem retrogression enhances cross‐domain microbial stability and increases the genetic potential for nutrient cycling",
       "authors": [
-        "Javier A. Ceja‐Navarro",
+        "J. Ceja-Navarro",
         "Dishant Patel",
         "Garret Genco",
         "Alyssa Byer",
-        "Daliang Ning",
-        "Kenneth H. Wan",
-        "Susan E. Celniker",
+        "D. Ning",
+        "K. Wan",
+        "S. Celniker",
         "Jizhong Zhou",
-        "Paul Dijkstra",
-        "Bruce A. Hungate",
-        "Jennifer Pett‐Ridge",
-        "Eoin L. Brodie"
+        "P. Dijkstra",
+        "B. Hungate",
+        "J. Pett-Ridge",
+        "E. Brodie"
       ],
       "journal": "mLife",
       "publication_date": "2026-07-19",
@@ -5176,7 +5176,7 @@
       "url": "https://www.semanticscholar.org/paper/6088bae8148e075021142668d486f8f20c4703e3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6088bae8148e075021142668d486f8f20c4703e3",
       "pdf_url": "https://www.nature.com/articles/s41467-026-68914-2_reference.pdf",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 126,
       "references": [
@@ -34946,7 +34946,7 @@
       "authors": [
         "N. Madhu",
         "P. Anil",
-        "C. R. Vishal",
+        "C. Vishal",
         "K. Muraleedharan",
         "A. Parvathi",
         "T. G. Gireesh Kumar",
@@ -34959,7 +34959,7 @@
       "url": "https://www.semanticscholar.org/paper/e45c7785c6fc86eaefa0b59ad9166a44142d006b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e45c7785c6fc86eaefa0b59ad9166a44142d006b",
       "pdf_url": "https://doi.org/10.18520/cs/v119/i8/1371-1375",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 21,
       "references": [
@@ -38549,7 +38549,7 @@
       "url": "https://www.semanticscholar.org/paper/e867d2c9f1de13a6b07dcaed6b096f324f8cfddd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e867d2c9f1de13a6b07dcaed6b096f324f8cfddd",
       "pdf_url": "https://www.mdpi.com/1999-4907/10/3/240/pdf?version=1552032540",
-      "citation_count": 41,
+      "citation_count": 42,
       "influential_citation_count": 1,
       "reference_count": 98,
       "references": [
@@ -39398,7 +39398,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 530,
+      "citation_count": 531,
       "influential_citation_count": 29,
       "reference_count": 70,
       "references": [
@@ -40697,7 +40697,7 @@
       "url": "https://www.semanticscholar.org/paper/45b093b66636748cd0cca1a2bde4aad745882a34",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/45b093b66636748cd0cca1a2bde4aad745882a34",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmars.2016.00082/pdf",
-      "citation_count": 70,
+      "citation_count": 71,
       "influential_citation_count": 5,
       "reference_count": 128,
       "references": [
@@ -41349,7 +41349,7 @@
       "url": "https://www.semanticscholar.org/paper/0e841738307073b01c0428f7e04cb54f4b29a9f9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e841738307073b01c0428f7e04cb54f4b29a9f9",
       "pdf_url": "http://www.vliz.be/imisdocs/publications/23/301523.pdf",
-      "citation_count": 285,
+      "citation_count": 286,
       "influential_citation_count": 6,
       "reference_count": 53,
       "references": [
@@ -41961,7 +41961,7 @@
       "url": "https://www.semanticscholar.org/paper/0979e9d9bf1b4969715b6787f60d4c1d959baaf1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0979e9d9bf1b4969715b6787f60d4c1d959baaf1",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2015/08/26/025544.full.pdf",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 1,
       "reference_count": 69,
       "references": [
