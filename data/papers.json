@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T22:20:02.386263+00:00",
+  "updated_at": "2026-07-28T22:18:10.172709+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -17383,7 +17383,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 84,
+      "citation_count": 85,
       "influential_citation_count": 1,
       "reference_count": 114,
       "references": [
@@ -18428,6 +18428,121 @@
       "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
     },
     {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chaonan Li",
+        "Haijun Liao",
+        "Lin Xu",
+        "Changting Wang",
+        "Minjie Yao",
+        "Junming Wang",
+        "Xiangzhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "9f9bff87584c576245ad5cfe416ce92a3437e694",
+          "title": "Genomic and ecological drivers of parallel arid adaptation in tree grapes (Vitaceae).",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Jinren Yu",
+            "Juchen Zhou",
+            "Shanshan Luo"
+          ],
+          "doi": "10.1038/s41467-026-74005-z",
+          "url": "https://www.semanticscholar.org/paper/9f9bff87584c576245ad5cfe416ce92a3437e694",
+          "citation_count": 0
+        },
+        {
+          "id": "4a61c48f6472dd8c49f969a9f5560f8be4393d6d",
+          "title": "Genomic and palaeoclimatic data reveal Pleistocene adaptation and diversification of non-model bluegrasses (Poa sect. Stenopoa) in cold, arid environments.",
+          "year": 2026,
+          "journal": "Communications Biology",
+          "authors": [
+            "E. Baiakhmetov",
+            "Sirilak Radbouchoom",
+            "E. Noskova"
+          ],
+          "doi": "10.1038/s42003-026-10395-6",
+          "url": "https://www.semanticscholar.org/paper/4a61c48f6472dd8c49f969a9f5560f8be4393d6d",
+          "citation_count": 0
+        },
+        {
+          "id": "8d5c004c47bb932246270d72d4febe1a396cf223",
+          "title": "High-Resolution Chromosome-Level Genome Assembly and Annotation of Triplophysa stewarti, an Endemic Plateau Loach from the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "Scientific Data",
+          "authors": [
+            "Yanfei Ma",
+            "Huan Xiong",
+            "Hongzhou Chen"
+          ],
+          "doi": "10.1038/s41597-026-07509-4",
+          "url": "https://www.semanticscholar.org/paper/8d5c004c47bb932246270d72d4febe1a396cf223",
+          "citation_count": 0
+        },
+        {
+          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Nirusna Jehma",
+            "Nattarika Chaichana",
+            "Sirikan Suwannasin"
+          ],
+          "doi": "10.1038/s41598-026-56807-9",
+          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "citation_count": 0
+        },
+        {
+          "id": "b1ebeafcdd8807d397db4f56fdd83cc4bb9aa686",
+          "title": "Chromosome-scale genomes of water lilies provide evolutionary insights into the aquatic adaptation of angiosperms.",
+          "year": 2026,
+          "journal": "Cell Reports",
+          "authors": [
+            "Hongbin Zhang",
+            "Xin-cheng Huang",
+            "Guanhua Liu"
+          ],
+          "doi": "10.1016/j.celrep.2026.117494",
+          "url": "https://www.semanticscholar.org/paper/b1ebeafcdd8807d397db4f56fdd83cc4bb9aa686",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
+      "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
+    },
+    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -18587,121 +18702,6 @@
         "phosphorus",
         "virus",
         "water"
-      ],
-      "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
-      "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
-    },
-    {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chaonan Li",
-        "Haijun Liao",
-        "Lin Xu",
-        "Changting Wang",
-        "Minjie Yao",
-        "Junming Wang",
-        "Xiangzhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "9f9bff87584c576245ad5cfe416ce92a3437e694",
-          "title": "Genomic and ecological drivers of parallel arid adaptation in tree grapes (Vitaceae).",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Jinren Yu",
-            "Juchen Zhou",
-            "Shanshan Luo"
-          ],
-          "doi": "10.1038/s41467-026-74005-z",
-          "url": "https://www.semanticscholar.org/paper/9f9bff87584c576245ad5cfe416ce92a3437e694",
-          "citation_count": 0
-        },
-        {
-          "id": "4a61c48f6472dd8c49f969a9f5560f8be4393d6d",
-          "title": "Genomic and palaeoclimatic data reveal Pleistocene adaptation and diversification of non-model bluegrasses (Poa sect. Stenopoa) in cold, arid environments.",
-          "year": 2026,
-          "journal": "Communications Biology",
-          "authors": [
-            "E. Baiakhmetov",
-            "Sirilak Radbouchoom",
-            "E. Noskova"
-          ],
-          "doi": "10.1038/s42003-026-10395-6",
-          "url": "https://www.semanticscholar.org/paper/4a61c48f6472dd8c49f969a9f5560f8be4393d6d",
-          "citation_count": 0
-        },
-        {
-          "id": "8d5c004c47bb932246270d72d4febe1a396cf223",
-          "title": "High-Resolution Chromosome-Level Genome Assembly and Annotation of Triplophysa stewarti, an Endemic Plateau Loach from the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "Scientific Data",
-          "authors": [
-            "Yanfei Ma",
-            "Huan Xiong",
-            "Hongzhou Chen"
-          ],
-          "doi": "10.1038/s41597-026-07509-4",
-          "url": "https://www.semanticscholar.org/paper/8d5c004c47bb932246270d72d4febe1a396cf223",
-          "citation_count": 0
-        },
-        {
-          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
-          "year": 2026,
-          "journal": "Scientific Reports",
-          "authors": [
-            "Nirusna Jehma",
-            "Nattarika Chaichana",
-            "Sirikan Suwannasin"
-          ],
-          "doi": "10.1038/s41598-026-56807-9",
-          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "citation_count": 0
-        },
-        {
-          "id": "b1ebeafcdd8807d397db4f56fdd83cc4bb9aa686",
-          "title": "Chromosome-scale genomes of water lilies provide evolutionary insights into the aquatic adaptation of angiosperms.",
-          "year": 2026,
-          "journal": "Cell Reports",
-          "authors": [
-            "Hongbin Zhang",
-            "Xin-cheng Huang",
-            "Guanhua Liu"
-          ],
-          "doi": "10.1016/j.celrep.2026.117494",
-          "url": "https://www.semanticscholar.org/paper/b1ebeafcdd8807d397db4f56fdd83cc4bb9aa686",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
       ],
       "detail_enriched_at": "2026-07-02T22:29:34.093971+00:00",
       "edges_enriched_at": "2026-07-02T22:29:58.748265+00:00"
@@ -23743,7 +23743,7 @@
       "url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-023-01666-z",
-      "citation_count": 49,
+      "citation_count": 50,
       "influential_citation_count": 3,
       "reference_count": 117,
       "references": [
@@ -30788,7 +30788,7 @@
       "url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "pdf_url": "https://doi.org/10.1128/mbio.02595-21",
-      "citation_count": 51,
+      "citation_count": 52,
       "influential_citation_count": 2,
       "reference_count": 91,
       "references": [
@@ -32177,7 +32177,7 @@
       "url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "pdf_url": "https://www.nature.com/articles/s43705-022-00109-4.pdf",
-      "citation_count": 70,
+      "citation_count": 71,
       "influential_citation_count": 1,
       "reference_count": 77,
       "references": [
