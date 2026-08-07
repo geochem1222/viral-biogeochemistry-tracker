@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T22:30:09.713897+00:00",
+  "updated_at": "2026-08-07T01:02:46.778514+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -43494,20 +43494,6 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "45d337499ef19b8af494753db9706e01d14558be",
-          "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
-          "year": 2026,
-          "journal": "mSystems",
-          "authors": [
-            "Wenqing Shi",
-            "Lu Liu",
-            "Lilin Wu"
-          ],
-          "doi": "10.1128/msystems.00354-26",
-          "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
-          "citation_count": 0
-        },
-        {
           "id": "535e2c9148cbc7d90f7189617c9513117edeab1a",
           "title": "Widespread phages exhibit depth-structured infection coupled with ammonia oxidation",
           "year": 2026,
@@ -43519,6 +43505,20 @@
           ],
           "doi": "10.64898/2026.06.18.733297",
           "url": "https://www.semanticscholar.org/paper/535e2c9148cbc7d90f7189617c9513117edeab1a",
+          "citation_count": 0
+        },
+        {
+          "id": "0ae98dc0eb83927f982d243ee1fbee4be60c61c7",
+          "title": "Metagenomic Discovery of Neutral Lipid Metabolism Pathways in the Arctic Ocean Microbiomes Suggests a Potential New Role in Survival and Oceanic Carbon Cycling",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Thomas Grevesse",
+            "Susan McLatchie",
+            "Vera E. Onana"
+          ],
+          "doi": "10.64898/2026.07.24.740503",
+          "url": "https://www.semanticscholar.org/paper/0ae98dc0eb83927f982d243ee1fbee4be60c61c7",
           "citation_count": 0
         },
         {
@@ -43536,6 +43536,20 @@
           "citation_count": 0
         },
         {
+          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
+          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
+          "year": 2026,
+          "journal": "Journal of Basic Microbiology",
+          "authors": [
+            "Baber Ali",
+            "Muhammad Khan",
+            "Muhammad Osama"
+          ],
+          "doi": "10.1002/jobm.70186",
+          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
+          "citation_count": 0
+        },
+        {
           "id": "a73fe7a6d9b5fb9163b5b0ebffc60b982f5f9bc4",
           "title": "RNA virus-mediated metabolic reprogramming in a bloom-forming, marine diatom",
           "year": 2026,
@@ -43547,20 +43561,6 @@
           ],
           "doi": "10.64898/2026.06.16.732687",
           "url": "https://www.semanticscholar.org/paper/a73fe7a6d9b5fb9163b5b0ebffc60b982f5f9bc4",
-          "citation_count": 0
-        },
-        {
-          "id": "25085530a1290d9b4d29716f1935909ecc3416a9",
-          "title": "The ultrasmall ocean microbiome: a reservoir of microbial diversity and nitrogen fixation",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "C.A. Höllerer",
-            "S. Miravet-Verde",
-            "L. Ustick"
-          ],
-          "doi": "10.64898/2026.06.16.732551",
-          "url": "https://www.semanticscholar.org/paper/25085530a1290d9b4d29716f1935909ecc3416a9",
           "citation_count": 0
         }
       ],
@@ -43580,7 +43580,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-07-04T22:13:26.486150+00:00"
+      "edges_enriched_at": "2026-08-07T01:02:42.459526+00:00"
     },
     {
       "id": "cb753770208a18c02bc8e7e1092efea910e5b76f",
