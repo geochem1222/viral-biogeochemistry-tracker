@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:48:12.107807+00:00",
+  "updated_at": "2026-08-09T21:51:03.762793+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -989,74 +989,78 @@
       "pdf_url": "",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 0,
+      "reference_count": 69,
       "references": [],
       "similar_papers": [
         {
-          "id": "cce32e25eb2913e9d70050ef6fb1e92c03db46a6",
-          "title": "Rhizosphere Microbial Regulation of Carbon Mineralization and Nitrogen Transformation in Zea mays Systems Under Integrated Nutrient Management",
-          "year": 2025,
-          "journal": "Journal of Soil Future Research",
+          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
+          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
+          "year": 2026,
+          "journal": "Journal of Basic Microbiology",
           "authors": [
-            "Matthew Chekwube Babalola"
+            "Baber Ali",
+            "Muhammad Khan",
+            "Muhammad Osama"
           ],
-          "doi": "10.54660/jsfr.2025.6.2.77-95",
-          "url": "https://www.semanticscholar.org/paper/cce32e25eb2913e9d70050ef6fb1e92c03db46a6",
+          "doi": "10.1002/jobm.70186",
+          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
           "citation_count": 0
         },
         {
-          "id": "186fc9c4bdbc290228af7fc1ef2ae53262a5da05",
-          "title": "Linking Microbial Nutrient Limitation to Carbon Use Efficiency under a Decade of Nutrient Addition in a Temperate Grassland",
+          "id": "8aa9e026d4dec69af0af942a1a506d204fc20554",
+          "title": "Phosphate‐Solubilizing Bacteria Enhance Carbon Accumulation by Mediating Microbial Functions in Alpine Restoration",
           "year": 2026,
-          "journal": "Journal of Plant Ecology",
+          "journal": "Land Degradation &amp; Development",
           "authors": [
-            "Dan Zhao",
-            "Qitao Li",
-            "W. Luo"
+            "Ruixuan Li",
+            "Gui Yang",
+            "Juan Zhan"
           ],
-          "doi": "10.1093/jpe/rtag112",
-          "url": "https://www.semanticscholar.org/paper/186fc9c4bdbc290228af7fc1ef2ae53262a5da05",
+          "doi": "10.1002/ldr.70730",
+          "url": "https://www.semanticscholar.org/paper/8aa9e026d4dec69af0af942a1a506d204fc20554",
           "citation_count": 0
         },
         {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "id": "43cb6c3dd12fc0971504ec1c0106e27351a9fc05",
+          "title": "High Tree Species Diversity Promotes Thermal Enhancement Response of Microbial Carbon Use Efficiency",
           "year": 2026,
-          "journal": "Environmental Research",
+          "journal": "Advancement of science",
           "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
+            "Pengpeng Duan",
+            "Changqing Ye",
+            "Xinyi Yang"
           ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "doi": "10.1002/advs.76347",
+          "url": "https://www.semanticscholar.org/paper/43cb6c3dd12fc0971504ec1c0106e27351a9fc05",
           "citation_count": 0
         },
         {
-          "id": "2fa297e217668807671bfe1deacdb5a4c9aa743f",
-          "title": "Ecophysiological Contributions of Enchytraeus albidus to Soil Carbon Turnover and Nutrient Transformation Processes",
+          "id": "51b2350006ebbc99af9a6d4c599aaf21c8a17739",
+          "title": "Microbial diversity, functional potential, and antimicrobial resistance across soil depth in fire-affected rotational shifting cultivation soils",
           "year": 2026,
-          "journal": "Journal of Soil Future Research",
+          "journal": "Soil Ecology Letters",
           "authors": [
-            "P. C. J. Beare"
+            "Noppol Arunrat",
+            "Wuttichai Mhuantong",
+            "S. Sereenonchai"
           ],
-          "doi": "10.54660/jsfr.2026.7.1.31-44",
-          "url": "https://www.semanticscholar.org/paper/2fa297e217668807671bfe1deacdb5a4c9aa743f",
+          "doi": "10.1007/s42832-026-0468-6",
+          "url": "https://www.semanticscholar.org/paper/51b2350006ebbc99af9a6d4c599aaf21c8a17739",
           "citation_count": 0
         },
         {
-          "id": "336641df71e044ac28894dd0ffed2d10aacf4fb4",
-          "title": "Long-term nutrient management shapes soil microbial and metabolic signatures in a century-old semi-arid agroecosystem.",
+          "id": "021ac36e18d49b16907d06a8ced753feaa59fee2",
+          "title": "Microbial life-history strategies mediate differential effects of straw and biochar amendments on soil POC/MAOC dynamics and SOC sequestration",
           "year": 2026,
-          "journal": "Journal of Environmental Management",
+          "journal": "Biochar",
           "authors": [
-            "T. D. Winssy",
-            "R. Anandham",
-            "S. Maragatham"
+            "Liping Na",
+            "Yalin Liu",
+            "Qiong Nan"
           ],
-          "doi": "10.1016/j.jenvman.2026.130209",
-          "url": "https://www.semanticscholar.org/paper/336641df71e044ac28894dd0ffed2d10aacf4fb4",
-          "citation_count": 0
+          "doi": "10.1007/s42773-026-00630-y",
+          "url": "https://www.semanticscholar.org/paper/021ac36e18d49b16907d06a8ced753feaa59fee2",
+          "citation_count": 1
         }
       ],
       "fields_of_study": [
@@ -1065,7 +1069,7 @@
       "publication_types": [
         "JournalArticle"
       ],
-      "tldr": "The viral \"Matthew effect\" is revealed in resource-rich and resource-poor soils and could unlock nature-based pathways to raise carbon and nutrient retention for sustainable agriculture.",
+      "tldr": "The Viral Entombing‐Priming (VEP) framework is proposed to describe the contrasting roles of viruses in carbon and nutrient dynamics depending on soil fertility and reveals the viral “Matthew effect” in resource‐rich and resource‐poor soils.",
       "metrics_source": "Semantic Scholar",
       "tags": [
         "amg",
@@ -1074,8 +1078,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-07-09T22:44:37.895764+00:00",
-      "edges_enriched_at": "2026-07-09T22:44:46.472562+00:00"
+      "detail_enriched_at": "2026-08-09T21:50:32.451333+00:00",
+      "edges_enriched_at": "2026-08-09T21:50:41.182708+00:00"
     },
     {
       "id": "6e51a3ca3adc065f382a92cb37f3d0c9307bdde8",
@@ -5268,7 +5272,7 @@
       "abstract": "Urban storm drain sediments (SDSs) accumulate heavy metals from building façades and road surfaces, yet the biogeochemical controls governing metal mobility remain poorly understood. This study investigated biotic and abiotic controls on metal mobility along the urban dust transport chain (Xiamen-Quanzhou-Zhangzhou, China), using four sample types—façade dust (FD), road-deposited sediment (RDS), SDS, and runoff suspended solids (RSS)—from nine sites across three functional zones. Metal concentrations (Pb, Cu, Zn, Cr, Cd), phosphorus fractions, and microbial functional genes were quantified to test the hypothesis that viral abundance indicators, rather than pH, are more strongly associated with metal mobility in near-neutral urban sediments. Results showed that SDS served as metal accumulation hotspots with enrichment factors of 2.0–2.3× relative to FD, while total phosphorus declined by 34% along the transport chain. Contrary to conventional expectations, pH exhibited weak correlation with Pb mobility (r = −0.21; 95% CI: −0.62 to 0.27), whereas the T4-type bacteriophage gene g23 showed strong positive correlation (r = 0.85, p < 0.01; 95% CI: 0.52–0.96). Partial least squares path modeling revealed that viral abundance (g23 gene copies) showed the strongest statistical association with metal mobility among biotic variables (β = +0.48, p < 0.001), mediated through phosphorus-supported microbial activity. The model explained 76% of variance in metal mobility, with phosphorus cycling positively influencing viral abundance (β = +0.28). These findings challenge the pH-centric paradigm of metal geochemistry and reveal a novel phosphorus-virus-metal coupling mechanism in urban environments. The textile industrial site QZ-2 exceeded chromium screening values by 45%, demonstrating the framework’s utility for pollution hotspot identification.",
       "url": "https://www.semanticscholar.org/paper/347d7b46b88fccc64a7ab37de2b4de41c5556294",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/347d7b46b88fccc64a7ab37de2b4de41c5556294",
-      "pdf_url": "",
+      "pdf_url": "https://www.mdpi.com/2305-6304/14/3/197/pdf?version=1772106418",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 79,
@@ -8641,7 +8645,7 @@
       "abstract": "Introduction Soil viruses are increasingly recognized as key regulators of microbial ecology and ecosystem function, yet their roles in forest ecosystems, particularly during natural secondary succession, remain largely unexplored. Methods We examined soil viral communities across five successional stages of secondary forests to investigate their taxonomic dynamics and functional potential. Using high-throughput viral metagenomics, we characterized viral community structure, abundance, and auxiliary metabolic gene content. Results Our results demonstrate that soil viral abundance and community composition shift significantly with forest stand age. Viral richness increased during succession, with compositional transitions observed across stages; however, tailed bacteriophages consistently dominated. Structural equation modeling and linear mixed-effects analysis identified soil pH and bacterial diversity as primary environmental determinants of viral diversity. Functionally, soil viruses harbored auxiliary metabolic genes related to carbohydrate metabolism, indicating their potential involvement in modulating host metabolic processes. Successional trends in viral functional profiles revealed a transition from carbon assimilation to carbon release pathways, suggesting viral mediation of carbon turnover. Notably, the enrichment of glycoside hydrolase and glycosyl transferase genes across forest ages implies a role for viruses in shaping microbial carbon processing capacities through carbohydrate-active enzyme contributions. Discussion These findings provide novel evidence that soil viruses actively participate in ecosystem succession by influencing microbial functional potential and biogeochemical cycling. This study underscores the ecological importance of soil viral communities in regulating carbon dynamics during secondary forest development.",
       "url": "https://www.semanticscholar.org/paper/806ed8270273727efd2324e2aed8c6df58be89be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/806ed8270273727efd2324e2aed8c6df58be89be",
-      "pdf_url": "",
+      "pdf_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1633379/pdf",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 70,
@@ -17743,7 +17747,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 86,
+      "citation_count": 87,
       "influential_citation_count": 3,
       "reference_count": 114,
       "references": [
@@ -30947,7 +30951,7 @@
       "abstract": "Activated sludge of wastewater treatment plants harbors a very high diversity of both microorganisms and viruses, wherein the latter control microbial dynamics and metabolisms by infection and lysis of cells. However, it remains poorly understood how viruses impact the biochemical processes of activated sludge, for example in terms of treatment efficiency and pollutant removal. Using metagenomic and metatranscriptomic deep sequencing, the present study recovered thousands of viral sequences from activated sludge samples of three conventional wastewater treatment plants. Gene-sharing network indicated that most of viruses could not be assigned to known viral genera, implying activated sludge as an underexplored reservoir for new viruses and viral diversity. in silico Predictions of virus-host linkages demonstrated that infected microbial hosts, mostly belonging to bacteria, were transcriptionally active and able to hydrolyze polymers including starches, celluloses, and proteins. Some viruses encode auxiliary metabolic genes (AMGs) involved in carbon, nitrogen, and sulfur cycling, and antibiotic resistance genes (ARGs) for resistance to multiple drugs. The former group of virus-encoded genes (i.e. AMGs) may enhance the biodegradation of contaminants like starches and celluloses, suggesting a positive role for viruses in strengthening the performance of activated sludge. However, the latter group (i.e. ARGs) would be disseminated to different microorganisms using viruses as gene shuttles, demonstrating the possibility for viruses to facilitate the spread of antibiotic resistance in the environment. Collectively, this study highlights the mixed blessing of viruses in wastewater treatment plants, and deciphers how they manipulate the biochemical processes in the activated sludge, with implications for both environmental protection and ecosystem security.",
       "url": "https://www.semanticscholar.org/paper/2a3fe06bd2d33ea2eb4acf51f63d2faeca483195",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2a3fe06bd2d33ea2eb4acf51f63d2faeca483195",
-      "pdf_url": "https://doi.org/10.1101/2021.11.08.467685",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/11/08/2021.11.08.467685.full.pdf",
       "citation_count": 57,
       "influential_citation_count": 1,
       "reference_count": 117,
@@ -41892,7 +41896,7 @@
       "abstract": "While we advance through a geological epoch that increasingly reflects human intervention on a massive scale, we might expect to see the continued expansion of epidemic neglected tropical diseases, as we have recently seen for Zika and Ebola virus infections. \n \nEmerging evidence indicates that the Holocene, our most recent geological epoch that began at the end of the last ice age almost 12,000 years ago, has undergone some fundamental changes because of human activity. Since the origins of agriculture and deforestation and later accelerating with the industrial revolution, followed by rapid 20th century population growth extending into the nuclear age, our planet has undergone a fundamental and seemingly irreversible geological shift [1]. According to many (but not all) prominent Earth scientists, humans have profoundly altered the planet, thereby ushering in a new and so-called Anthropocene epoch (Fig 1). \n \n \n \nFig 1 \n \nGeological epochs over the last 5 million years. \n \n \n \nIn a January 2016 article in Science, Colin Waters from the British Geological Survey and his colleagues provide important geochemical evidence to support designating the end of the Holocene as the Anthropocene [1]. It includes data showing increasing lead levels after World War II, altered soil nitrogen and phosphorous levels because of increased fertilizer use, and the appearance of newly created radionuclides, beginning with the atomic bomb tests in the New Mexico desert at Los Alamos [1]. Alongside these human-induced geochemical signatures are elevated carbon dioxide and methane levels and sharp increases in average global temperatures [1]. \n \nLevels of concrete and plastic have also dramatically increased in recent years, while in parallel, there has been massive loss of animal and plant species [2]. Species extinctions have reached unprecedented levels [1,3]. \n \nIn this late Anthropocene epoch, we have seen significant increases in the incidence or prevalence rates of several neglected tropical diseases (NTDs), due partly or mostly to human-induced changes to our planet. This is especially true for NTDs transmitted by invertebrate vectors, including mosquitoes, kissing bugs, and snails, as well as highly lethal zoonotic virus infections from bats and other mammals. For example, in the Americas, dengue fever reemerged in the 1980s, while chikungunya and Zika virus infections have aggressively spread across the Latin American and Caribbean region. Venezuela in particular has seen dramatic increases in malaria and most of its neglected tropical diseases (NTDs), including Chagas disease, schistosomiasis, and Zika virus infection, for which unprecedented urban foci are also occurring [4]. Across the Atlantic Ocean, Southern Europe has of late seen the emergence or reemergence of malaria in Greece, West Nile virus infection and chikungunya in Italy and Spain, dengue in Portugal, and schistosomiasis on the French island of Corsica [5]. The Middle East and North Africa (MENA) region is now considered one of the worst-affected global hotspots for NTDs and other emerging infections such as leishmaniasis, schistosomiasis, and MERS coronavirus infection; measles and polio have also returned [6]. Ebola caused thousands of deaths and overwhelmed the health systems of Guinea, Liberia, and Sierra Leone in West Africa in 2014–2015 [7], while East Africa and the Sahel are considered among the most important regions for kala-azar and multiple other NTDs [8]. Schistosomiasis continues to increase throughout Africa, where it is now a major cofactor in its AIDS epidemic [9]. Southeast Asia has seen the rise of Nipah and Hendra virus from bats, in addition to drug resistant malaria, enterovirus 71, melioidosis, and foodborne trematodiases transmitted by snails [10]. \n \nSeveral human activities that characterize the Anthropocene account for the increases in NTDs. It is instructive to see how some of these factors illustrated in Fig 2 helped to facilitate the emergence of two of the most devastating NTDs in 2014 and 2015—Ebola and Zika virus infections, respectively, as well as other high-disease-burden NTDs such as the cutaneous and visceral forms of leishmaniasis and schistosomiasis. \n \n \n \nFig 2 \n \nThe major forces arising out of the Anthropocene now promoting the emergence of catastrophic neglected tropical diseases (NTDs).",
       "url": "https://www.semanticscholar.org/paper/11f2984bccfb6cb8952bceea9209357821a0583a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/11f2984bccfb6cb8952bceea9209357821a0583a",
-      "pdf_url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0004648&type=printable",
+      "pdf_url": "https://doi.org/10.1371/journal.pntd.0004648",
       "citation_count": 57,
       "influential_citation_count": 2,
       "reference_count": 35,
