@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:06:25.012504+00:00",
+  "updated_at": "2026-08-13T22:07:31.551433+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -697,6 +697,20 @@
       "references": [],
       "similar_papers": [
         {
+          "id": "41e35b107cc061c7168f70a45384a3ed319118de",
+          "title": "Microbial Diversity, Structure and Predicted Carbon-cycling Pathways Show Partial Convergence in Restored and Natural Salt Marshes in Venice Lagoon.",
+          "year": 2026,
+          "journal": "Microbial Ecology",
+          "authors": [
+            "Anjali Gopakumar",
+            "M. Billah",
+            "Alessandro Vezzi"
+          ],
+          "doi": "10.1007/s00248-026-02836-w",
+          "url": "https://www.semanticscholar.org/paper/41e35b107cc061c7168f70a45384a3ed319118de",
+          "citation_count": 0
+        },
+        {
           "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
           "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
           "year": 2026,
@@ -711,59 +725,45 @@
           "citation_count": 0
         },
         {
-          "id": "45d337499ef19b8af494753db9706e01d14558be",
-          "title": "Salinity-driven adaptations and evolution of DNA viruses in estuarine-coastal ecosystems",
+          "id": "d69a7dccd215f4b9555134d2408c470709a93256",
+          "title": "Viral lysis accelerates microbial succession patterns resembling diatom senescence.",
           "year": 2026,
-          "journal": "mSystems",
+          "journal": "The ISME Journal",
           "authors": [
-            "Wenqing Shi",
-            "Lu Liu",
-            "Lilin Wu"
+            "Turk Dermastia Timotej",
+            "GU Ion",
+            "Rupnik Tinkara"
           ],
-          "doi": "10.1128/msystems.00354-26",
-          "url": "https://www.semanticscholar.org/paper/45d337499ef19b8af494753db9706e01d14558be",
+          "doi": "10.1093/ismejo/wrag206",
+          "url": "https://www.semanticscholar.org/paper/d69a7dccd215f4b9555134d2408c470709a93256",
           "citation_count": 0
         },
         {
-          "id": "447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
-          "title": "Salinity-driven nonlinear responses of microbial functional genes in sediment biogeochemical cycling across a salt lake gradient.",
+          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
+          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
           "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
+          "journal": "Journal of Basic Microbiology",
           "authors": [
-            "Mingxian Han",
-            "Jianrong Huang",
-            "Jian Yang"
+            "Baber Ali",
+            "Muhammad Khan",
+            "Muhammad Osama"
           ],
-          "doi": "10.1128/aem.00721-26",
-          "url": "https://www.semanticscholar.org/paper/447405cc4223bbd8f2f417a5cf58f7d81e9f8618",
+          "doi": "10.1002/jobm.70186",
+          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
           "citation_count": 0
         },
         {
-          "id": "b07522f4b7be09a736a10bc484e4955a9985c860",
-          "title": "Resource-Dependent Metabolic and Biogeochemical Consequences of Viruses in Agricultural Soils.",
+          "id": "60992c2950dc17e61bc87df07a0d40ab95762312",
+          "title": "Unveiling active microbial processes in Earth's deepest seawater.",
           "year": 2026,
-          "journal": "Global Change Biology",
+          "journal": "Cell Host and Microbe",
           "authors": [
-            "Guixiang Zhou",
-            "Junxi Liu",
-            "Fangming Liu"
+            "Weijia Zhang",
+            "Aoran Hu",
+            "Ziheng Wu"
           ],
-          "doi": "10.1111/gcb.70994",
-          "url": "https://www.semanticscholar.org/paper/b07522f4b7be09a736a10bc484e4955a9985c860",
-          "citation_count": 0
-        },
-        {
-          "id": "95a41dc6ede290707891cf1677b54f4e843794cd",
-          "title": "Salinity-driven microbial adaptation of hydrocarbon-degrading communities in coastal sediments.",
-          "year": 2026,
-          "journal": "Msphere",
-          "authors": [
-            "Yongyi Peng",
-            "Qing Liu",
-            "Xianbiao Lin"
-          ],
-          "doi": "10.1128/msphere.00369-26",
-          "url": "https://www.semanticscholar.org/paper/95a41dc6ede290707891cf1677b54f4e843794cd",
+          "doi": "10.1016/j.chom.2026.07.001",
+          "url": "https://www.semanticscholar.org/paper/60992c2950dc17e61bc87df07a0d40ab95762312",
           "citation_count": 0
         }
       ],
@@ -783,8 +783,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-13T22:14:16.160152+00:00",
-      "edges_enriched_at": "2026-07-13T22:14:16.869983+00:00"
+      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
+      "edges_enriched_at": "2026-08-13T22:07:00.457495+00:00"
     },
     {
       "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
@@ -3698,7 +3698,7 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-07-13T22:14:16.160152+00:00",
+      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
       "edges_enriched_at": "2026-07-14T22:14:34.809597+00:00"
     },
     {
@@ -4792,7 +4792,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-13T22:14:16.160152+00:00",
+      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
       "edges_enriched_at": "2026-07-13T22:14:16.869983+00:00"
     },
     {
@@ -7916,7 +7916,7 @@
       "url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [],
@@ -8807,7 +8807,7 @@
       "abstract": "Penaeus monodon, a major shrimp species cultivated in Eastern Asia, has faced setbacks in aquaculture due to disease outbreaks. Metagenomic studies offer insights into the pond microbiome, revealing its critical roles in nutrient cycling, water quality, and disease control. This study investigated microbial communities in sediment, water, and shrimp samples from an aquaculture pond in Chaital, West Bengal, India. Shotgun metagenomic sequencing and bioinformatics analyses were used to assess taxonomic and functional profiles, focusing on nutrient cycling genes and viral populations. Sediments showed the highest microbial diversity, contributing to organic matter decomposition and ecological stability. Water microbes played roles in oxygenation and pathogen suppression, while shrimp tissues hosted microbes aiding digestion and immunity. Pathogenic viruses, especially Whispovirus (White Spot Syndrome Virus), dominated shrimp tissues. Functional gene analysis identified key pathways in carbon, nitrogen, and sulfur cycling. Integrating water quality data with microbiome profiles could help identify bioindicators and predict pathogen risks.",
       "url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1016/j.jgeb.2025.100568",
       "citation_count": 3,
       "influential_citation_count": 1,
       "reference_count": 81,
@@ -12351,7 +12351,7 @@
       "url": "https://www.semanticscholar.org/paper/37207d5f899123253e1d6c18ebd63382696f53e0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/37207d5f899123253e1d6c18ebd63382696f53e0",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 89,
       "references": [],
@@ -14036,7 +14036,7 @@
       "url": "https://www.semanticscholar.org/paper/65a0c4f974311e1904163c40abfe7e4c32d599b6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/65a0c4f974311e1904163c40abfe7e4c32d599b6",
       "pdf_url": "https://www.mdpi.com/2073-4441/16/22/3202/pdf?version=1731051830",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 50,
       "references": [
@@ -14764,7 +14764,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -15326,7 +15326,7 @@
       "url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "pdf_url": "",
-      "citation_count": 27,
+      "citation_count": 28,
       "influential_citation_count": 7,
       "reference_count": 106,
       "references": [
@@ -17747,7 +17747,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 88,
+      "citation_count": 89,
       "influential_citation_count": 3,
       "reference_count": 114,
       "references": [
@@ -18794,121 +18794,6 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chaonan Li",
-        "Haijun Liao",
-        "Lin Xu",
-        "Changting Wang",
-        "Minjie Yao",
-        "Junming Wang",
-        "Xiangzhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
-          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
-          "year": 2026,
-          "journal": "Molecular Phylogenetics and Evolution",
-          "authors": [
-            "Zhefei Zeng",
-            "Junwei Wang",
-            "N. Norbu"
-          ],
-          "doi": "10.1016/j.ympev.2026.108690",
-          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
-          "citation_count": 0
-        },
-        {
-          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
-          "year": null,
-          "journal": "",
-          "authors": [
-            "Shuhong Zhang",
-            "Yongkang Chen",
-            "Junwei Peng"
-          ],
-          "doi": "10.1002/ppp.70041",
-          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "citation_count": 0
-        },
-        {
-          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes.",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Chunkai Li",
-            "Youzhi Feng",
-            "Tadeo Sáez‐Sandino"
-          ],
-          "doi": "10.1038/s41467-026-73215-9",
-          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "citation_count": 0
-        },
-        {
-          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
-          "year": 2026,
-          "journal": "Scientific Reports",
-          "authors": [
-            "Nirusna Jehma",
-            "Nattarika Chaichana",
-            "Sirikan Suwannasin"
-          ],
-          "doi": "10.1038/s41598-026-56807-9",
-          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "citation_count": 0
-        },
-        {
-          "id": "bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
-          "title": "Phylogenomics and species delimitation of an annual gentian complex on the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "BMC Plant Biology",
-          "authors": [
-            "Shan-Shan Sun",
-            "Yaping Cai",
-            "Qian Xu"
-          ],
-          "doi": "10.1186/s12870-026-09326-8",
-          "url": "https://www.semanticscholar.org/paper/bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
-    },
-    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -19069,6 +18954,121 @@
         "phosphorus",
         "virus",
         "water"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
+    },
+    {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chaonan Li",
+        "Haijun Liao",
+        "Lin Xu",
+        "Changting Wang",
+        "Minjie Yao",
+        "Junming Wang",
+        "Xiangzhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
+          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
+          "year": 2026,
+          "journal": "Molecular Phylogenetics and Evolution",
+          "authors": [
+            "Zhefei Zeng",
+            "Junwei Wang",
+            "N. Norbu"
+          ],
+          "doi": "10.1016/j.ympev.2026.108690",
+          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
+          "citation_count": 0
+        },
+        {
+          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Shuhong Zhang",
+            "Yongkang Chen",
+            "Junwei Peng"
+          ],
+          "doi": "10.1002/ppp.70041",
+          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "citation_count": 0
+        },
+        {
+          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
+          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes.",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Chunkai Li",
+            "Youzhi Feng",
+            "Tadeo Sáez‐Sandino"
+          ],
+          "doi": "10.1038/s41467-026-73215-9",
+          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
+          "citation_count": 0
+        },
+        {
+          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Nirusna Jehma",
+            "Nattarika Chaichana",
+            "Sirikan Suwannasin"
+          ],
+          "doi": "10.1038/s41598-026-56807-9",
+          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "citation_count": 0
+        },
+        {
+          "id": "bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
+          "title": "Phylogenomics and species delimitation of an annual gentian complex on the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "BMC Plant Biology",
+          "authors": [
+            "Shan-Shan Sun",
+            "Yaping Cai",
+            "Qian Xu"
+          ],
+          "doi": "10.1186/s12870-026-09326-8",
+          "url": "https://www.semanticscholar.org/paper/bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
       ],
       "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
       "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
@@ -20136,7 +20136,7 @@
       "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 4,
       "reference_count": 113,
       "references": [
@@ -23137,7 +23137,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 226,
+      "citation_count": 228,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -25558,7 +25558,7 @@
       "url": "https://www.semanticscholar.org/paper/9e3ba33afc6098dc034e8a0d019232faa9594e08",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9e3ba33afc6098dc034e8a0d019232faa9594e08",
       "pdf_url": "https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-022-00456-8",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 1,
       "reference_count": 67,
       "references": [
@@ -26725,7 +26725,7 @@
       "abstract": "Soil microbial diversity affects ecosystem functioning and global biogeochemical cycles. Soil bacterial communities catalyse a diversity of biogeochemical reactions and have thus sparked considerable scientific interest. One driver of bacterial community dynamics in natural ecosystems has so far been largely neglected: the predator–prey interactions between bacterial viruses (bacteriophages) and bacteria. To generate ground level knowledge on environmental drivers of these particular predator–prey dynamics, we propose an activity‐based ecological framework to simultaneous capture community dynamics of bacteria and bacteriophages in soils. An ecological framework and specifically the analyses of community dynamics across latitudinal and elevational gradients have been widely used in ecology to understand community‐wide responses of innumerable taxa to environmental change, in particular to climate. Here, we tested the hypothesis that the activity of bacteria and bacteriophages codeclines across an elevational gradient. We used metatranscriptomics to investigate bacterial and bacteriophage activity patterns at five sites across 400 elevational metres in the Swiss Alps in 2015 and 2017. We found that metabolic activity (transcription levels) of bacteria declined significantly with increasing elevation, but activity of bacteriophages did not. We showed that bacteriophages are consistently active in soil along the entire gradient, making bacteriophage activity patterns divergent from that of their putative bacterial prey. Future efforts will be necessary to link the environment‐activity relationship to predator–prey dynamics, and to understand the magnitude of viral contributions to carbon, nitrogen and phosphorus cycling when infection causes bacterial cell death, a process that may represent an overlooked component of soil biogeochemical cycles.",
       "url": "https://www.semanticscholar.org/paper/dc5b7ffd4e6b8bcea8409d1bd09aa41c3dadb949",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/dc5b7ffd4e6b8bcea8409d1bd09aa41c3dadb949",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16756",
+      "pdf_url": "https://doi.org/10.1111/mec.16756",
       "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 75,
@@ -27982,6 +27982,112 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "О.В. Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
+          "title": "Efficient Micropropagation System for Tuberose (Polianthes tuberosa L.) from Cormel-derived Explants Using Optimized Cytokinins and Auxins",
+          "year": 2026,
+          "journal": "Asian Plant Research Journal",
+          "authors": [
+            "Md Al Amin",
+            "Md. Monirul Islam",
+            "Talha Zubair Masror"
+          ],
+          "doi": "10.9734/aprj/2026/v14i3377",
+          "url": "https://www.semanticscholar.org/paper/b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
+          "citation_count": 0
+        },
+        {
+          "id": "7031956b08e5686781459bce760e13b1b048f917",
+          "title": "A review on in-vitro propagation of Philodendron",
+          "year": 2026,
+          "journal": "Plant Cell Tissue and Organ Culture",
+          "authors": [
+            "P. Yumkhaibam",
+            "Arpita Mandal Khan",
+            "Martina Irengbam"
+          ],
+          "doi": "10.1007/s11240-026-03502-2",
+          "url": "https://www.semanticscholar.org/paper/7031956b08e5686781459bce760e13b1b048f917",
+          "citation_count": 0
+        },
+        {
+          "id": "0fe6fcb300fb2d3f57fac13b3e9b8b268aeabb61",
+          "title": "In vitro Propagation of Philodendron spp.: Development and Future Perspectives",
+          "year": 2026,
+          "journal": "International STEM Journal",
+          "authors": [
+            "Arieff Iskandar Heilman Ezmi",
+            "Mohd Taufik A.Malek",
+            "Nurul Huda Alwakil"
+          ],
+          "doi": "10.22452/stem.vol7no1.4",
+          "url": "https://www.semanticscholar.org/paper/0fe6fcb300fb2d3f57fac13b3e9b8b268aeabb61",
+          "citation_count": 0
+        },
+        {
+          "id": "03cf92073364da8c3f7267e6dbf359e2a66d0f41",
+          "title": "Optimized Micropropagation of Rosa indica L. via BAP–IAA Synergy and Hormone-Free Rooting",
+          "year": 2026,
+          "journal": "Tropical Agricultural Research",
+          "authors": [
+            "Farooque Ghulam",
+            "Arfa",
+            "Ghulam Farooque"
+          ],
+          "doi": "10.4038/tar.v37i3.9019",
+          "url": "https://www.semanticscholar.org/paper/03cf92073364da8c3f7267e6dbf359e2a66d0f41",
+          "citation_count": 0
+        },
+        {
+          "id": "0de40a0d1327bb5c15e7daa19053bf3948f1fd4d",
+          "title": "In vitro Mass Propagation Protocol for Lobelia chinensis Lour.: Optimization of Growth Regulators and Acclimatization",
+          "year": 2026,
+          "journal": "Plant Tissue Culture and Biotechnology",
+          "authors": [
+            "Joya Chakma",
+            "A. Biswas"
+          ],
+          "doi": "10.3329/ptcb.v35i2.91161",
+          "url": "https://www.semanticscholar.org/paper/0de40a0d1327bb5c15e7daa19053bf3948f1fd4d",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-03T22:21:11.552124+00:00"
+    },
+    {
       "id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "semantic_scholar_id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "source": "Semantic Scholar",
@@ -28135,112 +28241,6 @@
         "nitrogen",
         "phosphorus",
         "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-03T22:21:11.552124+00:00"
-    },
-    {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "О.В. Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
-          "title": "Efficient Micropropagation System for Tuberose (Polianthes tuberosa L.) from Cormel-derived Explants Using Optimized Cytokinins and Auxins",
-          "year": 2026,
-          "journal": "Asian Plant Research Journal",
-          "authors": [
-            "Md Al Amin",
-            "Md. Monirul Islam",
-            "Talha Zubair Masror"
-          ],
-          "doi": "10.9734/aprj/2026/v14i3377",
-          "url": "https://www.semanticscholar.org/paper/b6da8df8841b9cd6cf158e0ed712a43e41c31e20",
-          "citation_count": 0
-        },
-        {
-          "id": "7031956b08e5686781459bce760e13b1b048f917",
-          "title": "A review on in-vitro propagation of Philodendron",
-          "year": 2026,
-          "journal": "Plant Cell Tissue and Organ Culture",
-          "authors": [
-            "P. Yumkhaibam",
-            "Arpita Mandal Khan",
-            "Martina Irengbam"
-          ],
-          "doi": "10.1007/s11240-026-03502-2",
-          "url": "https://www.semanticscholar.org/paper/7031956b08e5686781459bce760e13b1b048f917",
-          "citation_count": 0
-        },
-        {
-          "id": "0fe6fcb300fb2d3f57fac13b3e9b8b268aeabb61",
-          "title": "In vitro Propagation of Philodendron spp.: Development and Future Perspectives",
-          "year": 2026,
-          "journal": "International STEM Journal",
-          "authors": [
-            "Arieff Iskandar Heilman Ezmi",
-            "Mohd Taufik A.Malek",
-            "Nurul Huda Alwakil"
-          ],
-          "doi": "10.22452/stem.vol7no1.4",
-          "url": "https://www.semanticscholar.org/paper/0fe6fcb300fb2d3f57fac13b3e9b8b268aeabb61",
-          "citation_count": 0
-        },
-        {
-          "id": "03cf92073364da8c3f7267e6dbf359e2a66d0f41",
-          "title": "Optimized Micropropagation of Rosa indica L. via BAP–IAA Synergy and Hormone-Free Rooting",
-          "year": 2026,
-          "journal": "Tropical Agricultural Research",
-          "authors": [
-            "Farooque Ghulam",
-            "Arfa",
-            "Ghulam Farooque"
-          ],
-          "doi": "10.4038/tar.v37i3.9019",
-          "url": "https://www.semanticscholar.org/paper/03cf92073364da8c3f7267e6dbf359e2a66d0f41",
-          "citation_count": 0
-        },
-        {
-          "id": "0de40a0d1327bb5c15e7daa19053bf3948f1fd4d",
-          "title": "In vitro Mass Propagation Protocol for Lobelia chinensis Lour.: Optimization of Growth Regulators and Acclimatization",
-          "year": 2026,
-          "journal": "Plant Tissue Culture and Biotechnology",
-          "authors": [
-            "Joya Chakma",
-            "A. Biswas"
-          ],
-          "doi": "10.3329/ptcb.v35i2.91161",
-          "url": "https://www.semanticscholar.org/paper/0de40a0d1327bb5c15e7daa19053bf3948f1fd4d",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
         "virus",
         "water"
       ],
@@ -28715,7 +28715,7 @@
       "url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "pdf_url": "https://www.nature.com/articles/s41467-022-30049-5.pdf",
-      "citation_count": 94,
+      "citation_count": 95,
       "influential_citation_count": 2,
       "reference_count": 95,
       "references": [
@@ -29978,7 +29978,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 340,
+      "citation_count": 341,
       "influential_citation_count": 8,
       "reference_count": 0,
       "references": [],
@@ -32677,7 +32677,7 @@
       "url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "pdf_url": "https://www.nature.com/articles/s43705-022-00109-4.pdf",
-      "citation_count": 73,
+      "citation_count": 74,
       "influential_citation_count": 1,
       "reference_count": 77,
       "references": [
@@ -33008,7 +33008,7 @@
       "abstract": "The bacterial consumption of viruses not been reported on as of yet even though bacteria feed on almost anything. Viruses are widely distributed but have no acknowledged active biocontrol. Viral biomass undoubtedly reintegrates trophic cycles; however, the mechanisms of this phase still remain unknown. 13C-labelled T4 phages monitor the increase of the density of the bacterial DNA concomitant with the decrease of plaque forming units. We used 12C T4 phages as a control. T4 phage disappearance in wastewater sludge was found to occur mainly through predation by Aeromonadacea. Phage consumption also favours significant in situ bacterial growth. Furthermore, an isolated strain of Aeromonas was observed to grow on T4 phages as sole the source of carbon, nitrogen, and phosphorus. Bacterial species are capable of consuming bacteriophages in situ, which is likely a widespread and underestimated type of biocontrol. This assay is anticipated as a starting point for harnessing the bacterial potential in limiting the diffusion of harmful viruses within environments such as in the gut or in water.",
       "url": "https://www.semanticscholar.org/paper/fdea5b47cc3ecbb57ed185fe2d9299b3cd0b3968",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fdea5b47cc3ecbb57ed185fe2d9299b3cd0b3968",
-      "pdf_url": "https://www.mdpi.com/2076-2607/9/9/1852/pdf",
+      "pdf_url": "https://www.mdpi.com/2076-2607/9/9/1852/pdf?version=1631238921",
       "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 21,
@@ -36235,7 +36235,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 205,
+      "citation_count": 206,
       "influential_citation_count": 9,
       "reference_count": 91,
       "references": [
@@ -36544,6 +36544,114 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
+      "id": "86dd778bf622faa10b54386015d01e452e7d3f34",
+      "semantic_scholar_id": "86dd778bf622faa10b54386015d01e452e7d3f34",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1017/s1431927620023971",
+      "title": "Advances in Soft X-ray Tomography",
+      "authors": [
+        "V. Weinhardt",
+        "Jian-Hua Chen",
+        "A. Ekman",
+        "M. Le Gros",
+        "Gerry Mc Dermott",
+        "C. Larabell"
+      ],
+      "journal": "Microscopy and Microanalysis",
+      "publication_date": "2020-08-01",
+      "abstract": "Soft x-ray tomography (SXT) has emerged as a unique method for three-dimensional (3D) imaging of single cells [1,2]. Soft x-rays from 284 to 543 eV (2.34 to 4.4 nm) generate contrast for cells in their native, wet state without the use of chemical fixation or staining. In this so-called “water window” energy range, absorption of photons by molecular building blocks, in particular carbon and nitrogen, prevails while water is nearly transparent. Over the last decade, several groups around the world including ours designed, built and applied x-ray microscopes for 3D imaging of bacteria, yeast, algae, plankton, protozoa, viruses, and immortalized and primary cells [3,4]. This presentation will focus on describing recent advances in instrumentation, acquisition strategies, and novel application directions of SXT.",
+      "url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
+      "pdf_url": "https://doi.org/10.1017/s1431927620023971",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 18,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
+          "title": "Recent advances in volumetric super-resolution imaging through computational adaptive optics",
+          "year": 2026,
+          "journal": "Molecular Brain",
+          "authors": [
+            "Sangjun Park",
+            "Seungwon Jeong",
+            "Changhyun Yoo"
+          ],
+          "doi": "10.1186/s13041-026-01334-x",
+          "url": "https://www.semanticscholar.org/paper/890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
+          "citation_count": 0
+        },
+        {
+          "id": "d78186d3b0d8e4937f041575093133a221f40697",
+          "title": "The emergence of hybrid super-resolution microscopy",
+          "year": 2026,
+          "journal": "Methods in Microscopy",
+          "authors": [
+            "Ole Borup Svendsen",
+            "Maria Schwerk",
+            "Thiago Goldbeck-Strieder"
+          ],
+          "doi": "10.1515/mim-2026-0003",
+          "url": "https://www.semanticscholar.org/paper/d78186d3b0d8e4937f041575093133a221f40697",
+          "citation_count": 0
+        },
+        {
+          "id": "7e6c56902958242e79ce7202e3f3c179afab8456",
+          "title": "High-resolution three-dimensional diffraction tomography based on confocal microscopy",
+          "year": 2026,
+          "journal": "International Conference on Machine Vision and Applications",
+          "authors": [
+            "Min Xu"
+          ],
+          "doi": "10.1117/12.3119845",
+          "url": "https://www.semanticscholar.org/paper/7e6c56902958242e79ce7202e3f3c179afab8456",
+          "citation_count": 0
+        },
+        {
+          "id": "ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
+          "title": "In-situ/Operando Nanoscale Imaging of Strain and Defect by Coherent X-Ray Diffraction Imaging",
+          "year": 2026,
+          "journal": "ECS Meeting Abstracts",
+          "authors": [
+            "Wonsuk Cha"
+          ],
+          "doi": "10.1149/ma2026-01472337mtgabs",
+          "url": "https://www.semanticscholar.org/paper/ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
+          "citation_count": 0
+        },
+        {
+          "id": "933c21bf2151362196b16834b9e5a0300481ce81",
+          "title": "Advanced X-Ray Imaging Technology.",
+          "year": 2026,
+          "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+          "authors": [
+            "Daniela Pfeiffer",
+            "E. Rummeny",
+            "Franz Pfeiffer"
+          ],
+          "doi": "10.1007/978-3-032-15314-2_1",
+          "url": "https://www.semanticscholar.org/paper/933c21bf2151362196b16834b9e5a0300481ce81",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Materials Science"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
+    },
+    {
       "id": "f094760e8c9d05ee4f445f7c1a3e8e7e43c335cb",
       "semantic_scholar_id": "f094760e8c9d05ee4f445f7c1a3e8e7e43c335cb",
       "source": "Semantic Scholar",
@@ -36701,114 +36809,6 @@
         "sediment",
         "sulfur",
         "virus"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
-    },
-    {
-      "id": "86dd778bf622faa10b54386015d01e452e7d3f34",
-      "semantic_scholar_id": "86dd778bf622faa10b54386015d01e452e7d3f34",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1017/s1431927620023971",
-      "title": "Advances in Soft X-ray Tomography",
-      "authors": [
-        "V. Weinhardt",
-        "Jian-Hua Chen",
-        "A. Ekman",
-        "M. Le Gros",
-        "Gerry Mc Dermott",
-        "C. Larabell"
-      ],
-      "journal": "Microscopy and Microanalysis",
-      "publication_date": "2020-08-01",
-      "abstract": "Soft x-ray tomography (SXT) has emerged as a unique method for three-dimensional (3D) imaging of single cells [1,2]. Soft x-rays from 284 to 543 eV (2.34 to 4.4 nm) generate contrast for cells in their native, wet state without the use of chemical fixation or staining. In this so-called “water window” energy range, absorption of photons by molecular building blocks, in particular carbon and nitrogen, prevails while water is nearly transparent. Over the last decade, several groups around the world including ours designed, built and applied x-ray microscopes for 3D imaging of bacteria, yeast, algae, plankton, protozoa, viruses, and immortalized and primary cells [3,4]. This presentation will focus on describing recent advances in instrumentation, acquisition strategies, and novel application directions of SXT.",
-      "url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
-      "pdf_url": "https://doi.org/10.1017/s1431927620023971",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 18,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
-          "title": "Recent advances in volumetric super-resolution imaging through computational adaptive optics",
-          "year": 2026,
-          "journal": "Molecular Brain",
-          "authors": [
-            "Sangjun Park",
-            "Seungwon Jeong",
-            "Changhyun Yoo"
-          ],
-          "doi": "10.1186/s13041-026-01334-x",
-          "url": "https://www.semanticscholar.org/paper/890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
-          "citation_count": 0
-        },
-        {
-          "id": "d78186d3b0d8e4937f041575093133a221f40697",
-          "title": "The emergence of hybrid super-resolution microscopy",
-          "year": 2026,
-          "journal": "Methods in Microscopy",
-          "authors": [
-            "Ole Borup Svendsen",
-            "Maria Schwerk",
-            "Thiago Goldbeck-Strieder"
-          ],
-          "doi": "10.1515/mim-2026-0003",
-          "url": "https://www.semanticscholar.org/paper/d78186d3b0d8e4937f041575093133a221f40697",
-          "citation_count": 0
-        },
-        {
-          "id": "7e6c56902958242e79ce7202e3f3c179afab8456",
-          "title": "High-resolution three-dimensional diffraction tomography based on confocal microscopy",
-          "year": 2026,
-          "journal": "International Conference on Machine Vision and Applications",
-          "authors": [
-            "Min Xu"
-          ],
-          "doi": "10.1117/12.3119845",
-          "url": "https://www.semanticscholar.org/paper/7e6c56902958242e79ce7202e3f3c179afab8456",
-          "citation_count": 0
-        },
-        {
-          "id": "ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
-          "title": "In-situ/Operando Nanoscale Imaging of Strain and Defect by Coherent X-Ray Diffraction Imaging",
-          "year": 2026,
-          "journal": "ECS Meeting Abstracts",
-          "authors": [
-            "Wonsuk Cha"
-          ],
-          "doi": "10.1149/ma2026-01472337mtgabs",
-          "url": "https://www.semanticscholar.org/paper/ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
-          "citation_count": 0
-        },
-        {
-          "id": "933c21bf2151362196b16834b9e5a0300481ce81",
-          "title": "Advanced X-Ray Imaging Technology.",
-          "year": 2026,
-          "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
-          "authors": [
-            "Daniela Pfeiffer",
-            "E. Rummeny",
-            "Franz Pfeiffer"
-          ],
-          "doi": "10.1007/978-3-032-15314-2_1",
-          "url": "https://www.semanticscholar.org/paper/933c21bf2151362196b16834b9e5a0300481ce81",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Materials Science"
-      ],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "virus",
-        "water"
       ],
       "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
@@ -38536,7 +38536,7 @@
       "url": "https://www.semanticscholar.org/paper/d318f8556393855315e64e7cebd7cb40a8f12254",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d318f8556393855315e64e7cebd7cb40a8f12254",
       "pdf_url": "https://msystems.asm.org/content/msys/4/4/e00296-19.full.pdf",
-      "citation_count": 79,
+      "citation_count": 80,
       "influential_citation_count": 6,
       "reference_count": 643,
       "references": [
@@ -38938,7 +38938,7 @@
       "abstract": "The ability of ecosystems to regulate water quality and flood events has been linked to health outcomes, including mosquito-borne illnesses. In the San Juan Bay Estuary watershed of Puerto Rico, habitat alterations and land-use development have disrupted watershed hydrology, exacerbating wastewater discharges and subjecting some neighborhoods to frequent flooding events. In 2016, the mosquito-borne illness Zika became a new cause for concern. We hypothesized that nutrient-enriched flood water could provide pulses of supplemental nutrients to local mosquito populations. We conducted a field study in six neighborhoods adjacent to the estuary to assess whether environmental variability of nutrient inputs could be linked to breeding habitat containers, Aedes aegypti larvae and adults, and the acquisition of Zika virus by adult mosquitoes. The most frequently flooded neighborhood had consistently higher levels of nitrogen in estuary water, leaf detritus, containers, and adult mosquitoes compared to other neighborhoods. Adult body nitrogen was significantly related to both nitrogen content of containers and leaf detritus from the local trapping area. Disseminated Zika concentration in adult Ae. aegypti tended to decrease as body carbon and nitrogen increased. Our study provides preliminary evidence that environmental variability in nutrient inputs can influence viral acquisition by mosquito vectors. This suggests that management actions to reduce flooding and improve water quality should go hand-in-hand with more traditional vector control methods, such as aerial spraying, to help control spread of vector-borne diseases.",
       "url": "https://www.semanticscholar.org/paper/791b8ba08166a0bb9e7417b0c4bb68729976cd70",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/791b8ba08166a0bb9e7417b0c4bb68729976cd70",
-      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163161",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7163161",
       "citation_count": 15,
       "influential_citation_count": 1,
       "reference_count": 61,
@@ -39870,7 +39870,7 @@
       "abstract": "Executive summary The Lancet Countdown: tracking progress on health and climate change was established to provide an independent, global monitoring system dedicated to tracking the health dimensions of the impacts of, and the response to, climate change. The Lancet Countdown tracks 41 indicators across five domains: climate change impacts, exposures, and vulnerability; adaptation, planning, and resilience for health; mitigation actions and health co-benefits; finance and economics; and public and political engagement. This report is the product of a collaboration of 27 leading academic institutions, the UN, and intergovernmental agencies from every continent. The report draws on world-class expertise from climate scientists, ecologists, mathematicians, geographers, engineers, energy, food, livestock, and transport experts, economists, social and political scientists, public health professionals, and doctors. The Lancet Countdown’s work builds on decades of research in this field, and was first proposed in the 2015 Lancet Commission on health and climate change,1 which documented the human impacts of climate change and provided ten global recommendations to respond to this public health emergency and secure the public health benefits available (panel 1). The following four key messages derive from the Lancet Countdown’s 2018 report1 Present day changes in heat waves, labour capacity, vector-borne disease, and food security provide early warning of the compounded and overwhelming impact on public health that are expected if temperatures continue to rise. Trends in climate change impacts, exposures, and vulnerabilities show an unacceptably high level of risk for the current and future health of populations across the world.2 A lack of progress in reducing emissions and building adaptive capacity threatens both human lives and the viability of the national health systems they depend on, with the potential to disrupt core public health infrastructure and overwhelm health services.3 Despite these delays, a number of sectors have seen the beginning of a low-carbon transition, and it is clear that the nature and scale of the response to climate change will be the determining factor in shaping the health of nations for centuries to come.4 Ensuring a widespread understanding of climate change as a central public health issue will be crucial in delivering an accelerated response, with the health profession beginning to rise to this challenge. Climate change impacts, exposures, and vulnerability Vulnerability to extremes of heat has steadily risen since 1990 in every region, with 157 million more people exposed to heatwave events in 2017, compared with 2000, and with the average person experiencing an additional 1·4 days of heatwaves per year over the same period (indicators 1.1 and 1.3). For national economies and household budgets, 153 billion hours of labour were lost in 2017 because of heat, an increase of more than 62 billion hours (3·2 billion weeks of work) since 2000 (indicator 1.4). The direct effects of climate change extend beyond heat to include extremes of weather. In 2017, a total of 712 extreme weather events resulted in US$326 billion in economic losses, almost triple the total losses of 2016 (indicator 4.1). Small changes in temperature and precipitation can result in large changes in the suitability for transmission of important vector-borne and water-borne diseases. In 2016, global vectorial capacity for the transmission of the dengue fever virus was the highest on record, rising to 9·1% for Aedes aegypti and 11·1% for Aedes albopictus above the 1950s baseline. Focusing on high-risk areas and diseases, the Baltic region has had a 24% increase in the coastline area suitable for epidemics of Vibrio cholerae, and in 2016, the highlands of sub-Saharan Africa saw a 27·6% rise in the vectorial capacity for the transmission of malaria from the 1950 baseline (indicator 1.8). A proxy of agricultural yield potential shows declines in every region, with 30 countries having downward trends in yields, reversing a decades-long trend of improvement (indicator 1.9.1). Decreasing labour productivity, increased capacity for the transmission of diseases such as dengue fever, malaria, and cholera, and threats to food security provide early warning of compounding negative health and nutrition effects if temperatures continue to rise. Adaptation, planning, and resilience for health Global inertia in adapting to climate change persists, with a mixed response from national governments since the signing of the Paris Agreement in 2015. More than half of global cities surveyed expect climate change to seriously compromise public health infrastructure, either directly, with extremes of weather disrupting crucial services, or indirectly, through the overwhelming of existing services with increased burdens of disease (indicator 2.2). Globally, spending for climate change adaptation remains well below the $100 billion per year commitment made under the Paris Agreement. Within this annual spending, only 3·8% of total development spending committed through formal UN Framework Convention on Climate Change (UNFCCC) mechanisms is dedicated to human health (indicator 2.8). This low investment in adaptive capacity is magnified in specific regions around the world, with only 55% of African countries meeting International Health Regulation core requirements for preparedness for a multihazard public health emergency (indicator 2.3). Mitigation actions and health co-benefits Multiple examples of stagnated mitigation efforts exist, with a crucial marker of decarbonisation—the carbon intensity of total primary energy supply—remaining unchanged since 1990 (indicator 3.1). A third of the global population, 2·8 billion people, live without access to healthy, clean, and sustainable cooking fuel or technologies, which is the same number of people as in 2000 (indicator 3.4). In the transport sector, per-capita global road-transport fuel use increased by 2% from 2013 to 2015, and cycling comprises less than 10% of total journeys taken in three quarters of a global sample of cities (indicators 3.6 and 3.7). The health burden of such inaction has been immense, with people in more than 90% of cities breathing polluted air that is toxic to their cardiovascular and respiratory health. Indeed, between 2010, and 2016, air pollution concentrations worsened in almost 70% of cities around the globe, particularly in low-income and middle-income countries (LMICs; indicator 3.5.1). In 2015 alone, fine particulate matter (ie, atmospheric particulate matter with a diameter of less than 2·5 μm [PM2·5]) was responsible for 2·9 million premature deaths, with coal being responsible for more than 460 000 (16%) of these deaths, and with the total death toll (from other causes including particulates and emissions such as nitrogen oxide) being substantially higher (indicator 3.5.2). Of concern, global employment in fossil-fuel extractive industries actually increased by 8% between 2016, and 2017, reversing the strong decline seen since 2011 (indicator 4.4). At a time when national health budgets and health services face a growing epidemic of lifestyle diseases, continued delay in unlocking the potential health co-benefits of climate change mitigation is short-sighted and damaging for human health. Despite this stagnation, progress in the power generation and transport sectors provide some cause for optimism, with many positive trends being observed in the 2017 report,2 and which continue in the present 2018 report. Notably, coal use continues to decline (indicator 3.2) and more renewable energy was installed in 2017 than energy from fossil fuels (indicator 3.3). However, maintaining the global average temperature rise to well below 2°C necessitates wide-reaching transformations across all sectors of society, including power generation, transport, spatial infrastructure, food and agriculture, and the design of health systems. These transformations, in turn, offer levers to help tackle the root causes of the world’s greatest public health challenges. Finance and economics About 712 climate-related extreme events were responsible for US$326 billion of losses in 2017, almost triple the losses of 2016 (indicator 4.1). Crucially, 99% of the losses in low-income countries remained uninsured. Indicators of investment in the low-carbon economy show that the transition is already underway, with continued growth in investment in zero-carbon energy, and growing numbers of people employed in renewable energy sectors (indicators 4.2 and 4.4). Furthermore, investment in new coal capacity in 2017, was at its lowest in at least 10 years, with 2015 potentially marking a peak in coal investment. Correspondingly, global subsidies for fossil fuels continued to decrease, and carbon pricing only covers 13·1% of global greenhouse-gas emissions, a number that is expected to increase to more than 20% when planned legislation in China is implemented in late 2018 (indicators 4.6 and 4.7). However, the rise of employment in fossil fuel industries in 2017 reversed a 5 year downward trend, and will be a key indicator to follow closely. Public and political engagement A better understanding of the health dimensions of climate change allows for advanced preparedness, increased resilience and adaptation, and a prioritisation of mitigation interventions that protect and promote human wellbeing. To this end, coverage of health and climate change in the media has increased substantially between 2007, and 2017 (indicator 5.1). Following this trend, the number of academic journal articles published on health and climate change has almost tripled over the same period (indicator 5.2). These figures often follow internationally important events, such as the UNFCCC’s Conference of the Parties (COP), along with temporary rises in mentions of health and climate change within the UN General Debate (UNGD; indicator 5.3).",
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
-      "pdf_url": "https://figshare.com/articles/journal_contribution/The_2018_report_of_the_Lancet_Countdown_on_health_and_climate_change_shaping_the_health_of_nations_for_centuries_to_come/23464325",
+      "pdf_url": "http://sro.sussex.ac.uk/id/eprint/80613/3/18TL4101_Lancet%20Countdown_final_embargoed.pdf",
       "citation_count": 768,
       "influential_citation_count": 23,
       "reference_count": 122,
@@ -40275,7 +40275,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 534,
+      "citation_count": 535,
       "influential_citation_count": 31,
       "reference_count": 70,
       "references": [
