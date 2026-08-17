@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:36:53.469026+00:00",
+  "updated_at": "2026-08-17T21:44:18.312702+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -423,7 +423,7 @@
           "journal": "Microbial Ecology",
           "authors": [
             "Manar-Aleslam M. Mattar",
-            "Walaa A Eraqi",
+            "Walaa A. Eraqi",
             "Mohamed Bakr Zaki"
           ],
           "doi": "10.1007/s00248-026-02818-y",
@@ -431,17 +431,16 @@
           "citation_count": 0
         },
         {
-          "id": "7d090a7dad6ff7f4c82363f6b03941e0c21d9a76",
-          "title": "Comprehensive analyses of archaeal viral genomes reveal genomic characteristics, divergence, and host interactions.",
+          "id": "dc7d3b726bad7c819167e6034e66fab7a3489b9b",
+          "title": "Decoding the Deep: The Ecology, Biogeography, and Evolution of Deep-Sea Viruses.",
           "year": 2026,
-          "journal": "Microbiome",
+          "journal": "Annual Review of Marine Science",
           "authors": [
-            "Chao Wei",
-            "Yaxiang Wang",
-            "Zhe Chen"
+            "Marguerite V. Langwig",
+            "Karthik Anantharaman"
           ],
-          "doi": "10.1186/s40168-026-02445-2",
-          "url": "https://www.semanticscholar.org/paper/7d090a7dad6ff7f4c82363f6b03941e0c21d9a76",
+          "doi": "10.1146/annurev-marine-050625-093011",
+          "url": "https://www.semanticscholar.org/paper/dc7d3b726bad7c819167e6034e66fab7a3489b9b",
           "citation_count": 0
         },
         {
@@ -459,31 +458,31 @@
           "citation_count": 0
         },
         {
-          "id": "8365a7e9909f6936773b6560127bdb03decb7edb",
-          "title": "Two-hourly resolved microbial and viral dynamics in the subtropical Daya Bay.",
+          "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
+          "title": "Host-virus dynamics in anaerobic digesters facing abiotic inhibition.",
           "year": 2026,
-          "journal": "Scientific Data",
+          "journal": "Water Research",
           "authors": [
-            "Songze Chen",
-            "Shuaishuai Xu",
-            "Zaini Muhammad"
+            "Marion Coves",
+            "Cédric Midoux",
+            "Julien Lossouarn"
           ],
-          "doi": "10.1038/s41597-026-07491-x",
-          "url": "https://www.semanticscholar.org/paper/8365a7e9909f6936773b6560127bdb03decb7edb",
+          "doi": "10.1016/j.watres.2026.126521",
+          "url": "https://www.semanticscholar.org/paper/f0cac78c0c4eea70d4761acff7024fce571b831b",
           "citation_count": 0
         },
         {
-          "id": "afb1e01341a7aff851c91d227099778fe587cb47",
-          "title": "Metatranscriptomic discovery of a novel viral class from the Yangshan deep-water port virosphere",
+          "id": "edf192f3bfe31fb5c2e9de1e9693d1d3834630e8",
+          "title": "Deep subsurface organic-rich shale supports abundant, diverse, and novel fungi.",
           "year": 2026,
-          "journal": "Archives of Virology",
+          "journal": "The ISME Journal",
           "authors": [
-            "Yuting Xie",
-            "Shuang Wu",
-            "Chen Hu"
+            "Quinn S Moon",
+            "Elliott P Barnhart",
+            "M. Varonka"
           ],
-          "doi": "10.1007/s00705-026-06656-8",
-          "url": "https://www.semanticscholar.org/paper/afb1e01341a7aff851c91d227099778fe587cb47",
+          "doi": "10.1093/ismejo/wrag184",
+          "url": "https://www.semanticscholar.org/paper/edf192f3bfe31fb5c2e9de1e9693d1d3834630e8",
           "citation_count": 0
         }
       ],
@@ -500,8 +499,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-17T22:08:01.309032+00:00",
-      "edges_enriched_at": "2026-07-17T22:08:02.132363+00:00"
+      "detail_enriched_at": "2026-08-17T21:44:01.932591+00:00",
+      "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
     },
     {
       "id": "d7eaf1f4a9ff8b5bf1f701adeaa048c36c0f2099",
@@ -578,31 +577,17 @@
       ],
       "similar_papers": [
         {
-          "id": "b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
-          "title": "Microbial Diversity and Function Linked to Carbon Cycling in Mangrove Sediments",
+          "id": "fd5c51d67be5ac8b42e0d125b796d40165c2b10b",
+          "title": "Rhizosphere microbiome differentiation and soil environmental drivers in two Monotropastrum species.",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Journal of Microbiology",
           "authors": [
-            "Nabilah Khairi",
-            "Muhammad Zarul Hanifah Md Zoqratt",
-            "N. Hidayah"
+            "Qian Liu",
+            "Xiaorong Chen",
+            "Xi Liu"
           ],
-          "doi": "10.64898/2026.05.13.724760",
-          "url": "https://www.semanticscholar.org/paper/b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
-          "citation_count": 0
-        },
-        {
-          "id": "a07d849f6795b0cc43195e70aff16894ec5a19b6",
-          "title": "Sulfur-Oxidizing Bacteria Dominate Soil Microbial Interactions in Chinese Coastal Wetlands",
-          "year": 2026,
-          "journal": "Journal of Ocean University of China",
-          "authors": [
-            "Lun Wang",
-            "Kexin Zhang",
-            "Jiqiu Li"
-          ],
-          "doi": "10.1007/s11802-026-6420-7",
-          "url": "https://www.semanticscholar.org/paper/a07d849f6795b0cc43195e70aff16894ec5a19b6",
+          "doi": "10.71150/jm.2602009",
+          "url": "https://www.semanticscholar.org/paper/fd5c51d67be5ac8b42e0d125b796d40165c2b10b",
           "citation_count": 0
         },
         {
@@ -612,7 +597,7 @@
           "journal": "Microbial Ecology",
           "authors": [
             "Manar-Aleslam M. Mattar",
-            "Walaa A Eraqi",
+            "Walaa A. Eraqi",
             "Mohamed Bakr Zaki"
           ],
           "doi": "10.1007/s00248-026-02818-y",
@@ -620,31 +605,45 @@
           "citation_count": 0
         },
         {
-          "id": "e80939335ffe1b805424f01202eb955ac6c91bce",
-          "title": "Ecological stability and plasticity of culture associated bacterial communities from distinct strains of the benthic dinoflagellate Coolia malayensis",
+          "id": "a2e513eb7fb26cc98a553bbdebde6e9c11dc39ec",
+          "title": "Trace metal ions are strongly associated with the structural variation in vineyard soil microbial communities along altitude gradients",
           "year": 2026,
-          "journal": "ALGAE",
+          "journal": "Frontiers in Microbiology",
           "authors": [
-            "Ruoyu Guo",
-            "Chenjie Zhu",
-            "Longtao Zhang"
+            "Yashan Li",
+            "Xiaoxiong Bai",
+            "Xuan Yu"
           ],
-          "doi": "10.4490/algae.2026.41.5.23",
-          "url": "https://www.semanticscholar.org/paper/e80939335ffe1b805424f01202eb955ac6c91bce",
+          "doi": "10.3389/fmicb.2026.1824682",
+          "url": "https://www.semanticscholar.org/paper/a2e513eb7fb26cc98a553bbdebde6e9c11dc39ec",
           "citation_count": 0
         },
         {
-          "id": "7e33a7f4e8b2718e8eeabcd3be9d38e5bb0a8245",
-          "title": "Revealing the bacterial diversity and variation of white filamentous microbial mats in marine mangroves of Guadeloupe Island in relation to human activities",
+          "id": "8a1af9ede399894fc6e304c8f73a79ff5c8c2f91",
+          "title": "Soil Resistomes in a Tropical Watershed are Indirectly Structured by Bacterial Community Interactions with Soil Properties",
           "year": 2026,
-          "journal": "FEMS Microbes",
+          "journal": "bioRxiv",
           "authors": [
-            "Mariana Martínez-Noriega",
-            "P. Jean-Louis",
-            "M. Philippon"
+            "Wesley J. Sparagon",
+            "S K Lary",
+            "Makana T. Ioh"
           ],
-          "doi": "10.1093/femsmc/xtag034",
-          "url": "https://www.semanticscholar.org/paper/7e33a7f4e8b2718e8eeabcd3be9d38e5bb0a8245",
+          "doi": "10.64898/2026.06.18.733189",
+          "url": "https://www.semanticscholar.org/paper/8a1af9ede399894fc6e304c8f73a79ff5c8c2f91",
+          "citation_count": 0
+        },
+        {
+          "id": "9e5dc918b2d579b348553b28c2176edb168609d8",
+          "title": "Microbial community composition and diversity in nodules and rhizosphere soil of bitter white lupine (Lupinus albus L.) and rhizosphere soil of triticale (×Triticosecale Wittmack)",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Mulugeta Aytenew",
+            "A. A. Aserse",
+            "Petri Penttinen"
+          ],
+          "doi": "10.3389/fmicb.2026.1810398",
+          "url": "https://www.semanticscholar.org/paper/9e5dc918b2d579b348553b28c2176edb168609d8",
           "citation_count": 0
         }
       ],
@@ -662,129 +661,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-17T22:08:01.309032+00:00",
-      "edges_enriched_at": "2026-07-17T22:08:02.132363+00:00"
-    },
-    {
-      "id": "4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
-      "semantic_scholar_id": "4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1093/ismeco/ycag184",
-      "title": "Viral lysis and host reprogramming impact carbohydrate, amino acid, and osmolyte cycling in salt marsh tidal creek sediments",
-      "authors": [
-        "Riccardo Frizzo",
-        "Silvia Pettenuzzo",
-        "E. Bortoletto",
-        "Irene Gregori",
-        "Alessandro Vezzi",
-        "M. Panin",
-        "Sciamila Hemmati",
-        "Lorenzo Archetti",
-        "S. Mammi",
-        "S. Bogialli",
-        "Paola Venier"
-      ],
-      "journal": "ISME Communications",
-      "publication_date": "2026-07-01",
-      "abstract": "\n Salt marshes are highly productive ecosystems where microbial communities drive key transformations of organic matter at rates often exceeding those of oceanic and inland environments. Viruses are recognised as important drivers and regulators of global biogeochemical cycling, yet their diversity, host range, and functional roles in salt marsh ecosystems remain largely unresolved. To address these gaps, we investigated how viral lysis and host reprogramming can affect microbe-mediated organic matter transformations in a salt marsh of the Venice lagoon (Italy). Focusing on tidal creek surface sediments, we reconstructed 311 metagenome-assembled genomes (MAGs), built corresponding genome-scale metabolic models (GEMs) individually constrained with 121 metabolites detected in the sediments, and identified 3,537 viral populations (vOTUs) across 10 samples. To assess the impact of viral lysis, we inferred prokaryotic hosts for 243 vOTUs and analysed host metabolism through MAG pathway analysis and GEM flux modelling across 13 bacterial orders, thus highlighting a negative impact on polysaccharide degradation, organic nitrogen mineralisation, and organosulphur mineralisation/volatilisation processes. For host metabolic reprogramming, we characterised a subset of 50 auxiliary viral genes (AVGs) by mapping them to GEM reactions and analysing their stoichiometry, directionality, and pathway context, outlining two dominant strategies: resource scavenging through nucleotide-sugar biosynthesis, amino acid utilisation, and sulphate assimilation; functional host maintenance through cofactor biosynthesis, electron transport, and energy production through carbonyl-compound utilisation. Our findings provide a mechanistic view of the viral influence on organic matter transformations in salt marsh sediments and confirm viruses as key players in salt marsh biogeochemistry.",
-      "url": "https://www.semanticscholar.org/paper/4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
-      "pdf_url": "https://doi.org/10.1093/ismeco/ycag184",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "41e35b107cc061c7168f70a45384a3ed319118de",
-          "title": "Microbial Diversity, Structure and Predicted Carbon-cycling Pathways Show Partial Convergence in Restored and Natural Salt Marshes in Venice Lagoon.",
-          "year": 2026,
-          "journal": "Microbial Ecology",
-          "authors": [
-            "Anjali Gopakumar",
-            "M. Billah",
-            "Alessandro Vezzi"
-          ],
-          "doi": "10.1007/s00248-026-02836-w",
-          "url": "https://www.semanticscholar.org/paper/41e35b107cc061c7168f70a45384a3ed319118de",
-          "citation_count": 0
-        },
-        {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
-          ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
-          "citation_count": 0
-        },
-        {
-          "id": "d69a7dccd215f4b9555134d2408c470709a93256",
-          "title": "Viral lysis accelerates microbial succession patterns resembling diatom senescence.",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Turk Dermastia Timotej",
-            "GU Ion",
-            "Rupnik Tinkara"
-          ],
-          "doi": "10.1093/ismejo/wrag206",
-          "url": "https://www.semanticscholar.org/paper/d69a7dccd215f4b9555134d2408c470709a93256",
-          "citation_count": 0
-        },
-        {
-          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
-          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
-          "year": 2026,
-          "journal": "Journal of Basic Microbiology",
-          "authors": [
-            "Baber Ali",
-            "Muhammad Khan",
-            "Muhammad Osama"
-          ],
-          "doi": "10.1002/jobm.70186",
-          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
-          "citation_count": 0
-        },
-        {
-          "id": "60992c2950dc17e61bc87df07a0d40ab95762312",
-          "title": "Unveiling active microbial processes in Earth's deepest seawater.",
-          "year": 2026,
-          "journal": "Cell Host and Microbe",
-          "authors": [
-            "Weijia Zhang",
-            "Aoran Hu",
-            "Ziheng Wu"
-          ],
-          "doi": "10.1016/j.chom.2026.07.001",
-          "url": "https://www.semanticscholar.org/paper/60992c2950dc17e61bc87df07a0d40ab95762312",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "A mechanistic view of the viral influence on organic matter transformations in salt marsh sediments is provided and viruses are confirmed as key players in salt marsh biogeochemistry.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "amg",
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "sediment",
-        "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
-      "edges_enriched_at": "2026-08-13T22:07:00.457495+00:00"
+      "detail_enriched_at": "2026-08-17T21:44:01.932591+00:00",
+      "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
     },
     {
       "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
@@ -1080,6 +958,129 @@
       ],
       "detail_enriched_at": "2026-08-09T21:50:32.451333+00:00",
       "edges_enriched_at": "2026-08-09T21:50:41.182708+00:00"
+    },
+    {
+      "id": "4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
+      "semantic_scholar_id": "4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
+      "source": "Semantic Scholar",
+      "pmid": "42604235",
+      "doi": "10.1093/ismeco/ycag184",
+      "title": "Viral lysis and host reprogramming impact carbohydrate, amino acid, and osmolyte cycling in salt marsh tidal creek sediments",
+      "authors": [
+        "Riccardo Frizzo",
+        "Silvia Pettenuzzo",
+        "E. Bortoletto",
+        "Irene Gregori",
+        "Alessandro Vezzi",
+        "M. Panin",
+        "Sciamila Hemmati",
+        "Lorenzo Archetti",
+        "S. Mammi",
+        "S. Bogialli",
+        "Paola Venier"
+      ],
+      "journal": "ISME Communications",
+      "publication_date": "2026-07-01",
+      "abstract": "\n Salt marshes are highly productive ecosystems where microbial communities drive key transformations of organic matter at rates often exceeding those of oceanic and inland environments. Viruses are recognised as important drivers and regulators of global biogeochemical cycling, yet their diversity, host range, and functional roles in salt marsh ecosystems remain largely unresolved. To address these gaps, we investigated how viral lysis and host reprogramming can affect microbe-mediated organic matter transformations in a salt marsh of the Venice lagoon (Italy). Focusing on tidal creek surface sediments, we reconstructed 311 metagenome-assembled genomes (MAGs), built corresponding genome-scale metabolic models (GEMs) individually constrained with 121 metabolites detected in the sediments, and identified 3,537 viral populations (vOTUs) across 10 samples. To assess the impact of viral lysis, we inferred prokaryotic hosts for 243 vOTUs and analysed host metabolism through MAG pathway analysis and GEM flux modelling across 13 bacterial orders, thus highlighting a negative impact on polysaccharide degradation, organic nitrogen mineralisation, and organosulphur mineralisation/volatilisation processes. For host metabolic reprogramming, we characterised a subset of 50 auxiliary viral genes (AVGs) by mapping them to GEM reactions and analysing their stoichiometry, directionality, and pathway context, outlining two dominant strategies: resource scavenging through nucleotide-sugar biosynthesis, amino acid utilisation, and sulphate assimilation; functional host maintenance through cofactor biosynthesis, electron transport, and energy production through carbonyl-compound utilisation. Our findings provide a mechanistic view of the viral influence on organic matter transformations in salt marsh sediments and confirm viruses as key players in salt marsh biogeochemistry.",
+      "url": "https://www.semanticscholar.org/paper/4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycag184",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "41e35b107cc061c7168f70a45384a3ed319118de",
+          "title": "Microbial Diversity, Structure and Predicted Carbon-cycling Pathways Show Partial Convergence in Restored and Natural Salt Marshes in Venice Lagoon.",
+          "year": 2026,
+          "journal": "Microbial Ecology",
+          "authors": [
+            "Anjali Gopakumar",
+            "M. Billah",
+            "Alessandro Vezzi"
+          ],
+          "doi": "10.1007/s00248-026-02836-w",
+          "url": "https://www.semanticscholar.org/paper/41e35b107cc061c7168f70a45384a3ed319118de",
+          "citation_count": 0
+        },
+        {
+          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zuhan Ge",
+            "Saqi Wang",
+            "Nan Zhang"
+          ],
+          "doi": "10.1016/j.envres.2026.125118",
+          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "citation_count": 0
+        },
+        {
+          "id": "d69a7dccd215f4b9555134d2408c470709a93256",
+          "title": "Viral lysis accelerates microbial succession patterns resembling diatom senescence.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Turk Dermastia Timotej",
+            "GU Ion",
+            "Rupnik Tinkara"
+          ],
+          "doi": "10.1093/ismejo/wrag206",
+          "url": "https://www.semanticscholar.org/paper/d69a7dccd215f4b9555134d2408c470709a93256",
+          "citation_count": 0
+        },
+        {
+          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
+          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
+          "year": 2026,
+          "journal": "Journal of Basic Microbiology",
+          "authors": [
+            "Baber Ali",
+            "Muhammad Khan",
+            "Muhammad Osama"
+          ],
+          "doi": "10.1002/jobm.70186",
+          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
+          "citation_count": 0
+        },
+        {
+          "id": "60992c2950dc17e61bc87df07a0d40ab95762312",
+          "title": "Unveiling active microbial processes in Earth's deepest seawater.",
+          "year": 2026,
+          "journal": "Cell Host and Microbe",
+          "authors": [
+            "Weijia Zhang",
+            "Aoran Hu",
+            "Ziheng Wu"
+          ],
+          "doi": "10.1016/j.chom.2026.07.001",
+          "url": "https://www.semanticscholar.org/paper/60992c2950dc17e61bc87df07a0d40ab95762312",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "A mechanistic view of the viral influence on organic matter transformations in salt marsh sediments is provided and viruses are confirmed as key players in salt marsh biogeochemistry.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "sediment",
+        "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
+      "edges_enriched_at": "2026-08-13T22:07:00.457495+00:00"
     },
     {
       "id": "6e51a3ca3adc065f382a92cb37f3d0c9307bdde8",
@@ -1666,7 +1667,7 @@
       "pdf_url": "https://doi.org/10.1128/aem.00807-26",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 100,
+      "reference_count": 123,
       "references": [
         {
           "title": "Osmotolerance is a driver of microbial carbon processes in the Elbe estuary",
@@ -1719,36 +1720,36 @@
       ],
       "similar_papers": [
         {
-          "id": "d5ded7415a6f01cebf9848dd82682ca074348ab1",
-          "title": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts.",
+          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
+          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
           "year": 2026,
-          "journal": "Nature Communications",
+          "journal": "Microbial Ecology",
           "authors": [
-            "Michael Hoggard",
-            "Emilie Gios",
-            "H. S. Tee"
+            "Manar-Aleslam M. Mattar",
+            "Walaa A. Eraqi",
+            "Mohamed Bakr Zaki"
           ],
-          "doi": "10.1038/s41467-026-73439-9",
-          "url": "https://www.semanticscholar.org/paper/d5ded7415a6f01cebf9848dd82682ca074348ab1",
+          "doi": "10.1007/s00248-026-02818-y",
+          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
           "citation_count": 0
         },
         {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "id": "a28a58630c6984fc444df4fbe61e8d55c2944407",
+          "title": "Genome-resolved biogeography reveals multidimensional structuring of freshwater giant viruses across global deep lakes",
           "year": 2026,
-          "journal": "Environmental Research",
+          "journal": "bioRxiv",
           "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
+            "Liwen Zhang",
+            "M. Salcher",
+            "Morimaru Kida"
           ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "doi": "10.64898/2026.08.06.743156",
+          "url": "https://www.semanticscholar.org/paper/a28a58630c6984fc444df4fbe61e8d55c2944407",
           "citation_count": 0
         },
         {
           "id": "95a41dc6ede290707891cf1677b54f4e843794cd",
-          "title": "Salinity-driven microbial adaptation of hydrocarbon-degrading communities in coastal sediments.",
+          "title": "Salinity-driven microbial adaptation of hydrocarbon-degrading communities in coastal sediments",
           "year": 2026,
           "journal": "Msphere",
           "authors": [
@@ -1761,30 +1762,31 @@
           "citation_count": 0
         },
         {
-          "id": "aff75144666e9897a1952238725ee3a972b83270",
-          "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring",
+          "id": "535e2c9148cbc7d90f7189617c9513117edeab1a",
+          "title": "Widespread phages exhibit depth-structured infection coupled with ammonia oxidation",
           "year": 2026,
-          "journal": "FEMS Microbiology Ecology",
+          "journal": "bioRxiv",
           "authors": [
-            "T. Pitot",
-            "C. Girard"
+            "Yiting Qin",
+            "Hao Li",
+            "Dinesh Kumar Kuppa Baskaran"
           ],
-          "doi": "10.1093/femsec/fiag061",
-          "url": "https://www.semanticscholar.org/paper/aff75144666e9897a1952238725ee3a972b83270",
+          "doi": "10.64898/2026.06.18.733297",
+          "url": "https://www.semanticscholar.org/paper/535e2c9148cbc7d90f7189617c9513117edeab1a",
           "citation_count": 0
         },
         {
-          "id": "4fbaa1d54096816492ab4df67c0f82e526894c0c",
-          "title": "Third-generation RNA Amplicon Sequencing Reveals the Dynamics of Microbial Communities in the Tidal Reach of a Subtropical Estuary.",
+          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "bioRxiv",
           "authors": [
-            "Qiqi Deng",
-            "Jialing Li",
-            "Xiaoqing Luo"
+            "Haoran Wang",
+            "Chunhui Ai",
+            "A. Barcan"
           ],
-          "doi": "10.1007/s00248-026-02804-4",
-          "url": "https://www.semanticscholar.org/paper/4fbaa1d54096816492ab4df67c0f82e526894c0c",
+          "doi": "10.64898/2026.07.27.740809",
+          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
           "citation_count": 0
         }
       ],
@@ -1805,8 +1807,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-17T22:08:01.309032+00:00",
-      "edges_enriched_at": "2026-07-17T22:08:02.132363+00:00"
+      "detail_enriched_at": "2026-08-17T21:44:01.932591+00:00",
+      "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
     },
     {
       "id": "0f75f234b1cadfedbf9719c86a4e36ceb560d914",
