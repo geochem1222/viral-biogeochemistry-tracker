@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:42:37.728198+00:00",
+  "updated_at": "2026-08-22T21:39:21.635994+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -328,6 +328,20 @@
           "citation_count": 0
         },
         {
+          "id": "97d3e4a739b219145e948815d7664420b6474cb1",
+          "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
+          "year": 2026,
+          "journal": "Land Degradation &amp; Development",
+          "authors": [
+            "Ning Wang",
+            "Tooba Mumtaz",
+            "Yuyao Yuan"
+          ],
+          "doi": "10.1002/ldr.70741",
+          "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "citation_count": 0
+        },
+        {
           "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
           "title": "Experimental drought drives divergent succession of soil microbiota.",
           "year": 2026,
@@ -342,31 +356,17 @@
           "citation_count": 0
         },
         {
-          "id": "4fbaa1d54096816492ab4df67c0f82e526894c0c",
-          "title": "Third-generation RNA Amplicon Sequencing Reveals the Dynamics of Microbial Communities in the Tidal Reach of a Subtropical Estuary.",
+          "id": "a8676c63456ebeb1f74214545b0e499c1050125e",
+          "title": "Effects of Nutrient Limitation on Antarctic Microbial Community Diversity, Composition, and Interactions: A Cryoconite Microcosm Study",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "Microorganisms",
           "authors": [
-            "Qiqi Deng",
-            "Jialing Li",
-            "Xiaoqing Luo"
+            "Eli M. S. Gendron",
+            "Melia Scholl",
+            "A. Solon"
           ],
-          "doi": "10.1007/s00248-026-02804-4",
-          "url": "https://www.semanticscholar.org/paper/4fbaa1d54096816492ab4df67c0f82e526894c0c",
-          "citation_count": 0
-        },
-        {
-          "id": "d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
-          "title": "Invertebrates gut viromes mediate microbial adaptation to pharmaceutical diversity under warming.",
-          "year": 2026,
-          "journal": "Microbiome",
-          "authors": [
-            "Ya-ning Wang",
-            "Jing-Ting Zheng",
-            "Xue-Peng Chen"
-          ],
-          "doi": "10.1186/s40168-026-02465-y",
-          "url": "https://www.semanticscholar.org/paper/d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
+          "doi": "10.3390/microorganisms14081807",
+          "url": "https://www.semanticscholar.org/paper/a8676c63456ebeb1f74214545b0e499c1050125e",
           "citation_count": 0
         }
       ],
@@ -385,8 +385,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-22T22:19:10.485467+00:00",
-      "edges_enriched_at": "2026-07-22T22:19:11.492890+00:00"
+      "detail_enriched_at": "2026-08-22T21:38:58.749996+00:00",
+      "edges_enriched_at": "2026-08-22T21:38:59.344666+00:00"
     },
     {
       "id": "576127ca9255de18a30762d503abcdc549b0b737",
@@ -4010,7 +4010,7 @@
       "url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "pdf_url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -8927,7 +8927,7 @@
       "url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "pdf_url": "https://doi.org/10.1016/j.jgeb.2025.100568",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 1,
       "reference_count": 81,
       "references": [
@@ -13435,7 +13435,7 @@
       "url": "https://www.semanticscholar.org/paper/2fed4228991bd0565586197f0694dfedf20b8d21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2fed4228991bd0565586197f0694dfedf20b8d21",
       "pdf_url": "https://doi.org/10.1038/s41598-025-89418-x",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 0,
       "reference_count": 39,
       "references": [
@@ -23256,7 +23256,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 233,
+      "citation_count": 234,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -27516,7 +27516,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 213,
+      "citation_count": 214,
       "influential_citation_count": 9,
       "reference_count": 124,
       "references": [
@@ -30097,7 +30097,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 343,
+      "citation_count": 345,
       "influential_citation_count": 8,
       "reference_count": 0,
       "references": [],
