@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:39:21.635994+00:00",
+  "updated_at": "2026-08-23T21:40:19.235031+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -121,7 +121,7 @@
       "abstract": "Viruses are important components of soil biodiversity and ecosystem functions. However, their response to soil salinity stress, including ecological patterns and functional potential, remains poorly understood. Here, metagenomic data from 84 saline soil samples were retrieved from public databases and analysed. Viral sequences were extracted from metagenomes, and auxiliary metabolic genes (AMGs) were identified. 83.34% of the vOTUs had no detectable gene-sharing links with the RefSeq Viral database, highlighting the unexplored diversity of saline soil viromes. In soils with higher salinity, viral genomes exhibited larger genome sizes and increased GC content. The diversity of temperate viruses (3.16-7.32) was significantly higher than that of lytic viruses (2.49-6.99). Although the diversity of temperate viruses decreased with increasing salinity, no significant trend was observed for lytic viruses. Viral abundance correlated positively with host abundance, consistent with the 'piggyback-the-winner' ecological coupling hypothesis. Functional potentials varied with salinity, and structural analysis showed changes in atomic interactions in key proteins (NhaA, ACAT) across salinity gradients. Significantly positive correlations were found between viral diversity and functional potential related to salt tolerance, carbon fixation, organic phosphorus mineralisation and nitrogen metabolism. These results suggest viral traits correlate with salinity gradients and provide insights into viral responses in saline soils.",
       "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
-      "pdf_url": "",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13482128/pdf/EMI-28-e70395.pdf",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 37,
@@ -5999,7 +5999,7 @@
       "abstract": "ABSTRACT Viruses are the most abundant biological entities on Earth and play crucial roles in regulating ecosystem processes and biogeochemical cycling. Proglacial lakes—key components of cryosphere aquatic systems—host diverse microbial communities despite extreme environmental conditions. However, the composition and ecological roles of DNA viral communities in proglacial lake sediments remain poorly understood. In this study, we applied metagenomic and metatranscriptomic approaches to investigate the diversity, function, activity and host interactions of DNA viruses in sediments from Qiangyong proglacial lake on the Tibetan Plateau. We recovered 4039 viral operational taxonomic units (vOTUs), with 76.6% unclassified at the family level, highlighting a vast reservoir of uncharacterized viral lineages. Host prediction linked 1.8% of vOTUs to key microbial taxa involved in carbon, nitrogen and sulphur cycling. We identified a broad array of virus‐encoded auxiliary metabolic genes (AMGs) involved in host resource utilization and metabolic transformation. Moreover, 63 AMGs not previously reported in the literature were discovered, significantly expanding the known viral functional gene repertoire. These findings offer new insights into the diversity and ecological potential of sediment‐associated DNA viruses in proglacial lakes, and emphasize their possible roles in shaping microbial communities and influencing biogeochemical processes in cold‐region ecosystems.",
       "url": "https://www.semanticscholar.org/paper/64ef595391f5334f458944d36212ffd7fe9e5445",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/64ef595391f5334f458944d36212ffd7fe9e5445",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1111/1758-2229.70262",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 121,
@@ -6295,7 +6295,7 @@
       "abstract": "Abstract Karenia brevis regularly forms harmful blooms along the West Florida Shelf that negatively affect marine and terrestrial organisms through toxin production. These blooms impose economic and environmental hardship, driving the need for research to understand the factors influencing their dynamics and to mitigate their impacts. A mostly unresolved issue is the potential role of viruses in bloom termination. We conducted an experiment incubating K. brevis cultures with size-fractionated bloom water samples. Flow cytometry revealed giant virus-like populations (VLPs) in replicate cultures with <1 μm-filtered and <0.2 μm-filtered bloom water. The VLPs’ abundance was paralleled by declines in photoefficiency and culture lysis. Metagenomic analyses of the lysates revealed 11 giant virus genomes (35%–100% complete) representing 7 viral operational taxonomic units (vOTUs) within the order Imitervirales (Nucleocytoviricota). Ten of these vOTUs were more abundant in the incubations with <0.2 μm-filtered bloom water, coinciding with the absence or low abundance of algicidal bacteria. The vOTUs and K. brevis cell abundances showed a positive correlation at a coastal site during bloom and nonbloom periods. The most apparent association was to vOTU6, which may owe its competitive advantage to the presence of the auxiliary metabolic genes bacteriorhodopsin, carbonic anhydrase, and dinoflagellate viral nucleoprotein. The metagenomes also contained polinton-like virus (PLV) genomes. Since many PLVs are hypothesized to depend on co-infection with Nucleocytoviricota viruses for their propagation, our results suggest complex viral interactions within K. brevis blooms. Future research to elucidate virus–bacteria–K. brevis interaction mechanisms may be key to understanding bloom dynamics and developing management tools.",
       "url": "https://www.semanticscholar.org/paper/7bdb2e47a4e3a0039ec575b1993841cedbc4e24e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7bdb2e47a4e3a0039ec575b1993841cedbc4e24e",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycag051",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 82,
@@ -9702,7 +9702,7 @@
       "abstract": "Significance Viruses, the most abundant biological entities, have great potential in regulating nutrient biogeochemistry and influencing ecosystem functions. However, their contributions to biogeochemical cycling and greenhouse gas emissions, particularly under environmental stress, remain largely unexplored. We report that antibiotic stress increases viral contributions to greenhouse gas N2O production by 18 to 29%, thereby advancing our understanding of the vital roles of viruses in biogeochemical cycles. Our results also reveal that antibiotic stress induces synonymous mutations in viral genomes, facilitating viral adaptation to hosts and promoting interactions with denitrifiers, which in turn enhances their metabolic potential. This study opens avenues for understanding the role of viral evolution in biogeochemistry, particularly in the context of increasing environmental stress of the Anthropocene.",
       "url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1073/pnas.2503199122",
       "citation_count": 11,
       "influential_citation_count": 0,
       "reference_count": 84,
@@ -14882,7 +14882,7 @@
       "abstract": "Viruses are abundant and ubiquitous in soil, but their importance in modulating greenhouse gas (GHG) emissions in terrestrial ecosystems remains largely unknown. Here, various loads of viral communities are introduced into paddy soils with different fertilization histories via a reciprocal transplant approach to study the role of viruses in regulating greenhouse gas emissions and prokaryotic communities. The results showed that the addition of viruses has a strong impact on methane (CH4) and nitrous oxide (N2O) emissions and, to a minor extent, carbon dioxide (CO2) emissions, along with dissolved carbon and nitrogen pools, depending on soil fertilization history. The addition of a high viral load resulted in a decrease in microbial biomass carbon (MBC) by 31.4%, with changes in the relative abundance of 16.6% of dominant amplicon sequence variants (ASVs) in comparison to control treatments. More specifically, large effects of viral pressure are observed on some specific microbial communities with decreased relative abundance of prokaryotes that dissimilate sulfur compounds and increased relative abundance of Nanoarchaea. Structural equation modeling further highlighted the differential direct and indirect effects of viruses on CO2, N2O, and CH4 emissions. These findings underpin the understanding of the complex microbe‐virus interactions and advance current knowledge on soil virus ecology.",
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
-      "pdf_url": "",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202407223",
       "citation_count": 25,
       "influential_citation_count": 0,
       "reference_count": 76,
@@ -18913,121 +18913,6 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chaonan Li",
-        "Haijun Liao",
-        "Lin Xu",
-        "Changting Wang",
-        "Minjie Yao",
-        "Junming Wang",
-        "Xiangzhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
-          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
-          "year": 2026,
-          "journal": "Molecular Phylogenetics and Evolution",
-          "authors": [
-            "Zhefei Zeng",
-            "Junwei Wang",
-            "N. Norbu"
-          ],
-          "doi": "10.1016/j.ympev.2026.108690",
-          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
-          "citation_count": 0
-        },
-        {
-          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
-          "year": null,
-          "journal": "",
-          "authors": [
-            "Shuhong Zhang",
-            "Yongkang Chen",
-            "Junwei Peng"
-          ],
-          "doi": "10.1002/ppp.70041",
-          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "citation_count": 0
-        },
-        {
-          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes.",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Chunkai Li",
-            "Youzhi Feng",
-            "Tadeo Sáez‐Sandino"
-          ],
-          "doi": "10.1038/s41467-026-73215-9",
-          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "citation_count": 0
-        },
-        {
-          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
-          "year": 2026,
-          "journal": "Scientific Reports",
-          "authors": [
-            "Nirusna Jehma",
-            "Nattarika Chaichana",
-            "Sirikan Suwannasin"
-          ],
-          "doi": "10.1038/s41598-026-56807-9",
-          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "citation_count": 0
-        },
-        {
-          "id": "bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
-          "title": "Phylogenomics and species delimitation of an annual gentian complex on the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "BMC Plant Biology",
-          "authors": [
-            "Shan-Shan Sun",
-            "Yaping Cai",
-            "Qian Xu"
-          ],
-          "doi": "10.1186/s12870-026-09326-8",
-          "url": "https://www.semanticscholar.org/paper/bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
-    },
-    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -19188,6 +19073,121 @@
         "phosphorus",
         "virus",
         "water"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
+    },
+    {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chaonan Li",
+        "Haijun Liao",
+        "Lin Xu",
+        "Changting Wang",
+        "Minjie Yao",
+        "Junming Wang",
+        "Xiangzhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
+          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
+          "year": 2026,
+          "journal": "Molecular Phylogenetics and Evolution",
+          "authors": [
+            "Zhefei Zeng",
+            "Junwei Wang",
+            "N. Norbu"
+          ],
+          "doi": "10.1016/j.ympev.2026.108690",
+          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
+          "citation_count": 0
+        },
+        {
+          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Shuhong Zhang",
+            "Yongkang Chen",
+            "Junwei Peng"
+          ],
+          "doi": "10.1002/ppp.70041",
+          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "citation_count": 0
+        },
+        {
+          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
+          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes.",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Chunkai Li",
+            "Youzhi Feng",
+            "Tadeo Sáez‐Sandino"
+          ],
+          "doi": "10.1038/s41467-026-73215-9",
+          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
+          "citation_count": 0
+        },
+        {
+          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Nirusna Jehma",
+            "Nattarika Chaichana",
+            "Sirikan Suwannasin"
+          ],
+          "doi": "10.1038/s41598-026-56807-9",
+          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "citation_count": 0
+        },
+        {
+          "id": "bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
+          "title": "Phylogenomics and species delimitation of an annual gentian complex on the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "BMC Plant Biology",
+          "authors": [
+            "Shan-Shan Sun",
+            "Yaping Cai",
+            "Qian Xu"
+          ],
+          "doi": "10.1186/s12870-026-09326-8",
+          "url": "https://www.semanticscholar.org/paper/bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
       ],
       "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
       "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
@@ -24563,7 +24563,7 @@
       "abstract": "Increasing knowledge of the impacts of pesticides on soil ecological communities is fundamental to a comprehensive understanding of the functional changes in the global agroecosystem industry. In this study, we examined microbial community shifts in the gut of the soil-dwelling organism Enchytraeus crypticus and functional shifts in the soil microbiome (bacteria and viruses) after 21 d of exposure to difenoconazole, one of the main fungicides in intensified agriculture. Our results demonstrated reduced body weight and increased oxidative stress levels of E. crypticus under difenoconazole treatment. Meanwhile, difenoconazole not only altered the composition and structure of the gut microbial community, but also interfered with the soil-soil fauna microecology stability by impairing the abundance of beneficial bacteria. Using soil metagenomics, we revealed that bacterial genes encoding detoxification and viruses encoding carbon cycle genes exhibited a dependent enrichment in the toxicity of pesticides via metabolism. Taken together, these findings advance the understanding of the ecotoxicological impact of residual difenoconazole on the soil-soil fauna micro-ecology, and the ecological importance of virus-encoded auxiliary metabolic genes under pesticide stress.",
       "url": "https://www.semanticscholar.org/paper/98240e341ed629e0d42dd1a9c2d188abaf3cf489",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/98240e341ed629e0d42dd1a9c2d188abaf3cf489",
-      "pdf_url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3607990/view",
+      "pdf_url": "https://doi.org/10.2139/ssrn.4340466",
       "citation_count": 23,
       "influential_citation_count": 0,
       "reference_count": 73,
@@ -35023,7 +35023,7 @@
       "abstract": "Winter carbon loss in northern ecosystems is estimated to be greater than the average growing season carbon uptake. However, most ecosystem carbon measurements neglect winter months since carbon losses (primarily driven by microbial decomposers) are assumed to be negligible at low temperatures. We used stable isotope probing (SIP) targeted metagenomics to reveal the genomic potential of active soil microbial populations under winter conditions, with an emphasis on viruses and virus-host dynamics. Peat soils from the Bonanza Creek LTER site in Alaska were incubated under subzero anoxic conditions with H218O for 184 and 370 days. We identified 46 bacterial populations (MAGs; spanning 9 bacterial phyla) and 243 viral populations (vOTUs) that actively took up 18O and produced significant CO2 throughout the incubation. Active hosts, predicted for 33% of the active vOTUs, were some of the most abundant MAGs and capable of fermentation and organic matter degradation. Approximately three-quarters of the active vOTUs carried auxiliary metabolic genes that spanned five functional categories, including carbon utilization, highlighting the potential impact of viruses in this peat soil’s microbial biogeochemistry. These results illustrate significant bacterial and viral activity and interactions occur in frozen soils, revealing viruses are a major community-structuring agent throughout winter months.",
       "url": "https://www.semanticscholar.org/paper/405c00972b59258a02efbaa9c2ae14007dda6f5b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/405c00972b59258a02efbaa9c2ae14007dda6f5b",
-      "pdf_url": "https://doi.org/10.1101/2021.01.25.428156",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/03/24/2021.01.25.428156.full.pdf",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 33,
