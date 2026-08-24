@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:40:19.235031+00:00",
+  "updated_at": "2026-08-24T21:47:01.659154+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -8035,7 +8035,7 @@
       "url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8c5a505f59724e92fb3db3915208f803f757438",
       "pdf_url": "",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [],
@@ -8765,7 +8765,7 @@
       "url": "https://www.semanticscholar.org/paper/806ed8270273727efd2324e2aed8c6df58be89be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/806ed8270273727efd2324e2aed8c6df58be89be",
       "pdf_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1633379/pdf",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 70,
       "references": [
@@ -11194,7 +11194,7 @@
       "url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202506449",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -17866,7 +17866,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 91,
+      "citation_count": 92,
       "influential_citation_count": 3,
       "reference_count": 114,
       "references": [
@@ -18913,6 +18913,121 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chaonan Li",
+        "Haijun Liao",
+        "Lin Xu",
+        "Changting Wang",
+        "Minjie Yao",
+        "Junming Wang",
+        "Xiangzhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
+          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
+          "year": 2026,
+          "journal": "Molecular Phylogenetics and Evolution",
+          "authors": [
+            "Zhefei Zeng",
+            "Junwei Wang",
+            "N. Norbu"
+          ],
+          "doi": "10.1016/j.ympev.2026.108690",
+          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
+          "citation_count": 0
+        },
+        {
+          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Shuhong Zhang",
+            "Yongkang Chen",
+            "Junwei Peng"
+          ],
+          "doi": "10.1002/ppp.70041",
+          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "citation_count": 0
+        },
+        {
+          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
+          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes.",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Chunkai Li",
+            "Youzhi Feng",
+            "Tadeo Sáez‐Sandino"
+          ],
+          "doi": "10.1038/s41467-026-73215-9",
+          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
+          "citation_count": 0
+        },
+        {
+          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Nirusna Jehma",
+            "Nattarika Chaichana",
+            "Sirikan Suwannasin"
+          ],
+          "doi": "10.1038/s41598-026-56807-9",
+          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
+          "citation_count": 0
+        },
+        {
+          "id": "bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
+          "title": "Phylogenomics and species delimitation of an annual gentian complex on the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "BMC Plant Biology",
+          "authors": [
+            "Shan-Shan Sun",
+            "Yaping Cai",
+            "Qian Xu"
+          ],
+          "doi": "10.1186/s12870-026-09326-8",
+          "url": "https://www.semanticscholar.org/paper/bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
+    },
+    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -19078,121 +19193,6 @@
       "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
     },
     {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chaonan Li",
-        "Haijun Liao",
-        "Lin Xu",
-        "Changting Wang",
-        "Minjie Yao",
-        "Junming Wang",
-        "Xiangzhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
-          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
-          "year": 2026,
-          "journal": "Molecular Phylogenetics and Evolution",
-          "authors": [
-            "Zhefei Zeng",
-            "Junwei Wang",
-            "N. Norbu"
-          ],
-          "doi": "10.1016/j.ympev.2026.108690",
-          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
-          "citation_count": 0
-        },
-        {
-          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
-          "year": null,
-          "journal": "",
-          "authors": [
-            "Shuhong Zhang",
-            "Yongkang Chen",
-            "Junwei Peng"
-          ],
-          "doi": "10.1002/ppp.70041",
-          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "citation_count": 0
-        },
-        {
-          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes.",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Chunkai Li",
-            "Youzhi Feng",
-            "Tadeo Sáez‐Sandino"
-          ],
-          "doi": "10.1038/s41467-026-73215-9",
-          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "citation_count": 0
-        },
-        {
-          "id": "9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "title": "Comparative genomics reveals population structure and functional differentiation in Limosilactobacillus fermentum.",
-          "year": 2026,
-          "journal": "Scientific Reports",
-          "authors": [
-            "Nirusna Jehma",
-            "Nattarika Chaichana",
-            "Sirikan Suwannasin"
-          ],
-          "doi": "10.1038/s41598-026-56807-9",
-          "url": "https://www.semanticscholar.org/paper/9d15def0dc4aaf7ff4a4cd4d4706b1dc4c0becb4",
-          "citation_count": 0
-        },
-        {
-          "id": "bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
-          "title": "Phylogenomics and species delimitation of an annual gentian complex on the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "BMC Plant Biology",
-          "authors": [
-            "Shan-Shan Sun",
-            "Yaping Cai",
-            "Qian Xu"
-          ],
-          "doi": "10.1186/s12870-026-09326-8",
-          "url": "https://www.semanticscholar.org/paper/bc60f81e7ca7a8aebfefcc08a5907e5060781eab",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-02T22:15:23.140193+00:00"
-    },
-    {
       "id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "source": "Semantic Scholar",
@@ -19213,7 +19213,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://doi.org/10.1038/s41467-024-46109-x",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -24398,7 +24398,7 @@
       "url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-023-01666-z",
-      "citation_count": 51,
+      "citation_count": 52,
       "influential_citation_count": 3,
       "reference_count": 116,
       "references": [
@@ -26680,7 +26680,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 211,
+      "citation_count": 212,
       "influential_citation_count": 9,
       "reference_count": 105,
       "references": [
@@ -27516,7 +27516,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 214,
+      "citation_count": 215,
       "influential_citation_count": 9,
       "reference_count": 124,
       "references": [
@@ -27841,7 +27841,7 @@
       "abstract": "Soil organisms play an important role in the equilibrium and cycling of nutrients. Because elevated CO2 (eCO2) affects plant metabolism, including rhizodeposition, it directly impacts the soil microbiome and microbial processes. Therefore, eCO2 directly influences the cycling of different elements in terrestrial ecosystems. Hence, possible changes in the cycles of carbon (C), nitrogen (N), and sulfur (S) were analyzed, alongside the assessment of changes in the composition and structure of the soil microbiome through a functional metatranscriptomics approach (cDNA from mRNA) from soil samples taken at the Giessen free-air CO2 enrichment (Gi-FACE) experiment. Results showed changes in the expression of C cycle genes under eCO2 with an increase in the transcript abundance for carbohydrate and amino acid uptake, and degradation, alongside an increase in the transcript abundance for cellulose, chitin, and lignin degradation and prokaryotic carbon fixation. In addition, N cycle changes included a decrease in the transcript abundance of N2O reductase, involved in the last step of the denitrification process, which explains the increase of N2O emissions in the Gi-FACE. Also, a shift in nitrate (NO3-) metabolism occurred, with an increase in transcript abundance for the dissimilatory NO3- reduction to ammonium (NH4+) (DNRA) pathway. S metabolism showed increased transcripts for sulfate (SO42-) assimilation under eCO2 conditions. Furthermore, soil bacteriome, mycobiome, and virome significantly differed between ambient and elevated CO2 conditions. The results exhibited the effects of eCO2 on the transcript abundance of C, N, and S cycles, and the soil microbiome. This finding showed a direct connection between eCO2 and the increased greenhouse gas emission, as well as the importance of soil nutrient availability to maintain the balance of soil ecosystems.",
       "url": "https://www.semanticscholar.org/paper/c8607f601c47bf3e4c6a66d237aef378340317c7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c8607f601c47bf3e4c6a66d237aef378340317c7",
-      "pdf_url": "https://doi.org/10.3389/fmicb.2022.937021",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.937021/pdf",
       "citation_count": 18,
       "influential_citation_count": 0,
       "reference_count": 110,
@@ -30097,7 +30097,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 345,
+      "citation_count": 346,
       "influential_citation_count": 8,
       "reference_count": 0,
       "references": [],
@@ -31407,7 +31407,7 @@
       "url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "pdf_url": "https://doi.org/10.1128/mbio.02595-21",
-      "citation_count": 52,
+      "citation_count": 53,
       "influential_citation_count": 2,
       "reference_count": 92,
       "references": [
@@ -34137,7 +34137,7 @@
       "url": "https://www.semanticscholar.org/paper/fc08c47fad1fb6f5ab022b3e10c9773b48110623",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fc08c47fad1fb6f5ab022b3e10c9773b48110623",
       "pdf_url": "https://doi.org/10.1128/msphere.01160-20",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 1,
       "reference_count": 106,
       "references": [
@@ -36354,7 +36354,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 207,
+      "citation_count": 208,
       "influential_citation_count": 9,
       "reference_count": 91,
       "references": [
@@ -37125,7 +37125,7 @@
       "url": "https://www.semanticscholar.org/paper/ecb950030336b56eb7205392d8c6c4e3c5859b31",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ecb950030336b56eb7205392d8c6c4e3c5859b31",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2020.01494/pdf",
-      "citation_count": 68,
+      "citation_count": 69,
       "influential_citation_count": 3,
       "reference_count": 66,
       "references": [
@@ -40394,7 +40394,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 537,
+      "citation_count": 538,
       "influential_citation_count": 31,
       "reference_count": 70,
       "references": [
@@ -40568,7 +40568,7 @@
       "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "pdf_url": "https://doi.org/10.1128/msystems.00076-18",
-      "citation_count": 279,
+      "citation_count": 280,
       "influential_citation_count": 4,
       "reference_count": 174,
       "references": [
