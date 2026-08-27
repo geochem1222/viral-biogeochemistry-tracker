@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:46:51.552326+00:00",
+  "updated_at": "2026-08-27T00:51:19.314690+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -861,48 +861,6 @@
       ],
       "similar_papers": [
         {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
-          ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
-          "citation_count": 0
-        },
-        {
-          "id": "cc6cb9cbda59d3e5c031e0a863f77fb6c147bff4",
-          "title": "Toxic Relationships: Characterization of a Putative Virally Encoded Toxin in the Thermophilic Archaeal Fusellovirus SSV1",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "J. Abshier",
-            "Patrizia L. Alpapara",
-            "Guasåli Tomokane"
-          ],
-          "doi": "10.3390/v18070802",
-          "url": "https://www.semanticscholar.org/paper/cc6cb9cbda59d3e5c031e0a863f77fb6c147bff4",
-          "citation_count": 0
-        },
-        {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
-          "year": 2026,
-          "journal": "Microbial Ecology",
-          "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A Eraqi",
-            "Mohamed Bakr Zaki"
-          ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
-          "citation_count": 0
-        },
-        {
           "id": "4ab99bf6dedb4a9009f1da1b1335621198fd894f",
           "title": "Virus-mediated prokaryotic community adaptation dynamics under thermal stress in municipal organic solid waste microbiomes.",
           "year": 2026,
@@ -929,6 +887,48 @@
           "doi": "10.1021/acs.est.6c03952",
           "url": "https://www.semanticscholar.org/paper/ac2ce1070a6b2247ec8a7a70c0639867f64980dc",
           "citation_count": 0
+        },
+        {
+          "id": "d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
+          "title": "Invertebrates gut viromes mediate microbial adaptation to pharmaceutical diversity under warming.",
+          "year": 2026,
+          "journal": "Microbiome",
+          "authors": [
+            "Ya-ning Wang",
+            "Jing-Ting Zheng",
+            "Xue-Peng Chen"
+          ],
+          "doi": "10.1186/s40168-026-02465-y",
+          "url": "https://www.semanticscholar.org/paper/d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
+          "citation_count": 0
+        },
+        {
+          "id": "4446691e6a396af15a537e303adf33c494f25c88",
+          "title": "Adaptation of Soil Viruses to Salinity Stress: Insights Into Genome Size Expansion and Functional Diversification.",
+          "year": 2026,
+          "journal": "Environmental Microbiology",
+          "authors": [
+            "Ayijiamali Kudureti",
+            "Shuai Zhao",
+            "Xu Liu"
+          ],
+          "doi": "10.1111/1462-2920.70395",
+          "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
+          "citation_count": 0
+        },
+        {
+          "id": "d69a7dccd215f4b9555134d2408c470709a93256",
+          "title": "Viral lysis accelerates microbial succession patterns resembling diatom senescence.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Turk Dermastia Timotej",
+            "GU Ion",
+            "Rupnik Tinkara"
+          ],
+          "doi": "10.1093/ismejo/wrag206",
+          "url": "https://www.semanticscholar.org/paper/d69a7dccd215f4b9555134d2408c470709a93256",
+          "citation_count": 0
         }
       ],
       "fields_of_study": [
@@ -948,8 +948,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-27T22:19:56.527438+00:00",
-      "edges_enriched_at": "2026-07-27T22:19:57.409042+00:00"
+      "detail_enriched_at": "2026-08-27T00:50:49.552695+00:00",
+      "edges_enriched_at": "2026-08-27T00:50:50.342365+00:00"
     },
     {
       "id": "b07522f4b7be09a736a10bc484e4955a9985c860",
@@ -1506,17 +1506,45 @@
       ],
       "similar_papers": [
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "id": "4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
+          "title": "Viral lysis and host reprogramming impact carbohydrate, amino acid, and osmolyte cycling in salt-marsh tidal creek sediments",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "ISME Communications",
           "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A Eraqi",
-            "Mohamed Bakr Zaki"
+            "Riccardo Frizzo",
+            "Silvia Pettenuzzo",
+            "E. Bortoletto"
           ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "doi": "10.1093/ismeco/ycag184",
+          "url": "https://www.semanticscholar.org/paper/4fd7e64a5f2cc7255830d3eeebd96995967aaf0b",
+          "citation_count": 0
+        },
+        {
+          "id": "cbd2c02815fa2ae28304748664f942f0a4c996cc",
+          "title": "Direct Capture Methods Reveal Extensive Organohalide Chemical Space in Marine Environments",
+          "year": 2026,
+          "journal": "Marine Drugs",
+          "authors": [
+            "Alexander Bogdanov",
+            "Douglas Sweeney",
+            "Melissa L. Carter"
+          ],
+          "doi": "10.3390/md24070237",
+          "url": "https://www.semanticscholar.org/paper/cbd2c02815fa2ae28304748664f942f0a4c996cc",
+          "citation_count": 0
+        },
+        {
+          "id": "ceca2266d095104c6744524bde6e24136b876303",
+          "title": "No-take marine reserves promote oligotrophic reef bacterioplankton communities across the Great Barrier Reef",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Marko Terzin",
+            "Steven J. Robbins",
+            "Kim-Anh Lê Cao"
+          ],
+          "doi": "10.64898/2026.07.23.740257",
+          "url": "https://www.semanticscholar.org/paper/ceca2266d095104c6744524bde6e24136b876303",
           "citation_count": 0
         },
         {
@@ -1534,45 +1562,17 @@
           "citation_count": 0
         },
         {
-          "id": "1707ddf45883326700ec8c9dea0a0cdc4b631684",
-          "title": "Genomic and Metabolomic Insights into Amazonian Oyster-Associated Cyanobacteria Reveal the First Record of Thainema in South America",
+          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
+          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
           "year": 2026,
-          "journal": "Phycology",
+          "journal": "iScience",
           "authors": [
-            "M. J. Machado",
-            "F. R. Jacinavicius",
-            "R. B. Dextro"
+            "Chao-Jian Hu",
+            "Muhammad Asif",
+            "Jinhui Liu"
           ],
-          "doi": "10.3390/phycology6030074",
-          "url": "https://www.semanticscholar.org/paper/1707ddf45883326700ec8c9dea0a0cdc4b631684",
-          "citation_count": 0
-        },
-        {
-          "id": "ef462f1a3020a5b2df1feb6850c16cfaa8557d38",
-          "title": "Functional and ecological drivers of bacterial interactions in glacier-fed stream biofilms",
-          "year": 2026,
-          "journal": "mSystems",
-          "authors": [
-            "Martina Gonzalez Mateu",
-            "Hannes Peter",
-            "G. Michoud"
-          ],
-          "doi": "10.1128/msystems.00370-26",
-          "url": "https://www.semanticscholar.org/paper/ef462f1a3020a5b2df1feb6850c16cfaa8557d38",
-          "citation_count": 0
-        },
-        {
-          "id": "d41f34a8a9080a0513f4b1053b0e6ab53d04a8b0",
-          "title": "Coupling of nutrient bioavailability and nutrient ratios to microbial community structure and functional potential in lakes",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Mayra P. D. Rulli",
-            "Romana K. Salis",
-            "A. Bergström"
-          ],
-          "doi": "10.1093/ismeco/ycag150",
-          "url": "https://www.semanticscholar.org/paper/d41f34a8a9080a0513f4b1053b0e6ab53d04a8b0",
+          "doi": "10.1016/j.isci.2026.117172",
+          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
           "citation_count": 0
         }
       ],
@@ -1591,8 +1591,8 @@
         "sediment",
         "virus"
       ],
-      "detail_enriched_at": "2026-07-26T22:16:20.990648+00:00",
-      "edges_enriched_at": "2026-07-26T22:16:21.736592+00:00"
+      "detail_enriched_at": "2026-08-27T00:50:49.552695+00:00",
+      "edges_enriched_at": "2026-08-27T00:50:50.342365+00:00"
     },
     {
       "id": "a89bf5c996b025345245746245791ca886dc9e5b",
@@ -2120,36 +2120,8 @@
       ],
       "similar_papers": [
         {
-          "id": "062fd8f07d9c060bf8c06379993eb67bbf43d1fd",
-          "title": "Rhizosphere microbial communities: Drivers of nutrient cycling, plant health, and soil fertility",
-          "year": 2026,
-          "journal": "Archives of Agriculture and Environmental Science",
-          "authors": [
-            "Bipasha Pandit",
-            "Chitra Bahadur Bohara",
-            "Suprava Shrestha"
-          ],
-          "doi": "10.26832/24566632.2026.1102015",
-          "url": "https://www.semanticscholar.org/paper/062fd8f07d9c060bf8c06379993eb67bbf43d1fd",
-          "citation_count": 0
-        },
-        {
-          "id": "898d7a862750fc8af55214dcce896dc7a5588b85",
-          "title": "Symbiotic Agriculture: Harnessing Plant–Biotic Interactions for Enhanced Crop Productivity (Review)",
-          "year": 2026,
-          "journal": "Applied Biochemistry and Microbiology",
-          "authors": [
-            "J. Kaneriya",
-            "V. Pattani",
-            "K. Joshi"
-          ],
-          "doi": "10.1134/S0003683825603336",
-          "url": "https://www.semanticscholar.org/paper/898d7a862750fc8af55214dcce896dc7a5588b85",
-          "citation_count": 0
-        },
-        {
           "id": "23ce886feab13c37c8951a63297e31af40b0f190",
-          "title": "Phages as Metabolic Switches in Plant-Associated Microbiomes: Implications for Climate-Smart Agriculture.",
+          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
           "year": 2026,
           "journal": "Journal of Basic Microbiology",
           "authors": [
@@ -2162,31 +2134,60 @@
           "citation_count": 0
         },
         {
-          "id": "a408f7d3380372b9dcc48d175f81186e0eccb528",
-          "title": "Mechanisms of Pseudomonas spp. as plant growth promoting rhizobacteria: plant nutrition and biocontrol",
+          "id": "4a4c703f822f2c8156fd758556fd6e506a4b6b07",
+          "title": "Rhizosphere Microbiome Engineering and Functional Ecology: Mechanistic Understanding of Plant Health, Adapting to Stress, and Sustainable Agriculture",
           "year": 2026,
-          "journal": "Antonie van Leeuwenhoek",
+          "journal": "Journal of Crop Health",
           "authors": [
-            "Felix Satognon",
-            "Victor Akuku"
+            "Vani Sharma",
+            "Aditya Sheershwal",
+            "B. Trivedi"
           ],
-          "doi": "10.1007/s10482-026-02352-4",
-          "url": "https://www.semanticscholar.org/paper/a408f7d3380372b9dcc48d175f81186e0eccb528",
-          "citation_count": 1
+          "doi": "10.1007/s10343-026-01389-9",
+          "url": "https://www.semanticscholar.org/paper/4a4c703f822f2c8156fd758556fd6e506a4b6b07",
+          "citation_count": 0
         },
         {
-          "id": "289587bd2be6676374238f100af8994b8d6e5b09",
-          "title": "Insights into rhizosphere tripartite interactions involving beneficial microbes, plants, and soil-borne pathogens",
+          "id": "6f10b8829c68de3e3a3f008c31039f1557681530",
+          "title": "Ecological and functional roles of plant microbiomes in environmental detoxification",
           "year": 2026,
-          "journal": "Phytoparasitica",
+          "journal": "Frontiers in Microbiology",
           "authors": [
-            "S. Kannan",
-            "Rajendran Lingan",
-            "K. Loganathan"
+            "S. Selim",
+            "K. Adhikary",
+            "Riya Sarkar"
           ],
-          "doi": "10.1007/s12600-026-01392-w",
-          "url": "https://www.semanticscholar.org/paper/289587bd2be6676374238f100af8994b8d6e5b09",
-          "citation_count": 1
+          "doi": "10.3389/fmicb.2026.1883316",
+          "url": "https://www.semanticscholar.org/paper/6f10b8829c68de3e3a3f008c31039f1557681530",
+          "citation_count": 0
+        },
+        {
+          "id": "6c015f9d1d9dd303da6c0ff3a1b147dcc3e229d8",
+          "title": "Interactions, processes and biotechnological potential of microbiomes of freshwater macrophytes",
+          "year": 2026,
+          "journal": "Discover Plants",
+          "authors": [
+            "Farheen Mushtaq",
+            "Sumira Tyub",
+            "Aabroo Fatima"
+          ],
+          "doi": "10.1007/s44372-026-00813-8",
+          "url": "https://www.semanticscholar.org/paper/6c015f9d1d9dd303da6c0ff3a1b147dcc3e229d8",
+          "citation_count": 0
+        },
+        {
+          "id": "bc0b9c6694848dc697163f7571561378ac3064d0",
+          "title": "Deciphering soybean–microbiome interactions: from rhizosphere dynamics to sustainable yield enhancement",
+          "year": 2026,
+          "journal": "Plant Signalling & Behavior",
+          "authors": [
+            "Yalpi Karthik",
+            "Kalpana Nanjareddy",
+            "Manoj-Kumar Arthikala"
+          ],
+          "doi": "10.1080/15592324.2026.2693436",
+          "url": "https://www.semanticscholar.org/paper/bc0b9c6694848dc697163f7571561378ac3064d0",
+          "citation_count": 0
         }
       ],
       "fields_of_study": [
@@ -2206,8 +2207,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-07-27T22:19:56.527438+00:00",
-      "edges_enriched_at": "2026-07-27T22:19:57.409042+00:00"
+      "detail_enriched_at": "2026-08-27T00:50:49.552695+00:00",
+      "edges_enriched_at": "2026-08-27T00:50:50.342365+00:00"
     },
     {
       "id": "3d38ec892863be95cbbe871b4238d51dc9a9ba50",
@@ -3824,7 +3825,7 @@
       "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
       "semantic_scholar_id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42639503",
       "doi": "10.64898/2026.04.10.716911",
       "title": "Active microbial communities and their extrachromosomal elements link organic matter degradation to methane cycling in anoxic sediments",
       "authors": [
@@ -11194,7 +11195,7 @@
       "url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202506449",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -14714,7 +14715,7 @@
       "url": "https://www.semanticscholar.org/paper/13dc0df228709e1ddf13b78a50b1e4a4f53ae36c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13dc0df228709e1ddf13b78a50b1e4a4f53ae36c",
       "pdf_url": "http://article.sciencepg.com/pdf/j.fem.20241002.12",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [
@@ -17696,7 +17697,7 @@
       "url": "https://www.semanticscholar.org/paper/0f8bcaa88b7654c97a70f38df32376c954cccdd9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0f8bcaa88b7654c97a70f38df32376c954cccdd9",
       "pdf_url": "https://doi.org/10.1016/j.envres.2024.119070",
-      "citation_count": 14,
+      "citation_count": 15,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -17866,7 +17867,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 92,
+      "citation_count": 93,
       "influential_citation_count": 3,
       "reference_count": 114,
       "references": [
@@ -18432,7 +18433,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 100,
+      "citation_count": 101,
       "influential_citation_count": 2,
       "reference_count": 49,
       "references": [
@@ -23256,7 +23257,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 234,
+      "citation_count": 235,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -26180,7 +26181,7 @@
       "abstract": "Background The deep sea harbors many viruses, yet their diversity and interactions with hosts in hydrothermal ecosystems are largely unknown. Here, we analyzed the viral composition, distribution, host preference, and metabolic potential in different habitats of global hydrothermal vents, including vent plumes, background seawater, diffuse fluids, and sediments. Results From 34 samples collected at eight vent sites, a total of 4662 viral populations (vOTUs) were recovered from the metagenome assemblies, encompassing diverse phylogenetic groups and defining many novel lineages. Apart from the abundant unclassified viruses, tailed phages are most predominant across the global hydrothermal vents, while single-stranded DNA viruses, including Microviridae and small eukaryotic viruses, also constitute a significant part of the viromes. As revealed by protein-sharing network analysis, hydrothermal vent viruses formed many novel genus-level viral clusters and are highly endemic to specific vent sites and habitat types. Only 11% of the vOTUs can be linked to hosts, which are the key microbial taxa of hydrothermal habitats, such as Gammaproteobacteria and Campylobacterota . Intriguingly, vent viromes share some common metabolic features in that they encode auxiliary genes that are extensively involved in the metabolism of carbohydrates, amino acids, cofactors, and vitamins. Specifically, in plume viruses, various auxiliary genes related to methane, nitrogen, and sulfur metabolism were observed, indicating their contribution to host energy conservation. Moreover, the prevalence of sulfur-relay pathway genes indicated the significant role of vent viruses in stabilizing the tRNA structure, which promotes host adaptation to steep environmental gradients. Conclusions The deep-sea hydrothermal systems hold untapped viral diversity with novelty. They may affect both vent prokaryotic and eukaryotic communities and modulate host metabolism related to vent adaptability. More explorations are needed to depict global vent virus diversity and its roles in this unique ecosystem. Video Abstract",
       "url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
-      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40168-022-01441-6.pdf",
+      "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01441-6",
       "citation_count": 82,
       "influential_citation_count": 5,
       "reference_count": 126,
@@ -32358,7 +32359,7 @@
       "url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-021-01154-2",
-      "citation_count": 89,
+      "citation_count": 90,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
