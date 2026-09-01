@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:33:40.385632+00:00",
+  "updated_at": "2026-09-01T00:41:24.410691+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,130 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "b912c05577018754bd3f6456a40eca4891784a1f",
+      "semantic_scholar_id": "b912c05577018754bd3f6456a40eca4891784a1f",
+      "source": "Semantic Scholar",
+      "pmid": "42666020",
+      "doi": "10.1111/gcb.71083",
+      "title": "Decadal Resampling Reveals Widespread Increases in Soil Microbial Diversity Associated With Nitrogen Deposition.",
+      "authors": [
+        "Yi Fan",
+        "Yi-Heng Tao",
+        "Bin Hua",
+        "P. Kardol",
+        "Y. Kuzyakov",
+        "Shuang Pang",
+        "Yi Wu",
+        "Tingting Li",
+        "Wei Yang",
+        "Honghui Wu",
+        "A. A. Goncharov",
+        "Anastasia Yu. Korotkevich",
+        "Rong Mao",
+        "Yang Zhang",
+        "Ximei Zhang"
+      ],
+      "journal": "Global Change Biology",
+      "publication_date": "2026-08-28",
+      "abstract": "Simulated manipulation experiments, such as nitrogen addition to mimic atmospheric nitrogen deposition, are widely used in global change research. However, experimental manipulations may differ from real-world environmental change in their intensity, duration, and co-occurrence, leaving long-term changes in soil microbial communities and soil health insufficiently understood. To address this gap, we resampled soils from 38 forest and grassland ecosystems across eastern China in 2009 and 2019 and assessed microbial taxonomic and functional diversity using shotgun metagenomics. Microbial diversity increased by 17% over the decade, accompanied by clear shifts in community composition. Among the environmental variables considered, nitrogen deposition (~19 kg nitrogen ha-1 year-1 across ecosystems) was the strongest predictor of changes in seven of 12 microbial community metrics. Larger nitrogen deposition was also associated with increased relative abundances of nitrogen-cycling genes and reduced spatial turnover in microbial community composition. These effects were consistent with a potential alleviation of nitrogen limitation and weakening of deterministic community assembly, although these mechanisms could not be directly established. In addition, increases in genes associated with carbon degradation and phosphorus cycling, together with declines in the relative abundances of pathogens, antibiotic resistance genes, and DNA viruses, coincided with the raise of the composite soil health index. Our findings demonstrate widespread decadal increases in soil microbial diversity and soil health across eastern China, with nitrogen deposition emerging as their strongest environmental factor. These results highlight that microbial responses to long-term ambient environmental change can differ markedly from responses inferred from short-term or high-intensity manipulation experiments.",
+      "url": "https://www.semanticscholar.org/paper/b912c05577018754bd3f6456a40eca4891784a1f",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/b912c05577018754bd3f6456a40eca4891784a1f",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.71083",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 37,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "97d3e4a739b219145e948815d7664420b6474cb1",
+          "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
+          "year": 2026,
+          "journal": "Land Degradation &amp; Development",
+          "authors": [
+            "Ning Wang",
+            "Tooba Mumtaz",
+            "Yuyao Yuan"
+          ],
+          "doi": "10.1002/ldr.70741",
+          "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "citation_count": 0
+        },
+        {
+          "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "title": "Experimental drought drives divergent succession of soil microbiota.",
+          "year": 2026,
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "authors": [
+            "Sihang Deng",
+            "Yunfeng Yang",
+            "Xue Guo"
+          ],
+          "doi": "10.1073/pnas.2537753123",
+          "url": "https://www.semanticscholar.org/paper/d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "citation_count": 0
+        },
+        {
+          "id": "ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
+          "title": "Six-year nitrogen addition alters microbial-derived carbon accumulation in association with soil stoichiometry and microbial community reorganization in an alpine coniferous forest",
+          "year": 2026,
+          "journal": "Frontiers in Forests and Global Change",
+          "authors": [
+            "Shaobing Zhang",
+            "Yanying Han",
+            "Zhipan Cui"
+          ],
+          "doi": "10.3389/ffgc.2026.1905473",
+          "url": "https://www.semanticscholar.org/paper/ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
+          "citation_count": 0
+        },
+        {
+          "id": "e161ec55f3225766328ab283c8d3f843e355ca9f",
+          "title": "Can Organic Amendments Override Environmental Filtering of Soil Microbiomes? Evidence From 20 Years Old Agricultural Field Trials in Contrasting Tropical Sites.",
+          "year": 2026,
+          "journal": "Global Change Biology",
+          "authors": [
+            "Anna M. Visscher",
+            "S. Ndungu",
+            "Rafaela Feola Conz"
+          ],
+          "doi": "10.1111/gcb.71061",
+          "url": "https://www.semanticscholar.org/paper/e161ec55f3225766328ab283c8d3f843e355ca9f",
+          "citation_count": 0
+        },
+        {
+          "id": "dd354b88dcde726195977af4f39d72c25a2cc8a4",
+          "title": "Serpentine Biocrust Microbes Maintain Nitrogen Cycling Under Drought and Heavy Metal Stress",
+          "year": 2026,
+          "journal": "Ecological research",
+          "authors": [
+            "Sandra Barnard",
+            "O. Barachiah",
+            "S. J. Siebert"
+          ],
+          "doi": "10.1111/1440-1703.70113",
+          "url": "https://www.semanticscholar.org/paper/dd354b88dcde726195977af4f39d72c25a2cc8a4",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "phosphorus",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-09-01T00:41:11.376987+00:00",
+      "edges_enriched_at": "2026-09-01T00:41:20.057041+00:00"
+    },
     {
       "id": "4446691e6a396af15a537e303adf33c494f25c88",
       "semantic_scholar_id": "4446691e6a396af15a537e303adf33c494f25c88",
@@ -1324,7 +1448,7 @@
       "authors": [
         "Zuhan Ge",
         "Saqi Wang",
-        "Nan Zhang",
+        "N. Zhang",
         "Yaguang Li",
         "Deying Huang",
         "Jibiao Zhang"
@@ -10337,7 +10461,7 @@
       "authors": [
         "Xunqin Chen",
         "Dong Zhu",
-        "Yuling Zheng",
+        "Yu-Ling Zheng",
         "Xiaoming Li",
         "Guoxin Sun",
         "Xiaoming Li",
@@ -27516,7 +27640,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 216,
+      "citation_count": 217,
       "influential_citation_count": 9,
       "reference_count": 124,
       "references": [
@@ -30097,7 +30221,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 347,
+      "citation_count": 348,
       "influential_citation_count": 8,
       "reference_count": 0,
       "references": [],
@@ -36663,6 +36787,114 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
+      "id": "86dd778bf622faa10b54386015d01e452e7d3f34",
+      "semantic_scholar_id": "86dd778bf622faa10b54386015d01e452e7d3f34",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1017/s1431927620023971",
+      "title": "Advances in Soft X-ray Tomography",
+      "authors": [
+        "V. Weinhardt",
+        "Jian-Hua Chen",
+        "A. Ekman",
+        "M. Le Gros",
+        "Gerry Mc Dermott",
+        "C. Larabell"
+      ],
+      "journal": "Microscopy and Microanalysis",
+      "publication_date": "2020-08-01",
+      "abstract": "Soft x-ray tomography (SXT) has emerged as a unique method for three-dimensional (3D) imaging of single cells [1,2]. Soft x-rays from 284 to 543 eV (2.34 to 4.4 nm) generate contrast for cells in their native, wet state without the use of chemical fixation or staining. In this so-called “water window” energy range, absorption of photons by molecular building blocks, in particular carbon and nitrogen, prevails while water is nearly transparent. Over the last decade, several groups around the world including ours designed, built and applied x-ray microscopes for 3D imaging of bacteria, yeast, algae, plankton, protozoa, viruses, and immortalized and primary cells [3,4]. This presentation will focus on describing recent advances in instrumentation, acquisition strategies, and novel application directions of SXT.",
+      "url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
+      "pdf_url": "https://doi.org/10.1017/s1431927620023971",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 18,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
+          "title": "Recent advances in volumetric super-resolution imaging through computational adaptive optics",
+          "year": 2026,
+          "journal": "Molecular Brain",
+          "authors": [
+            "Sangjun Park",
+            "Seungwon Jeong",
+            "Changhyun Yoo"
+          ],
+          "doi": "10.1186/s13041-026-01334-x",
+          "url": "https://www.semanticscholar.org/paper/890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
+          "citation_count": 0
+        },
+        {
+          "id": "d78186d3b0d8e4937f041575093133a221f40697",
+          "title": "The emergence of hybrid super-resolution microscopy",
+          "year": 2026,
+          "journal": "Methods in Microscopy",
+          "authors": [
+            "Ole Borup Svendsen",
+            "Maria Schwerk",
+            "Thiago Goldbeck-Strieder"
+          ],
+          "doi": "10.1515/mim-2026-0003",
+          "url": "https://www.semanticscholar.org/paper/d78186d3b0d8e4937f041575093133a221f40697",
+          "citation_count": 0
+        },
+        {
+          "id": "7e6c56902958242e79ce7202e3f3c179afab8456",
+          "title": "High-resolution three-dimensional diffraction tomography based on confocal microscopy",
+          "year": 2026,
+          "journal": "International Conference on Machine Vision and Applications",
+          "authors": [
+            "Min Xu"
+          ],
+          "doi": "10.1117/12.3119845",
+          "url": "https://www.semanticscholar.org/paper/7e6c56902958242e79ce7202e3f3c179afab8456",
+          "citation_count": 0
+        },
+        {
+          "id": "ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
+          "title": "In-situ/Operando Nanoscale Imaging of Strain and Defect by Coherent X-Ray Diffraction Imaging",
+          "year": 2026,
+          "journal": "ECS Meeting Abstracts",
+          "authors": [
+            "Wonsuk Cha"
+          ],
+          "doi": "10.1149/ma2026-01472337mtgabs",
+          "url": "https://www.semanticscholar.org/paper/ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
+          "citation_count": 0
+        },
+        {
+          "id": "933c21bf2151362196b16834b9e5a0300481ce81",
+          "title": "Advanced X-Ray Imaging Technology.",
+          "year": 2026,
+          "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+          "authors": [
+            "Daniela Pfeiffer",
+            "E. Rummeny",
+            "Franz Pfeiffer"
+          ],
+          "doi": "10.1007/978-3-032-15314-2_1",
+          "url": "https://www.semanticscholar.org/paper/933c21bf2151362196b16834b9e5a0300481ce81",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Materials Science"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
+    },
+    {
       "id": "f094760e8c9d05ee4f445f7c1a3e8e7e43c335cb",
       "semantic_scholar_id": "f094760e8c9d05ee4f445f7c1a3e8e7e43c335cb",
       "source": "Semantic Scholar",
@@ -36820,114 +37052,6 @@
         "sediment",
         "sulfur",
         "virus"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
-    },
-    {
-      "id": "86dd778bf622faa10b54386015d01e452e7d3f34",
-      "semantic_scholar_id": "86dd778bf622faa10b54386015d01e452e7d3f34",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1017/s1431927620023971",
-      "title": "Advances in Soft X-ray Tomography",
-      "authors": [
-        "V. Weinhardt",
-        "Jian-Hua Chen",
-        "A. Ekman",
-        "M. Le Gros",
-        "Gerry Mc Dermott",
-        "C. Larabell"
-      ],
-      "journal": "Microscopy and Microanalysis",
-      "publication_date": "2020-08-01",
-      "abstract": "Soft x-ray tomography (SXT) has emerged as a unique method for three-dimensional (3D) imaging of single cells [1,2]. Soft x-rays from 284 to 543 eV (2.34 to 4.4 nm) generate contrast for cells in their native, wet state without the use of chemical fixation or staining. In this so-called “water window” energy range, absorption of photons by molecular building blocks, in particular carbon and nitrogen, prevails while water is nearly transparent. Over the last decade, several groups around the world including ours designed, built and applied x-ray microscopes for 3D imaging of bacteria, yeast, algae, plankton, protozoa, viruses, and immortalized and primary cells [3,4]. This presentation will focus on describing recent advances in instrumentation, acquisition strategies, and novel application directions of SXT.",
-      "url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
-      "pdf_url": "https://doi.org/10.1017/s1431927620023971",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 18,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
-          "title": "Recent advances in volumetric super-resolution imaging through computational adaptive optics",
-          "year": 2026,
-          "journal": "Molecular Brain",
-          "authors": [
-            "Sangjun Park",
-            "Seungwon Jeong",
-            "Changhyun Yoo"
-          ],
-          "doi": "10.1186/s13041-026-01334-x",
-          "url": "https://www.semanticscholar.org/paper/890376f5b80d8d10c409ee6f707a20ec2bdf4dd4",
-          "citation_count": 0
-        },
-        {
-          "id": "d78186d3b0d8e4937f041575093133a221f40697",
-          "title": "The emergence of hybrid super-resolution microscopy",
-          "year": 2026,
-          "journal": "Methods in Microscopy",
-          "authors": [
-            "Ole Borup Svendsen",
-            "Maria Schwerk",
-            "Thiago Goldbeck-Strieder"
-          ],
-          "doi": "10.1515/mim-2026-0003",
-          "url": "https://www.semanticscholar.org/paper/d78186d3b0d8e4937f041575093133a221f40697",
-          "citation_count": 0
-        },
-        {
-          "id": "7e6c56902958242e79ce7202e3f3c179afab8456",
-          "title": "High-resolution three-dimensional diffraction tomography based on confocal microscopy",
-          "year": 2026,
-          "journal": "International Conference on Machine Vision and Applications",
-          "authors": [
-            "Min Xu"
-          ],
-          "doi": "10.1117/12.3119845",
-          "url": "https://www.semanticscholar.org/paper/7e6c56902958242e79ce7202e3f3c179afab8456",
-          "citation_count": 0
-        },
-        {
-          "id": "ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
-          "title": "In-situ/Operando Nanoscale Imaging of Strain and Defect by Coherent X-Ray Diffraction Imaging",
-          "year": 2026,
-          "journal": "ECS Meeting Abstracts",
-          "authors": [
-            "Wonsuk Cha"
-          ],
-          "doi": "10.1149/ma2026-01472337mtgabs",
-          "url": "https://www.semanticscholar.org/paper/ae6d4c43b8ccc6279c53d28c5623de1a89cae455",
-          "citation_count": 0
-        },
-        {
-          "id": "933c21bf2151362196b16834b9e5a0300481ce81",
-          "title": "Advanced X-Ray Imaging Technology.",
-          "year": 2026,
-          "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
-          "authors": [
-            "Daniela Pfeiffer",
-            "E. Rummeny",
-            "Franz Pfeiffer"
-          ],
-          "doi": "10.1007/978-3-032-15314-2_1",
-          "url": "https://www.semanticscholar.org/paper/933c21bf2151362196b16834b9e5a0300481ce81",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Materials Science"
-      ],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "virus",
-        "water"
       ],
       "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
@@ -38292,116 +38416,6 @@
       "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
     },
     {
-      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.46427/gold2020.1931",
-      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
-      "authors": [
-        "O. Nigro",
-        "L. McKay",
-        "K. Luttrell",
-        "W. Inskeep"
-      ],
-      "journal": "Goldschmidt Abstracts",
-      "publication_date": "2020-01-01",
-      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
-      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "79d39f6a8ed0d96116988d9318b6e5020b8dc491",
-          "title": "Prokaryotic and microbial eukaryotic communities across acid-sulfate and chloride-rich hot springs in Lassen Volcanic National Park.",
-          "year": 2026,
-          "journal": "Scientific Reports",
-          "authors": [
-            "Makeda I. Mills",
-            "Amanda M. Achberger",
-            "Andy J Wanta"
-          ],
-          "doi": "10.1038/s41598-026-61095-4",
-          "url": "https://www.semanticscholar.org/paper/79d39f6a8ed0d96116988d9318b6e5020b8dc491",
-          "citation_count": 0
-        },
-        {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
-          ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
-          "citation_count": 0
-        },
-        {
-          "id": "a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
-          "title": "Hawaiian geothermal fumaroles contain diverse and novel viruses",
-          "year": 2026,
-          "journal": "Microbiology spectrum",
-          "authors": [
-            "Pia Sen",
-            "L. Oliver",
-            "Kira S. Makarova"
-          ],
-          "doi": "10.1128/spectrum.01567-26",
-          "url": "https://www.semanticscholar.org/paper/a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
-          "citation_count": 0
-        },
-        {
-          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Meiqi Huang",
-            "Shengjie Li",
-            "Guangli Mu"
-          ],
-          "doi": "10.1016/j.envres.2026.125274",
-          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "citation_count": 0
-        },
-        {
-          "id": "1172f9597587362cbe9b0e23ef491299dd846881",
-          "title": "Metagenomic insights into the taxonomic and metabolic diversity of the microbiome of Lake Karum in the Danakil Depression, Ethiopia",
-          "year": 2026,
-          "journal": "Environmental Microbiome",
-          "authors": [
-            "M. Macey",
-            "Velislava Ilieva",
-            "B. Stephens"
-          ],
-          "doi": "10.1186/s40793-026-00938-z",
-          "url": "https://www.semanticscholar.org/paper/1172f9597587362cbe9b0e23ef491299dd846881",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "sediment",
-        "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
-      "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
-    },
-    {
       "id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "semantic_scholar_id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "source": "Semantic Scholar",
@@ -38509,6 +38523,116 @@
         "carbon",
         "nitrogen",
         "phosphorus",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-02T22:14:49.518129+00:00",
+      "edges_enriched_at": "2026-08-04T22:32:48.668793+00:00"
+    },
+    {
+      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.46427/gold2020.1931",
+      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
+      "authors": [
+        "O. Nigro",
+        "L. McKay",
+        "K. Luttrell",
+        "W. Inskeep"
+      ],
+      "journal": "Goldschmidt Abstracts",
+      "publication_date": "2020-01-01",
+      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
+      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "79d39f6a8ed0d96116988d9318b6e5020b8dc491",
+          "title": "Prokaryotic and microbial eukaryotic communities across acid-sulfate and chloride-rich hot springs in Lassen Volcanic National Park.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Makeda I. Mills",
+            "Amanda M. Achberger",
+            "Andy J Wanta"
+          ],
+          "doi": "10.1038/s41598-026-61095-4",
+          "url": "https://www.semanticscholar.org/paper/79d39f6a8ed0d96116988d9318b6e5020b8dc491",
+          "citation_count": 0
+        },
+        {
+          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
+          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zuhan Ge",
+            "Saqi Wang",
+            "Nan Zhang"
+          ],
+          "doi": "10.1016/j.envres.2026.125118",
+          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "citation_count": 0
+        },
+        {
+          "id": "a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
+          "title": "Hawaiian geothermal fumaroles contain diverse and novel viruses",
+          "year": 2026,
+          "journal": "Microbiology spectrum",
+          "authors": [
+            "Pia Sen",
+            "L. Oliver",
+            "Kira S. Makarova"
+          ],
+          "doi": "10.1128/spectrum.01567-26",
+          "url": "https://www.semanticscholar.org/paper/a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
+          "citation_count": 0
+        },
+        {
+          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Meiqi Huang",
+            "Shengjie Li",
+            "Guangli Mu"
+          ],
+          "doi": "10.1016/j.envres.2026.125274",
+          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "citation_count": 0
+        },
+        {
+          "id": "1172f9597587362cbe9b0e23ef491299dd846881",
+          "title": "Metagenomic insights into the taxonomic and metabolic diversity of the microbiome of Lake Karum in the Danakil Depression, Ethiopia",
+          "year": 2026,
+          "journal": "Environmental Microbiome",
+          "authors": [
+            "M. Macey",
+            "Velislava Ilieva",
+            "B. Stephens"
+          ],
+          "doi": "10.1186/s40793-026-00938-z",
+          "url": "https://www.semanticscholar.org/paper/1172f9597587362cbe9b0e23ef491299dd846881",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
         "virus",
         "water"
       ],
@@ -40721,7 +40845,7 @@
       "doi": "10.31031/EIMBO.2018.01.000520",
       "title": "Metagenomics to Unlock the Biotechnological Potential of Marine Environments",
       "authors": [
-        "M. D. C. P. Silva"
+        "M. C. P. E. Silva"
       ],
       "journal": "",
       "publication_date": "2018-04-13",
@@ -44201,7 +44325,7 @@
       "title": "Dynamics of nutrients, total organic carbon, prokaryotes and viruses in onboard incubations of cold-water corals",
       "authors": [
         "C. Maier",
-        "A. Kluijver",
+        "A. D. Kluijver",
         "M. Agis",
         "C. Brussaard",
         "F. C. Duyl",
