@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T23:18:17.702256+00:00",
+  "updated_at": "2026-09-12T23:04:23.007169+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -109,7 +109,14 @@
       "pmid": "42702111",
       "doi": "10.1016/j.watres.2026.126856",
       "title": "Magnetite facilitates phage-bacteria interactions and phage-associated metabolic coordination for medium-chain fatty acid biosynthesis under ammonia stress.",
-      "authors": [],
+      "authors": [
+        "Meng Zhang",
+        "Zi-Yi Wang",
+        "Jun-Tao Xia",
+        "Yu-Ming Zhen",
+        "Feng Jiang",
+        "Liang Zhang"
+      ],
       "journal": "Water Research",
       "publication_date": "2026-09-01",
       "abstract": "Medium-chain fatty acid (MCFA) production from waste activated sludge (WAS) is considered to rely on the syntrophic interactions among distinct functional microorganisms. Whether phages represent an overlooked ecological component involved in MCFA biosynthesis remains unclear. MCFA production is often inhibited by high total ammonia nitrogen (TAN). Conductive materials have been proposed as effective strategies to enhance or recover MCFA production under TAN stress. Therefore, the inhibition-recovery system could provide a useful framework for investigating whether viral ecological responses are associated with MCFA-related metabolic processes. In this study, magnetite (Fe3O4) was selected as the recovery strategy of MCFA production under TAN stress. Results showed that a total of 3915 vOTUs and 118 metagenome-assembled genomes were recovered from the anaerobic bioreactors subjected to three conditions: Control (without TAN stress), TAN stress, and TAN stress with Fe3O4 presence. Under high TAN environment (∼5 g/L), MCFA production reduced by 49% (1.3 g COD/L) in comparison to that without high TAN stress. The ecological coupling between temperate phages and MCFA-related bacterial hosts was weakened, accompanied by substantial decreases in the abundance and transcriptional abundance of phage-associated auxiliary metabolic genes (AMGs) related to MCFA synthesis (e.g., fatty acid biosynthesis, acyl-chain metabolism). In the presence of Fe3O4 (i.e., 10 g/L), MCFA production was four and two times higher than those with and without high TAN stress. In addition to enhanced phage-bacteria ecological coupling and increased the abundance and transcription of AMGs related to MCFA formation, Fe3O4 increased the abundance and expressions of electron-transfer-related AMGs (e.g., cbb3-type cytochrome c oxidase, type IV pilus assembly genes) and QS-related LuxR-family and HTH-type regulators, indicating that such indirect pathway could be largely overlooked during MCFA synthesis. This is also the first-time reporting that phages could represent an ecological layer responsive to iron oxide. Analyses of publicly available metagenomes collected from MCFA-oriented anaerobic systems further confirmed that phages could be broadly associated with the metabolic processes involved in MCFA biosynthesis. Taken together, this study reveals that phages could serve as an overlooked ecological layer associated with MCFA metabolism and provide a viral-ecology perspective for understanding TAN inhibition and iron oxide-mediated recovery during WAS-to-MCFA bioconversion.",
@@ -224,7 +231,7 @@
         "Anastasia Yu. Korotkevich",
         "Rong Mao",
         "Yang Zhang",
-        "Ximei Zhang"
+        "Xi-Mei Zhang"
       ],
       "journal": "Global Change Biology",
       "publication_date": "2026-08-28",
@@ -623,7 +630,7 @@
         "D. Ning",
         "K. Wan",
         "S. Celniker",
-        "Jizhong Zhou",
+        "Ji-Zhong Zhou",
         "P. Dijkstra",
         "B. Hungate",
         "J. Pett-Ridge",
@@ -1496,12 +1503,89 @@
       "pdf_url": "https://doi.org/10.1093/ismeco/ycag184",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
+      "reference_count": 103,
+      "references": [
+        {
+          "title": "Decomposition potential and population structure among active microbial communities in deep salt marsh sediments",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/6272836d514b4108d85a764c718da9024b44deb4",
+          "doi": "10.1101/2025.07.18.665577"
+        },
+        {
+          "title": "Population ecology and biogeochemical implications of ssDNA and dsDNA viruses along a permafrost thaw gradient",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/405f862b13052ac8c60a59609d6a149cd82b8379",
+          "doi": "10.1038/s41467-025-67057-0"
+        },
+        {
+          "title": "Microbial Communities Display Key Functional Differences between Reference and Restored Salt Marshes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/03c39e7ba55bed4e081b6627968f406e12ae52cc",
+          "doi": "10.1007/s00248-025-02661-7"
+        },
+        {
+          "title": "A call for caution in the biological interpretation of viral auxiliary metabolic genes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b695661ee127de0ac4e443eaace8ecc440d05233",
+          "doi": "10.1038/s41564-025-02095-4"
+        },
+        {
+          "title": "Protein structure-informed bacteriophage genome annotation with Phold",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/20c21eb8f04b0ce9ab6bfaa4fd7c774c92de1d1a",
+          "doi": "10.1093/nar/gkaf1448"
+        },
+        {
+          "title": "Microbial metacommunity of salt marshes rebuilds along an elevational gradient after initial disturbance",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/d851f8ce786035bd0a9148c40f347a0a66abd1f8",
+          "doi": "10.1038/s41598-025-12995-4"
+        },
+        {
+          "title": "Elemental Geochemistry of Tidal Marsh Sediment and Its Potential as an Indicator of Sea‐Level Change in Cascadia",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/3a79a2b552c43d7ffb8cdd789552d85b749ac05c",
+          "doi": "10.1029/2024GC012129"
+        },
+        {
+          "title": "Viral community diversity in the rhizosphere of the foundation salt marsh plant Spartina alterniflora",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/3a5453332072a23d2d4d924c04ad9d9840b02aae",
+          "doi": "10.1101/2025.04.03.647062"
+        }
+      ],
       "similar_papers": [
         {
+          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Haoran Wang",
+            "Chunhui Ai",
+            "A. Barcan"
+          ],
+          "doi": "10.64898/2026.07.27.740809",
+          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "citation_count": 0
+        },
+        {
+          "id": "fec43695b66e32e9fd2be603a5ec726b4deb5a53",
+          "title": "Genome-resolved metagenomics reveals microbial potential for CO2 and CH4 emissions in prawn ponds",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "A. Bashar",
+            "A. M. Djurhuus",
+            "P. Browne"
+          ],
+          "doi": "10.64898/2026.08.18.745432",
+          "url": "https://www.semanticscholar.org/paper/fec43695b66e32e9fd2be603a5ec726b4deb5a53",
+          "citation_count": 0
+        },
+        {
           "id": "41e35b107cc061c7168f70a45384a3ed319118de",
-          "title": "Microbial Diversity, Structure and Predicted Carbon-cycling Pathways Show Partial Convergence in Restored and Natural Salt Marshes in Venice Lagoon.",
+          "title": "Microbial Diversity, Structure and Predicted Carbon-cycling Pathways Show Partial Convergence in Restored and Natural Salt Marshes in Venice Lagoon",
           "year": 2026,
           "journal": "Microbial Ecology",
           "authors": [
@@ -1514,59 +1598,31 @@
           "citation_count": 0
         },
         {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "id": "841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
+          "title": "Seagrass-derived carbon suppresses nitrification and N2O emissions by Comammox and canonical nitrifier communities",
           "year": 2026,
-          "journal": "Environmental Research",
+          "journal": "ISME Communications",
           "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
+            "Ruilin Su",
+            "P. Chan",
+            "Xiaodong Zhang"
           ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "doi": "10.1093/ismeco/ycag220",
+          "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
           "citation_count": 0
         },
         {
-          "id": "d69a7dccd215f4b9555134d2408c470709a93256",
-          "title": "Viral lysis accelerates microbial succession patterns resembling diatom senescence.",
+          "id": "b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
+          "title": "Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential",
           "year": 2026,
-          "journal": "The ISME Journal",
+          "journal": "bioRxiv",
           "authors": [
-            "Turk Dermastia Timotej",
-            "GU Ion",
-            "Rupnik Tinkara"
+            "L. Ustick",
+            "H. Roš",
+            "Shahriyar Mahdi Robbani"
           ],
-          "doi": "10.1093/ismejo/wrag206",
-          "url": "https://www.semanticscholar.org/paper/d69a7dccd215f4b9555134d2408c470709a93256",
-          "citation_count": 0
-        },
-        {
-          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
-          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
-          "year": 2026,
-          "journal": "Journal of Basic Microbiology",
-          "authors": [
-            "Baber Ali",
-            "Muhammad Khan",
-            "Muhammad Osama"
-          ],
-          "doi": "10.1002/jobm.70186",
-          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
-          "citation_count": 0
-        },
-        {
-          "id": "60992c2950dc17e61bc87df07a0d40ab95762312",
-          "title": "Unveiling active microbial processes in Earth's deepest seawater.",
-          "year": 2026,
-          "journal": "Cell Host and Microbe",
-          "authors": [
-            "Weijia Zhang",
-            "Aoran Hu",
-            "Ziheng Wu"
-          ],
-          "doi": "10.1016/j.chom.2026.07.001",
-          "url": "https://www.semanticscholar.org/paper/60992c2950dc17e61bc87df07a0d40ab95762312",
+          "doi": "10.64898/2026.07.27.741065",
+          "url": "https://www.semanticscholar.org/paper/b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
           "citation_count": 0
         }
       ],
@@ -1588,8 +1644,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
-      "edges_enriched_at": "2026-08-13T22:07:00.457495+00:00"
+      "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
+      "edges_enriched_at": "2026-09-12T23:04:19.206836+00:00"
     },
     {
       "id": "6e51a3ca3adc065f382a92cb37f3d0c9307bdde8",
@@ -2616,8 +2672,8 @@
         "Julia Micheel",
         "Sabine Eckhardt",
         "N. Evangeliou",
-        "C. G. Groot Zwaaftink",
-        "M. van Pinxteren"
+        "Christine Groot Zwaaftink",
+        "Manuela van Pinxteren"
       ],
       "journal": "bioRxiv",
       "publication_date": "2026-05-18",
@@ -3556,7 +3612,7 @@
         "Heng-Yi Wang",
         "Jingjing Peng",
         "Yuan-Ming Zhao",
-        "Jingan Chen",
+        "Jin-Gan Chen",
         "Quan Yuan"
       ],
       "journal": "Applied and Environmental Microbiology",
@@ -4207,7 +4263,7 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
+      "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
       "edges_enriched_at": "2026-08-14T21:42:36.053308+00:00"
     },
     {
@@ -5141,7 +5197,7 @@
       "authors": [
         "Jinhao Shen",
         "Meiaoxue Han",
-        "Jin Sun",
+        "Jing-Wen Sun",
         "Hao Yu",
         "Yeqing Yang",
         "Ke-Hua Shen",
@@ -5302,7 +5358,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-13T22:06:51.736898+00:00",
+      "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
       "edges_enriched_at": "2026-08-14T21:42:36.053308+00:00"
     },
     {
@@ -6054,7 +6110,7 @@
         "Akbar Adjie Pratama",
         "Olga Pérez-Carrascal",
         "Matthew B. Sullivan",
-        "K. Küsel"
+        "Kirsten Küsel"
       ],
       "journal": "Nature Communications",
       "publication_date": "2026-01-30",
@@ -7010,7 +7066,7 @@
       "abstract": "This study demonstrates a sustainable and integrated method for the co-production of carbon quantum dots (CQDs) and activated carbon (AC) using natural rubber (NR) latex, which is a renewable and widely available biomass. CQDs were synthesized via a hydrothermal method using cetyltrimethylammonium bromide and nitric acid as nitrogen dopants. The as-formed product comprised uniform amorphous nanoparticles (3.5–11.0 nm) that exhibited intense blue photoluminescence and abundant surface amino and oxygen-containing groups. The CQDs exhibited excellent antimicrobial and antiviral activities, achieving >99.9% inactivation of Staphylococcus aureus, Micrococcus luteus, Escherichia coli, Candida albicans, Aspergillus niger, and influenza A virus (H3N2) within 5 min of exposure at a concentration of 15 µg mL−1. Moreover, they demonstrated negligible cytotoxicity toward HaCaT keratinocytes. Furthermore, the hydrochar obtained as a by-product of hydrothermal synthesis was subsequently converted into AC via physical and chemical activation, yielding a large-surface-area adsorbent (up to 1167 m2 g−1) featuring a diclofenac uptake capacity of 126.82 mg g−1 at 25 °C. The adsorption process followed pseudo-second-order kinetics and a Langmuir-type monolayer adsorption mechanism. Adsorption mainly proceeded via π–π interactions, hydrogen bonding, and electrostatic attraction between diclofenac molecules and heteroatom-rich surface sites. This dual-function valorization of NR latex simultaneously addresses microbial and pharmaceutical pollution, advancing circular bioeconomy principles and offering sustainable solutions for water treatment and healthcare applications.",
       "url": "https://www.semanticscholar.org/paper/86ddc2b43da35b786413b602b412b6437893b26a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/86ddc2b43da35b786413b602b412b6437893b26a",
-      "pdf_url": "",
+      "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2025/ra/d5ra07708g",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 99,
@@ -7161,7 +7217,7 @@
       "title": "Population ecology and biogeochemical implications of ssDNA and dsDNA viruses along a permafrost thaw gradient",
       "authors": [
         "Gareth Trubl",
-        "Simon Roux",
+        "S. Roux",
         "M. Borton",
         "A. Varsani",
         "Yueh-Fen Li",
@@ -7504,7 +7560,7 @@
       "abstract": "Salt marshes, despite their ecological importance (i.e., carbon sequestration) and rapid decline due to climate change and sea-level rise. Salt marsh ecosystems provide essential services such as removal of pollutants, carbon sequestration, and protection of coastal lands from storm surges. These services are strongly influenced by plant productivity, which is closely linked to microbial processes such as biogeochemical cycling of carbon, nitrogen, and sulfur. To retain carbon sequestration and other ecological functions, substantial efforts are currently directed towards coastal marsh restoration. Restoration efforts often lack comprehensive assessments of ecosystem functioning. Here, in an effort to assess ecosystem functions, we compared the microbial and viral community composition, as well as the genetic potential between reference and 10-year-old restored marshes in Galveston Bay, TX, USA. Duplicate bulk surface sediment in stands of Spartina alterniflora were sampled for metagenomic analysis. Metagenome assembled genomes analysis showed that while the microbial community composition was largely similar among sites, the overall metabolic potential was dissimilar. Restored sites displayed a higher abundance of carbon and nitrogen cycling functions compared to reference sites, which mainly consisted of sulfur cycling. Although the restored sites developed sediment microbial communities that approached reference microbial composition, the differences in the metabolic functions suggest that even after 10 years, the restored sites were still in a transitional stage of development. The differences between the reference and restored sites were even more differentiated in the viral community’s predicted host composition. Additionally, viruses potentially play a variety of roles within the sediment community, including population control and biogeochemical cycles participation through auxiliary metabolic genes. These results highlight the prolonged timeline of functional development in restored salt marshes and highlight the need to develop approaches to boost the development of soil microbial communities in newly created habitats.",
       "url": "https://www.semanticscholar.org/paper/03c39e7ba55bed4e081b6627968f406e12ae52cc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/03c39e7ba55bed4e081b6627968f406e12ae52cc",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1007/s00248-025-02661-7",
       "citation_count": 2,
       "influential_citation_count": 1,
       "reference_count": 60,
@@ -7677,7 +7733,7 @@
       "url": "https://www.semanticscholar.org/paper/a66853c8eecdbe4a8bee9e7732cf9838f3882ab6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a66853c8eecdbe4a8bee9e7732cf9838f3882ab6",
       "pdf_url": "https://doi.org/10.1002/advs.202511707",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 59,
       "references": [
@@ -8015,7 +8071,7 @@
       "title": "Metagenomic analysis reveals global landscape of viruses in biogeochemical cycles and microbial resistance in paddy soils and wetlands.",
       "authors": [
         "M. H. Hemmat-Jou",
-        "Fasong Li",
+        "Fa-Song Li",
         "Dejin Wang",
         "Ruichuan Gao",
         "Xiao-xia Zhou",
@@ -10973,7 +11029,7 @@
       "url": "https://www.semanticscholar.org/paper/81471866e232f6b18dacb2ca11914e083790ae06",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/81471866e232f6b18dacb2ca11914e083790ae06",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 54,
       "references": [],
@@ -13247,7 +13303,7 @@
       "title": "Virocell Necromass Provides Limited Plant Nitrogen and Elicits Rhizosphere Metabolites That Affect Phage Dynamics.",
       "authors": [
         "Vlastimil Novak",
-        "Michelle C M van Winden",
+        "Michelle C. M. van Winden",
         "Thomas V. Harwood",
         "R. Neurath",
         "S. Kosina",
@@ -14951,7 +15007,7 @@
       "url": "https://www.semanticscholar.org/paper/835c26ae2cd959c13d04fb3d7534c85996748707",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/835c26ae2cd959c13d04fb3d7534c85996748707",
       "pdf_url": "https://doi.org/10.1016/j.envint.2024.109125",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 1,
       "reference_count": 91,
       "references": [
@@ -16464,7 +16520,7 @@
       "abstract": "Background Understanding the interactions and dynamics of microbiotas within biological wastewater treatment systems is essential for ensuring their stability and long-term sustainability. In this study, we developed a systematic framework employing multi-omics and Hi-C sequencing to extensively investigate prokaryotic and phage communities within a hybrid biofilm and activated sludge system. Results We uncovered distinct distribution patterns, metabolic capabilities, and activities of functional prokaryotes through the analysis of 454 reconstructed prokaryotic genomes. Additionally, we reconstructed a phage catalog comprising 18,645 viral operational taxonomic units (vOTUs) with high length and contiguity using hybrid assembly, and a distinct distribution of phages was depicted between activated sludge (AS) and biofilm. Importantly, 1340 host-phage pairs were established using Hi-C and conventional in silico methods, unveiling the host-determined phage prevalence. The majority of predicted hosts were found to be involved in various crucial metabolic processes, highlighting the potential vital roles of phages in influencing substance metabolism within this system. Moreover, auxiliary metabolic genes (AMGs) related to various categories (e.g., carbohydrate degradation, sulfur metabolism, transporter) were predicted. Subsequent activity analysis emphasized their potential ability to mediate host metabolism during infection. We also profiled the temporal dynamics of phages and their associated hosts using 13-month time-series metagenomic data, further demonstrating their tight interactions. Notably, we observed lineage-specific infection patterns, such as potentially host abundance- or phage/host ratio-driven phage population changes. Conclusions The insights gained from this research contribute to the growing body of knowledge surrounding interactions and dynamics of host-phage and pave the way for further exploration and potential applications in the field of microbial ecology. Video Abstract",
       "url": "https://www.semanticscholar.org/paper/29f497c4f25336b2792d27c9d7e2f42ebb5798b5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/29f497c4f25336b2792d27c9d7e2f42ebb5798b5",
-      "pdf_url": "https://doi.org/10.1186/s40168-024-01853-6",
+      "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01853-6",
       "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 74,
@@ -18262,7 +18318,7 @@
         "J. Jansson",
         "J. McDermott",
         "K. Hofmockel",
-        "Jeffrey L. Blanchard",
+        "J. Blanchard",
         "Xiao-Jun A. Liu",
         "Jorge L. Mazza Rodrigues",
         "Zachary B. Freedman",
@@ -18276,7 +18332,7 @@
         "Susannah G. Tringe",
         "Archana Chauhan",
         "Don A. Cowan",
-        "Marc W. Van Goethem",
+        "M. V. Van Goethem",
         "Tanja Woyke",
         "Nicholas C. Dove",
         "Konstantinos T. Konstantinidis",
@@ -18290,7 +18346,7 @@
         "Klaus Nüsslein",
         "Thulani P. Makhalanyane",
         "Katherine A. Dynarski",
-        "Neslihan Taş",
+        "N. Taş",
         "Graeme W. Nicol",
         "Christina Hazard",
         "Erin D. Scully",
@@ -20300,7 +20356,7 @@
         "Qi Zhang",
         "Jian Kang",
         "N. Xu",
-        "Zhenyan Zhang",
+        "Zhen-Yan Zhang",
         "Yu Deng",
         "Michael R Gillings",
         "Tao Lu",
@@ -23410,7 +23466,7 @@
         "A. Varsani",
         "Yueh-Fen Li",
         "Christine L. Sun",
-        "H. Jang",
+        "Ho-Bin Jang",
         "B. Woodcroft",
         "G. Tyson",
         "K. Wrighton",
@@ -23527,7 +23583,7 @@
       "authors": [
         "P. Yadav",
         "Amanda Quattrone",
-        "Yuguo Yang",
+        "Yu-Guo Yang",
         "J. Owens",
         "Rebecca Kiat",
         "Thirumurugen Kuppusamy",
@@ -26625,7 +26681,7 @@
       "url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01441-6",
-      "citation_count": 82,
+      "citation_count": 83,
       "influential_citation_count": 5,
       "reference_count": 126,
       "references": [
@@ -27941,7 +27997,7 @@
         "T. Fegel",
         "R. Daly",
         "Holly K. Roth",
-        "R. Chu",
+        "Rosalie K. Chu",
         "K. Amundson",
         "Robert B. Young",
         "A. Steindorff",
@@ -29260,9 +29316,9 @@
       "authors": [
         "Shaoming Gao",
         "David Páez-Espino",
-        "Jin-tian Li",
-        "Hongxia Ai",
-        "Jieliang Liang",
+        "Jin-Tian Li",
+        "Hong-Xia Ai",
+        "Jie-Liang Liang",
         "Zhenhao Luo",
         "Jin Zheng",
         "Hao Chen",
@@ -32011,7 +32067,7 @@
         "Wenjing Zhang",
         "Cui Guo",
         "Hui He",
-        "Hualong Wang",
+        "Hua-Long Wang",
         "Y. Sung",
         "W. Mok",
         "L. Wong",
@@ -32349,7 +32405,7 @@
         "Haiting Wang",
         "Guixian Chen",
         "Ye Cheng",
-        "Jianping Chen",
+        "Jian-Ping Chen",
         "Jian Yang",
         "T. Ge"
       ],
@@ -32460,7 +32516,7 @@
       "doi": "10.3389/fmicb.2021.748961",
       "title": "Microbial Ecology of Oxygen Minimum Zones Amidst Ocean Deoxygenation",
       "authors": [
-        "Andrew Long",
+        "Andrew M. Long",
         "Sophie K. Jurgensen",
         "Ariel R. Petchel",
         "Emily R. Savoie",
@@ -34061,7 +34117,7 @@
         "Drishti Soneja",
         "J. Chandonia",
         "Sarah J. Spencer",
-        "Xiaoqin Wu",
+        "Xiao-Qin Wu",
         "Sara D. Altenburg",
         "M. Fields",
         "A. Deutschbauer",
@@ -35178,7 +35234,7 @@
       "title": "Host And Pathogen Mechanisms Underpinning Viral Ecology And Emerging Infections",
       "authors": [
         "D. Schroeder",
-        "J. Etten",
+        "Jim L. Van Etten",
         "I. Jones",
         "J. Pawęska",
         "Zhènglì Shí",
@@ -37387,7 +37443,7 @@
         "Drishti Soneja",
         "J. Chandonia",
         "Sarah J. Spencer",
-        "Xiaoqin Wu",
+        "Xiao-Qin Wu",
         "Sara D. Altenburg",
         "M. Fields",
         "A. Deutschbauer",
@@ -37551,7 +37607,7 @@
       "title": "Temporal Dynamics of Soil Virus and Bacterial Populations in Agricultural and Early Plant Successional Soils",
       "authors": [
         "K. Roy",
-        "Dhritiman Ghosh",
+        "D. Ghosh",
         "Jennifer M. DeBruyn",
         "Tirthankar Dasgupta",
         "K. E. Wommack",
@@ -38113,7 +38169,7 @@
       "url": "https://www.semanticscholar.org/paper/4821549f7e13f68fb88862288588dbe3d5877573",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4821549f7e13f68fb88862288588dbe3d5877573",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/04/03/2020.04.02.019802.full.pdf",
-      "citation_count": 64,
+      "citation_count": 65,
       "influential_citation_count": 3,
       "reference_count": 83,
       "references": [
@@ -38735,7 +38791,7 @@
       "doi": "10.1016/b978-0-12-816204-0.00016-3",
       "title": "Production of single-cell proteins from organic matter and residual nitrogen",
       "authors": [
-        "T. Hülsen",
+        "Tim Hülsen",
         "G. Carvalho",
         "F. Egger",
         "Heidy Cruz",
@@ -39481,7 +39537,7 @@
       "authors": [
         "S. Yee",
         "D. Yee",
-        "R. de Jesús Crespo",
+        "Rebeca de Jesus Crespo",
         "A. Oczkowski",
         "F. Bai",
         "Stephanie D. Friedman"
@@ -40692,10 +40748,10 @@
       "doi": "10.1117/12.2531165",
       "title": "Biological laboratory x-ray microscopy",
       "authors": [
-        "M. Kördel",
+        "Mikael Kördel",
         "E. Fogelqvist",
         "V. Carannante",
-        "B. Önfelt",
+        "Björn Önfelt",
         "Hemanth K. N. Reddy",
         "M. Svenda",
         "J. Sellberg",
@@ -40987,7 +41043,7 @@
       "title": "Soil Viruses Are Underexplored Players in Ecosystem Carbon Processing",
       "authors": [
         "Gareth Trubl",
-        "H. Jang",
+        "Ho-Bin Jang",
         "S. Roux",
         "J. Emerson",
         "Natalie E. Solonenko",
@@ -43945,7 +44001,7 @@
         "D. Pan",
         "Rachel Watson",
         "Dake Wang",
-        "Zhenghang Tan",
+        "Zheng-Huan Tan",
         "D. Snow",
         "K. Weber"
       ],
@@ -44431,8 +44487,8 @@
       "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
     },
     {
-      "id": "9a7b19b35f65ddbdb41bf03c61a5f79489384381",
-      "semantic_scholar_id": "9a7b19b35f65ddbdb41bf03c61a5f79489384381",
+      "id": "b5cfdac64b57cb90d283c5151f858b142484c1e9",
+      "semantic_scholar_id": "b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "source": "Semantic Scholar",
       "pmid": "23482918",
       "doi": "10.1007/s10539-012-9344-0",
@@ -44444,8 +44500,8 @@
       "journal": "Biology & Philosophy",
       "publication_date": "2012-10-31",
       "abstract": "Viruses are major drivers of global biogeochemistry and the etiological agents of many diseases. They are also the winners in the game of life: there are more viruses on the planet than cellular organisms and they encode most of the genetic diversity on the planet. In fact, it is reasonable to view life as a viral incubator. Nevertheless, most ecological and evolutionary theories were developed, and continue to be developed, without considering the virosphere. This means these theories need to be to reinterpreted in light of viral knowledge or we need to develop new theory from the viral point-of-view. Here we briefly introduce our viral planet and then address a major outstanding question in biology: why is most of life viral? A key insight is that during an infection cycle the original virus is completely broken down and only the associated information is passed on to the next generation. This is different for cellular organisms, which must pass on some physical part of themselves from generation to generation. Based on this premise, it is proposed that the thermodynamic consequences of physical information (e.g., Landauer’s principle) are observed in natural viral populations. This link between physical and genetic information is then used to develop the Viral Information Hypothesis, which states that genetic information replicates itself to the detriment of system energy efficiency (i.e., is viral in nature). Finally, we show how viral information can be tested, and illustrate how this novel view can explain existing ecological and evolutionary theories from more fundamental principles.",
-      "url": "https://www.semanticscholar.org/paper/9a7b19b35f65ddbdb41bf03c61a5f79489384381",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9a7b19b35f65ddbdb41bf03c61a5f79489384381",
+      "url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10539-012-9344-0.pdf",
       "citation_count": 34,
       "influential_citation_count": 0,
@@ -44548,7 +44604,7 @@
       "abstract": "One of the greatest achievements in the life sciences in the 20th century was the recognition of three forms, or domains, of cellular life, i.e., Bacteria, Archaea, and Eukarya, in the three-domain theory put forward by Carl Woese and George Fox in 1977 [1]. According to their theory, Archaea, which were previously regarded as a peculiar group of bacteria, are no more closely related to Bacteria than to the Eucarya from a phylogenetic viewpoint and, thus, represent the third form of life. This theory was not widely accepted until 1996 when the genome sequence of Methanocaldococcus jan-naschii, a methane-producing archaeon, was published [2]. The genetic blueprint of this organism offered strong support for the three-domain theory. By some estimates, Archaea account for 20% of the total biomass on Earth [3]. The majority of known Archaea are extremophiles thriving in extremes of temperature, pH, salin-ity, etc. [4]. A number of hyperthermophilic Archaea have been isolated from hot springs and hydrothermal vents, halophilic Archaea from salt lakes, and acidophilic Archaea from acid mine drainage. Archaea also exist in \" non-extreme \" environments, including soils, wetlands, oceans, and the human colon [5]. Archaea are capable of a wide range of metabolic activities and are believed to serve important roles in driving the C, N, and S cycles on the planet [6]. Despite their resemblance in size and morphology, Archaea and Bacteria differ markedly in many important aspects, such as cell wall and membrane composition and DNA transactions [7–10]. Strikingly, Archaea employ genetic mechanisms similar to, but simpler than, those found in Eucarya [11]. Furthermore, a surprising variety of mobile genetic elements (e.g., viruses and plasmids) have been found in the domain Archaea [12]. Some archaeal viruses have unusual shapes that are never seen in bacteriophages or eucaryal viruses [13]. The landmark discovery of Archaea drew much attention to this new form of life. There was a further boost of interest in Archaea after the sequencing of the M. jannaschii genome. A number of laboratories have since become involved , at least partially, in studying Archaea for clues on the fundamentals and evolution of life or for enzymes or functions with potential applications. In the short period of less than 20 years since the end of the last century, our understanding of Archaea has significantly increased [13–21]. To date, nearly 200 archaeal genomes have been sequenced. Because of their unusual stability, proteins from thermo-philic …",
       "url": "https://www.semanticscholar.org/paper/6ae91e3b34300970447da018a50c55d10b03046c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6ae91e3b34300970447da018a50c55d10b03046c",
-      "pdf_url": "https://doi.org/10.1007/s11427-012-4323-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs11427-012-4323-x.pdf",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 0,
