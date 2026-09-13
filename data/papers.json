@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:04:23.007169+00:00",
+  "updated_at": "2026-09-13T23:13:07.405989+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -224,7 +224,7 @@
         "Y. Kuzyakov",
         "Shuang Pang",
         "Yi Wu",
-        "Tingting Li",
+        "Ting-Ting Li",
         "Wei Yang",
         "Honghui Wu",
         "A. A. Goncharov",
@@ -341,12 +341,12 @@
       "doi": "10.1038/s41467-026-76431-5",
       "title": "Elevation-structured viral ecological strategies along glacier-fed rivers on the Qinghai-Tibet Plateau",
       "authors": [
-        "Yinghao Li",
-        "Tianyi Chen",
+        "Ying-Hao Li",
+        "Tian-Yi Chen",
         "Pengwei Li",
-        "Guohua Zhang",
-        "Yucheng Tian",
-        "Jiawen Wang",
+        "Guo-Hua Zhang",
+        "Yu-Cheng Tian",
+        "Jia-Wen Wang",
         "Jinren Ni"
       ],
       "journal": "Nature Communications",
@@ -1358,9 +1358,9 @@
       "doi": "10.1111/gcb.70994",
       "title": "Resource‐Dependent Metabolic and Biogeochemical Consequences of Viruses in Agricultural Soils",
       "authors": [
-        "Guixiang Zhou",
+        "Gui-Xiang Zhou",
         "Junxi Liu",
-        "Fangming Liu",
+        "Fang-Ming Liu",
         "Yu Xiao",
         "Emily B. Graham",
         "Y. Kuzyakov",
@@ -1658,10 +1658,10 @@
         "Yuan Wang",
         "Changchun Yan",
         "Junwei Jin",
-        "Zhenyu Li",
+        "Zhen-Yu Li",
         "Hanghai Zhou",
         "Jiangwu Tang",
-        "Xuejiang Wang",
+        "Xue-Jiang Wang",
         "Hua Li"
       ],
       "journal": "Environmental Research",
@@ -1776,7 +1776,7 @@
         "N. Zhang",
         "Yaguang Li",
         "Deying Huang",
-        "Jibiao Zhang"
+        "Ji-Biao Zhang"
       ],
       "journal": "Environmental Research",
       "publication_date": "2026-06-26",
@@ -2057,7 +2057,7 @@
         "Hongbo Zhang",
         "Chen Liu",
         "Han-Peng Liao",
-        "Shungui Zhou"
+        "Shun-Gui Zhou"
       ],
       "journal": "mBio",
       "publication_date": "2026-06-15",
@@ -2389,7 +2389,7 @@
         "Ya-Ning Wang",
         "Bang Ni",
         "Mao Ye",
-        "Yifei Wang",
+        "Yi-Fei Wang",
         "Dong Zhu"
       ],
       "journal": "Environmental Science and Technology",
@@ -2672,8 +2672,8 @@
         "Julia Micheel",
         "Sabine Eckhardt",
         "N. Evangeliou",
-        "Christine Groot Zwaaftink",
-        "Manuela van Pinxteren"
+        "C. G. Groot Zwaaftink",
+        "M. van Pinxteren"
       ],
       "journal": "bioRxiv",
       "publication_date": "2026-05-18",
@@ -2837,7 +2837,7 @@
         "Xinyue Liu",
         "Chengpeng Li",
         "Jinxin Xu",
-        "Ziqi Wu",
+        "Zi-Qi Wu",
         "Xiyang Dong",
         "Qiang Zheng"
       ],
@@ -3004,11 +3004,11 @@
         "Akasha Farooq",
         "E. Olimi",
         "T. Cernava",
-        "Lingzi Zhang",
-        "Xiumei Yu",
+        "Ling-Zi Zhang",
+        "Xiu-Mei Yu",
         "Qiang Chen",
         "P. Penttinen",
-        "Yun-fu Gu"
+        "Yun-Fu Gu"
       ],
       "journal": "Communications Biology",
       "publication_date": "2026-05-07",
@@ -3174,7 +3174,7 @@
         "Tassiana S. G. Serafim",
         "Carola Lehners",
         "O. Wurl",
-        "Helena Osterholz",
+        "H. Osterholz",
         "J. Rahlff"
       ],
       "journal": "Limnology and Oceanography",
@@ -3336,7 +3336,7 @@
         "Minglei Ren",
         "Ang Hu",
         "Fanfan Meng",
-        "Jianjun Wang"
+        "Jian-Jun Wang"
       ],
       "journal": "Molecular Ecology",
       "publication_date": "2026-05-01",
@@ -3781,7 +3781,7 @@
         "Vitalii Zemlianskii",
         "Beat Stierli",
         "Ksenia A Ermokhina",
-        "G. Schaepman‐Strub",
+        "G. Schaepman-Strub",
         "Jessica Cuartero"
       ],
       "journal": "Communications Biology",
@@ -4109,7 +4109,7 @@
         "P. Gao",
         "Zhe Tao",
         "Yanhan Ji",
-        "Sihan Zhou",
+        "Si-Han Zhou",
         "J. Gong",
         "Chaoyu Deng",
         "Shuai Zhao",
@@ -4181,73 +4181,73 @@
       ],
       "similar_papers": [
         {
-          "id": "71735a33cd11cce1549d89f84536139dd8b78519",
-          "title": "Global long-term agricultural experiments reveal consequences of mineral fertilization for soil microbiomes",
+          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
+          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
           "year": 2026,
           "journal": "Nature Communications",
           "authors": [
-            "Shengwen Xu",
-            "M. Delgado‐Baquerizo",
-            "Yongxiang Yu"
+            "Hanpeng Liao",
+            "C. Ai",
+            "Chen Liu"
           ],
-          "doi": "10.1038/s41467-026-74614-8",
-          "url": "https://www.semanticscholar.org/paper/71735a33cd11cce1549d89f84536139dd8b78519",
+          "doi": "10.1038/s41467-026-75907-8",
+          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
           "citation_count": 0
         },
         {
-          "id": "87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "title": "Aridity-related differences in soil elemental ratios reshape microbial functional traits across global biomes",
+          "id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+          "title": "Ecosystem retrogression enhances cross‐domain microbial stability and increases the genetic potential for nutrient cycling",
+          "year": 2026,
+          "journal": "mLife",
+          "authors": [
+            "J. Ceja-Navarro",
+            "Dishant Patel",
+            "Garret Genco"
+          ],
+          "doi": "10.1002/mlf2.70087",
+          "url": "https://www.semanticscholar.org/paper/4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+          "citation_count": 0
+        },
+        {
+          "id": "d770c0a2d6b58aef842c90280a5faca89627f1c6",
+          "title": "Preparation method shapes the recovery and ecological interpretation of DNA and RNA soil viral communities",
           "year": 2026,
           "journal": "Nature Communications",
           "authors": [
-            "Chunkai Li",
-            "Youzhi Feng",
-            "Tadeo Sáez‐Sandino"
+            "J. Rodríguez-Ramos",
+            "A. Zimmerman",
+            "Ruonan Wu"
           ],
-          "doi": "10.1038/s41467-026-73215-9",
-          "url": "https://www.semanticscholar.org/paper/87ce3189aa4af4ad63dd66956d3747f20f16e949",
-          "citation_count": 1
+          "doi": "10.1038/s41467-026-74154-1",
+          "url": "https://www.semanticscholar.org/paper/d770c0a2d6b58aef842c90280a5faca89627f1c6",
+          "citation_count": 0
         },
         {
-          "id": "16f8fcd93e63025eb494fd9816b88bcb90560cc9",
-          "title": "Maize recruits beneficial microorganisms via rhizosphere metabolites as signals to construct a functional network for saline–alkaline stress resistance",
+          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
+          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
           "year": 2026,
-          "journal": "Frontiers in Plant Science",
+          "journal": "Journal of Animal Science and Biotechnology",
           "authors": [
-            "Yehui Han",
-            "Xinyuan Li",
-            "Chao Zhou"
+            "Wei Guo",
+            "Yin-Shu Yu",
+            "Wei-Wei Wang"
           ],
-          "doi": "10.3389/fpls.2026.1843423",
-          "url": "https://www.semanticscholar.org/paper/16f8fcd93e63025eb494fd9816b88bcb90560cc9",
-          "citation_count": 1
+          "doi": "10.1186/s40104-026-01487-8",
+          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
+          "citation_count": 0
         },
         {
-          "id": "39eec16475887266c50b81ee633950aa9245e572",
-          "title": "Differences in carbon sequestration capacity, rhizosphere microorganisms and metabolic functions among different herbaceous plants",
+          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
+          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
           "year": 2026,
-          "journal": "Frontiers in Plant Science",
+          "journal": "iScience",
           "authors": [
-            "Yu Zhou",
-            "Pushun Bian",
-            "Chen Yang"
+            "Chao-Jian Hu",
+            "Muhammad Asif",
+            "Jin-Hui Liu"
           ],
-          "doi": "10.3389/fpls.2026.1849153",
-          "url": "https://www.semanticscholar.org/paper/39eec16475887266c50b81ee633950aa9245e572",
-          "citation_count": 1
-        },
-        {
-          "id": "b07522f4b7be09a736a10bc484e4955a9985c860",
-          "title": "Resource‐Dependent Metabolic and Biogeochemical Consequences of Viruses in Agricultural Soils",
-          "year": 2026,
-          "journal": "Global Change Biology",
-          "authors": [
-            "Guixiang Zhou",
-            "Junxi Liu",
-            "Fangming Liu"
-          ],
-          "doi": "10.1111/gcb.70994",
-          "url": "https://www.semanticscholar.org/paper/b07522f4b7be09a736a10bc484e4955a9985c860",
+          "doi": "10.1016/j.isci.2026.117172",
+          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
           "citation_count": 0
         }
       ],
@@ -4264,7 +4264,7 @@
         "virus"
       ],
       "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
-      "edges_enriched_at": "2026-08-14T21:42:36.053308+00:00"
+      "edges_enriched_at": "2026-09-13T23:12:52.250242+00:00"
     },
     {
       "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
@@ -4441,10 +4441,10 @@
       "title": "Nutrient balance regulates soil microbial health under long-term fertilization",
       "authors": [
         "Da Lin",
-        "Qingxu Ma",
+        "Qing-Xu Ma",
         "Yu-Qiu Ye",
         "W. Wanek",
-        "A. S. Gregory",
+        "Andrew S. Gregory",
         "Davey L. Jones",
         "David W. Graham",
         "Dong Zhu",
@@ -4611,19 +4611,19 @@
         "Lei Gao",
         "Bao-Zhu Fang",
         "Jian Yang",
-        "Zhenghan Lian",
+        "Zheng-Han Lian",
         "Ying Chen",
-        "O. A. Mohamad",
+        "O. Mohamad",
         "Qing-Yu Xu",
-        "Yonghong Liu",
+        "Yong-Hong Liu",
         "Dildar Wu",
         "Yang Yuan",
         "Rashidin Abdugheni",
         "Meng-Meng Li",
-        "Pandeng Wang",
+        "Pan-Deng Wang",
         "M. Ortúzar",
         "Xin-Yao Li",
-        "Jianrong Huang",
+        "Jian-Rong Huang",
         "Lan Liu",
         "Hongshuang Jiang",
         "Wensheng Shu",
@@ -4790,11 +4790,11 @@
       "title": "Potential Viral Regulation of Sulfur Cycling in Urban Sewer Sediments.",
       "authors": [
         "Bang Ni",
-        "Xuejing Chen",
+        "Xue-Peng Chen",
         "Da Lin",
         "Zhiyuan Yao",
         "Jingjing Xia",
-        "Tianlun Zhang",
+        "Tian-Lun Zhang",
         "Jinting Zheng",
         "Tian-Gui Cai",
         "Xuan Wang",
@@ -4913,8 +4913,8 @@
         "Mukan Ji",
         "Decun Yan",
         "Yang Liu",
-        "Yunjie Chen",
-        "Ruyi Dong",
+        "Yun-Jie Chen",
+        "Ru-Yi Dong",
         "Liang Shen",
         "Nozomu Takeuchi",
         "Weidong Kong"
@@ -5033,7 +5033,7 @@
         "Dong Zhu",
         "Wen Zhang",
         "J.L. Balcázar",
-        "Danrui Wang",
+        "Dan-Rui Wang",
         "Mingming Sun",
         "Feng Hu",
         "J. Peñuelas",
@@ -5197,7 +5197,7 @@
       "authors": [
         "Jinhao Shen",
         "Meiaoxue Han",
-        "Jing-Wen Sun",
+        "Jing Sun",
         "Hao Yu",
         "Yeqing Yang",
         "Ke-Hua Shen",
@@ -5271,45 +5271,17 @@
       ],
       "similar_papers": [
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "id": "e56acf188ee75c120024f9613a55d0162552a50a",
+          "title": "Citywide metagenomics reveals microbial community and resistome dynamics in urban wastewater",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "Nature Communications",
           "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
+            "Zhi-Ying Xu",
+            "Jiabao Xing",
+            "Xiaohong Zeng"
           ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
-          "citation_count": 0
-        },
-        {
-          "id": "5149a7d8b088463b6b45b7a448e19444ea45430a",
-          "title": "Viral communities from long-term anaerobic alkane-oxidizing enrichment cultures encode predicted cell surface adhesion functions",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Aditi K. Narayanan",
-            "A. Philosof",
-            "Ranjani Murali"
-          ],
-          "doi": "10.1093/ismejo/wrag172",
-          "url": "https://www.semanticscholar.org/paper/5149a7d8b088463b6b45b7a448e19444ea45430a",
-          "citation_count": 0
-        },
-        {
-          "id": "95a41dc6ede290707891cf1677b54f4e843794cd",
-          "title": "Salinity-driven microbial adaptation of hydrocarbon-degrading communities in coastal sediments",
-          "year": 2026,
-          "journal": "Msphere",
-          "authors": [
-            "Yongyi Peng",
-            "Qing Liu",
-            "Xianbiao Lin"
-          ],
-          "doi": "10.1128/msphere.00369-26",
-          "url": "https://www.semanticscholar.org/paper/95a41dc6ede290707891cf1677b54f4e843794cd",
+          "doi": "10.1038/s41467-026-75771-6",
+          "url": "https://www.semanticscholar.org/paper/e56acf188ee75c120024f9613a55d0162552a50a",
           "citation_count": 0
         },
         {
@@ -5327,17 +5299,45 @@
           "citation_count": 0
         },
         {
-          "id": "9dbd99ce8a9578c903275f5d9d5820737e2943fd",
-          "title": "Coupled effects of salinity and host phylogeny on niche breadth and viral evolution from seawater to salt saturation",
+          "id": "9a05ada8712cb294be9719b1e0caa7066dbe324b",
+          "title": "Sediment Bacteria and Driving Factors in Intertidal Flats and Vegetated Zones of Mangrove Ecosystems in the Northern Beibu Gulf During Summer",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Water",
           "authors": [
-            "J. Alcorta",
-            "María Dolores Ramos-Barbero",
-            "Fernando Santos"
+            "Jiaodi Zhou",
+            "Peng He",
+            "Zhijun Dai"
           ],
-          "doi": "10.64898/2026.06.18.733169",
-          "url": "https://www.semanticscholar.org/paper/9dbd99ce8a9578c903275f5d9d5820737e2943fd",
+          "doi": "10.3390/w18141762",
+          "url": "https://www.semanticscholar.org/paper/9a05ada8712cb294be9719b1e0caa7066dbe324b",
+          "citation_count": 0
+        },
+        {
+          "id": "77dc7ef664cb309c4254e5d6029c8291bf74f7e1",
+          "title": "Insights into the assembly mechanisms, co-occurrence patterns, and functional roles of bacterial community in an estuary system",
+          "year": 2026,
+          "journal": "Microbiology spectrum",
+          "authors": [
+            "Yong-Jie Wu",
+            "Yang Zhang",
+            "Zhi-Wen Luo"
+          ],
+          "doi": "10.1128/spectrum.02249-25",
+          "url": "https://www.semanticscholar.org/paper/77dc7ef664cb309c4254e5d6029c8291bf74f7e1",
+          "citation_count": 0
+        },
+        {
+          "id": "481a504b6053868bfc4840cd91731e2b862bb07c",
+          "title": "The microbial community composition and potential for carbon sequestration differences among mudflats with and without biofilm colonization",
+          "year": 2026,
+          "journal": "Biofilm",
+          "authors": [
+            "Yun-han Fu",
+            "Kuo-Jian Ma",
+            "Yong-Lian Ye"
+          ],
+          "doi": "10.1016/j.bioflm.2026.100390",
+          "url": "https://www.semanticscholar.org/paper/481a504b6053868bfc4840cd91731e2b862bb07c",
           "citation_count": 0
         }
       ],
@@ -5359,7 +5359,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
-      "edges_enriched_at": "2026-08-14T21:42:36.053308+00:00"
+      "edges_enriched_at": "2026-09-13T23:12:52.250242+00:00"
     },
     {
       "id": "87c4b802982b420c992e20061f8ba039c43e76ec",
@@ -5505,7 +5505,7 @@
         "You Yan",
         "Jing Ran",
         "Hong Zhou",
-        "Xin-wei Zhou",
+        "Xin-Wei Zhou",
         "Ting Zheng"
       ],
       "journal": "Frontiers in Plant Science",
@@ -6110,7 +6110,7 @@
         "Akbar Adjie Pratama",
         "Olga Pérez-Carrascal",
         "Matthew B. Sullivan",
-        "Kirsten Küsel"
+        "K. Küsel"
       ],
       "journal": "Nature Communications",
       "publication_date": "2026-01-30",
@@ -7390,7 +7390,7 @@
       "authors": [
         "In Hyup Bae",
         "Hyun Kim",
-        "Su-Min Kim",
+        "Su-mi Kim",
         "Yong-Hwan Lee"
       ],
       "journal": "Microbiome",
@@ -7551,7 +7551,7 @@
       "doi": "10.1007/s00248-025-02661-7",
       "title": "Microbial Communities Display Key Functional Differences between Reference and Restored Salt Marshes",
       "authors": [
-        "Kathryn L Campbell",
+        "Kathryn L. Campbell",
         "A. Armitage",
         "J. Labonté"
       ],
@@ -7898,19 +7898,19 @@
         "Chang Hu",
         "Shunkang Zhou",
         "Liqi Zhang",
-        "Yulu Yang",
+        "Yu-Lu Yang",
         "Zhepu Ruan",
         "K. Ding",
         "Ying Yang",
         "Ke Yuan",
-        "Wenshen Liu",
+        "Wen-Shen Liu",
         "Hua Qi",
         "Yue Cao",
         "Ying-heng Fei",
         "Ning Ling",
-        "Shizhong Wang",
+        "Shi-Zhong Wang",
         "Ye-Tao Tang",
-        "Tiangang Luan",
+        "Tian-Gang Luan",
         "Zhihong Xu",
         "Riongliang Qiu"
       ],
@@ -8071,12 +8071,12 @@
       "title": "Metagenomic analysis reveals global landscape of viruses in biogeochemical cycles and microbial resistance in paddy soils and wetlands.",
       "authors": [
         "M. H. Hemmat-Jou",
-        "Fa-Song Li",
+        "Fasong Li",
         "Dejin Wang",
         "Ruichuan Gao",
         "Xiao-xia Zhou",
         "Yating Chen",
-        "Liping Fang"
+        "Li-Ping Fang"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2025-11-13",
@@ -8190,13 +8190,13 @@
       "doi": "10.1016/j.watres.2025.124926",
       "title": "Ingestion and digestion by the freshwater snail Pomacea canaliculata drive microplastic surface transformations and virus-mediated plastisphere functional shifts.",
       "authors": [
-        "Zhaoji Shi",
+        "Zhao-Ji Shi",
         "Wen Zeng",
         "Wanlin Zhuang",
         "Fucheng Yao",
-        "Daolin Sun",
-        "Ziqiang Liu",
-        "Jia’en Zhang"
+        "Dao-Lin Sun",
+        "Zi-Qiang Liu",
+        "Jia-en Zhang"
       ],
       "journal": "Water Research",
       "publication_date": "2025-11-01",
@@ -8309,7 +8309,7 @@
       "authors": [
         "Li Liu",
         "Zhe Wang",
-        "Wensi Zhang",
+        "Wen-Si Zhang",
         "Zhichao Zhou",
         "Wei Lin"
       ],
@@ -8425,7 +8425,7 @@
       "authors": [
         "Qi Wang",
         "Renjie Ma",
-        "Yanjie Wang",
+        "Yan-Jie Wang",
         "Yali Niu",
         "Guodong Zhang",
         "Ruigang Wang",
@@ -8474,7 +8474,7 @@
         "Zhiyao Wang",
         "Ying Zhang",
         "Ninghui Xie",
-        "Xiaolong Liang"
+        "Xiao-Long Liang"
       ],
       "journal": "European Journal of Soil Science",
       "publication_date": "2025-10-29",
@@ -8916,7 +8916,7 @@
         "Ying-Li Zhou",
         "R. Selvarajan",
         "Peikuan Xu",
-        "Zhaoming Gao",
+        "Zhao-Ming Gao",
         "Yong Wang"
       ],
       "journal": "Environmental Microbiome",
@@ -9083,7 +9083,7 @@
         "Ping Zhang",
         "Zhaojing Liu",
         "Jingrui Qiu",
-        "X. Song",
+        "Xin Song",
         "Wei Qin",
         "Jiandong Jiang",
         "Xu Liu",
@@ -9687,7 +9687,7 @@
       "authors": [
         "Ling Jin",
         "Ling Yuan",
-        "Helmut Bürgmann",
+        "H. Bürgmann",
         "Feng Ju"
       ],
       "journal": "Environment International",
@@ -9964,12 +9964,12 @@
       "authors": [
         "Qianqian Zeng",
         "Zi-Yi Wang",
-        "Zhongyuan Shen",
+        "Zhong-Yuan Shen",
         "Wu-Hui Li",
         "Kaikun Luo",
         "Qinbo Qin",
-        "Shengnan Li",
-        "Qianhong Gu"
+        "Sheng-Nan Li",
+        "Qian-Hong Gu"
       ],
       "journal": "Biology",
       "publication_date": "2025-08-01",
@@ -10303,7 +10303,7 @@
         "Lu Yang",
         "Ying Zhang",
         "Ninghui Xie",
-        "Xiaolong Liang"
+        "Xiao-Long Liang"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2025-07-16",
@@ -10624,7 +10624,7 @@
       "doi": "10.1016/j.scitotenv.2025.180002",
       "title": "Wastewater-driven nutrient enrichment restructures viral community assembly, host interactions, and ecological function along the Nakivubo-Lake Victoria interface in Uganda.",
       "authors": [
-        "H. Ogola"
+        "H. J. O. Ogola"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2025-07-03",
@@ -10782,13 +10782,13 @@
       "doi": "10.1016/j.jes.2025.07.015",
       "title": "Responses of viral communities and viral-encoded auxiliary metabolic genes to long-term fertilization practices under different land-use types.",
       "authors": [
-        "Xunqin Chen",
+        "Xun-Qin Chen",
         "Dong Zhu",
         "Yu-Ling Zheng",
-        "Xiao-Ming Li",
+        "Xiao-Min Li",
         "Guoxin Sun",
         "Xiao-Ming Li",
-        "Longjun Ding"
+        "Long-Jun Ding"
       ],
       "journal": "Journal of Environmental Science",
       "publication_date": "2025-07-01",
@@ -10903,7 +10903,7 @@
         "Jieying Wang",
         "Liyuan He",
         "Ji Chen",
-        "Chengjie Ren",
+        "Cheng-Jie Ren",
         "Yaoxin Guo",
         "Jun Wang",
         "Shan Zhou",
@@ -11459,7 +11459,7 @@
       "authors": [
         "Chuwen Zhang",
         "Yong He",
-        "Jieni Wang",
+        "Jie-Ni Wang",
         "Tengkai Chen",
         "Federico Baltar",
         "Minjie Hu",
@@ -11626,14 +11626,14 @@
       "title": "Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon",
       "authors": [
         "Ming-Feng Liu",
-        "Guixiang Zhou",
+        "Gui-Xiang Zhou",
         "Congzhi Zhang",
         "Lin Chen",
         "Donghao Ma",
         "Lijun Zhang",
         "Chunhua Jia",
         "Ling Ma",
-        "Jiabao Zhang"
+        "Jia-Bao Zhang"
       ],
       "journal": "Advancement of science",
       "publication_date": "2025-05-23",
@@ -11791,13 +11791,13 @@
       "doi": "10.1016/j.jhazmat.2025.138594",
       "title": "Unveiling the dynamic viral landscape across developmental stages of cold seep ecosystems: Implications for global marine biogeochemistry.",
       "authors": [
-        "Yuanyuan Wang",
+        "Yuan-Yuan Wang",
         "Shanzi Huang",
-        "Jianguo He",
+        "Jian He",
         "Zhengqi Feng",
         "Wenbo Wu",
-        "Changjun Guo",
-        "Jianguo He"
+        "Chang-Jun Guo",
+        "Jian-Guo He"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2025-05-12",
@@ -12246,10 +12246,10 @@
         "Yunjie Ruan",
         "Mengcen Wang",
         "Xianjin Tang",
-        "Fangbai Li",
-        "Yongming Luo",
+        "Fang-Bai Li",
+        "Yong-Ming Luo",
         "Yong-guan Zhu",
-        "Jianming Xu",
+        "Jian-Ming Xu",
         "Bin Ma"
       ],
       "journal": "Nature Communications",
@@ -12909,9 +12909,9 @@
         "Gengbo Jiang",
         "Ying-heng Fei",
         "Ye-Tao Tang",
-        "Shizhong Wang",
+        "Shi-Zhong Wang",
         "Chao Jin",
-        "Rongliang Qiu",
+        "Rong-Liang Qiu",
         "Yuanqing Chao"
       ],
       "journal": "Water Research",
@@ -13028,7 +13028,7 @@
         "Xiaoxiao Dong",
         "Shiyun Fang",
         "Lihong Gan",
-        "Xuezhu Lee",
+        "X. Lee",
         "Lei Zhou"
       ],
       "journal": "Water Research",
@@ -13590,7 +13590,7 @@
         "Lanlan Cai",
         "Nian Wang",
         "Xianyu Huang",
-        "Hongmei Wang"
+        "Hong-Mei Wang"
       ],
       "journal": "Environment International",
       "publication_date": "2025-03-01",
@@ -13874,7 +13874,7 @@
       "authors": [
         "Basanta Kumar Das",
         "Ayushman Gadnayak",
-        "Hirak Jyoti Chakraborty",
+        "H. J. Chakraborty",
         "S. Pradhan",
         "Subhashree Subhasmita Raut",
         "S. Das"
@@ -14313,11 +14313,11 @@
       "title": "Short-term virus-host interactions and functional dynamics in recently deglaciated Antarctic tundra soils",
       "authors": [
         "Esther Rubio-Portillo",
-        "Rebeca Arias‐Real",
+        "Rebeca Arias-Real",
         "Esther Rodríguez-Pérez",
         "L. Bañeras",
         "Josefa Antón",
-        "Asunción de Los Ríos"
+        "A. de los Ríos"
       ],
       "journal": "ISME Communications",
       "publication_date": "2025-01-01",
@@ -14594,7 +14594,7 @@
       "authors": [
         "Manal Chrairi",
         "Said Barrijal",
-        "A. Castellano‐Hinojosa",
+        "A. Castellano-Hinojosa",
         "Youssra Boumait",
         "Chahrazade El Hamouti",
         "A. Lamzouri",
@@ -15323,10 +15323,10 @@
         "Lucas P. P. Braga",
         "Chenxi Ding",
         "Bokai Yang",
-        "Tida Ge",
+        "Ti-Da Ge",
         "Hongjie Di",
         "Yan He",
-        "Jianming Xu",
+        "Jian-Ming Xu",
         "L. Philippot",
         "Yong Li"
       ],
@@ -15887,10 +15887,10 @@
       "doi": "10.1038/s41467-024-51230-y",
       "title": "Unveiling the unknown viral world in groundwater",
       "authors": [
-        "Zongzhi Wu",
+        "Zong-Zhi Wu",
         "Tang Liu",
         "Qian Chen",
-        "Tianyi Chen",
+        "Tian-Yi Chen",
         "Jinyun Hu",
         "Liyu Sun",
         "Bingxue Wang",
@@ -16064,7 +16064,7 @@
         "Chenwei Shi",
         "Rui Qi",
         "Petr Hědenec",
-        "Zhibiao Nan",
+        "Zhi-Biao Nan",
         "Huan Li"
       ],
       "journal": "Journal of Environmental Science",
@@ -16511,7 +16511,7 @@
         "Lei Liu",
         "Xiao-Qing Xu",
         "Chunxiao Wang",
-        "Yulin Wang",
+        "Yu-Lin Wang",
         "Yu Deng",
         "Tong Zhang"
       ],
@@ -17126,10 +17126,10 @@
         "Qiue Zhang",
         "Yanxuan Xiong",
         "Jinhong Zhang",
-        "Boya Liu",
-        "Tianyi Chen",
-        "Shufeng Liu",
-        "Chenyuan Dang",
+        "Bo-Ya Liu",
+        "Tian-Yi Chen",
+        "Shu-Feng Liu",
+        "Chen-Yuan Dang",
         "Wei Xu",
         "Hafiz Adeel Ahmad",
         "Tang Liu"
@@ -17645,7 +17645,7 @@
       "doi": "10.1128/msphere.00259-24",
       "title": "Genomic insights into redox-driven microbial processes for carbon decomposition in thawing Arctic soils and permafrost",
       "authors": [
-        "Yao-dong Li",
+        "Yao-Dong Li",
         "Y. Xue",
         "Taniya Roy Chowdhury",
         "D. Graham",
@@ -18311,7 +18311,7 @@
         "Emily B. Graham",
         "A. Camargo",
         "Ruonan Wu",
-        "R. Neches",
+        "Russell Y. Neches",
         "Matt Nolan",
         "David Páez-Espino",
         "N. Kyrpides",
@@ -18319,31 +18319,31 @@
         "J. McDermott",
         "K. Hofmockel",
         "J. Blanchard",
-        "Xiao-Jun A. Liu",
+        "X. Liu",
         "Jorge L. Mazza Rodrigues",
         "Zachary B. Freedman",
         "Petr Baldrian",
         "Martina Stursova",
-        "Kristen M. DeAngelis",
+        "K. DeAngelis",
         "Sungeun Lee",
         "Filipa Godoy-Vitorino",
         "Yun Kit Yeoh",
         "Hinsby Cadillo-Quiroz",
         "Susannah G. Tringe",
         "Archana Chauhan",
-        "Don A. Cowan",
+        "D. Cowan",
         "M. V. Van Goethem",
-        "Tanja Woyke",
+        "T. Woyke",
         "Nicholas C. Dove",
         "Konstantinos T. Konstantinidis",
         "Thomas E. Juenger",
         "Stephen C. Hart",
-        "David D. Myrold",
+        "D. Myrold",
         "Tullis C. Onstott",
         "Brendan J. M. Bohannan",
         "Marty R. Schmer",
-        "Nathan A. Palmer",
-        "Klaus Nüsslein",
+        "N. Palmer",
+        "K. Nüsslein",
         "Thulani P. Makhalanyane",
         "Katherine A. Dynarski",
         "N. Taş",
@@ -18356,9 +18356,9 @@
         "Philippe Constant",
         "Rafael S. Oliveira",
         "Cristina Takacs-Vesbach",
-        "Melissa A. Cregger",
-        "Alyssa A. Carrell",
-        "Dawn M. Klingeman",
+        "M. Cregger",
+        "A. Carrell",
+        "D. Klingeman",
         "Nicole Pietrasiak"
       ],
       "journal": "bioRxiv",
@@ -18519,7 +18519,7 @@
       "title": "Pepper mild mottle virus as an effective tool in microbial source tracking for deficient domestic on-site water treatment systems.",
       "authors": [
         "A. Monleon",
-        "Laurence Gill"
+        "L. Gill"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2024-05-01",
@@ -18746,7 +18746,7 @@
       "title": "Diversity and potential host-interactions of viruses inhabiting deep-sea seamount sediments",
       "authors": [
         "Meishun Yu",
-        "Menghui Zhang",
+        "Meng-Hui Zhang",
         "Runying Zeng",
         "Ruolin Cheng",
         "Rui Zhang",
@@ -18917,12 +18917,12 @@
       "doi": "10.1073/pnas.2318160121",
       "title": "Carbon starvation raises capacities in bacterial antibiotic resistance and viral auxiliary carbon metabolism in soils",
       "authors": [
-        "Qicheng Xu",
+        "Qi-Cheng Xu",
         "He Zhang",
         "P. Vandenkoornhuyse",
         "Shiwei Guo",
         "Y. Kuzyakov",
-        "Qirong Shen",
+        "Qi-Rong Shen",
         "Ning Ling"
       ],
       "journal": "Proceedings of the National Academy of Sciences of the United States of America",
@@ -19085,7 +19085,7 @@
         "Jiayu Zhang",
         "Aixi Tang",
         "Tao Jin",
-        "Deshou Sun",
+        "De-Shou Sun",
         "Fangliang Guo",
         "Huaxin Lei",
         "Lin Lin",
@@ -19254,9 +19254,9 @@
       "title": "A Metagenomic Investigation of Potential Health Risks and Element Cycling Functions of Bacteria and Viruses in Wastewater Treatment Plants",
       "authors": [
         "Haozhe Zhao",
-        "Mingfei Yang",
+        "Ming-Fei Yang",
         "Xiang Fan",
-        "Qiang Gui",
+        "Qian Gui",
         "Hao Yi",
         "Yigang Tong",
         "Wei Xiao"
@@ -19410,121 +19410,6 @@
       "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
     },
     {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chaonan Li",
-        "Haijun Liao",
-        "Lin Xu",
-        "Changting Wang",
-        "Minjie Yao",
-        "Jun-Ming Wang",
-        "Xiangzhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 75,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "f9c115ac61bf1c4c7599a5331937112727faf67c",
-          "title": "Sequential evolution drives range expansion of Chinese caterpillar fungus across the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "Cladistics",
-          "authors": [
-            "Wei Deng",
-            "Yong-Jie Zhang",
-            "Tongyao Liu"
-          ],
-          "doi": "10.1111/cla.70064",
-          "url": "https://www.semanticscholar.org/paper/f9c115ac61bf1c4c7599a5331937112727faf67c",
-          "citation_count": 0
-        },
-        {
-          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
-          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
-          "year": 2026,
-          "journal": "Molecular Phylogenetics and Evolution",
-          "authors": [
-            "Zhefei Zeng",
-            "Junwei Wang",
-            "N. Norbu"
-          ],
-          "doi": "10.1016/j.ympev.2026.108690",
-          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
-          "citation_count": 0
-        },
-        {
-          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
-          "year": null,
-          "journal": "",
-          "authors": [
-            "Shuhong Zhang",
-            "Yongkang Chen",
-            "Junwei Peng"
-          ],
-          "doi": "10.1002/ppp.70041",
-          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "citation_count": 0
-        },
-        {
-          "id": "f6aca3eb88dd43e4d5ec091676b710ed37510778",
-          "title": "Genome-Resolved Metagenomics Reveals Dominant Enrichment and Metabolic Adaptations of Thauera sp. in Activated Sludge under Carbon Limitation.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Jiawei Yuan",
-            "Yirui Suo",
-            "Da Kang"
-          ],
-          "doi": "10.1021/acs.est.6c01742",
-          "url": "https://www.semanticscholar.org/paper/f6aca3eb88dd43e4d5ec091676b710ed37510778",
-          "citation_count": 0
-        },
-        {
-          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Haoran Wang",
-            "Chunhui Ai",
-            "A. Barcan"
-          ],
-          "doi": "10.64898/2026.07.27.740809",
-          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
-      "edges_enriched_at": "2026-09-01T23:22:42.375941+00:00"
-    },
-    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -19533,10 +19418,10 @@
       "title": "Influence of phytoplankton, bacteria and viruses on nutrient supply in tropical waters.",
       "authors": [
         "Zhi Yang Sim",
-        "K. Goh",
+        "Kwan-Chien Goh",
         "Nur Hanisah binte Sukarji",
         "Feijian Mao",
-        "Yiliang He",
+        "Yi-Liang He",
         "K. Gin"
       ],
       "journal": "Journal of Environmental Science",
@@ -19690,6 +19575,121 @@
       "edges_enriched_at": "2026-09-01T23:22:42.375941+00:00"
     },
     {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chaonan Li",
+        "Haijun Liao",
+        "Lin Xu",
+        "Changting Wang",
+        "Minjie Yao",
+        "Jun-Ming Wang",
+        "Xiangzhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 75,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "f9c115ac61bf1c4c7599a5331937112727faf67c",
+          "title": "Sequential evolution drives range expansion of Chinese caterpillar fungus across the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "Cladistics",
+          "authors": [
+            "Wei Deng",
+            "Yong-Jie Zhang",
+            "Tongyao Liu"
+          ],
+          "doi": "10.1111/cla.70064",
+          "url": "https://www.semanticscholar.org/paper/f9c115ac61bf1c4c7599a5331937112727faf67c",
+          "citation_count": 0
+        },
+        {
+          "id": "8e181363ea435c029b9d257c7206e9dca76d852c",
+          "title": "Comparative genomics clarifies phylogenetic relationships and genome evolution in Hippophae from the Qinghai-Tibet plateau.",
+          "year": 2026,
+          "journal": "Molecular Phylogenetics and Evolution",
+          "authors": [
+            "Zhefei Zeng",
+            "Junwei Wang",
+            "N. Norbu"
+          ],
+          "doi": "10.1016/j.ympev.2026.108690",
+          "url": "https://www.semanticscholar.org/paper/8e181363ea435c029b9d257c7206e9dca76d852c",
+          "citation_count": 0
+        },
+        {
+          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Shuhong Zhang",
+            "Yongkang Chen",
+            "Junwei Peng"
+          ],
+          "doi": "10.1002/ppp.70041",
+          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "citation_count": 0
+        },
+        {
+          "id": "f6aca3eb88dd43e4d5ec091676b710ed37510778",
+          "title": "Genome-Resolved Metagenomics Reveals Dominant Enrichment and Metabolic Adaptations of Thauera sp. in Activated Sludge under Carbon Limitation.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Jiawei Yuan",
+            "Yirui Suo",
+            "Da Kang"
+          ],
+          "doi": "10.1021/acs.est.6c01742",
+          "url": "https://www.semanticscholar.org/paper/f6aca3eb88dd43e4d5ec091676b710ed37510778",
+          "citation_count": 0
+        },
+        {
+          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Haoran Wang",
+            "Chunhui Ai",
+            "A. Barcan"
+          ],
+          "doi": "10.64898/2026.07.27.740809",
+          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
+      "edges_enriched_at": "2026-09-01T23:22:42.375941+00:00"
+    },
+    {
       "id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "source": "Semantic Scholar",
@@ -19700,7 +19700,7 @@
         "Zhi-Ping Zhong",
         "Jingjie Du",
         "Stephan Köstlbacher",
-        "Petra Pjevac",
+        "P. Pjevac",
         "S. Orlić",
         "M. Sullivan"
       ],
@@ -20470,9 +20470,9 @@
       "title": "Active prokaryotic and eukaryotic viral ecology across spatial scale in a deep-sea brine pool",
       "authors": [
         "Benjamin Minch",
-        "Morgan I Chakraborty",
+        "Morgan I. Chakraborty",
         "Sam J. Purkis",
-        "Mattie Rodrigue",
+        "M. Rodrigue",
         "M. Moniruzzaman"
       ],
       "journal": "bioRxiv",
@@ -20910,8 +20910,8 @@
         "Jiulong Zhao",
         "Shailesh Nair",
         "Zenghu Zhang",
-        "Zengmeng Wang",
-        "Nianzhi Jiao",
+        "Zeng-Meng Wang",
+        "Nian-Zhi Jiao",
         "Yongyu Zhang"
       ],
       "journal": "The ISME Journal",
@@ -21960,11 +21960,11 @@
       "title": "Diversity and ecological functions of viruses inhabiting the oil reservoirs",
       "authors": [
         "Li-Yun An",
-        "Xinwu Liu",
+        "Xin-Wu Liu",
         "Jianwei Wang",
-        "Jing Xu",
+        "Jing-Bo Xu",
         "Xiaoli Chen",
-        "Xiaonan Liu",
+        "Xiao-Nan Liu",
         "Bingxin Hu",
         "Yong Nie",
         "Xiao-Lei Wu"
@@ -22235,7 +22235,7 @@
       "doi": "10.1016/j.scib.2023.09.007",
       "title": "Diversity and function of mountain and polar supraglacial DNA viruses.",
       "authors": [
-        "Yongqin Liu",
+        "Yong-Qin Liu",
         "N. Jiao",
         "Kevin Xu Zhong",
         "Lin Zang",
@@ -22364,7 +22364,7 @@
         "H. Elbardisy",
         "Mai M. Elnaggar",
         "T. Belal",
-        "M. Ragab",
+        "Mahmoud A. Ragab",
         "Amira F. El-yazbi"
       ],
       "journal": "Scientific Reports",
@@ -22792,7 +22792,7 @@
       "doi": "10.3389/frmbi.2023.1199766",
       "title": "Spatial and temporal metagenomics of river compartments reveals viral community dynamics in an urban impacted stream",
       "authors": [
-        "J. Rodríguez-Ramos",
+        "Josué A. Rodríguez-Ramos",
         "Angela M. Oliverio",
         "M. Borton",
         "Robert Danczak",
@@ -22802,7 +22802,7 @@
         "Rory M. Flynn",
         "R. Daly",
         "LeAundra Schopflin",
-        "Michael Shaffer",
+        "M. Shaffer",
         "A. Goldman",
         "Joerg Lewandowski",
         "James C. Stegen",
@@ -22968,7 +22968,7 @@
       "authors": [
         "Tiancong Wang",
         "Lin Luo",
-        "Y. Xiong",
+        "Yao Xiong",
         "Chuxiao Wang",
         "Hongbing Shao",
         "Min Wang",
@@ -23300,7 +23300,7 @@
         "Yi Zhang",
         "Shuang Yan",
         "Xiuli Chen",
-        "Shuguang Xie"
+        "Shu-Guang Xie"
       ],
       "journal": "Environment International",
       "publication_date": "2023-06-19",
@@ -24570,8 +24570,8 @@
       "doi": "10.3390/w15061196",
       "title": "Physical Separation: Reuse Pollutants and Thermal Energy from Water",
       "authors": [
-        "Jinyi Tian",
-        "Xiurong Chen"
+        "Jin-Yi Tian",
+        "Xiu-Rong Chen"
       ],
       "journal": "Water",
       "publication_date": "2023-03-20",
@@ -25174,8 +25174,8 @@
         "Xin Liu",
         "Tian Wang",
         "Guiming Liu",
-        "Bugao Li",
-        "Guoliang Wang",
+        "Bu-Gao Li",
+        "Guo-Liang Wang",
         "Pengfei Gao"
       ],
       "journal": "Heliyon",
@@ -25349,11 +25349,11 @@
         "Hongbing Shao",
         "Cui Guo",
         "Hui He",
-        "Hualong Wang",
+        "Hua-Long Wang",
         "Y. Sung",
         "W. Mok",
-        "L. Wong",
-        "Zongling Wang",
+        "Li-Lian Wong",
+        "Zong-Ling Wang",
         "A. McMinn",
         "Min Wang"
       ],
@@ -25852,9 +25852,9 @@
       "authors": [
         "Yuting Yan",
         "Danting Yu",
-        "Lili Han",
+        "Li-Li Han",
         "Chengyu Yuan",
-        "Jizheng He"
+        "Ji-Zheng He"
       ],
       "journal": "Forests",
       "publication_date": "2023-02-09",
@@ -26670,7 +26670,7 @@
       "authors": [
         "Ruolin Cheng",
         "Xiaofeng Li",
-        "Lijing Jiang",
+        "Li-Jing Jiang",
         "L. Gong",
         "C. Geslin",
         "Z. Shao"
@@ -27000,7 +27000,7 @@
       "authors": [
         "Ning Duan",
         "M. Radosevich",
-        "J. Zhuang",
+        "Jie Zhuang",
         "J. DeBruyn",
         "M. Staton",
         "S. Schaeffer"
@@ -27336,7 +27336,7 @@
         "A. Schmidt",
         "I. Schmitt",
         "E. Neuschulz",
-        "Francesco Dal Grande",
+        "F. Dal Grande",
         "Miklós Bálint"
       ],
       "journal": "Molecular Ecology",
@@ -28712,12 +28712,12 @@
       "doi": "10.3389/fmars.2022.959161",
       "title": "Variations in nutrients and microbes during the occurrence and extinction of algal blooms: A mesocosm experiment with the addition of marine aquaculture sediment",
       "authors": [
-        "Yuanmin Sun",
+        "Yuan-Min Sun",
         "Kunxian Tang",
         "Yong Ma",
         "Xuan Zhu",
         "Heyang Li",
-        "Fei-jun Zhang",
+        "Fei-Jun Zhang",
         "Shan-Jia Chen",
         "Haiping Huang"
       ],
@@ -29042,7 +29042,7 @@
         "Christel S Hassler",
         "Rachel N. Cable",
         "M. Fourquez",
-        "Francesco Danza",
+        "F. Danza",
         "S. Roman",
         "M. Tonolla",
         "Nicola Storelli",
@@ -29323,7 +29323,7 @@
         "Jin Zheng",
         "Hao Chen",
         "Wensheng Shu",
-        "Linan Huang"
+        "Li-Nan Huang"
       ],
       "journal": "Nature Communications",
       "publication_date": "2022-05-02",
@@ -29764,8 +29764,8 @@
         "Y. Ge",
         "B. Han",
         "Li‐Mei Zhang",
-        "Ji‐Zheng He",
-        "Lili Han"
+        "Ji-Zheng He",
+        "Li-Li Han"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2022-04-07",
@@ -29930,7 +29930,7 @@
         "Yu Liu",
         "Yuxin Wu",
         "Nan Wu",
-        "Wenwen Liu",
+        "Wen-Wen Liu",
         "Xifeng Wang"
       ],
       "journal": "Environmental Microbiome",
@@ -30704,7 +30704,7 @@
         "Yunmeng Chu",
         "Zelong Zhao",
         "Lixi Cai",
-        "Guangya Zhang"
+        "Guang-Ya Zhang"
       ],
       "journal": "Environmental Research",
       "publication_date": "2022-02-25",
@@ -30922,7 +30922,7 @@
         "Yu Liu",
         "Yuxin Wu",
         "Nan Wu",
-        "Wenwen Liu",
+        "Wen-Wen Liu",
         "Xifeng Wang"
       ],
       "journal": "",
@@ -31082,7 +31082,7 @@
       "authors": [
         "Jiulong Zhao",
         "H. Jing",
-        "Zengmeng Wang",
+        "Zeng-Meng Wang",
         "Long Wang",
         "Huahua Jian",
         "Rui Zhang",
@@ -31439,7 +31439,7 @@
       "authors": [
         "Long Wang",
         "Jiulong Zhao",
-        "Zengmeng Wang",
+        "Zeng-Meng Wang",
         "Ning Li",
         "Jinming Song",
         "Rui Zhang",
@@ -31556,14 +31556,14 @@
       "title": "A mixed blessing of viruses in wastewater treatment plants",
       "authors": [
         "Ling-Dong Shi",
-        "Xiyang Dong",
+        "Xi-Yang Dong",
         "Zongbao Liu",
         "Yuchun Yang",
         "Jih-Gaw Lin",
         "Meng Li",
-        "Jidong Gu",
-        "Li-Zhong Zhu",
-        "He-ping Zhao"
+        "Ji-Dong Gu",
+        "Lizhong Zhu",
+        "He-Ping Zhao"
       ],
       "journal": "bioRxiv",
       "publication_date": "2021-11-08",
@@ -32962,7 +32962,7 @@
         "Christel S Hassler",
         "Rachel N. Cable",
         "M. Fourquez",
-        "Francesco Danza",
+        "F. Danza",
         "S. Roman",
         "M. Tonolla",
         "Nicola Storelli",
@@ -33452,7 +33452,7 @@
         "B. Bhattarai",
         "A. Bhattacharjee",
         "F. Coutinho",
-        "R. Goel"
+        "Ramesh Goel"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2021-09-28",
@@ -33939,12 +33939,12 @@
       "doi": "10.21203/rs.3.rs-746574/v1",
       "title": "Microbial Genome-Resolved Metaproteomic Analyses Frame Intertwined Carbon and Nitrogen Cycles in River Hyporheic Sediments",
       "authors": [
-        "J. Rodríguez-Ramos",
+        "Josué A. Rodríguez-Ramos",
         "M. Borton",
         "Bridget B. McGivern",
         "Garret Smith",
         "L. Solden",
-        "Michael Shaffer",
+        "M. Shaffer",
         "R. Daly",
         "S. Purvine",
         "C. Nicora",
@@ -34112,7 +34112,7 @@
       "authors": [
         "Ankita Kothari",
         "S. Roux",
-        "Hanqiao Zhang",
+        "Han-Qiao Zhang",
         "A. Prieto",
         "Drishti Soneja",
         "J. Chandonia",
@@ -34625,7 +34625,7 @@
       "authors": [
         "Carolyn R. Cornell",
         "Ya Zhang",
-        "Joy D. Van Nostrand",
+        "J. V. Van Nostrand",
         "P. Wagle",
         "Xiangming Xiao",
         "Jizhong Zhou"
@@ -35234,7 +35234,7 @@
       "title": "Host And Pathogen Mechanisms Underpinning Viral Ecology And Emerging Infections",
       "authors": [
         "D. Schroeder",
-        "Jim L. Van Etten",
+        "J. van Etten",
         "I. Jones",
         "J. Pawęska",
         "Zhènglì Shí",
@@ -35779,7 +35779,7 @@
         "Peixin Gao",
         "Biao Li",
         "Peng Xing",
-        "Qinglong L. Wu"
+        "Qinglong Wu"
       ],
       "journal": "",
       "publication_date": "2020-12-17",
@@ -36108,7 +36108,7 @@
         "M. C. Gazitúa",
         "D. Vik",
         "S. Roux",
-        "Ann C. Gregory",
+        "A. Gregory",
         "B. Bolduc",
         "Brittany Widner",
         "M. Mulholland",
@@ -36395,10 +36395,10 @@
         "N. Madhu",
         "P. Anil",
         "C. Vishal",
-        "K. Muraleedharan",
+        "K. R. Muraleedharan",
         "A. Parvathi",
         "T. G. Kumar",
-        "K. Arya",
+        "K. S. Arya",
         "S. Hafza"
       ],
       "journal": "Current Science",
@@ -37438,7 +37438,7 @@
       "authors": [
         "Ankita Kothari",
         "S. Roux",
-        "Hanqiao Zhang",
+        "Han-Qiao Zhang",
         "A. Prieto",
         "Drishti Soneja",
         "J. Chandonia",
@@ -37885,8 +37885,8 @@
         "Li-Yu Zhang",
         "Chuanfa Wu",
         "C. Xiong",
-        "Lili Han",
-        "Ji‐Zheng He"
+        "Li-Li Han",
+        "Ji-Zheng He"
       ],
       "journal": "Environmental Microbiology",
       "publication_date": "2020-04-05",
@@ -39126,7 +39126,7 @@
       "authors": [
         "Z. Shi",
         "Huaqun Yin",
-        "Joy D. Van Nostrand",
+        "J. V. Van Nostrand",
         "James W. Voordeckers",
         "Qichao Tu",
         "Ye Deng",
@@ -39302,7 +39302,7 @@
         "J. Nissimov",
         "D. Talmy",
         "L. Haramaty",
-        "Helen F. Fredricks",
+        "H. Fredricks",
         "Ehud Zelzion",
         "B. Knowles",
         "A. M. Eren",
@@ -39537,10 +39537,10 @@
       "authors": [
         "S. Yee",
         "D. Yee",
-        "Rebeca de Jesus Crespo",
+        "R. de Jesús Crespo",
         "A. Oczkowski",
         "F. Bai",
-        "Stephanie D. Friedman"
+        "S. Friedman"
       ],
       "journal": "EcoHealth",
       "publication_date": "2019-04-03",
@@ -39702,6 +39702,7 @@
         "E. Graham",
         "David Páez-Espino",
         "Colin J. Brislawn",
+        "Russell Y. Neches",
         "K. Hofmockel",
         "Ruonan Wu",
         "N. Kyrpides",
@@ -40030,8 +40031,8 @@
       "doi": "10.3390/F10030240",
       "title": "Soil Organic Carbon Chemical Functional Groups under Different Revegetation Types Are Coupled with Changes in the Microbial Community Composition and the Functional Genes",
       "authors": [
-        "Jiaojiao Deng",
-        "Wenxu Zhu",
+        "Jiao-Jiao Deng",
+        "Wen-Xu Zhu",
         "Yong-bin Zhou",
         "You Yin"
       ],
@@ -40751,7 +40752,7 @@
         "Mikael Kördel",
         "E. Fogelqvist",
         "V. Carannante",
-        "Björn Önfelt",
+        "B. Önfelt",
         "Hemanth K. N. Reddy",
         "M. Svenda",
         "J. Sellberg",
@@ -42664,7 +42665,9 @@
       "doi": "10.17504/PROTOCOLS.IO.DXQ7MV",
       "title": "Isolation and life cycle characterization of lytic viruses infecting heterotrophic bacteria and cyanobacteria",
       "authors": [
-        "M. Middelboe"
+        "M. Middelboe",
+        "Amy M. Chan",
+        "Sif K. Bertelsen"
       ],
       "journal": "",
       "publication_date": "2016-02-08",
@@ -43229,7 +43232,7 @@
         "S. Reynaud",
         "Simon Jacquet",
         "B. Leberre",
-        "C. Ferrier‐Pagès"
+        "C. Ferrier-Pagès"
       ],
       "journal": "PLoS ONE",
       "publication_date": "2015-10-14",
@@ -46180,7 +46183,7 @@
       "doi": "",
       "title": "Analysing active interactions between autotrophs and viruses in soil by following transfer of assimilated carbon",
       "authors": [
-        "∗. SungeunLee",
+        "SungeunLee",
         "C. Hazard",
         "G. Nicol"
       ],
