@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:34:26.274984+00:00",
+  "updated_at": "2026-09-16T23:40:31.539375+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1015,7 +1015,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-17T21:44:01.932591+00:00",
+      "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
       "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
     },
     {
@@ -1093,73 +1093,73 @@
       ],
       "similar_papers": [
         {
-          "id": "fd5c51d67be5ac8b42e0d125b796d40165c2b10b",
-          "title": "Rhizosphere microbiome differentiation and soil environmental drivers in two Monotropastrum species.",
+          "id": "8b01e47da37859afb86e1c49ec286207e4bbea72",
+          "title": "Spatial Variation in Mycosphere Soil Bacterial Communities of Leucopaxillus giganteus and Its Environmental Drivers in Shanxi, China",
           "year": 2026,
-          "journal": "Journal of Microbiology",
+          "journal": "Microorganisms",
           "authors": [
-            "Qian Liu",
-            "Xiaorong Chen",
-            "Xi Liu"
+            "Zhen Li",
+            "Rui-Gang Wu",
+            "Ming-Qin Luo"
           ],
-          "doi": "10.71150/jm.2602009",
-          "url": "https://www.semanticscholar.org/paper/fd5c51d67be5ac8b42e0d125b796d40165c2b10b",
+          "doi": "10.3390/microorganisms14092029",
+          "url": "https://www.semanticscholar.org/paper/8b01e47da37859afb86e1c49ec286207e4bbea72",
           "citation_count": 0
         },
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "id": "eee8caee4823b58651baac1c94b4ba8288c9bcd7",
+          "title": "Bacterial Communities Associated With Tuber indicum From the Nujiang River Basin, China",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "Journal of Basic Microbiology",
           "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
+            "Lingyu Mi",
+            "Wen-Ying Guo",
+            "Guan-Feng Zhang"
           ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "doi": "10.1002/jobm.70198",
+          "url": "https://www.semanticscholar.org/paper/eee8caee4823b58651baac1c94b4ba8288c9bcd7",
           "citation_count": 0
         },
         {
-          "id": "a2e513eb7fb26cc98a553bbdebde6e9c11dc39ec",
-          "title": "Trace metal ions are strongly associated with the structural variation in vineyard soil microbial communities along altitude gradients",
+          "id": "abcfb4624eb3e2a0fd6a0417e3cb496345e432e3",
+          "title": "Vegetation-Driven Differentiation of Soil Bacterial and Fungal Diversity: Distinct Edaphic Determinants in Atractylodes japonica Cultivation Systems",
           "year": 2026,
-          "journal": "Frontiers in Microbiology",
+          "journal": "Diversity",
           "authors": [
-            "Yashan Li",
-            "Xiaoxiong Bai",
-            "Xuan Yu"
+            "Ze-Hao Gan",
+            "Ruitong Du",
+            "Zhi-Peng Xu"
           ],
-          "doi": "10.3389/fmicb.2026.1824682",
-          "url": "https://www.semanticscholar.org/paper/a2e513eb7fb26cc98a553bbdebde6e9c11dc39ec",
+          "doi": "10.3390/d18080498",
+          "url": "https://www.semanticscholar.org/paper/abcfb4624eb3e2a0fd6a0417e3cb496345e432e3",
           "citation_count": 0
         },
         {
-          "id": "8a1af9ede399894fc6e304c8f73a79ff5c8c2f91",
-          "title": "Soil Resistomes in a Tropical Watershed are Indirectly Structured by Bacterial Community Interactions with Soil Properties",
+          "id": "9f3c49002c151c8333f8965cf48650a3ce5fad94",
+          "title": "Shifts in Soil Bacterial Diversity and Abundance at Various Taxonomic Levels in Tropical Peatlands Under Land‐Use Change",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "International Journal of Microbiology",
           "authors": [
-            "Wesley J. Sparagon",
-            "S K Lary",
-            "Makana T. Ioh"
+            "D. Zul",
+            "F. Saragih",
+            "P. K. Zebua"
           ],
-          "doi": "10.64898/2026.06.18.733189",
-          "url": "https://www.semanticscholar.org/paper/8a1af9ede399894fc6e304c8f73a79ff5c8c2f91",
+          "doi": "10.1155/ijm/3336189",
+          "url": "https://www.semanticscholar.org/paper/9f3c49002c151c8333f8965cf48650a3ce5fad94",
           "citation_count": 0
         },
         {
-          "id": "9e5dc918b2d579b348553b28c2176edb168609d8",
-          "title": "Microbial community composition and diversity in nodules and rhizosphere soil of bitter white lupine (Lupinus albus L.) and rhizosphere soil of triticale (×Triticosecale Wittmack)",
+          "id": "8a0e512bd70b8d34f97e398ea626620b631671f0",
+          "title": "Changes in Bacterial Diversity and Bacterial DNA Load in The Soil Beneath Deadwood of Various Tree Species Following Windthrow in Old-Growth Broadleaved Forests",
           "year": 2026,
-          "journal": "Frontiers in Microbiology",
+          "journal": "Molecular Biology",
           "authors": [
-            "Mulugeta Aytenew",
-            "A. A. Aserse",
-            "Petri Penttinen"
+            "D. Savelyev",
+            "P. Shelyakin",
+            "M. Tutukina"
           ],
-          "doi": "10.3389/fmicb.2026.1810398",
-          "url": "https://www.semanticscholar.org/paper/9e5dc918b2d579b348553b28c2176edb168609d8",
+          "doi": "10.1134/S0026893326700123",
+          "url": "https://www.semanticscholar.org/paper/8a0e512bd70b8d34f97e398ea626620b631671f0",
           "citation_count": 0
         }
       ],
@@ -1177,8 +1177,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-17T21:44:01.932591+00:00",
-      "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
+      "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
+      "edges_enriched_at": "2026-09-16T23:40:02.130244+00:00"
     },
     {
       "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
@@ -2285,20 +2285,6 @@
       ],
       "similar_papers": [
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
-          "year": 2026,
-          "journal": "Microbial Ecology",
-          "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
-          ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
-          "citation_count": 0
-        },
-        {
           "id": "a28a58630c6984fc444df4fbe61e8d55c2944407",
           "title": "Genome-resolved biogeography reveals multidimensional structuring of freshwater giant viruses across global deep lakes",
           "year": 2026,
@@ -2313,31 +2299,31 @@
           "citation_count": 0
         },
         {
-          "id": "95a41dc6ede290707891cf1677b54f4e843794cd",
-          "title": "Salinity-driven microbial adaptation of hydrocarbon-degrading communities in coastal sediments",
+          "id": "cf619ad80dff035484e0ec2b53df663425ab7c1e",
+          "title": "Diversity of Antarctic sea ice and under-ice seawater RNA viruses",
           "year": 2026,
-          "journal": "Msphere",
+          "journal": "Applied and Environmental Microbiology",
           "authors": [
-            "Yongyi Peng",
-            "Qing Liu",
-            "Xianbiao Lin"
+            "Shu-Juan Sun",
+            "Kaiyang Zheng",
+            "Yue Su"
           ],
-          "doi": "10.1128/msphere.00369-26",
-          "url": "https://www.semanticscholar.org/paper/95a41dc6ede290707891cf1677b54f4e843794cd",
+          "doi": "10.1128/aem.01472-26",
+          "url": "https://www.semanticscholar.org/paper/cf619ad80dff035484e0ec2b53df663425ab7c1e",
           "citation_count": 0
         },
         {
-          "id": "535e2c9148cbc7d90f7189617c9513117edeab1a",
-          "title": "Widespread phages exhibit depth-structured infection coupled with ammonia oxidation",
+          "id": "0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
+          "title": "Single-cell-resolved frequency and modes of phage interactions with prokaryoplankton in the tropical surface ocean",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "Yiting Qin",
-            "Hao Li",
-            "Dinesh Kumar Kuppa Baskaran"
+            "Julia M. Brown",
+            "Alaina R. Weinheimer",
+            "N. Poulton"
           ],
-          "doi": "10.64898/2026.06.18.733297",
-          "url": "https://www.semanticscholar.org/paper/535e2c9148cbc7d90f7189617c9513117edeab1a",
+          "doi": "10.64898/2026.08.25.747067",
+          "url": "https://www.semanticscholar.org/paper/0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
           "citation_count": 0
         },
         {
@@ -2352,6 +2338,20 @@
           ],
           "doi": "10.64898/2026.07.27.740809",
           "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "citation_count": 0
+        },
+        {
+          "id": "3129b21282d0d5df6242fbad2c51741d7217047e",
+          "title": "Virus-host interactions in iron-oxidizing mats of the East Pacific Rise",
+          "year": 2026,
+          "journal": "PLoS ONE",
+          "authors": [
+            "Kathryn L. Campbell",
+            "J. Sylvan",
+            "C. Moyer"
+          ],
+          "doi": "10.1371/journal.pone.0357099",
+          "url": "https://www.semanticscholar.org/paper/3129b21282d0d5df6242fbad2c51741d7217047e",
           "citation_count": 0
         }
       ],
@@ -2372,8 +2372,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-17T21:44:01.932591+00:00",
-      "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
+      "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
+      "edges_enriched_at": "2026-09-16T23:40:02.130244+00:00"
     },
     {
       "id": "0f75f234b1cadfedbf9719c86a4e36ceb560d914",
@@ -6435,12 +6435,12 @@
       "title": "Diversity, Function and Activity of DNA Viruses in the Qiangyong Proglacial Lake Sediment, the Tibetan Plateau",
       "authors": [
         "Yang Zhao",
-        "Meiling Feng",
-        "Hongfei Chi",
+        "Mei-Ling Feng",
+        "Hong-Fei Chi",
         "Keshao Liu",
         "Rong Wen",
         "Weizhen Zhang",
-        "Pengfei Liu"
+        "Peng-Fei Liu"
       ],
       "journal": "Environmental Microbiology Reports",
       "publication_date": "2026-01-08",
@@ -9966,7 +9966,7 @@
         "Zi-Yi Wang",
         "Zhong-Yuan Shen",
         "Wu-Hui Li",
-        "Kaikun Luo",
+        "Kai-Kun Luo",
         "Qinbo Qin",
         "Sheng-Nan Li",
         "Qian-Hong Gu"
@@ -29153,7 +29153,7 @@
       "title": "Bacterial, Phytoplankton, and Viral Distributions and Their Biogeochemical Contexts in Meromictic Lake Cadagno Offer Insights into the Proterozoic Ocean Microbial Loop",
       "authors": [
         "J. S. Saini",
-        "Christel S Hassler",
+        "C. Hassler",
         "Rachel N. Cable",
         "M. Fourquez",
         "F. Danza",
@@ -33073,7 +33073,7 @@
       "title": "Bacterial, phytoplankton, and viral dynamics of meromictic Lake Cadagno offer insights into the Proterozoic ocean microbial loop",
       "authors": [
         "J. S. Saini",
-        "Christel S Hassler",
+        "C. Hassler",
         "Rachel N. Cable",
         "M. Fourquez",
         "F. Danza",
@@ -36060,7 +36060,7 @@
         "F. Lelchat",
         "A. Bracher",
         "M. Duhaime",
-        "Christel S Hassler"
+        "C. Hassler"
       ],
       "journal": "Microorganisms",
       "publication_date": "2020-12-01",
@@ -38905,7 +38905,7 @@
       "doi": "10.1016/b978-0-12-816204-0.00016-3",
       "title": "Production of single-cell proteins from organic matter and residual nitrogen",
       "authors": [
-        "Tim Hülsen",
+        "T. Hülsen",
         "G. Carvalho",
         "F. Egger",
         "Heidy Cruz",
@@ -45098,7 +45098,7 @@
         "Pierre Peyret",
         "Nicole Morel-Desrosiers",
         "J. Morel",
-        "Télesphore Sime-Ngando",
+        "T. Sime-Ngando",
         "C. Amblard"
       ],
       "journal": "Revue des sciences naturelles d'Auvergne",
