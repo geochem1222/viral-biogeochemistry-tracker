@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:40:31.539375+00:00",
+  "updated_at": "2026-09-17T23:35:50.075738+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -829,59 +829,58 @@
           "citation_count": 0
         },
         {
-          "id": "8232cc9c0834c4e65c39eecd676e39267d873948",
-          "title": "Isolation of a Cohort of Giant Viruses From Above the Arctic Circle in Northern Norway.",
+          "id": "0be8728207c54c3de33fbab9084877a8b32ed0b0",
+          "title": "Processes in Microbial Ecology",
+          "year": 2026,
+          "journal": "",
+          "authors": [
+            "D. L. Kirchman",
+            "Ashley Shade"
+          ],
+          "doi": "10.1093/9780197831632.001.0001",
+          "url": "https://www.semanticscholar.org/paper/0be8728207c54c3de33fbab9084877a8b32ed0b0",
+          "citation_count": 0
+        },
+        {
+          "id": "4446691e6a396af15a537e303adf33c494f25c88",
+          "title": "Adaptation of Soil Viruses to Salinity Stress: Insights Into Genome Size Expansion and Functional Diversification.",
           "year": 2026,
           "journal": "Environmental Microbiology",
           "authors": [
-            "V. Queiroz",
-            "Juliana Miranda Tatara",
-            "Abdeali M. Jivaji"
+            "Ayijiamali Kudureti",
+            "Shuai Zhao",
+            "Xu Liu"
           ],
-          "doi": "10.1111/1462-2920.70366",
-          "url": "https://www.semanticscholar.org/paper/8232cc9c0834c4e65c39eecd676e39267d873948",
+          "doi": "10.1111/1462-2920.70395",
+          "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
           "citation_count": 0
         },
         {
-          "id": "83ffa6b12e940d082a00d31edf56f9ffa3968da4",
-          "title": "Mobilization of the ancient resistome from thawing permafrost.",
+          "id": "bfc47ffa5bbe28637558450d0f63981dc6ed5cdd",
+          "title": "Virome Diversity in Three Bat Species in Different Environments in Southern Spain",
           "year": 2026,
-          "journal": "Critical reviews in microbiology",
+          "journal": "Microorganisms",
           "authors": [
-            "M. Rehman",
-            "W. Sajjad",
-            "Shichang Kang"
+            "A. Méndez-Rodríguez",
+            "J. Ledesma",
+            "C. López-González"
           ],
-          "doi": "10.1080/1040841X.2026.2698958",
-          "url": "https://www.semanticscholar.org/paper/83ffa6b12e940d082a00d31edf56f9ffa3968da4",
+          "doi": "10.3390/microorganisms14092025",
+          "url": "https://www.semanticscholar.org/paper/bfc47ffa5bbe28637558450d0f63981dc6ed5cdd",
           "citation_count": 0
         },
         {
-          "id": "609e8a4c96d010afe988854130266d4a2710ff08",
-          "title": "Repeated Pleistocene Permafrost Episodes in the Western Pannonian Basin",
+          "id": "558fe40c99bec7e3efa17698acf588ed3df92d95",
+          "title": "Coupling of stable isotope probing and metagenomics reveals the diversity of viruses infecting formatotrophs during anaerobic digestion process",
           "year": 2026,
-          "journal": "Permafrost and Periglacial Processes",
+          "journal": "Microbiome",
           "authors": [
-            "Krisztina Sebe",
-            "Ágnes Novothny",
-            "G. Surányi"
+            "Vuong Quoc Hoang Ngo",
+            "Caroline Talleu",
+            "François Enault"
           ],
-          "doi": "10.1002/ppp.70051",
-          "url": "https://www.semanticscholar.org/paper/609e8a4c96d010afe988854130266d4a2710ff08",
-          "citation_count": 1
-        },
-        {
-          "id": "49c376a77637d6125a75252324280332cbe311da",
-          "title": "The Prokaryotic Community of Hypersaline Soils from the Odiel Saltmarshes: Culturomics Versus Metagenomics",
-          "year": 2026,
-          "journal": "Life",
-          "authors": [
-            "Cristina Galisteo",
-            "Dáša Straková",
-            "Alicia García-Roldán"
-          ],
-          "doi": "10.3390/life16081246",
-          "url": "https://www.semanticscholar.org/paper/49c376a77637d6125a75252324280332cbe311da",
+          "doi": "10.1186/s40168-026-02509-3",
+          "url": "https://www.semanticscholar.org/paper/558fe40c99bec7e3efa17698acf588ed3df92d95",
           "citation_count": 0
         }
       ],
@@ -901,8 +900,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-08-18T21:41:39.631741+00:00",
-      "edges_enriched_at": "2026-08-18T21:42:00.610091+00:00"
+      "detail_enriched_at": "2026-09-17T23:35:41.953493+00:00",
+      "edges_enriched_at": "2026-09-17T23:35:42.851242+00:00"
     },
     {
       "id": "5498caec82ea3e0c360ea951374e72a797add356",
@@ -933,17 +932,17 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "id": "636d3d9e0c3789d55cc291350ff80a191ecd63ba",
+          "title": "Groundwater microbial community structure under contrasting hydrological conditions in a sulfate-rich karst aquifer",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "Frontiers in Microbiology",
           "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
+            "R. Romano",
+            "Tomoaki Morita",
+            "F. Peres"
           ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "doi": "10.3389/fmicb.2026.1883366",
+          "url": "https://www.semanticscholar.org/paper/636d3d9e0c3789d55cc291350ff80a191ecd63ba",
           "citation_count": 0
         },
         {
@@ -960,45 +959,45 @@
           "citation_count": 0
         },
         {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "id": "0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
+          "title": "Single-cell-resolved frequency and modes of phage interactions with prokaryoplankton in the tropical surface ocean",
           "year": 2026,
-          "journal": "Environmental Research",
+          "journal": "bioRxiv",
           "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
+            "Julia M. Brown",
+            "Alaina R. Weinheimer",
+            "N. Poulton"
           ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "doi": "10.64898/2026.08.25.747067",
+          "url": "https://www.semanticscholar.org/paper/0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
           "citation_count": 0
         },
         {
-          "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
-          "title": "Host-virus dynamics in anaerobic digesters facing abiotic inhibition.",
+          "id": "4446691e6a396af15a537e303adf33c494f25c88",
+          "title": "Adaptation of Soil Viruses to Salinity Stress: Insights Into Genome Size Expansion and Functional Diversification.",
           "year": 2026,
-          "journal": "Water Research",
+          "journal": "Environmental Microbiology",
           "authors": [
-            "Marion Coves",
-            "Cédric Midoux",
-            "Julien Lossouarn"
+            "Ayijiamali Kudureti",
+            "Shuai Zhao",
+            "Xu Liu"
           ],
-          "doi": "10.1016/j.watres.2026.126521",
-          "url": "https://www.semanticscholar.org/paper/f0cac78c0c4eea70d4761acff7024fce571b831b",
+          "doi": "10.1111/1462-2920.70395",
+          "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
           "citation_count": 0
         },
         {
-          "id": "edf192f3bfe31fb5c2e9de1e9693d1d3834630e8",
-          "title": "Deep subsurface organic-rich shale supports abundant, diverse, and novel fungi.",
+          "id": "ee4423ca7bc56c5aa4418c747d6698600017e04d",
+          "title": "Dispersal pathways and infection strategies within the Global Halophilic Virome",
           "year": 2026,
-          "journal": "The ISME Journal",
+          "journal": "ISME Communications",
           "authors": [
-            "Quinn S Moon",
-            "Elliott P Barnhart",
-            "M. Varonka"
+            "Borja Aldeguer-Riquelme",
+            "Cristina López",
+            "Eva Mayol"
           ],
-          "doi": "10.1093/ismejo/wrag184",
-          "url": "https://www.semanticscholar.org/paper/edf192f3bfe31fb5c2e9de1e9693d1d3834630e8",
+          "doi": "10.1093/ismeco/ycag244",
+          "url": "https://www.semanticscholar.org/paper/ee4423ca7bc56c5aa4418c747d6698600017e04d",
           "citation_count": 0
         }
       ],
@@ -1016,7 +1015,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
-      "edges_enriched_at": "2026-08-17T21:44:02.577781+00:00"
+      "edges_enriched_at": "2026-09-17T23:35:42.851242+00:00"
     },
     {
       "id": "d7eaf1f4a9ff8b5bf1f701adeaa048c36c0f2099",
@@ -6619,7 +6618,7 @@
       "url": "https://www.semanticscholar.org/paper/89bc1831e429b88c8e6e4b4a488af61bcb5e368c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/89bc1831e429b88c8e6e4b4a488af61bcb5e368c",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 124,
       "references": [],
@@ -6907,7 +6906,7 @@
       "url": "https://www.semanticscholar.org/paper/d064e5cc4596865160d339cdc412096d8b3bc2dc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d064e5cc4596865160d339cdc412096d8b3bc2dc",
       "pdf_url": "https://www.nature.com/articles/s41545-025-00543-6_reference.pdf",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 89,
       "references": [
@@ -7920,7 +7919,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -8204,7 +8203,7 @@
       "url": "https://www.semanticscholar.org/paper/c2c5abfcdc9555dbcf42ee343186dd521c308655",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c2c5abfcdc9555dbcf42ee343186dd521c308655",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 88,
       "references": [],
@@ -13141,7 +13140,7 @@
       "doi": "10.3390/w17060903",
       "title": "Picoplankton Groups and Their Responses to Environmental Factors in Small Cascade Hydropower Stations",
       "authors": [
-        "Peiquan Li",
+        "Pei-Quan Li",
         "Zhongxin Luo",
         "Xianfang Zhu",
         "Zhengzhu Dang",
@@ -15503,7 +15502,7 @@
       "url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4f6c383ad1e611207cbf445795b32446556788e4",
       "pdf_url": "",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 80,
       "references": [],
@@ -17529,14 +17528,14 @@
       "title": "Environmental risks of mask wastes binding pollutants: Phytotoxicity, microbial community, nitrogen and carbon cycles.",
       "authors": [
         "Yuchao Jiang",
-        "Chunxiu Zhou",
+        "Chun-Xiu Zhou",
         "Aman Khan",
         "Xueyao Zhang",
         "Tursunay Mamtimin",
         "Jingwen Fan",
-        "Xiaoxiao Hou",
+        "Xiao-Xiao Hou",
         "Pu Liu",
-        "Huawen Han",
+        "Hua-Wen Han",
         "Xiangkai Li"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -18336,7 +18335,7 @@
         "T. Woyke",
         "Nicholas C. Dove",
         "Konstantinos T. Konstantinidis",
-        "Thomas E. Juenger",
+        "T. Juenger",
         "Stephen C. Hart",
         "D. Myrold",
         "Tullis C. Onstott",
@@ -18367,7 +18366,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 96,
+      "citation_count": 97,
       "influential_citation_count": 4,
       "reference_count": 114,
       "references": [
@@ -19710,7 +19709,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://doi.org/10.1038/s41467-024-46109-x",
-      "citation_count": 42,
+      "citation_count": 43,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -20358,7 +20357,7 @@
         "N. Xu",
         "Zhen-Yan Zhang",
         "Yu Deng",
-        "Michael R Gillings",
+        "Michael R. Gillings",
         "Tao Lu",
         "Hai-Feng Qian"
       ],
@@ -27294,7 +27293,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 217,
+      "citation_count": 219,
       "influential_citation_count": 10,
       "reference_count": 105,
       "references": [
@@ -28454,7 +28453,7 @@
       "abstract": "Soil organisms play an important role in the equilibrium and cycling of nutrients. Because elevated CO2 (eCO2) affects plant metabolism, including rhizodeposition, it directly impacts the soil microbiome and microbial processes. Therefore, eCO2 directly influences the cycling of different elements in terrestrial ecosystems. Hence, possible changes in the cycles of carbon (C), nitrogen (N), and sulfur (S) were analyzed, alongside the assessment of changes in the composition and structure of the soil microbiome through a functional metatranscriptomics approach (cDNA from mRNA) from soil samples taken at the Giessen free-air CO2 enrichment (Gi-FACE) experiment. Results showed changes in the expression of C cycle genes under eCO2 with an increase in the transcript abundance for carbohydrate and amino acid uptake, and degradation, alongside an increase in the transcript abundance for cellulose, chitin, and lignin degradation and prokaryotic carbon fixation. In addition, N cycle changes included a decrease in the transcript abundance of N2O reductase, involved in the last step of the denitrification process, which explains the increase of N2O emissions in the Gi-FACE. Also, a shift in nitrate (NO3-) metabolism occurred, with an increase in transcript abundance for the dissimilatory NO3- reduction to ammonium (NH4+) (DNRA) pathway. S metabolism showed increased transcripts for sulfate (SO42-) assimilation under eCO2 conditions. Furthermore, soil bacteriome, mycobiome, and virome significantly differed between ambient and elevated CO2 conditions. The results exhibited the effects of eCO2 on the transcript abundance of C, N, and S cycles, and the soil microbiome. This finding showed a direct connection between eCO2 and the increased greenhouse gas emission, as well as the importance of soil nutrient availability to maintain the balance of soil ecosystems.",
       "url": "https://www.semanticscholar.org/paper/c8607f601c47bf3e4c6a66d237aef378340317c7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c8607f601c47bf3e4c6a66d237aef378340317c7",
-      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.937021/pdf",
+      "pdf_url": "https://doi.org/10.3389/fmicb.2022.937021",
       "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 109,
@@ -30712,7 +30711,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 356,
+      "citation_count": 357,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -36236,7 +36235,7 @@
       "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
-      "citation_count": 119,
+      "citation_count": 120,
       "influential_citation_count": 7,
       "reference_count": 139,
       "references": [
@@ -36967,7 +36966,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 209,
+      "citation_count": 210,
       "influential_citation_count": 10,
       "reference_count": 91,
       "references": [
@@ -40870,7 +40869,7 @@
         "Hemanth K. N. Reddy",
         "M. Svenda",
         "J. Sellberg",
-        "K. G. Y. Arsana",
+        "K. Arsana",
         "U. Vogt",
         "H. Hertz"
       ],
@@ -44620,7 +44619,7 @@
       "url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10539-012-9344-0.pdf",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
