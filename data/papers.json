@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:35:50.075738+00:00",
+  "updated_at": "2026-09-18T23:21:47.829315+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1655,7 +1655,7 @@
       "title": "Straw incorporation and strawsphere formation shape the fate of antibiotic-resistant human pathogens in agricultural soil.",
       "authors": [
         "Yuan Wang",
-        "Changchun Yan",
+        "Chang-Chun Yan",
         "Junwei Jin",
         "Zhen-Yu Li",
         "Hanghai Zhou",
@@ -2119,73 +2119,73 @@
       ],
       "similar_papers": [
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
+          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "Nature Communications",
           "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
+            "Han-Peng Liao",
+            "C. Ai",
+            "Chen Liu"
           ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "doi": "10.1038/s41467-026-75907-8",
+          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
           "citation_count": 0
         },
         {
-          "id": "23ce886feab13c37c8951a63297e31af40b0f190",
-          "title": "Phages as Metabolic Switches in Plant‐Associated Microbiomes: Implications for Climate‐Smart Agriculture",
+          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
+          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
           "year": 2026,
-          "journal": "Journal of Basic Microbiology",
+          "journal": "iScience",
           "authors": [
-            "Baber Ali",
-            "Muhammad Khan",
-            "Muhammad Osama"
+            "Chao-Jian Hu",
+            "Muhammad Asif",
+            "Jin-Hui Liu"
           ],
-          "doi": "10.1002/jobm.70186",
-          "url": "https://www.semanticscholar.org/paper/23ce886feab13c37c8951a63297e31af40b0f190",
+          "doi": "10.1016/j.isci.2026.117172",
+          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
           "citation_count": 0
         },
         {
-          "id": "bc3e9ad6a2e83f48b78c3cf7526249531664b24e",
-          "title": "Host life-history strategy is a critical determinant of virulent phage infection propensity",
+          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
+          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
           "year": 2026,
-          "journal": "The ISME Journal",
+          "journal": "Journal of Animal Science and Biotechnology",
           "authors": [
-            "Chuncheng Wu",
-            "Jacques Mathieu",
-            "C. Schwarz"
+            "Wei Guo",
+            "Yin-Shu Yu",
+            "Wei-Wei Wang"
           ],
-          "doi": "10.1093/ismejo/wrag168",
-          "url": "https://www.semanticscholar.org/paper/bc3e9ad6a2e83f48b78c3cf7526249531664b24e",
+          "doi": "10.1186/s40104-026-01487-8",
+          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
           "citation_count": 0
         },
         {
-          "id": "6ff7ea0b205a120ea250f3f41c7fa83f2679818c",
-          "title": "The functional structure of foxtail millet rhizoplane microbiome and its association with yield",
-          "year": 2026,
-          "journal": "Microbiology spectrum",
-          "authors": [
-            "Canzhi Jin",
-            "Qiuge Chen",
-            "Xin Liu"
-          ],
-          "doi": "10.1128/spectrum.00707-26",
-          "url": "https://www.semanticscholar.org/paper/6ff7ea0b205a120ea250f3f41c7fa83f2679818c",
-          "citation_count": 0
-        },
-        {
-          "id": "90d39b12e45f96610684beb1e0a746efa961c009",
-          "title": "Community-level diversity of viral counter-defensomes",
+          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "A. Beavogui",
-            "L. H. da Silva e Silva",
-            "Izabel de G. M. Gomes"
+            "Haoran Wang",
+            "Chunhui Ai",
+            "A. Barcan"
           ],
-          "doi": "10.64898/2026.08.10.744029",
-          "url": "https://www.semanticscholar.org/paper/90d39b12e45f96610684beb1e0a746efa961c009",
+          "doi": "10.64898/2026.07.27.740809",
+          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "citation_count": 0
+        },
+        {
+          "id": "43c64e8a7dd13c0b6c579350ca6b00ea87fe21ee",
+          "title": "Environmental filtering shapes biosynthetic potential and resistome of antarctic microbiomes",
+          "year": 2026,
+          "journal": "World Journal of Microbiology & Biotechnology",
+          "authors": [
+            "William B. Medeiros",
+            "Kelly Hidalgo-Martinez",
+            "D. D. P. S. Penna"
+          ],
+          "doi": "10.1007/s11274-026-05201-8",
+          "url": "https://www.semanticscholar.org/paper/43c64e8a7dd13c0b6c579350ca6b00ea87fe21ee",
           "citation_count": 0
         }
       ],
@@ -2207,8 +2207,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-19T21:45:30.537261+00:00",
-      "edges_enriched_at": "2026-08-19T21:45:31.396863+00:00"
+      "detail_enriched_at": "2026-09-18T23:21:35.802316+00:00",
+      "edges_enriched_at": "2026-09-18T23:21:36.445847+00:00"
     },
     {
       "id": "19599279d5b59ab33d8438276e997a48fd5db062",
@@ -5036,7 +5036,7 @@
         "Mingming Sun",
         "Feng Hu",
         "J. Peñuelas",
-        "Yong-guan Zhu"
+        "Yong-Guan Zhu"
       ],
       "journal": "Nature Communications",
       "publication_date": "2026-03-18",
@@ -7919,7 +7919,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -9094,7 +9094,7 @@
       "url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e28c1c379de2cdd8dd01f2322bcb257d25242c37",
       "pdf_url": "",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 87,
       "references": [],
@@ -10130,7 +10130,7 @@
       "authors": [
         "Linfa Fang",
         "Prakash Lakshmanan",
-        "Hailin Zhang",
+        "Hai-Lin Zhang",
         "Yue Deng",
         "Ran Xiao",
         "Teng Wen",
@@ -10139,8 +10139,8 @@
         "C. Müller",
         "Jin-Bo Zhang",
         "Xinping Chen",
-        "Yong-guan Zhu",
-        "Xiaoxuan Su"
+        "Yong-Guan Zhu",
+        "Xiao-Xuan Su"
       ],
       "journal": "Proceedings of the National Academy of Sciences of the United States of America",
       "publication_date": "2025-07-16",
@@ -10310,7 +10310,7 @@
       "url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1645559/pdf",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 34,
       "references": [
@@ -12247,7 +12247,7 @@
         "Xianjin Tang",
         "Fang-Bai Li",
         "Yong-Ming Luo",
-        "Yong-guan Zhu",
+        "Yong-Guan Zhu",
         "Jian-Ming Xu",
         "Bin Ma"
       ],
@@ -20367,7 +20367,7 @@
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10880660",
-      "citation_count": 54,
+      "citation_count": 55,
       "influential_citation_count": 2,
       "reference_count": 49,
       "references": [],
@@ -22486,7 +22486,7 @@
       "url": "https://www.semanticscholar.org/paper/8d6f0c49e5dc7f4b93a436af928b774da66e34da",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8d6f0c49e5dc7f4b93a436af928b774da66e34da",
       "pdf_url": "https://www.nature.com/articles/s41598-023-40946-4.pdf",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 56,
       "references": [
@@ -25173,7 +25173,7 @@
         "Jichao Zhu",
         "Yaohui Yang",
         "W. Peijnenburg",
-        "Haifeng Qian"
+        "Hai-Feng Qian"
       ],
       "journal": "Environmental Pollution",
       "publication_date": "2023-03-01",
@@ -25181,7 +25181,7 @@
       "url": "https://www.semanticscholar.org/paper/98240e341ed629e0d42dd1a9c2d188abaf3cf489",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/98240e341ed629e0d42dd1a9c2d188abaf3cf489",
       "pdf_url": "https://doi.org/10.2139/ssrn.4340466",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 73,
       "references": [],
@@ -28126,7 +28126,7 @@
       "url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ae26d8d8bbcada3186a57873a5f47cb567af2447",
       "pdf_url": "https://www.nature.com/articles/s41564-022-01203-y.pdf",
-      "citation_count": 223,
+      "citation_count": 225,
       "influential_citation_count": 9,
       "reference_count": 124,
       "references": [
@@ -30711,7 +30711,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 357,
+      "citation_count": 359,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -36966,7 +36966,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 210,
+      "citation_count": 211,
       "influential_citation_count": 10,
       "reference_count": 91,
       "references": [
@@ -43232,7 +43232,7 @@
       "title": "Effects of Soil Nitrogen and Atmospheric Carbon Dioxide on Wheat streak mosaic virus and Its Vector (Aceria tosichella Kiefer).",
       "authors": [
         "Z. Miller",
-        "E. Lehnhoff",
+        "Erik A. Lehnhoff",
         "F. Menalled",
         "M. Burrows"
       ],
@@ -43951,7 +43951,7 @@
         "R. Almeida",
         "F. Roland",
         "S. Cardoso",
-        "V. Farjalla",
+        "V. F. Farjalla",
         "R. Bozelli",
         "N. Barros"
       ],
