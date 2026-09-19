@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:21:47.829315+00:00",
+  "updated_at": "2026-09-19T23:10:10.505916+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -525,73 +525,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "8c55bd7455f7862cf087f18b392fe434481b312c",
-          "title": "Habitat-dependent viral dynamics and auxiliary metabolism in ecological floating beds: implications for biogeochemical function.",
+          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
           "year": 2026,
-          "journal": "Environmental Research",
+          "journal": "Microorganisms",
           "authors": [
-            "Zuhan Ge",
-            "Saqi Wang",
-            "Nan Zhang"
+            "Jing Yang",
+            "Zhuo Wang",
+            "Chuan-Xu Wang"
           ],
-          "doi": "10.1016/j.envres.2026.125118",
-          "url": "https://www.semanticscholar.org/paper/8c55bd7455f7862cf087f18b392fe434481b312c",
+          "doi": "10.3390/microorganisms14091937",
+          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
           "citation_count": 0
         },
         {
-          "id": "75768f03bd7462f337cf062652b1052234b62c5e",
-          "title": "Soil salinity restructures microbial communities in coastal croplands of Kuakata, Bangladesh.",
+          "id": "a976b4d234390f7834af1bbb421922dfb8c4f324",
+          "title": "Rhizosphere microbiome assembly and functional enrichment drive salt tolerance in wheat.",
           "year": 2026,
-          "journal": "Scientific Reports",
+          "journal": "Journal of Environmental Management",
           "authors": [
-            "Sumit Das",
-            "M. R. Nayem",
-            "Jannat Ara Khanom"
+            "Yan-Wei Kan",
+            "Yu-Hao Fu",
+            "Wenliang Yang"
           ],
-          "doi": "10.1038/s41598-026-60573-z",
-          "url": "https://www.semanticscholar.org/paper/75768f03bd7462f337cf062652b1052234b62c5e",
+          "doi": "10.1016/j.jenvman.2026.130869",
+          "url": "https://www.semanticscholar.org/paper/a976b4d234390f7834af1bbb421922dfb8c4f324",
           "citation_count": 0
         },
         {
-          "id": "d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
-          "title": "Invertebrates gut viromes mediate microbial adaptation to pharmaceutical diversity under warming.",
+          "id": "6adae5b7658dbfe760deec63722b79e6c9754093",
+          "title": "Localized root colonization by Trichoderma afroharzianum T22 is associated with host transcriptional reprogramming and beneficial bacterial enrichment under salinity stress in sorghum.",
           "year": 2026,
-          "journal": "Microbiome",
+          "journal": "Microbiology Research",
           "authors": [
-            "Ya-ning Wang",
-            "Jing-Ting Zheng",
-            "Xue-Peng Chen"
+            "Ruby Bagchi",
+            "Bishrant Pant",
+            "Hong-Liang Wang"
           ],
-          "doi": "10.1186/s40168-026-02465-y",
-          "url": "https://www.semanticscholar.org/paper/d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
+          "doi": "10.1016/j.micres.2026.128703",
+          "url": "https://www.semanticscholar.org/paper/6adae5b7658dbfe760deec63722b79e6c9754093",
           "citation_count": 0
         },
         {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
+          "id": "62bd4b3da631912a74192ba1b3ca4d7487f306de",
+          "title": "Associations of salinity and microplastics with microbial community assembly and functional potential in saline-alkali soils.",
           "year": 2026,
-          "journal": "Microbial Ecology",
+          "journal": "Journal of Hazardous Materials",
           "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
+            "Caidan Ding",
+            "Wen Hu",
+            "Xiu-Yuan Yang"
           ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
+          "doi": "10.1016/j.jhazmat.2026.143355",
+          "url": "https://www.semanticscholar.org/paper/62bd4b3da631912a74192ba1b3ca4d7487f306de",
           "citation_count": 0
         },
         {
-          "id": "254e6c5a8a991c0a6f170c940d18026593c07e0a",
-          "title": "Fungal Diversity and Community Assembly in Saline–Alkaline Soils of the Yellow River Delta, China",
+          "id": "b68e8315de5f23701cbe62fd336ea5ecbdf7abe7",
+          "title": "Halotolerant plant growth-promoting rhizobacteria from rice and wheat in sodic soils: Characterization for their potential to alleviate salt stress",
           "year": 2026,
-          "journal": "Diversity",
+          "journal": "Journal of Soil and Water Conservation, India",
           "authors": [
-            "Weishuai Yu",
-            "Dayu Wu",
-            "Hongfeng Wang"
+            "H. Dixit",
+            "Ranjan Singh",
+            "Sanjay Arora"
           ],
-          "doi": "10.3390/d18070392",
-          "url": "https://www.semanticscholar.org/paper/254e6c5a8a991c0a6f170c940d18026593c07e0a",
+          "doi": "10.5958/2455-7145.2026.00027.5",
+          "url": "https://www.semanticscholar.org/paper/b68e8315de5f23701cbe62fd336ea5ecbdf7abe7",
           "citation_count": 0
         }
       ],
@@ -612,8 +612,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-08-20T21:46:55.275967+00:00",
-      "edges_enriched_at": "2026-08-20T21:46:55.919002+00:00"
+      "detail_enriched_at": "2026-09-19T23:10:03.242213+00:00",
+      "edges_enriched_at": "2026-09-19T23:10:03.887256+00:00"
     },
     {
       "id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
@@ -3844,17 +3844,31 @@
       ],
       "similar_papers": [
         {
-          "id": "51b2350006ebbc99af9a6d4c599aaf21c8a17739",
-          "title": "Microbial diversity, functional potential, and antimicrobial resistance across soil depth in fire-affected rotational shifting cultivation soils",
+          "id": "1d076c5ad5934db8cff3090e63d5ff09a00abfc1",
+          "title": "Vegetation-driven shifts in soil microbial communities and predicted carbon-cycling potential across soil depths in High-Arctic islands",
           "year": 2026,
-          "journal": "Soil Ecology Letters",
+          "journal": "Environmental Microbiome",
           "authors": [
-            "Noppol Arunrat",
-            "Wuttichai Mhuantong",
-            "S. Sereenonchai"
+            "Jessica Cuartero",
+            "Joel Rüthi",
+            "M. Dawes"
           ],
-          "doi": "10.1007/s42832-026-0468-6",
-          "url": "https://www.semanticscholar.org/paper/51b2350006ebbc99af9a6d4c599aaf21c8a17739",
+          "doi": "10.1186/s40793-026-00959-8",
+          "url": "https://www.semanticscholar.org/paper/1d076c5ad5934db8cff3090e63d5ff09a00abfc1",
+          "citation_count": 0
+        },
+        {
+          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
+          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Han-Peng Liao",
+            "C. Ai",
+            "Chen Liu"
+          ],
+          "doi": "10.1038/s41467-026-75907-8",
+          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
           "citation_count": 0
         },
         {
@@ -3872,17 +3886,17 @@
           "citation_count": 0
         },
         {
-          "id": "f42a4bbeda328341409eab21706549b173aa4f5c",
-          "title": "Bio-based fertilizers shape soil microbiome, resistome and mobilome through metabolism of antibiotic-producing Streptomyces",
+          "id": "1c731e832ba083a6df6d95901bb98cef427fc0b3",
+          "title": "Multi-omics and cultivation reveal laminarin-degrading PVC bacteria in the deep sea",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Nature Communications",
           "authors": [
-            "Taru-Marja Mäkinen",
-            "Melina A. Markkanen",
-            "Pietari Lahti-Nuuttila"
+            "Rikuan Zheng",
+            "Chong Wang",
+            "Chaomin Sun"
           ],
-          "doi": "10.64898/2026.06.29.735163",
-          "url": "https://www.semanticscholar.org/paper/f42a4bbeda328341409eab21706549b173aa4f5c",
+          "doi": "10.1038/s41467-026-76253-5",
+          "url": "https://www.semanticscholar.org/paper/1c731e832ba083a6df6d95901bb98cef427fc0b3",
           "citation_count": 0
         },
         {
@@ -3897,20 +3911,6 @@
           ],
           "doi": "10.3389/fpls.2026.1891479",
           "url": "https://www.semanticscholar.org/paper/20be9464934c9364fe362bbf883a3fc627b03c92",
-          "citation_count": 0
-        },
-        {
-          "id": "567ecee0ba0e495cccab2ef800f52ec386376118",
-          "title": "Metagenomic Analysis of Rural Groundwater Viromes Reveals Bacteriophage Contributions to Groundwater Microbial Ecology",
-          "year": 2026,
-          "journal": "Microbial Ecology",
-          "authors": [
-            "Manar-Aleslam M. Mattar",
-            "Walaa A. Eraqi",
-            "Mohamed Bakr Zaki"
-          ],
-          "doi": "10.1007/s00248-026-02818-y",
-          "url": "https://www.semanticscholar.org/paper/567ecee0ba0e495cccab2ef800f52ec386376118",
           "citation_count": 0
         }
       ],
@@ -3929,8 +3929,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-08-20T21:46:55.275967+00:00",
-      "edges_enriched_at": "2026-08-20T21:46:55.919002+00:00"
+      "detail_enriched_at": "2026-09-19T23:10:03.242213+00:00",
+      "edges_enriched_at": "2026-09-19T23:10:03.887256+00:00"
     },
     {
       "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
@@ -8467,7 +8467,7 @@
       "doi": "10.1111/ejss.70220",
       "title": "Nutrient‐Dependent Viral Lifestyle Shifts Drive Microbial Turnover and Soil Organic Carbon Accrual",
       "authors": [
-        "Yongfeng Wang",
+        "Yong-Feng Wang",
         "Xianjin Lan",
         "Shuo Wang",
         "Zhiyao Wang",
@@ -10297,7 +10297,7 @@
       "doi": "10.3389/fmicb.2025.1645559",
       "title": "The interplay of nitrogen sources and viral communities in the biodegradation of atrazine in agricultural soils",
       "authors": [
-        "Yongfeng Wang",
+        "Yong-Feng Wang",
         "M. Radosevich",
         "Lu Yang",
         "Ying Zhang",
