@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:17:12.303922+00:00",
+  "updated_at": "2026-09-22T00:10:20.486554+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -778,7 +778,7 @@
       "pdf_url": "https://doi.org/10.1002/mlf2.70087",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 102,
+      "reference_count": 127,
       "references": [
         {
           "title": "Unveiling the microbial realm with VEBA 2.0: a modular bioinformatics suite for end-to-end genome-resolved prokaryotic, (micro)eukaryotic and viral multi-omics from either short- or long-read sequencing",
@@ -791,6 +791,12 @@
           "year": 2024,
           "url": "https://www.semanticscholar.org/paper/f56f00109230a38d4f005b098e3bf6f7cdabb836",
           "doi": "10.1038/s41467-024-47214-7"
+        },
+        {
+          "title": "Unveiling the Microbial Realm with VEBA 2.0: A modular bioinformatics suite for end-to-end genome-resolved prokaryotic, (micro)eukaryotic, and viral multi-omics from either short- or long-read sequencing",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/6515e7adb3f4d181c325aac79cb6556e96c3a046",
+          "doi": "10.1101/2024.03.08.583560"
         },
         {
           "title": "Divergent Fungal Community Dynamics of Thuja sutchuenensis in Arid Environments",
@@ -821,83 +827,77 @@
           "year": 2023,
           "url": "https://www.semanticscholar.org/paper/fdc0e34dcb7921d392071647394a27d493d49357",
           "doi": "10.1371/journal.pbio.3002083"
-        },
-        {
-          "title": "A Mineral-Doped Micromodel Platform Demonstrates Fungal Bridging of Carbon Hot Spots and Hyphal Transport of Mineral-Derived Nutrients",
-          "year": 2022,
-          "url": "https://www.semanticscholar.org/paper/9fa1f0158e1edff249121073eb958c901f89029d",
-          "doi": "10.1128/msystems.00913-22"
         }
       ],
       "similar_papers": [
         {
-          "id": "4aa64d9b9ec9cfa9d025b72e4e9ef00f32c0767e",
-          "title": "Beyond diversity: the functional mechanisms of microbial adapations under climate change in alpine deserts.",
+          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
+          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
           "year": 2026,
-          "journal": "Environmental Microbiome",
+          "journal": "Nature Communications",
           "authors": [
-            "Lu Gan",
-            "Zhiyong Yang",
-            "Yuan Zhang"
+            "Han-Peng Liao",
+            "C. Ai",
+            "Chen Liu"
           ],
-          "doi": "10.1186/s40793-026-00928-1",
-          "url": "https://www.semanticscholar.org/paper/4aa64d9b9ec9cfa9d025b72e4e9ef00f32c0767e",
+          "doi": "10.1038/s41467-026-75907-8",
+          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
           "citation_count": 0
         },
         {
-          "id": "9104c49baa95419cf3d4335bc368c97810fce052",
-          "title": "Protist Predation Rapidly Reshapes Soil Microbial Gene Expression Linked to Nutrient Processing, Resistance, Virulence, and Gene Mobility Traits.",
+          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
+          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
           "year": 2026,
-          "journal": "Environmental Science and Technology",
+          "journal": "iScience",
           "authors": [
-            "Dishant Patel",
-            "Matthew Heidenblut",
-            "Rebecca L. Mau"
+            "Chao-Jian Hu",
+            "Muhammad Asif",
+            "Jin-Hui Liu"
           ],
-          "doi": "10.1021/acs.est.5c18948",
-          "url": "https://www.semanticscholar.org/paper/9104c49baa95419cf3d4335bc368c97810fce052",
+          "doi": "10.1016/j.isci.2026.117172",
+          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
           "citation_count": 0
         },
         {
-          "id": "97d3e4a739b219145e948815d7664420b6474cb1",
-          "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
+          "id": "970fea156585d5204b95acf79ec82996dd91767c",
+          "title": "Environmental heterogeneity dominates the regulation of metabolites in ephemeral plants by the rhizosphere microbial community",
           "year": 2026,
-          "journal": "Land Degradation &amp; Development",
+          "journal": "Frontiers in Plant Science",
           "authors": [
-            "Ning Wang",
-            "Tooba Mumtaz",
-            "Yuyao Yuan"
+            "Zhengwei Heng",
+            "Kangwei Jiang",
+            "Yu Wang"
           ],
-          "doi": "10.1002/ldr.70741",
-          "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "doi": "10.3389/fpls.2026.1815311",
+          "url": "https://www.semanticscholar.org/paper/970fea156585d5204b95acf79ec82996dd91767c",
           "citation_count": 0
         },
         {
-          "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
-          "title": "Experimental drought drives divergent succession of soil microbiota.",
+          "id": "aea720b1c55c3759375ca9f686d1e9aab7b5b169",
+          "title": "Seasonal Rebalancing of Assembly Processes and Cross-Domain Network Restructuring in Microbial Communities of a Large Eutrophic Lake",
           "year": 2026,
-          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "journal": "bioRxiv",
           "authors": [
-            "Sihang Deng",
-            "Yunfeng Yang",
-            "Xue Guo"
+            "Shanmei Zou",
+            "Lydia L. Smith",
+            "Xinke Yu"
           ],
-          "doi": "10.1073/pnas.2537753123",
-          "url": "https://www.semanticscholar.org/paper/d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "doi": "10.64898/2026.07.29.741506",
+          "url": "https://www.semanticscholar.org/paper/aea720b1c55c3759375ca9f686d1e9aab7b5b169",
           "citation_count": 0
         },
         {
-          "id": "a8676c63456ebeb1f74214545b0e499c1050125e",
-          "title": "Effects of Nutrient Limitation on Antarctic Microbial Community Diversity, Composition, and Interactions: A Cryoconite Microcosm Study",
+          "id": "b5570ec5f504bb185f59621ea7f98120d4db8854",
+          "title": "Salinity gradients drive bacterial–fungal divergence through diversity variation, network fragility, and stochastic assembly in saline-alkali soils",
           "year": 2026,
-          "journal": "Microorganisms",
+          "journal": "Soil Ecology Letters",
           "authors": [
-            "Eli M. S. Gendron",
-            "Melia Scholl",
-            "A. Solon"
+            "Xiao-Xuan Ma",
+            "Lijuan Chen",
+            "Changsheng Li"
           ],
-          "doi": "10.3390/microorganisms14081807",
-          "url": "https://www.semanticscholar.org/paper/a8676c63456ebeb1f74214545b0e499c1050125e",
+          "doi": "10.1007/s42832-026-0432-5",
+          "url": "https://www.semanticscholar.org/paper/b5570ec5f504bb185f59621ea7f98120d4db8854",
           "citation_count": 0
         }
       ],
@@ -918,8 +918,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-22T21:38:58.749996+00:00",
-      "edges_enriched_at": "2026-08-22T21:38:59.344666+00:00"
+      "detail_enriched_at": "2026-09-22T00:09:55.704667+00:00",
+      "edges_enriched_at": "2026-09-22T00:09:56.292133+00:00"
     },
     {
       "id": "576127ca9255de18a30762d503abcdc549b0b737",
@@ -1793,7 +1793,7 @@
         "Junwei Jin",
         "Zhen-Yu Li",
         "Hanghai Zhou",
-        "Jiangwu Tang",
+        "Jiang-Wu Tang",
         "Xue-Jiang Wang",
         "Hua Li"
       ],
@@ -20901,120 +20901,6 @@
       "edges_enriched_at": "2026-09-01T23:22:42.375941+00:00"
     },
     {
-      "id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "semantic_scholar_id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "source": "Semantic Scholar",
-      "pmid": "37966591",
-      "doi": "10.1007/978-1-0716-3549-0_3",
-      "title": "Breaking the Ice: A Review of Phages in Polar Ecosystems.",
-      "authors": [
-        "M. Heinrichs",
-        "Gonçalo J. Piedade",
-        "Ovidiu Popa",
-        "P. Sommers",
-        "G. Trubl",
-        "Julia Weissenbach",
-        "J. Rahlff"
-      ],
-      "journal": "Methods in molecular biology",
-      "publication_date": "2024-01-01",
-      "abstract": "Bacteriophages, or phages, are viruses that infect and replicate within bacterial hosts, playing a significant role in regulating microbial populations and ecosystem dynamics. However, phages from extreme environments such as polar regions remain relatively understudied due to challenges such as restricted ecosystem access and low biomass. Understanding the diversity, structure, and functions of polar phages is crucial for advancing our knowledge of the microbial ecology and biogeochemistry of these environments. In this review, we will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data. Metagenomic studies of polar environments have revealed a high diversity of phages with unique genetic characteristics, providing insights into their evolutionary and ecological roles. Phage isolation studies have identified novel phage-host interactions and contributed to the discovery of new phage species. Virus-like particle abundance and lysis rate data, on the other hand, have highlighted the importance of phages in regulating bacterial populations and nutrient cycling in polar environments. Overall, this review aims to provide a comprehensive overview of the current state of knowledge about polar phages, and by synthesizing these different sources of information, we can better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change, which will help to predict how polar ecosystems and residing phages may respond to future environmental perturbations.",
-      "url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "pdf_url": "https://doi.org/10.1007/978-1-0716-3549-0_3",
-      "citation_count": 16,
-      "influential_citation_count": 1,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "53e298896848debea2a04ac5e65c060f3b640566",
-          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
-          "year": 2026,
-          "journal": "Water Science &amp; Technology",
-          "authors": [
-            "S. Al-maaqar",
-            "Wael A. Alsubhi",
-            "Zakia F. Albalawy"
-          ],
-          "doi": "10.2166/wst.2026.332",
-          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
-          "citation_count": 0
-        },
-        {
-          "id": "a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
-          "title": "crAssphage: the sentinel of phages carrying antimicrobial resistance genes in water systems",
-          "year": 2026,
-          "journal": "Frontiers in Water",
-          "authors": [
-            "C. García-Aljaro",
-            "Sara Morales-Cortés",
-            "Maite Muniesa"
-          ],
-          "doi": "10.3389/frwa.2026.1912033",
-          "url": "https://www.semanticscholar.org/paper/a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
-          "citation_count": 0
-        },
-        {
-          "id": "f170ebf7fe122009970f293743e043da9bd19fdf",
-          "title": "Capsule-independent bacteriophages reveal unexpected diversity of Salmonella Typhi phage ecology",
-          "year": 2026,
-          "journal": "medRxiv",
-          "authors": [
-            "S. Dey",
-            "S. Islam",
-            "A. amin"
-          ],
-          "doi": "10.64898/2026.08.19.26360815",
-          "url": "https://www.semanticscholar.org/paper/f170ebf7fe122009970f293743e043da9bd19fdf",
-          "citation_count": 0
-        },
-        {
-          "id": "5b67e4f00f3219eb43ac20d816781644093bd004",
-          "title": "The value of a prophage-borne defense system in phage-phage competition.",
-          "year": 2026,
-          "journal": "PLoS Computational Biology",
-          "authors": [
-            "Y. Meir",
-            "N. Wingreen"
-          ],
-          "doi": "10.1371/journal.pcbi.1014739",
-          "url": "https://www.semanticscholar.org/paper/5b67e4f00f3219eb43ac20d816781644093bd004",
-          "citation_count": 0
-        },
-        {
-          "id": "faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
-          "title": "Low-level phage residues in manure are associated with shifts in microbial communities and resistance-related profiles.",
-          "year": 2026,
-          "journal": "Environment International",
-          "authors": [
-            "Youshun Jin",
-            "Yan-Yan Wang",
-            "Hafiz Muhammad Hamza Rasool"
-          ],
-          "doi": "10.1016/j.envint.2026.110466",
-          "url": "https://www.semanticscholar.org/paper/faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle",
-        "Review"
-      ],
-      "tldr": "This review will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data to better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-14T23:53:13.134032+00:00",
-      "edges_enriched_at": "2026-09-14T23:53:13.607519+00:00"
-    },
-    {
       "id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "source": "Semantic Scholar",
@@ -21675,6 +21561,120 @@
       ],
       "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
       "edges_enriched_at": "2026-09-01T23:22:42.375941+00:00"
+    },
+    {
+      "id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "semantic_scholar_id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "source": "Semantic Scholar",
+      "pmid": "37966591",
+      "doi": "10.1007/978-1-0716-3549-0_3",
+      "title": "Breaking the Ice: A Review of Phages in Polar Ecosystems.",
+      "authors": [
+        "M. Heinrichs",
+        "Gonçalo J. Piedade",
+        "Ovidiu Popa",
+        "P. Sommers",
+        "G. Trubl",
+        "Julia Weissenbach",
+        "J. Rahlff"
+      ],
+      "journal": "Methods in molecular biology",
+      "publication_date": "2024-01-01",
+      "abstract": "Bacteriophages, or phages, are viruses that infect and replicate within bacterial hosts, playing a significant role in regulating microbial populations and ecosystem dynamics. However, phages from extreme environments such as polar regions remain relatively understudied due to challenges such as restricted ecosystem access and low biomass. Understanding the diversity, structure, and functions of polar phages is crucial for advancing our knowledge of the microbial ecology and biogeochemistry of these environments. In this review, we will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data. Metagenomic studies of polar environments have revealed a high diversity of phages with unique genetic characteristics, providing insights into their evolutionary and ecological roles. Phage isolation studies have identified novel phage-host interactions and contributed to the discovery of new phage species. Virus-like particle abundance and lysis rate data, on the other hand, have highlighted the importance of phages in regulating bacterial populations and nutrient cycling in polar environments. Overall, this review aims to provide a comprehensive overview of the current state of knowledge about polar phages, and by synthesizing these different sources of information, we can better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change, which will help to predict how polar ecosystems and residing phages may respond to future environmental perturbations.",
+      "url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "pdf_url": "https://doi.org/10.1007/978-1-0716-3549-0_3",
+      "citation_count": 16,
+      "influential_citation_count": 1,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "53e298896848debea2a04ac5e65c060f3b640566",
+          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
+          "year": 2026,
+          "journal": "Water Science &amp; Technology",
+          "authors": [
+            "S. Al-maaqar",
+            "Wael A. Alsubhi",
+            "Zakia F. Albalawy"
+          ],
+          "doi": "10.2166/wst.2026.332",
+          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
+          "citation_count": 0
+        },
+        {
+          "id": "a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
+          "title": "crAssphage: the sentinel of phages carrying antimicrobial resistance genes in water systems",
+          "year": 2026,
+          "journal": "Frontiers in Water",
+          "authors": [
+            "C. García-Aljaro",
+            "Sara Morales-Cortés",
+            "Maite Muniesa"
+          ],
+          "doi": "10.3389/frwa.2026.1912033",
+          "url": "https://www.semanticscholar.org/paper/a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
+          "citation_count": 0
+        },
+        {
+          "id": "f170ebf7fe122009970f293743e043da9bd19fdf",
+          "title": "Capsule-independent bacteriophages reveal unexpected diversity of Salmonella Typhi phage ecology",
+          "year": 2026,
+          "journal": "medRxiv",
+          "authors": [
+            "S. Dey",
+            "S. Islam",
+            "A. amin"
+          ],
+          "doi": "10.64898/2026.08.19.26360815",
+          "url": "https://www.semanticscholar.org/paper/f170ebf7fe122009970f293743e043da9bd19fdf",
+          "citation_count": 0
+        },
+        {
+          "id": "5b67e4f00f3219eb43ac20d816781644093bd004",
+          "title": "The value of a prophage-borne defense system in phage-phage competition.",
+          "year": 2026,
+          "journal": "PLoS Computational Biology",
+          "authors": [
+            "Y. Meir",
+            "N. Wingreen"
+          ],
+          "doi": "10.1371/journal.pcbi.1014739",
+          "url": "https://www.semanticscholar.org/paper/5b67e4f00f3219eb43ac20d816781644093bd004",
+          "citation_count": 0
+        },
+        {
+          "id": "faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
+          "title": "Low-level phage residues in manure are associated with shifts in microbial communities and resistance-related profiles.",
+          "year": 2026,
+          "journal": "Environment International",
+          "authors": [
+            "Youshun Jin",
+            "Yan-Yan Wang",
+            "Hafiz Muhammad Hamza Rasool"
+          ],
+          "doi": "10.1016/j.envint.2026.110466",
+          "url": "https://www.semanticscholar.org/paper/faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "tldr": "This review will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data to better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-14T23:53:13.134032+00:00",
+      "edges_enriched_at": "2026-09-14T23:53:13.607519+00:00"
     },
     {
       "id": "0955c58f16df455103cb943222fe32476d42f2c9",
@@ -28624,7 +28624,7 @@
       "url": "https://www.semanticscholar.org/paper/a40505208678c773c2db9056d5f425ebf2f4bd2d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a40505208678c773c2db9056d5f425ebf2f4bd2d",
       "pdf_url": "https://www.dora.lib4ri.ch/eawag/dload/eawag:25841/PDF2/view",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 23,
       "references": [],
@@ -30713,7 +30713,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 359,
+      "citation_count": 360,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -37276,6 +37276,114 @@
       "edges_enriched_at": "2026-09-04T23:05:28.647833+00:00"
     },
     {
+      "id": "86dd778bf622faa10b54386015d01e452e7d3f34",
+      "semantic_scholar_id": "86dd778bf622faa10b54386015d01e452e7d3f34",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1017/s1431927620023971",
+      "title": "Advances in Soft X-ray Tomography",
+      "authors": [
+        "V. Weinhardt",
+        "Jian-Hua Chen",
+        "A. Ekman",
+        "M. Le Gros",
+        "Gerry Mc Dermott",
+        "C. Larabell"
+      ],
+      "journal": "Microscopy and Microanalysis",
+      "publication_date": "2020-08-01",
+      "abstract": "Soft x-ray tomography (SXT) has emerged as a unique method for three-dimensional (3D) imaging of single cells [1,2]. Soft x-rays from 284 to 543 eV (2.34 to 4.4 nm) generate contrast for cells in their native, wet state without the use of chemical fixation or staining. In this so-called “water window” energy range, absorption of photons by molecular building blocks, in particular carbon and nitrogen, prevails while water is nearly transparent. Over the last decade, several groups around the world including ours designed, built and applied x-ray microscopes for 3D imaging of bacteria, yeast, algae, plankton, protozoa, viruses, and immortalized and primary cells [3,4]. This presentation will focus on describing recent advances in instrumentation, acquisition strategies, and novel application directions of SXT.",
+      "url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
+      "pdf_url": "https://doi.org/10.1017/s1431927620023971",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 18,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "eb19d9c66f0e4490b578426f20ad26343c422f68",
+          "title": "Integrating in situ single-particle cryo-electron microscopy with cryo-electron tomography for high-resolution structural biology in native cellular contexts.",
+          "year": 2026,
+          "journal": "Current Opinion in Structural Biology",
+          "authors": [
+            "Jian Yue",
+            "Wangbiao Guo",
+            "Jun Liu"
+          ],
+          "doi": "10.1016/j.sbi.2026.103373",
+          "url": "https://www.semanticscholar.org/paper/eb19d9c66f0e4490b578426f20ad26343c422f68",
+          "citation_count": 0
+        },
+        {
+          "id": "abb88fddce35d5f1b228c62e54364690c7a41659",
+          "title": "Current challenges in cryogenic super-resolution fluorescence microscopy in the context of cryogenic electron microscopy/tomography.",
+          "year": 2026,
+          "journal": "Current Opinion in Structural Biology",
+          "authors": [
+            "Julian Falckenhayn",
+            "R. Kaufmann"
+          ],
+          "doi": "10.1016/j.sbi.2026.103338",
+          "url": "https://www.semanticscholar.org/paper/abb88fddce35d5f1b228c62e54364690c7a41659",
+          "citation_count": 0
+        },
+        {
+          "id": "fab9f91a33acf2313e0767642fea2afa7bc095f7",
+          "title": "ONE microscopy.",
+          "year": 2026,
+          "journal": "Nature Protocols",
+          "authors": [
+            "Ali H. Shaib",
+            "Mohamad Mahdi Alawieh",
+            "S. Rizzoli"
+          ],
+          "doi": "10.1038/s41596-026-01399-x",
+          "url": "https://www.semanticscholar.org/paper/fab9f91a33acf2313e0767642fea2afa7bc095f7",
+          "citation_count": 0
+        },
+        {
+          "id": "114ec898695c54841abde1dc5c94f17ca6371e83",
+          "title": "Measurement opportunities for metrology at the SOLARIS synchrotron",
+          "year": 2025,
+          "journal": "150th anniversary of the Metre Convention — From Units to the Universe",
+          "authors": [
+            "Edyta Beyer"
+          ],
+          "doi": "10.59161/tspj0030",
+          "url": "https://www.semanticscholar.org/paper/114ec898695c54841abde1dc5c94f17ca6371e83",
+          "citation_count": 0
+        },
+        {
+          "id": "02a38abb3adc74cf5e91a96f5f24c0a9167e42c3",
+          "title": "Beyond single cells: Ten years of commercial lattice light-sheet microscopy.",
+          "year": 2026,
+          "journal": "Journal of Microscopy",
+          "authors": [
+            "Helena L. E. Coker",
+            "D. Corcoran"
+          ],
+          "doi": "10.1111/jmi.70159",
+          "url": "https://www.semanticscholar.org/paper/02a38abb3adc74cf5e91a96f5f24c0a9167e42c3",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Materials Science"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
+      "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
+    },
+    {
       "id": "f094760e8c9d05ee4f445f7c1a3e8e7e43c335cb",
       "semantic_scholar_id": "f094760e8c9d05ee4f445f7c1a3e8e7e43c335cb",
       "source": "Semantic Scholar",
@@ -37431,114 +37539,6 @@
         "sediment",
         "sulfur",
         "virus"
-      ],
-      "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
-      "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
-    },
-    {
-      "id": "86dd778bf622faa10b54386015d01e452e7d3f34",
-      "semantic_scholar_id": "86dd778bf622faa10b54386015d01e452e7d3f34",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1017/s1431927620023971",
-      "title": "Advances in Soft X-ray Tomography",
-      "authors": [
-        "V. Weinhardt",
-        "Jian-Hua Chen",
-        "A. Ekman",
-        "M. Le Gros",
-        "Gerry Mc Dermott",
-        "C. Larabell"
-      ],
-      "journal": "Microscopy and Microanalysis",
-      "publication_date": "2020-08-01",
-      "abstract": "Soft x-ray tomography (SXT) has emerged as a unique method for three-dimensional (3D) imaging of single cells [1,2]. Soft x-rays from 284 to 543 eV (2.34 to 4.4 nm) generate contrast for cells in their native, wet state without the use of chemical fixation or staining. In this so-called “water window” energy range, absorption of photons by molecular building blocks, in particular carbon and nitrogen, prevails while water is nearly transparent. Over the last decade, several groups around the world including ours designed, built and applied x-ray microscopes for 3D imaging of bacteria, yeast, algae, plankton, protozoa, viruses, and immortalized and primary cells [3,4]. This presentation will focus on describing recent advances in instrumentation, acquisition strategies, and novel application directions of SXT.",
-      "url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/86dd778bf622faa10b54386015d01e452e7d3f34",
-      "pdf_url": "https://doi.org/10.1017/s1431927620023971",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 18,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "eb19d9c66f0e4490b578426f20ad26343c422f68",
-          "title": "Integrating in situ single-particle cryo-electron microscopy with cryo-electron tomography for high-resolution structural biology in native cellular contexts.",
-          "year": 2026,
-          "journal": "Current Opinion in Structural Biology",
-          "authors": [
-            "Jian Yue",
-            "Wangbiao Guo",
-            "Jun Liu"
-          ],
-          "doi": "10.1016/j.sbi.2026.103373",
-          "url": "https://www.semanticscholar.org/paper/eb19d9c66f0e4490b578426f20ad26343c422f68",
-          "citation_count": 0
-        },
-        {
-          "id": "abb88fddce35d5f1b228c62e54364690c7a41659",
-          "title": "Current challenges in cryogenic super-resolution fluorescence microscopy in the context of cryogenic electron microscopy/tomography.",
-          "year": 2026,
-          "journal": "Current Opinion in Structural Biology",
-          "authors": [
-            "Julian Falckenhayn",
-            "R. Kaufmann"
-          ],
-          "doi": "10.1016/j.sbi.2026.103338",
-          "url": "https://www.semanticscholar.org/paper/abb88fddce35d5f1b228c62e54364690c7a41659",
-          "citation_count": 0
-        },
-        {
-          "id": "fab9f91a33acf2313e0767642fea2afa7bc095f7",
-          "title": "ONE microscopy.",
-          "year": 2026,
-          "journal": "Nature Protocols",
-          "authors": [
-            "Ali H. Shaib",
-            "Mohamad Mahdi Alawieh",
-            "S. Rizzoli"
-          ],
-          "doi": "10.1038/s41596-026-01399-x",
-          "url": "https://www.semanticscholar.org/paper/fab9f91a33acf2313e0767642fea2afa7bc095f7",
-          "citation_count": 0
-        },
-        {
-          "id": "114ec898695c54841abde1dc5c94f17ca6371e83",
-          "title": "Measurement opportunities for metrology at the SOLARIS synchrotron",
-          "year": 2025,
-          "journal": "150th anniversary of the Metre Convention — From Units to the Universe",
-          "authors": [
-            "Edyta Beyer"
-          ],
-          "doi": "10.59161/tspj0030",
-          "url": "https://www.semanticscholar.org/paper/114ec898695c54841abde1dc5c94f17ca6371e83",
-          "citation_count": 0
-        },
-        {
-          "id": "02a38abb3adc74cf5e91a96f5f24c0a9167e42c3",
-          "title": "Beyond single cells: Ten years of commercial lattice light-sheet microscopy.",
-          "year": 2026,
-          "journal": "Journal of Microscopy",
-          "authors": [
-            "Helena L. E. Coker",
-            "D. Corcoran"
-          ],
-          "doi": "10.1111/jmi.70159",
-          "url": "https://www.semanticscholar.org/paper/02a38abb3adc74cf5e91a96f5f24c0a9167e42c3",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Materials Science"
-      ],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "virus",
-        "water"
       ],
       "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
       "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
@@ -38269,7 +38269,7 @@
       "title": "New viral biogeochemical roles revealed through metagenomic analysis of Lake Baikal",
       "authors": [
         "F. H. Coutinho",
-        "Pedro J. Cabello‐Yeves",
+        "Pedro J. Cabello-Yeves",
         "Rafael Gonzalez-Serrano",
         "Riccardo Rosselli",
         "M. López-Pérez",
@@ -38899,116 +38899,6 @@
       "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
     },
     {
-      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.46427/gold2020.1931",
-      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
-      "authors": [
-        "O. Nigro",
-        "L. McKay",
-        "K. Luttrell",
-        "W. Inskeep"
-      ],
-      "journal": "Goldschmidt Abstracts",
-      "publication_date": "2020-01-01",
-      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
-      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
-      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "79d39f6a8ed0d96116988d9318b6e5020b8dc491",
-          "title": "Prokaryotic and microbial eukaryotic communities across acid-sulfate and chloride-rich hot springs in Lassen Volcanic National Park.",
-          "year": 2026,
-          "journal": "Scientific Reports",
-          "authors": [
-            "Makeda I. Mills",
-            "Amanda M. Achberger",
-            "Andy J Wanta"
-          ],
-          "doi": "10.1038/s41598-026-61095-4",
-          "url": "https://www.semanticscholar.org/paper/79d39f6a8ed0d96116988d9318b6e5020b8dc491",
-          "citation_count": 0
-        },
-        {
-          "id": "a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
-          "title": "Hawaiian geothermal fumaroles contain diverse and novel viruses",
-          "year": 2026,
-          "journal": "Microbiology spectrum",
-          "authors": [
-            "Pia Sen",
-            "L. Oliver",
-            "Kira S. Makarova"
-          ],
-          "doi": "10.1128/spectrum.01567-26",
-          "url": "https://www.semanticscholar.org/paper/a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
-          "citation_count": 0
-        },
-        {
-          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Meiqi Huang",
-            "Shengjie Li",
-            "Guangli Mu"
-          ],
-          "doi": "10.1016/j.envres.2026.125274",
-          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "citation_count": 0
-        },
-        {
-          "id": "1172f9597587362cbe9b0e23ef491299dd846881",
-          "title": "Metagenomic insights into the taxonomic and metabolic diversity of the microbiome of Lake Karum in the Danakil Depression, Ethiopia",
-          "year": 2026,
-          "journal": "Environmental Microbiome",
-          "authors": [
-            "M. Macey",
-            "Velislava Ilieva",
-            "B. Stephens"
-          ],
-          "doi": "10.1186/s40793-026-00938-z",
-          "url": "https://www.semanticscholar.org/paper/1172f9597587362cbe9b0e23ef491299dd846881",
-          "citation_count": 0
-        },
-        {
-          "id": "e4026daf7784d72a5f79213f4a4727543aacfa3e",
-          "title": "Exploring the Stable Isotope Record of Stromatolites",
-          "year": 2026,
-          "journal": "Elements",
-          "authors": [
-            "C. Thomazo",
-            "R. Havås",
-            "A. Pellerin"
-          ],
-          "doi": "10.2138/gselements.22.4.259",
-          "url": "https://www.semanticscholar.org/paper/e4026daf7784d72a5f79213f4a4727543aacfa3e",
-          "citation_count": 1
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "sediment",
-        "sulfur",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
-      "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
-    },
-    {
       "id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "semantic_scholar_id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
       "source": "Semantic Scholar",
@@ -39114,6 +39004,116 @@
         "carbon",
         "nitrogen",
         "phosphorus",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-01T23:22:17.824208+00:00",
+      "edges_enriched_at": "2026-09-03T23:22:19.851439+00:00"
+    },
+    {
+      "id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_id": "1029d7078471e24e31cf8b629de584051a8f96b8",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.46427/gold2020.1931",
+      "title": "Virus-Host Dynamics in a Suboxic, High-Temperature Vent in Yellowstone Lake",
+      "authors": [
+        "O. Nigro",
+        "L. McKay",
+        "K. Luttrell",
+        "W. Inskeep"
+      ],
+      "journal": "Goldschmidt Abstracts",
+      "publication_date": "2020-01-01",
+      "abstract": "Viruses exist at the fringes of the spectrum of life, characteristically unable to independently reproduce, or metabolize. However, numerous studies have shown that viruses play significant roles in microbial evolution, ecology and biogeochemical cycling. Our understanding of virus-host dynamics in early Earth analog environments is limited, and advancing our knowledge is critical to understanding early evolved metabolisms such as sulfur and methane-based processes. In this study, we focus on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake (YLAKE). Vents eject fluids of up to 150°C and are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park. Microbial communities that colonize sediments and streamers at YLAKE vents exist across steep gradients in temperature, hydrogen sulfide, and oxygen. Microbial streamer communities were collected for metagenomic analyses from high-temperature (~120-140°C) vents in the 120-meter ‘deep hole’ east of Stevenson Island. Streamer DNA was sequenced by the Census of Deep Life. Microbial communities in the streamers are low diversity and dominated by Sulfurihydrogenibium populations, with genomic sequence coverage values 10- to 100-fold higher than other populations. Viral scaffolds were mined, and microbial hosts were identified using an in-house tetranucleotide frequency analysis pipeline and CRISPR spacer analysis. This revealed a total of 192 viral scaffolds that infect the dominant microbial populations in streamer communities. Forty-two of the viral scaffolds were linked to Sulfurihydrogenibium spp., which have highly variable genomes that may be indicative of",
+      "url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1029d7078471e24e31cf8b629de584051a8f96b8",
+      "pdf_url": "https://doi.org/10.46427/gold2020.1931",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "79d39f6a8ed0d96116988d9318b6e5020b8dc491",
+          "title": "Prokaryotic and microbial eukaryotic communities across acid-sulfate and chloride-rich hot springs in Lassen Volcanic National Park.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Makeda I. Mills",
+            "Amanda M. Achberger",
+            "Andy J Wanta"
+          ],
+          "doi": "10.1038/s41598-026-61095-4",
+          "url": "https://www.semanticscholar.org/paper/79d39f6a8ed0d96116988d9318b6e5020b8dc491",
+          "citation_count": 0
+        },
+        {
+          "id": "a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
+          "title": "Hawaiian geothermal fumaroles contain diverse and novel viruses",
+          "year": 2026,
+          "journal": "Microbiology spectrum",
+          "authors": [
+            "Pia Sen",
+            "L. Oliver",
+            "Kira S. Makarova"
+          ],
+          "doi": "10.1128/spectrum.01567-26",
+          "url": "https://www.semanticscholar.org/paper/a7c2a4f9355c3de5c55c068e458fc4ad4d966dcd",
+          "citation_count": 0
+        },
+        {
+          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Meiqi Huang",
+            "Shengjie Li",
+            "Guangli Mu"
+          ],
+          "doi": "10.1016/j.envres.2026.125274",
+          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "citation_count": 0
+        },
+        {
+          "id": "1172f9597587362cbe9b0e23ef491299dd846881",
+          "title": "Metagenomic insights into the taxonomic and metabolic diversity of the microbiome of Lake Karum in the Danakil Depression, Ethiopia",
+          "year": 2026,
+          "journal": "Environmental Microbiome",
+          "authors": [
+            "M. Macey",
+            "Velislava Ilieva",
+            "B. Stephens"
+          ],
+          "doi": "10.1186/s40793-026-00938-z",
+          "url": "https://www.semanticscholar.org/paper/1172f9597587362cbe9b0e23ef491299dd846881",
+          "citation_count": 0
+        },
+        {
+          "id": "e4026daf7784d72a5f79213f4a4727543aacfa3e",
+          "title": "Exploring the Stable Isotope Record of Stromatolites",
+          "year": 2026,
+          "journal": "Elements",
+          "authors": [
+            "C. Thomazo",
+            "R. Havås",
+            "A. Pellerin"
+          ],
+          "doi": "10.2138/gselements.22.4.259",
+          "url": "https://www.semanticscholar.org/paper/e4026daf7784d72a5f79213f4a4727543aacfa3e",
+          "citation_count": 1
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "This study focuses on the steam-dominated hydrothermal vents in the bottom of Yellowstone Lake, which are characterized by some of the highest concentrations of methane and sulfide yet measured in Yellowstone National Park.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "sediment",
+        "sulfur",
         "virus",
         "water"
       ],
