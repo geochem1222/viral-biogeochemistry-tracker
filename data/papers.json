@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:55:58.016679+00:00",
+  "updated_at": "2026-09-25T23:58:20.757741+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,118 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "051edb67ccc7760e0538bfd0584116accea900ac",
+      "semantic_scholar_id": "051edb67ccc7760e0538bfd0584116accea900ac",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1093/ismeco/ycag252",
+      "title": "Bacteriophages in Antarctic Subglacial Lakes Reveal Novel Biodiversity and Biogeochemical Potential",
+      "authors": [
+        "David M. Robinson",
+        "Wei Li",
+        "M. Breitbart",
+        "C. Takacs-Vesbach",
+        "J. Priscu"
+      ],
+      "journal": "ISME Communications",
+      "publication_date": "2026-09-22",
+      "abstract": "\n Of the more than 600 subglacial lakes identified in Antarctica thus far, Whillans Subglacial Lake (SLW) and Mercer Subglacial Lake (SLM) are the only lakes to have been directly and cleanly sampled. Although hydrologically isolated from direct marine contact for approximately 6.3 ± 1.0 ka, both lakes periodically discharge into the Ross Ice Shelf marine cavity. We present the first direct characterization of bacteriophages in Antarctic subglacial lakes, combining microscopy, metagenomics, and gene-sharing network analyses with bacteriophages found in the Ross Ice shelf marine cavity. The data reveal that bacteriophages are less abundant than their microbial hosts, with virus to prokaryote ratios below those of typical oligotrophic environments. 861 double-stranded DNA viral contigs were recovered forming 66 distinct viral clusters; only 18.4% could be identified at ≥85% sequence similarity in the IMG/VR database, showing high genetic novelty. The data showed 114 putative auxiliary metabolic genes involved in nutrient cycling and DNA methylation, and we predicted hosts spanning 13 prokaryotic classes. Several genetic clusters were shared with Antarctic subglacial lakes and Ross Ice Shelf cavity, indicating ecological connectivity that may extend the influence of subglacial phages to carbon and nutrient cycling in downstream Antarctic coastal ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycag252",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "677e3791a9b795efdff9a3595f3fb239aa19be92",
+          "title": "Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system",
+          "year": 2026,
+          "journal": "Nature Geoscience",
+          "authors": [
+            "A. Zoumplis",
+            "Z. Füssy",
+            "D. Kaul"
+          ],
+          "doi": "10.1038/s41561-026-02054-6",
+          "url": "https://www.semanticscholar.org/paper/677e3791a9b795efdff9a3595f3fb239aa19be92",
+          "citation_count": 0
+        },
+        {
+          "id": "44e9594085550593d85b03bdfba9ffd4a1816309",
+          "title": "Climatic transitions across Marine Isotope Stage 10–12 in the Alps evidenced by subglacial speleothems",
+          "year": 2026,
+          "journal": "Communications Earth &amp; Environment",
+          "authors": [
+            "Jonathan L. Baker",
+            "Alexandre Honiat",
+            "G. Moseley"
+          ],
+          "doi": "10.1038/s43247-026-03942-w",
+          "url": "https://www.semanticscholar.org/paper/44e9594085550593d85b03bdfba9ffd4a1816309",
+          "citation_count": 0
+        },
+        {
+          "id": "a9ac838c2a813bda66f96941c1b162d6ea3ed3d6",
+          "title": "Differences in Bacterial Communities of Deep and Shallow Subarctic Ice-Covered Lakes in the Northern Pole of Cold",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Y. Zakharova",
+            "M. Bashenkhaeva",
+            "Yu. P. Galach’yants"
+          ],
+          "doi": "10.3390/w18151890",
+          "url": "https://www.semanticscholar.org/paper/a9ac838c2a813bda66f96941c1b162d6ea3ed3d6",
+          "citation_count": 0
+        },
+        {
+          "id": "c571b57efd6ec2f7fd68efd4a178c1f34d39cca6",
+          "title": "Evidence for endemism and local adaptation in Antarctic soil bacteria.",
+          "year": 2026,
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "authors": [
+            "N. Dragone",
+            "Mary K. Childress",
+            "Noah Mendez"
+          ],
+          "doi": "10.1073/pnas.2611373123",
+          "url": "https://www.semanticscholar.org/paper/c571b57efd6ec2f7fd68efd4a178c1f34d39cca6",
+          "citation_count": 0
+        },
+        {
+          "id": "fbc35e5595b09c9eba3604b61cfc7f9bd33137c1",
+          "title": "Genomic analysis of picocyanobacteria of the genus Synechococcus from Lake Baikal",
+          "year": 2026,
+          "journal": "Limnology and Freshwater Biology",
+          "authors": [
+            "O. Kaluzhnaya",
+            "D. Gutnik",
+            "A. Krasnopeev"
+          ],
+          "doi": "10.31951/2658-3518-2026-a-4-554",
+          "url": "https://www.semanticscholar.org/paper/fbc35e5595b09c9eba3604b61cfc7f9bd33137c1",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The first direct characterization of bacteriophages in Antarctic subglacial lakes is presented, combining microscopy, metagenomics, and gene-sharing network analyses with bacteriophages found in the Ross Ice shelf marine cavity, revealing that bacteriophages are less abundant than their microbial hosts.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-25T23:58:09.612791+00:00",
+      "edges_enriched_at": "2026-09-25T23:58:10.164390+00:00"
+    },
     {
       "id": "56580a84fd34222b0fe3cef0973186fb1c75b90c",
       "semantic_scholar_id": "56580a84fd34222b0fe3cef0973186fb1c75b90c",
@@ -2355,7 +2467,7 @@
         "J. Gołębiowska",
         "J. Woodhouse",
         "Sven P. Tobias-Hünefeldt",
-        "H.-P. Grossart"
+        "H. Grossart"
       ],
       "journal": "Applied and Environmental Microbiology",
       "publication_date": "2026-06-10",
@@ -6110,7 +6222,7 @@
       "authors": [
         "Akbar Adjie Pratama",
         "Olga Pérez-Carrascal",
-        "Matthew B. Sullivan",
+        "M. Sullivan",
         "K. Küsel"
       ],
       "journal": "Nature Communications",
@@ -6896,7 +7008,7 @@
       "title": "The nitrite bottleneck revisited: exploring the potential of phage-mediated microbial regulation for advancing novel nitrogen removal strategies",
       "authors": [
         "Jiang Peng",
-        "Cancan Jiang",
+        "Can-Can Jiang",
         "Xu Wang",
         "Shengjun Xu",
         "A. Shah",
@@ -7229,7 +7341,7 @@
         "Kelly C. Wrighton",
         "S. Saleska",
         "Emily Eloe-Fadrosh",
-        "Matthew B. Sullivan",
+        "M. Sullivan",
         "Virginia I. Rich"
       ],
       "journal": "Nature Communications",
@@ -9526,9 +9638,9 @@
       "doi": "10.3390/agronomy15081999",
       "title": "Cassava–Maize Rotation Improves Soil Quality and Microbial Gene Profiles Compared to Continuous Cassava Cropping",
       "authors": [
-        "Yanmei Zhu",
+        "Yan-Mei Zhu",
         "Yundong Wei",
-        "Xingming Qin"
+        "Xing-Ming Qin"
       ],
       "journal": "Agronomy",
       "publication_date": "2025-08-20",
@@ -12585,7 +12697,7 @@
       "url": "https://www.semanticscholar.org/paper/a9ba81765244068cf52fcc88b674e732a46a21d4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9ba81765244068cf52fcc88b674e732a46a21d4",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44370-025-00015-y.pdf",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 310,
       "references": [
@@ -13309,7 +13421,7 @@
         "R. Neurath",
         "S. Kosina",
         "K. Louie",
-        "Matthew B. Sullivan",
+        "M. Sullivan",
         "S. Roux",
         "K. Zengler",
         "Vivek K. Mutalik",
@@ -14314,7 +14426,7 @@
       "title": "Short-term virus-host interactions and functional dynamics in recently deglaciated Antarctic tundra soils",
       "authors": [
         "Esther Rubio-Portillo",
-        "Rebeca Arias-Real",
+        "R. Arias-Real",
         "Esther Rodríguez-Pérez",
         "L. Bañeras",
         "Josefa Antón",
@@ -15722,7 +15834,7 @@
       "doi": "10.3389/fmicb.2024.1422941",
       "title": "Antarctic lake viromes reveal potential virus associated influences on nutrient cycling in ice-covered lakes",
       "authors": [
-        "David M Robinson",
+        "David M. Robinson",
         "R. Morgan-Kiss",
         "Zhong Wang",
         "C. Takacs-Vesbach"
@@ -16522,7 +16634,7 @@
       "url": "https://www.semanticscholar.org/paper/29f497c4f25336b2792d27c9d7e2f42ebb5798b5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/29f497c4f25336b2792d27c9d7e2f42ebb5798b5",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01853-6",
-      "citation_count": 19,
+      "citation_count": 20,
       "influential_citation_count": 0,
       "reference_count": 74,
       "references": [
@@ -17257,7 +17369,7 @@
       "url": "https://www.semanticscholar.org/paper/8f0d99370737f2860cb4edd5e142cd083eec00f8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8f0d99370737f2860cb4edd5e142cd083eec00f8",
       "pdf_url": "",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 93,
       "references": [],
@@ -17373,7 +17485,7 @@
         "B. Bolduc",
         "K. Wrighton",
         "Virginia I. Rich",
-        "Matthew B. Sullivan"
+        "M. Sullivan"
       ],
       "journal": "Environmental Microbiology",
       "publication_date": "2024-07-01",
@@ -18356,7 +18468,7 @@
         "Andrew Bissett",
         "Philippe Constant",
         "R. Oliveira",
-        "Cristina Takacs-Vesbach",
+        "C. Takacs-Vesbach",
         "M. Cregger",
         "A. Carrell",
         "D. Klingeman",
@@ -18632,7 +18744,7 @@
         "Cheng-Ling Gao",
         "Qian Liu",
         "Yantao Liang",
-        "Mingyan Lai",
+        "Ming-Yan Lai",
         "Fuyue Ge",
         "Hao Yu",
         "Hongbing Shao",
@@ -19268,7 +19380,7 @@
       "url": "https://www.semanticscholar.org/paper/7e05a59401fb6f5bfaba33cf8c7040ec17f46328",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7e05a59401fb6f5bfaba33cf8c7040ec17f46328",
       "pdf_url": "https://www.mdpi.com/1999-4915/16/4/535/pdf?version=1711723036",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [
@@ -21035,7 +21147,7 @@
       "url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
       "pdf_url": "https://doi.org/10.1093/ismejo/wrae083",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 92,
       "references": [
@@ -21358,7 +21470,7 @@
         "Cheng-Ling Gao",
         "Qian Liu",
         "Yantao Liang",
-        "Mingyan Lai",
+        "Ming-Yan Lai",
         "Fuyue Ge",
         "Kaiyang Zheng",
         "Hao Yu",
@@ -21847,7 +21959,7 @@
         "Jiayi Zhao",
         "Jia-Xin Li",
         "Siqi Xie",
-        "Qiuchang Liao",
+        "Qiu-Chang Liao",
         "Xianheng Fu",
         "Yu Huang",
         "Zhiyuan Yao",
@@ -23872,7 +23984,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 242,
+      "citation_count": 243,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -25288,7 +25400,7 @@
         "Yi-Fen Ma",
         "Xin Liu",
         "Tian Wang",
-        "Guiming Liu",
+        "Gui-Ming Liu",
         "Bu-Gao Li",
         "Guo-Liang Wang",
         "Peng-Fei Gao"
@@ -25813,7 +25925,7 @@
       "url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "pdf_url": "https://doi.org/10.1128/mbio.03009-22",
-      "citation_count": 43,
+      "citation_count": 44,
       "influential_citation_count": 2,
       "reference_count": 104,
       "references": [
@@ -26680,7 +26792,7 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -27126,7 +27238,7 @@
       "url": "https://www.semanticscholar.org/paper/adda47137df64179163804a622b6f2211799dc09",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/adda47137df64179163804a622b6f2211799dc09",
       "pdf_url": "https://doi.org/10.1128/msystems.00571-22",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 117,
       "references": [
@@ -27295,7 +27407,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 220,
+      "citation_count": 221,
       "influential_citation_count": 10,
       "reference_count": 105,
       "references": [
@@ -30713,7 +30825,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 363,
+      "citation_count": 364,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
