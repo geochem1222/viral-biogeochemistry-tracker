@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:50:13.276824+00:00",
+  "updated_at": "2026-09-29T01:02:37.620855+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -106,7 +106,7 @@
       "id": "051edb67ccc7760e0538bfd0584116accea900ac",
       "semantic_scholar_id": "051edb67ccc7760e0538bfd0584116accea900ac",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42801100",
       "doi": "10.1093/ismeco/ycag252",
       "title": "Bacteriophages in Antarctic Subglacial Lakes Reveal Novel Biodiversity and Biogeochemical Potential",
       "authors": [
@@ -198,7 +198,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -593,7 +595,7 @@
         "Guo-Hua Zhang",
         "Yu-Cheng Tian",
         "Jia-Wen Wang",
-        "Jinren Ni"
+        "Jin-Ren Ni"
       ],
       "journal": "Nature Communications",
       "publication_date": "2026-08-08",
@@ -601,7 +603,7 @@
       "url": "https://www.semanticscholar.org/paper/6da7c702df628b1726bfde663910fdb419a172b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6da7c702df628b1726bfde663910fdb419a172b4",
       "pdf_url": "https://doi.org/10.1038/s41467-026-76431-5",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 163,
       "references": [
@@ -2035,15 +2037,17 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "e281df718705287478024f6a92a385d580dab1d6",
-          "title": "Environmental Risks of Plastisphere Viruses: Carrier Effects, Virus–Host Interactions, and Mechanisms of Resistance Dissemination",
+          "id": "a7d9193d1dac4597d5f8f4cec30e6ebc314e3f46",
+          "title": "Viral community assembly during cyanobacterial blooms reveals ecosystem-specific regulation and nutrient cycling in freshwater lakes.",
           "year": 2026,
-          "journal": "E3S Web of Conferences",
+          "journal": "Ecotoxicology and Environmental Safety",
           "authors": [
-            "Xinyi Wang"
+            "Seung-Jun Lee",
+            "Min-Ji Kim",
+            "Morgan V. Evans"
           ],
-          "doi": "10.1051/e3sconf/202672801021",
-          "url": "https://www.semanticscholar.org/paper/e281df718705287478024f6a92a385d580dab1d6",
+          "doi": "10.1016/j.ecoenv.2026.120653",
+          "url": "https://www.semanticscholar.org/paper/a7d9193d1dac4597d5f8f4cec30e6ebc314e3f46",
           "citation_count": 0
         },
         {
@@ -2068,39 +2072,39 @@
           "authors": [
             "Chao-Jian Hu",
             "Muhammad Asif",
-            "Jinhui Liu"
+            "Jin-Hui Liu"
           ],
           "doi": "10.1016/j.isci.2026.117172",
           "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
           "citation_count": 0
         },
         {
-          "id": "4cbd51d7062807d00b02df82f1ddc0fb2a64793d",
-          "title": "Soil amelioration impacts viral ecology in saline-alkali lands.",
+          "id": "765666ea9bf7d241647e8fbd76a8a277039a20cf",
+          "title": "Shifts in adaptive strategies of soil microbial communities during coral island revegetation",
           "year": 2026,
-          "journal": "The ISME Journal",
+          "journal": "Journal of Applied Ecology",
           "authors": [
-            "Junxi Liu",
-            "Guixiang Zhou",
-            "Lin Chen"
+            "Lu-Ping Huang",
+            "Ming-Xing Wang",
+            "An-Hui Ge"
           ],
-          "doi": "10.1093/ismejo/wrag217",
-          "url": "https://www.semanticscholar.org/paper/4cbd51d7062807d00b02df82f1ddc0fb2a64793d",
+          "doi": "10.1111/1365-2664.70547",
+          "url": "https://www.semanticscholar.org/paper/765666ea9bf7d241647e8fbd76a8a277039a20cf",
           "citation_count": 0
         },
         {
-          "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
-          "title": "Host-virus dynamics in anaerobic digesters facing abiotic inhibition.",
+          "id": "093f0ec825e7af50a5b1f19c79a978c2c0b82b5d",
+          "title": "Diversity, biogeography and assembly mechanisms of groundwater microbiomes",
           "year": 2026,
-          "journal": "Water Research",
+          "journal": "Nature Reviews Earth & Environment",
           "authors": [
-            "Marion Coves",
-            "Cédric Midoux",
-            "Julien Lossouarn"
+            "Zong-Zhi Wu",
+            "D. Ning",
+            "Matthew W. Fields"
           ],
-          "doi": "10.1016/j.watres.2026.126521",
-          "url": "https://www.semanticscholar.org/paper/f0cac78c0c4eea70d4761acff7024fce571b831b",
-          "citation_count": 0
+          "doi": "10.1038/s43017-026-00813-y",
+          "url": "https://www.semanticscholar.org/paper/093f0ec825e7af50a5b1f19c79a978c2c0b82b5d",
+          "citation_count": 1
         }
       ],
       "fields_of_study": [
@@ -2120,8 +2124,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-08-29T23:23:14.084284+00:00",
-      "edges_enriched_at": "2026-08-29T23:23:22.886261+00:00"
+      "detail_enriched_at": "2026-09-29T01:02:34.177855+00:00",
+      "edges_enriched_at": "2026-09-29T01:02:34.941872+00:00"
     },
     {
       "id": "c8ecd00761de6191e45077783333c0d521f2d045",
@@ -5053,7 +5057,7 @@
       "url": "https://www.semanticscholar.org/paper/bbc947f427a96e1de4e115c01088fd8c0a8ff334",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bbc947f427a96e1de4e115c01088fd8c0a8ff334",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 101,
       "references": [],
@@ -10424,7 +10428,7 @@
       "url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/acb2ff4bf58791995b70bd8a5abf63b39b2f346c",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1645559/pdf",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 34,
       "references": [
@@ -16008,7 +16012,7 @@
         "Liyu Sun",
         "Bingxue Wang",
         "Wenpeng Li",
-        "Jinren Ni"
+        "Jin-Ren Ni"
       ],
       "journal": "Nature Communications",
       "publication_date": "2024-08-08",
@@ -18433,7 +18437,7 @@
         "K. Hofmockel",
         "J. Blanchard",
         "X. Liu",
-        "Jorge L. Mazza Rodrigues",
+        "J. L. Mazza Rodrigues",
         "Zachary B. Freedman",
         "Petr Baldrian",
         "Martina Stursova",
@@ -18453,7 +18457,7 @@
         "Stephen C. Hart",
         "D. Myrold",
         "T. Onstott",
-        "Brendan J. M. Bohannan",
+        "B. Bohannan",
         "Marty R. Schmer",
         "N. Palmer",
         "K. Nüsslein",
@@ -30816,8 +30820,8 @@
       "title": "Mycorrhizal Symbiosis in Plant Growth and Stress Adaptation: From Genes to Ecosystems.",
       "authors": [
         "Jincai Shi",
-        "Xiaolin Wang",
-        "Ertao Wang"
+        "Xiao-Lin Wang",
+        "Er-Tao Wang"
       ],
       "journal": "Annual Review of Plant Biology",
       "publication_date": "2022-02-28",
@@ -41104,7 +41108,7 @@
         "G. Trubl",
         "Chang-Sheng Li",
         "S. Frolking",
-        "P. Pope",
+        "P. B. Pope",
         "K. Wrighton",
         "P. Crill",
         "J. Chanton",
@@ -43631,7 +43635,7 @@
         "W. Wilson",
         "K. Eric Wommack",
         "S. Wilhelm",
-        "J. Weitz"
+        "Joshua S. Weitz"
       ],
       "journal": "bioRxiv",
       "publication_date": "2015-08-26",
