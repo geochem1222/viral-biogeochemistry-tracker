@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:46:02.306254+00:00",
+  "updated_at": "2026-10-08T01:03:36.813990+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1296,7 +1296,7 @@
       "doi": "10.64898/2026.07.13.738189",
       "title": "T4-type phages diversity in wetland soils reveals their ubiquity and their likely host-dependent dynamics",
       "authors": [
-        "Rémi Trémouille",
+        "Rémi Tremouille",
         "Virginie Daburon",
         "A. Quaiser",
         "Alexis Dufresne",
@@ -3443,7 +3443,7 @@
         "Helge‐Ansgar Giebel",
         "Bingli Clark Chai",
         "Tassiana S. G. Serafim",
-        "Carola Lehners",
+        "C. Lehners",
         "O. Wurl",
         "H. Osterholz",
         "J. Rahlff"
@@ -7856,7 +7856,7 @@
         "Meiwen Wang",
         "Hong-Bing Shao",
         "Yeqing Yang",
-        "David Páez-Espino",
+        "D. Páez-Espino",
         "Andrew Mcminn",
         "Min Wang"
       ],
@@ -8053,7 +8053,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 14,
+      "citation_count": 15,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -11427,7 +11427,7 @@
         "Joseph J. Vallino",
         "Bayleigh E. Benner",
         "G. Trubl",
-        "Julie A. Huber"
+        "J. Huber"
       ],
       "journal": "bioRxiv",
       "publication_date": "2025-05-27",
@@ -12539,14 +12539,14 @@
         "Hanqing Wu",
         "Nan Wu",
         "Qiumei Ling",
-        "Tiangang Tang",
+        "Tian-Gang Tang",
         "Pei-Lei Hu",
         "Pengpeng Duan",
         "Qian Zhang",
         "Jun Xiao",
         "Jie Zhao",
         "Wei Zhang",
-        "Hongsong Chen",
+        "Hong-Song Chen",
         "Ke-Lin Wang"
       ],
       "journal": "Forests",
@@ -12711,7 +12711,7 @@
       "url": "https://www.semanticscholar.org/paper/a9ba81765244068cf52fcc88b674e732a46a21d4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9ba81765244068cf52fcc88b674e732a46a21d4",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44370-025-00015-y.pdf",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 1,
       "reference_count": 310,
       "references": [
@@ -18430,7 +18430,7 @@
         "Ruo-Nan Wu",
         "Russell Y. Neches",
         "Matt Nolan",
-        "David Páez-Espino",
+        "D. Páez-Espino",
         "N. Kyrpides",
         "J. Jansson",
         "J. McDermott",
@@ -19047,7 +19047,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 106,
+      "citation_count": 107,
       "influential_citation_count": 3,
       "reference_count": 49,
       "references": [
@@ -19532,7 +19532,7 @@
       "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
       "authors": [
         "Chao-Nan Li",
-        "Haijun Liao",
+        "Hai-Jun Liao",
         "Lin Xu",
         "Chang-Ting Wang",
         "Min-Jie Yao",
@@ -21008,120 +21008,6 @@
       "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
     },
     {
-      "id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "semantic_scholar_id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "source": "Semantic Scholar",
-      "pmid": "37966591",
-      "doi": "10.1007/978-1-0716-3549-0_3",
-      "title": "Breaking the Ice: A Review of Phages in Polar Ecosystems.",
-      "authors": [
-        "M. Heinrichs",
-        "Gonçalo J. Piedade",
-        "Ovidiu Popa",
-        "P. Sommers",
-        "G. Trubl",
-        "J. Weissenbach",
-        "J. Rahlff"
-      ],
-      "journal": "Methods in molecular biology",
-      "publication_date": "2024-01-01",
-      "abstract": "Bacteriophages, or phages, are viruses that infect and replicate within bacterial hosts, playing a significant role in regulating microbial populations and ecosystem dynamics. However, phages from extreme environments such as polar regions remain relatively understudied due to challenges such as restricted ecosystem access and low biomass. Understanding the diversity, structure, and functions of polar phages is crucial for advancing our knowledge of the microbial ecology and biogeochemistry of these environments. In this review, we will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data. Metagenomic studies of polar environments have revealed a high diversity of phages with unique genetic characteristics, providing insights into their evolutionary and ecological roles. Phage isolation studies have identified novel phage-host interactions and contributed to the discovery of new phage species. Virus-like particle abundance and lysis rate data, on the other hand, have highlighted the importance of phages in regulating bacterial populations and nutrient cycling in polar environments. Overall, this review aims to provide a comprehensive overview of the current state of knowledge about polar phages, and by synthesizing these different sources of information, we can better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change, which will help to predict how polar ecosystems and residing phages may respond to future environmental perturbations.",
-      "url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "pdf_url": "https://doi.org/10.1007/978-1-0716-3549-0_3",
-      "citation_count": 17,
-      "influential_citation_count": 1,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "53e298896848debea2a04ac5e65c060f3b640566",
-          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
-          "year": 2026,
-          "journal": "Water Science &amp; Technology",
-          "authors": [
-            "S. Al-maaqar",
-            "Wael A. Alsubhi",
-            "Zakia F. Albalawy"
-          ],
-          "doi": "10.2166/wst.2026.332",
-          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
-          "citation_count": 0
-        },
-        {
-          "id": "a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
-          "title": "crAssphage: the sentinel of phages carrying antimicrobial resistance genes in water systems",
-          "year": 2026,
-          "journal": "Frontiers in Water",
-          "authors": [
-            "C. García-Aljaro",
-            "Sara Morales-Cortés",
-            "Maite Muniesa"
-          ],
-          "doi": "10.3389/frwa.2026.1912033",
-          "url": "https://www.semanticscholar.org/paper/a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
-          "citation_count": 0
-        },
-        {
-          "id": "f170ebf7fe122009970f293743e043da9bd19fdf",
-          "title": "Capsule-independent bacteriophages reveal unexpected diversity of Salmonella Typhi phage ecology",
-          "year": 2026,
-          "journal": "medRxiv",
-          "authors": [
-            "S. Dey",
-            "S. Islam",
-            "A. amin"
-          ],
-          "doi": "10.64898/2026.08.19.26360815",
-          "url": "https://www.semanticscholar.org/paper/f170ebf7fe122009970f293743e043da9bd19fdf",
-          "citation_count": 0
-        },
-        {
-          "id": "5b67e4f00f3219eb43ac20d816781644093bd004",
-          "title": "The value of a prophage-borne defense system in phage-phage competition.",
-          "year": 2026,
-          "journal": "PLoS Computational Biology",
-          "authors": [
-            "Y. Meir",
-            "N. Wingreen"
-          ],
-          "doi": "10.1371/journal.pcbi.1014739",
-          "url": "https://www.semanticscholar.org/paper/5b67e4f00f3219eb43ac20d816781644093bd004",
-          "citation_count": 0
-        },
-        {
-          "id": "faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
-          "title": "Low-level phage residues in manure are associated with shifts in microbial communities and resistance-related profiles.",
-          "year": 2026,
-          "journal": "Environment International",
-          "authors": [
-            "Youshun Jin",
-            "Yan-Yan Wang",
-            "Hafiz Muhammad Hamza Rasool"
-          ],
-          "doi": "10.1016/j.envint.2026.110466",
-          "url": "https://www.semanticscholar.org/paper/faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle",
-        "Review"
-      ],
-      "tldr": "This review will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data to better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-14T23:53:13.134032+00:00",
-      "edges_enriched_at": "2026-09-14T23:53:13.607519+00:00"
-    },
-    {
       "id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
       "source": "Semantic Scholar",
@@ -21781,6 +21667,120 @@
       ],
       "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
       "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
+    },
+    {
+      "id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "semantic_scholar_id": "6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "source": "Semantic Scholar",
+      "pmid": "37966591",
+      "doi": "10.1007/978-1-0716-3549-0_3",
+      "title": "Breaking the Ice: A Review of Phages in Polar Ecosystems.",
+      "authors": [
+        "M. Heinrichs",
+        "Gonçalo J. Piedade",
+        "Ovidiu Popa",
+        "P. Sommers",
+        "G. Trubl",
+        "J. Weissenbach",
+        "J. Rahlff"
+      ],
+      "journal": "Methods in molecular biology",
+      "publication_date": "2024-01-01",
+      "abstract": "Bacteriophages, or phages, are viruses that infect and replicate within bacterial hosts, playing a significant role in regulating microbial populations and ecosystem dynamics. However, phages from extreme environments such as polar regions remain relatively understudied due to challenges such as restricted ecosystem access and low biomass. Understanding the diversity, structure, and functions of polar phages is crucial for advancing our knowledge of the microbial ecology and biogeochemistry of these environments. In this review, we will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data. Metagenomic studies of polar environments have revealed a high diversity of phages with unique genetic characteristics, providing insights into their evolutionary and ecological roles. Phage isolation studies have identified novel phage-host interactions and contributed to the discovery of new phage species. Virus-like particle abundance and lysis rate data, on the other hand, have highlighted the importance of phages in regulating bacterial populations and nutrient cycling in polar environments. Overall, this review aims to provide a comprehensive overview of the current state of knowledge about polar phages, and by synthesizing these different sources of information, we can better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change, which will help to predict how polar ecosystems and residing phages may respond to future environmental perturbations.",
+      "url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
+      "pdf_url": "https://doi.org/10.1007/978-1-0716-3549-0_3",
+      "citation_count": 17,
+      "influential_citation_count": 1,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "53e298896848debea2a04ac5e65c060f3b640566",
+          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
+          "year": 2026,
+          "journal": "Water Science &amp; Technology",
+          "authors": [
+            "S. Al-maaqar",
+            "Wael A. Alsubhi",
+            "Zakia F. Albalawy"
+          ],
+          "doi": "10.2166/wst.2026.332",
+          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
+          "citation_count": 0
+        },
+        {
+          "id": "a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
+          "title": "crAssphage: the sentinel of phages carrying antimicrobial resistance genes in water systems",
+          "year": 2026,
+          "journal": "Frontiers in Water",
+          "authors": [
+            "C. García-Aljaro",
+            "Sara Morales-Cortés",
+            "Maite Muniesa"
+          ],
+          "doi": "10.3389/frwa.2026.1912033",
+          "url": "https://www.semanticscholar.org/paper/a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
+          "citation_count": 0
+        },
+        {
+          "id": "f170ebf7fe122009970f293743e043da9bd19fdf",
+          "title": "Capsule-independent bacteriophages reveal unexpected diversity of Salmonella Typhi phage ecology",
+          "year": 2026,
+          "journal": "medRxiv",
+          "authors": [
+            "S. Dey",
+            "S. Islam",
+            "A. amin"
+          ],
+          "doi": "10.64898/2026.08.19.26360815",
+          "url": "https://www.semanticscholar.org/paper/f170ebf7fe122009970f293743e043da9bd19fdf",
+          "citation_count": 0
+        },
+        {
+          "id": "5b67e4f00f3219eb43ac20d816781644093bd004",
+          "title": "The value of a prophage-borne defense system in phage-phage competition.",
+          "year": 2026,
+          "journal": "PLoS Computational Biology",
+          "authors": [
+            "Y. Meir",
+            "N. Wingreen"
+          ],
+          "doi": "10.1371/journal.pcbi.1014739",
+          "url": "https://www.semanticscholar.org/paper/5b67e4f00f3219eb43ac20d816781644093bd004",
+          "citation_count": 0
+        },
+        {
+          "id": "faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
+          "title": "Low-level phage residues in manure are associated with shifts in microbial communities and resistance-related profiles.",
+          "year": 2026,
+          "journal": "Environment International",
+          "authors": [
+            "Youshun Jin",
+            "Yan-Yan Wang",
+            "Hafiz Muhammad Hamza Rasool"
+          ],
+          "doi": "10.1016/j.envint.2026.110466",
+          "url": "https://www.semanticscholar.org/paper/faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "tldr": "This review will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data to better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-14T23:53:13.134032+00:00",
+      "edges_enriched_at": "2026-09-14T23:53:13.607519+00:00"
     },
     {
       "id": "0955c58f16df455103cb943222fe32476d42f2c9",
@@ -23971,7 +23971,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 248,
+      "citation_count": 249,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -27545,7 +27545,7 @@
         "I. Schmitt",
         "E. Neuschulz",
         "F. Dal Grande",
-        "Miklós Bálint"
+        "M. Bálint"
       ],
       "journal": "Molecular Ecology",
       "publication_date": "2022-11-01",
@@ -27876,7 +27876,7 @@
         "Clyde A. Smith",
         "G. W. Buchko",
         "I. Blaby",
-        "David Páez-Espino",
+        "D. Páez-Espino",
         "N. Kyrpides",
         "Y. Yoshikuni",
         "J. Mcdermott",
@@ -29521,7 +29521,7 @@
       "title": "Patterns and ecological drivers of viral communities in acid mine drainage sediments across Southern China",
       "authors": [
         "Shao-Ming Gao",
-        "David Páez-Espino",
+        "D. Páez-Espino",
         "Jin-Tian Li",
         "Hong-Xia Ai",
         "Jie-Liang Liang",
@@ -32725,7 +32725,7 @@
       "url": "https://www.semanticscholar.org/paper/285290e27834be50bba4f84ff43e14e2621409e1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/285290e27834be50bba4f84ff43e14e2621409e1",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.748961/pdf",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 2,
       "reference_count": 243,
       "references": [
@@ -34311,7 +34311,7 @@
       "doi": "10.1128/mSystems.00537-21",
       "title": "Ecogenomics of Groundwater Phages Suggests Niche Differentiation Linked to Specific Environmental Tolerance",
       "authors": [
-        "Ankita Kothari",
+        "A. Kothari",
         "S. Roux",
         "Han-Qiao Zhang",
         "A. Prieto",
@@ -37635,7 +37635,7 @@
       "doi": "10.1101/2020.07.14.203604",
       "title": "Ecogenomics of groundwater viruses suggests niche differentiation linked to specific environmental tolerance",
       "authors": [
-        "Ankita Kothari",
+        "A. Kothari",
         "S. Roux",
         "Han-Qiao Zhang",
         "A. Prieto",
@@ -39897,7 +39897,7 @@
       "title": "Untapped viral diversity in global soil metagenomes",
       "authors": [
         "E. Graham",
-        "David Páez-Espino",
+        "D. Páez-Espino",
         "C. Brislawn",
         "Russell Y. Neches",
         "K. Hofmockel",
