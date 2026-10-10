@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:17:44.511593+00:00",
+  "updated_at": "2026-10-10T00:56:56.703057+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -485,7 +485,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-09T23:20:03.638414+00:00",
+      "detail_enriched_at": "2026-10-10T00:56:35.574880+00:00",
       "edges_enriched_at": "2026-10-09T01:16:59.037001+00:00"
     },
     {
@@ -1750,7 +1750,7 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-09-09T23:20:03.638414+00:00",
+      "detail_enriched_at": "2026-10-10T00:56:35.574880+00:00",
       "edges_enriched_at": "2026-10-09T01:16:59.037001+00:00"
     },
     {
@@ -2179,7 +2179,7 @@
       "url": "https://www.semanticscholar.org/paper/c8ecd00761de6191e45077783333c0d521f2d045",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e3f0bc425d18537f86f0e82ab8937ac9045f97e0",
       "pdf_url": "https://journals.asm.org/doi/pdf/10.1128/msystems.00395-26?download=true",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 93,
       "references": [
@@ -3113,11 +3113,11 @@
         "Lilin Wu",
         "Xiaomeng Wang",
         "Yong-Yi Peng",
-        "Xinyue Liu",
+        "Xin-Yue Liu",
         "Cheng-Peng Li",
         "Jinxin Xu",
         "Zi-Qi Wu",
-        "Xiyang Dong",
+        "Xi-Yang Dong",
         "Qiang Zheng"
       ],
       "journal": "mSystems",
@@ -4905,7 +4905,7 @@
         "Jian-Rong Huang",
         "Lan Liu",
         "Hong-Shuang Jiang",
-        "Wensheng Shu",
+        "W. Shu",
         "B. Hedlund",
         "Wen-Jun Li",
         "Jian-Yu Jiao"
@@ -7368,7 +7368,7 @@
         "Christine L. Sun",
         "H. Jang",
         "B. Woodcroft",
-        "Gene W. Tyson",
+        "G. Tyson",
         "K. Wrighton",
         "S. Saleska",
         "E. Eloe-Fadrosh",
@@ -11602,7 +11602,7 @@
         "Jing Liao",
         "Xi Xiao",
         "Zhaorong Li",
-        "Xiyang Dong"
+        "Xi-Yang Dong"
       ],
       "journal": "Nature Communications",
       "publication_date": "2025-05-26",
@@ -12544,9 +12544,9 @@
       "doi": "10.3390/f16050735",
       "title": "Potential Roles of Soil Viruses in Karst Forest Soil Carbon and Nitrogen Cycles",
       "authors": [
-        "Hanqing Wu",
+        "Han-Qing Wu",
         "Nan Wu",
-        "Qiumei Ling",
+        "Qiu-Mei Ling",
         "Tian-Gang Tang",
         "Pei-Lei Hu",
         "Pengpeng Duan",
@@ -18601,7 +18601,7 @@
         "Emily B. Graham",
         "A. Camargo",
         "Ruo-Nan Wu",
-        "Russell Y. Neches",
+        "R. Neches",
         "Matt Nolan",
         "D. Páez-Espino",
         "N. Kyrpides",
@@ -19043,7 +19043,7 @@
         "Yanping Hou",
         "Fang-Fang Kuang",
         "Xue-Jin Feng",
-        "Xiyang Dong",
+        "Xi-Yang Dong",
         "Yin-Fang Li",
         "Zongze Shao",
         "Min Jin"
@@ -20650,7 +20650,7 @@
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10880660",
-      "citation_count": 58,
+      "citation_count": 59,
       "influential_citation_count": 2,
       "reference_count": 49,
       "references": [],
@@ -21481,7 +21481,7 @@
       "url": "https://www.semanticscholar.org/paper/eb01f93405fbc2384769b7bd11b091a4eb7d9940",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/eb01f93405fbc2384769b7bd11b091a4eb7d9940",
       "pdf_url": "https://doi.org/10.59717/j.xinn-life.2024.100081",
-      "citation_count": 14,
+      "citation_count": 15,
       "influential_citation_count": 1,
       "reference_count": 54,
       "references": [
@@ -21806,7 +21806,7 @@
         "Tiankun Gao",
         "C. Ai",
         "Xiang Tang",
-        "Ville-Petri Friman",
+        "V. Friman",
         "Shun-Gui Zhou"
       ],
       "journal": "The Innovation Geoscience",
@@ -24144,7 +24144,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 249,
+      "citation_count": 250,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -29701,7 +29701,7 @@
         "Zhenhao Luo",
         "Jin Zheng",
         "Hao Chen",
-        "Wensheng Shu",
+        "W. Shu",
         "Li-Nan Huang"
       ],
       "journal": "Nature Communications",
@@ -32607,7 +32607,7 @@
       "title": "Virus-Host Interactions Reveal Potential Roles Towards Phosphorus Cycling in South Atlantic Ocean Euphotic Zones",
       "authors": [
         "Percy Mutseka Lunga",
-        "Oliver Bezuidt",
+        "O. Bezuidt",
         "M. Hirai",
         "Y. Takaki",
         "T. Yokokawa",
@@ -37040,7 +37040,7 @@
         "Lu Zhang",
         "Yong Wang",
         "C. Hubert",
-        "Xiyang Dong"
+        "Xi-Yang Dong"
       ],
       "journal": "The ISME Journal",
       "publication_date": "2020-09-08",
@@ -40072,7 +40072,7 @@
         "E. Graham",
         "D. Páez-Espino",
         "C. Brislawn",
-        "Russell Y. Neches",
+        "R. Neches",
         "K. Hofmockel",
         "Ruonan Wu",
         "N. Kyrpides",
@@ -40853,7 +40853,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://sro.sussex.ac.uk/id/eprint/80613/3/18TL4101_Lancet%20Countdown_final_embargoed.pdf",
-      "citation_count": 772,
+      "citation_count": 773,
       "influential_citation_count": 23,
       "reference_count": 122,
       "references": [
@@ -42228,7 +42228,7 @@
       "title": "Bacterial community structure and functional potential in the northeastern Chukchi Sea",
       "authors": [
         "K. McFarlin",
-        "Jennifer M. Questel",
+        "J. Questel",
         "R. Hopcroft",
         "M. Leigh"
       ],
@@ -42238,7 +42238,7 @@
       "url": "https://www.semanticscholar.org/paper/15cde31bb3d8f9f00c699766689b0b0cfd1a0bca",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/15cde31bb3d8f9f00c699766689b0b0cfd1a0bca",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0278434316304071/pdf",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 73,
       "references": [
@@ -45228,7 +45228,7 @@
         "N. Fujii",
         "Shigeyuki Oda",
         "Kensuke Toyoda",
-        "Keizo Nagasaki"
+        "K. Nagasaki"
       ],
       "journal": "Aquatic Microbial Ecology",
       "publication_date": "2011-05-11",
@@ -45787,7 +45787,7 @@
       "url": "https://www.semanticscholar.org/paper/03e37d4ab9db66c73e5e121194cb33128fde961b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/03e37d4ab9db66c73e5e121194cb33128fde961b",
       "pdf_url": "https://figshare.com/articles/journal_contribution/Spinning_the_Ferrous_Wheel_the_importance_of_the_microbial_community_in_an_iron_budget_during_the_FeCycle_experiment/23002880",
-      "citation_count": 162,
+      "citation_count": 163,
       "influential_citation_count": 16,
       "reference_count": 90,
       "references": [
