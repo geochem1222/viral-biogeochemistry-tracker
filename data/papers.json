@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T00:56:56.703057+00:00",
+  "updated_at": "2026-10-11T00:16:29.043779+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,121 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "f402a6fcc25105ec945a3a5aae777f21e02b5c93",
+      "semantic_scholar_id": "f402a6fcc25105ec945a3a5aae777f21e02b5c93",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1021/acs.est.6c06022",
+      "title": "Phage Lysis Associated\nwith Biodegradable Microplastics\nMediates Microbial Physiological Adaptation to Transform Organic Matter\nin Soil",
+      "authors": [
+        "Lin Liu",
+        "Long Hu",
+        "He Sun",
+        "Jia-Min Xiao",
+        "Dong Zhu",
+        "Xiao-Meng Wei",
+        "Ge-Hong Wei",
+        "Chun Chen"
+      ],
+      "journal": "Environmental Science &amp;\nTechnology",
+      "publication_date": "2026-10-08",
+      "abstract": "\n Biodegradable microplastics (MPs) profoundly impact the storage and stability of soil organic matter (SOM), yet the mechanisms by which phages mediate the transformation of plant- and microbially derived SOM under biodegradable MP perturbation remain poorly understood. This study integrated multiomics, stable isotope techniques, and phage inoculation experiments to investigate how phages mediate SOM transformation following biodegradable MP addition in agricultural soil. The results revealed that lytic phage-bacteria interactions were central to MP-dependent SOM transformation. Polylactic acid (PLA) reduced plant-derived organic molecules by 15% without affecting microbially derived carbon. PLA increased phage lysis and enriched auxiliary metabolic genes (AMGs) such as queC (2.2-fold increase), which supports phage replication and reduces microbial biomass. Pure culture experiments supported that PLA increased phage lytic infectivity. Phage inoculation further revealed that lytic phages accelerated bacteria to shift toward catabolism (e.g., lignocellulose degradation, citrate cycle) in PLA-amended soil, reducing carbon use efficiency (CUE) and accelerating decomposition of plant- and microbially derived carbon through viral shunt. In comparison, polyhydroxyalkanoates (PHA) increased microbially derived molecules by 37%, particularly amino nitrogen compounds. The higher degradability of PHA stimulated lytic phage bloom with their hosts and enriched biosynthesis-related AMGs (e.g., cysH, glmS). Phage inoculation experiments showed that surviving bacteria assimilated phage lysate products into anabolism (e.g., amino acid and amino sugar biosynthesis), enriching metabolites such as l-isoleucine and MurNAc after PHA addition. This increased CUE and accumulation of microbial organics through viral shuttle. These findings uncover phage-mediated mechanisms linking microplastic perturbation to soil carbon cycling.",
+      "url": "https://www.semanticscholar.org/paper/f402a6fcc25105ec945a3a5aae777f21e02b5c93",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/f402a6fcc25105ec945a3a5aae777f21e02b5c93",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 102,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "3dba7f7211bb20a5618c896156ae1188d30678a0",
+          "title": "Microplastic-driven carbon availability differentiates phage-host interactions in shaping soil resistome.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Li-Hong Xie",
+            "Lu Wang",
+            "Li-Juan Ma"
+          ],
+          "doi": "10.1093/ismejo/wrag258",
+          "url": "https://www.semanticscholar.org/paper/3dba7f7211bb20a5618c896156ae1188d30678a0",
+          "citation_count": 0
+        },
+        {
+          "id": "7bbc70a0e3cabf3c432bcc8116fbacea58bffb26",
+          "title": "Straw addition promotes biodegradable microplastic degradation and affects soil ecosystems: A comparative study across different soil types.",
+          "year": 2026,
+          "journal": "Ecotoxicology and Environmental Safety",
+          "authors": [
+            "En-Qing Chen",
+            "Yuan-Yu Zhang",
+            "Kun-Shu Yang"
+          ],
+          "doi": "10.1016/j.ecoenv.2026.120448",
+          "url": "https://www.semanticscholar.org/paper/7bbc70a0e3cabf3c432bcc8116fbacea58bffb26",
+          "citation_count": 0
+        },
+        {
+          "id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
+          "title": "Artificial humic acid reshapes microbial C-N metabolism and nitrogen partition in microplastic-contaminated soils.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Qihe Gao",
+            "Shuang Ai",
+            "Meiling Zhang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143382",
+          "url": "https://www.semanticscholar.org/paper/b3e714ac652b6324cd2a89a372764cd3623fa3d9",
+          "citation_count": 0
+        },
+        {
+          "id": "be16344422b165c5c38153660c34051b8fd94d12",
+          "title": "[Effects of Microplastics on Growth Characteristics and Rhizosphere Soil Enzymatic Activity of Maize].",
+          "year": 2026,
+          "journal": "Huan jing ke xue= Huanjing kexue",
+          "authors": [
+            "Chengjiao Duan",
+            "Dan-Ning Yang",
+            "Zhiqing Zhang"
+          ],
+          "doi": "10.13227/j.hjkx.202504006",
+          "url": "https://www.semanticscholar.org/paper/be16344422b165c5c38153660c34051b8fd94d12",
+          "citation_count": 0
+        },
+        {
+          "id": "14b3cf67c28d67d30519d383c531459758dfa9f0",
+          "title": "Divergent\nShifts\nin Sediment Dissolved Organic Matter\nStability and Microbial Carbon Metabolic Potential Induced by Biodegradable\nand Conventional Microplastics",
+          "year": 2026,
+          "journal": "Environmental Science &amp;\nTechnology",
+          "authors": [
+            "Man-Man Cao",
+            "Feng Wang",
+            "Fei Wang"
+          ],
+          "doi": "10.1021/acs.est.6c10516",
+          "url": "https://www.semanticscholar.org/paper/14b3cf67c28d67d30519d383c531459758dfa9f0",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The results revealed that lytic phage-bacteria interactions were central to MP-dependent SOM transformation and uncovered phage-mediated mechanisms linking microplastic perturbation to soil carbon cycling.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-10-11T00:16:14.762301+00:00",
+      "edges_enriched_at": "2026-10-11T00:16:23.920883+00:00"
+    },
     {
       "id": "051edb67ccc7760e0538bfd0584116accea900ac",
       "semantic_scholar_id": "051edb67ccc7760e0538bfd0584116accea900ac",
@@ -2684,45 +2799,31 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "38b6a38b80854f220763adc214da403a55edcde4",
-          "title": "Biodegradable Microplastic Diversity Drives Soil Carbon Lability via Phage-Boosted Bacterial Degradation of Recalcitrant Compounds.",
+          "id": "e8fb9986d8713192f12cef85418a83f50a9b5a08",
+          "title": "Multi-trophic interactions determine the impact of distinct microplastic types on soil bacteria.",
           "year": 2026,
-          "journal": "Environmental Science and Technology",
+          "journal": "Environment International",
           "authors": [
-            "Lihong Xie",
-            "Lu Wang",
-            "Da Lin"
+            "Elizabeth Racicot",
+            "Joliese Teunissen",
+            "Gui-Xin Li"
           ],
-          "doi": "10.1021/acs.est.6c04389",
-          "url": "https://www.semanticscholar.org/paper/38b6a38b80854f220763adc214da403a55edcde4",
+          "doi": "10.1016/j.envint.2026.110537",
+          "url": "https://www.semanticscholar.org/paper/e8fb9986d8713192f12cef85418a83f50a9b5a08",
           "citation_count": 0
         },
         {
-          "id": "d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
-          "title": "Invertebrates gut viromes mediate microbial adaptation to pharmaceutical diversity under warming.",
+          "id": "4e87d31c27da867c1e14e2b3d2f4e8aa34a71573",
+          "title": "Enriched multifunctional microbes coupling antibiotic resistance risk and nitrogen metabolic potential in eutrophic lakes.",
           "year": 2026,
-          "journal": "Microbiome",
+          "journal": "Environmental Research",
           "authors": [
-            "Ya-Ning Wang",
-            "Jing-Ting Zheng",
-            "Xue-Peng Chen"
+            "Hao Li",
+            "Jia-Wen Wang",
+            "Ying-Hao Li"
           ],
-          "doi": "10.1186/s40168-026-02465-y",
-          "url": "https://www.semanticscholar.org/paper/d74ed6bf9167b5b5d3b212e0f19c6c507b593fec",
-          "citation_count": 0
-        },
-        {
-          "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
-          "title": "Experimental drought drives divergent succession of soil microbiota.",
-          "year": 2026,
-          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-          "authors": [
-            "Sihang Deng",
-            "Yunfeng Yang",
-            "Xue Guo"
-          ],
-          "doi": "10.1073/pnas.2537753123",
-          "url": "https://www.semanticscholar.org/paper/d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "doi": "10.1016/j.envres.2026.125764",
+          "url": "https://www.semanticscholar.org/paper/4e87d31c27da867c1e14e2b3d2f4e8aa34a71573",
           "citation_count": 0
         },
         {
@@ -2730,23 +2831,41 @@
           "title": "Stressor diversity: a hidden dimension driving soil antibiotic resistance enrichment and ecosystem functional degradation",
           "year": 2026,
           "journal": "Soil Ecology Letters",
-          "authors": [],
+          "authors": [
+            "Yi-Fei Wang",
+            "Ya-Ning Wang",
+            "Xin-Yue Yang"
+          ],
           "doi": "10.1007/s42832-026-0477-5",
           "url": "https://www.semanticscholar.org/paper/c48e9983c323a9d37904dc7b9a4ac3a115683afe",
           "citation_count": 0
         },
         {
-          "id": "f4212911298580a1993855bbabb66ee70cd819be",
-          "title": "Microplastic aging drives convergence of the plastisphere microbiome and resistome toward agricultural soils.",
+          "id": "fdc0d88647cc8b57532172b3e3f911107b46c254",
+          "title": "Amplicon and metagenomic sequencing reveal thifluzamide drive rhizosphere microbial structural shifts and functional adaption.",
           "year": 2026,
-          "journal": "Journal of Hazardous Materials",
+          "journal": "Pesticide Biochemistry and Physiology",
           "authors": [
-            "Bingshen Liu",
-            "Zenan Shen",
-            "Yu-Jing Shen"
+            "Shi-Jie Zhu",
+            "Xiao-Ting Liu",
+            "Xiao-Lan Yang"
           ],
-          "doi": "10.1016/j.jhazmat.2026.143426",
-          "url": "https://www.semanticscholar.org/paper/f4212911298580a1993855bbabb66ee70cd819be",
+          "doi": "10.1016/j.pestbp.2026.107299",
+          "url": "https://www.semanticscholar.org/paper/fdc0d88647cc8b57532172b3e3f911107b46c254",
+          "citation_count": 0
+        },
+        {
+          "id": "94caad5a76fc186270862939981665d1e428be52",
+          "title": "Co-Pollution Characteristics of Microplastics and Antibiotic Resistance Genes in the Haihe River Estuary and Bohai Sea Coastal Waters",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Xu Guo",
+            "Zhi-Hao Chen",
+            "Fu Wang"
+          ],
+          "doi": "10.3390/w18172065",
+          "url": "https://www.semanticscholar.org/paper/94caad5a76fc186270862939981665d1e428be52",
           "citation_count": 0
         }
       ],
@@ -2766,8 +2885,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-09-10T23:15:52.404908+00:00",
-      "edges_enriched_at": "2026-09-10T23:16:01.169833+00:00"
+      "detail_enriched_at": "2026-10-11T00:16:14.762301+00:00",
+      "edges_enriched_at": "2026-10-11T00:16:23.920883+00:00"
     },
     {
       "id": "7ac0a7090f56bc0cdd91cd6d0434f81c88694773",
@@ -8061,7 +8180,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -12394,7 +12513,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://www.nature.com/articles/s41467-025-58695-5.pdf",
-      "citation_count": 28,
+      "citation_count": 29,
       "influential_citation_count": 2,
       "reference_count": 126,
       "references": [
@@ -19220,7 +19339,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 107,
+      "citation_count": 108,
       "influential_citation_count": 3,
       "reference_count": 49,
       "references": [
@@ -19389,7 +19508,7 @@
       "url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8c011e790be5fe60c132d895cc1f17195ef1048f",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.188",
-      "citation_count": 46,
+      "citation_count": 47,
       "influential_citation_count": 3,
       "reference_count": 81,
       "references": [
@@ -19995,7 +20114,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://doi.org/10.1038/s41467-024-46109-x",
-      "citation_count": 46,
+      "citation_count": 47,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -22754,7 +22873,7 @@
       "doi": "10.1038/s41598-023-40946-4",
       "title": "Green “turn-off” luminescent nanosensors for the sensitive determination of desperately fluorescent antibacterial antiviral agent and its metabolite in various matrices",
       "authors": [
-        "H. Elbardisy",
+        "H. M. Elbardisy",
         "Mai M. Elnaggar",
         "T. Belal",
         "Mahmoud A. Ragab",
@@ -23696,7 +23815,7 @@
       "url": "https://www.semanticscholar.org/paper/d516f444b607681afb7e2c571c4246e081396963",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d516f444b607681afb7e2c571c4246e081396963",
       "pdf_url": "https://doi.org/10.1016/j.envint.2023.108055",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -24849,7 +24968,7 @@
       "url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "pdf_url": "",
-      "citation_count": 58,
+      "citation_count": 59,
       "influential_citation_count": 2,
       "reference_count": 88,
       "references": [],
@@ -27562,7 +27681,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 223,
+      "citation_count": 224,
       "influential_citation_count": 11,
       "reference_count": 105,
       "references": [
@@ -30306,7 +30425,7 @@
       "authors": [
         "Yajiao Wang",
         "Yu Liu",
-        "Yuxin Wu",
+        "Yu-Xing Wu",
         "Nan Wu",
         "Wen-Wen Liu",
         "Xi-Feng Wang"
@@ -31293,7 +31412,7 @@
       "authors": [
         "Yajiao Wang",
         "Yu Liu",
-        "Yuxin Wu",
+        "Yu-Xing Wu",
         "Nan Wu",
         "Wen-Wen Liu",
         "Xi-Feng Wang"
@@ -37221,7 +37340,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 211,
+      "citation_count": 212,
       "influential_citation_count": 10,
       "reference_count": 91,
       "references": [
@@ -40853,7 +40972,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://sro.sussex.ac.uk/id/eprint/80613/3/18TL4101_Lancet%20Countdown_final_embargoed.pdf",
-      "citation_count": 773,
+      "citation_count": 774,
       "influential_citation_count": 23,
       "reference_count": 122,
       "references": [
@@ -42877,7 +42996,7 @@
       "url": "https://www.semanticscholar.org/paper/11f2984bccfb6cb8952bceea9209357821a0583a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/11f2984bccfb6cb8952bceea9209357821a0583a",
       "pdf_url": "https://doi.org/10.1371/journal.pntd.0004648",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 2,
       "reference_count": 35,
       "references": [
