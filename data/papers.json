@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T00:16:29.043779+00:00",
+  "updated_at": "2026-10-12T00:35:54.436427+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -804,31 +804,17 @@
       ],
       "similar_papers": [
         {
-          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "mSystems",
           "authors": [
-            "Haoran Wang",
-            "Chunhui Ai",
-            "A. Barcan"
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
           ],
-          "doi": "10.64898/2026.07.27.740809",
-          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "citation_count": 0
-        },
-        {
-          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
-          "year": null,
-          "journal": "",
-          "authors": [
-            "Shuhong Zhang",
-            "Yongkang Chen",
-            "Junwei Peng"
-          ],
-          "doi": "10.1002/ppp.70041",
-          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
           "citation_count": 0
         },
         {
@@ -839,38 +825,52 @@
           "authors": [
             "A. Barcan",
             "R. Barcan",
-            "Lisheng He"
+            "Li-Sheng He"
           ],
           "doi": "10.1038/s43247-026-03922-0",
           "url": "https://www.semanticscholar.org/paper/afb9bab731d48aac21da38235977c843b77dcdb2",
           "citation_count": 0
         },
         {
-          "id": "e56acf188ee75c120024f9613a55d0162552a50a",
-          "title": "Citywide metagenomics reveals microbial community and resistome dynamics in urban wastewater",
+          "id": "0192a2e6d2a64f284cc37bc70426689b1058b326",
+          "title": "Metagenomic insights into antibiotic resistance genes and virulence factors in sediments of river Yamuna",
           "year": 2026,
-          "journal": "Nature Communications",
+          "journal": "Frontiers in Microbiology",
           "authors": [
-            "Zhi-Ying Xu",
-            "Jiabao Xing",
-            "Xiaohong Zeng"
+            "A. K. Rout",
+            "P. Tripathy",
+            "S. Dey"
           ],
-          "doi": "10.1038/s41467-026-75771-6",
-          "url": "https://www.semanticscholar.org/paper/e56acf188ee75c120024f9613a55d0162552a50a",
+          "doi": "10.3389/fmicb.2026.1938385",
+          "url": "https://www.semanticscholar.org/paper/0192a2e6d2a64f284cc37bc70426689b1058b326",
           "citation_count": 0
         },
         {
-          "id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
-          "title": "Ecosystem retrogression enhances cross‐domain microbial stability and increases the genetic potential for nutrient cycling",
+          "id": "7506bfbc4d5b21ef3e4e9f7458e7d8c6b1635dec",
+          "title": "Metagenome Database Covering the Entire Riverine Continuum of the Baihe River on the Eastern Qinghai–Tibet Plateau",
           "year": 2026,
-          "journal": "mLife",
+          "journal": "International Conference on Data Technologies and Applications",
           "authors": [
-            "J. Ceja-Navarro",
-            "Dishant Patel",
-            "Garret Genco"
+            "Jun Rao",
+            "Yong-Liang Cui",
+            "Ji Hu"
           ],
-          "doi": "10.1002/mlf2.70087",
-          "url": "https://www.semanticscholar.org/paper/4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+          "doi": "10.3390/data11090223",
+          "url": "https://www.semanticscholar.org/paper/7506bfbc4d5b21ef3e4e9f7458e7d8c6b1635dec",
+          "citation_count": 0
+        },
+        {
+          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
+          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
+          "year": 2026,
+          "journal": "iScience",
+          "authors": [
+            "Chao-Jian Hu",
+            "Muhammad Asif",
+            "Jin-Hui Liu"
+          ],
+          "doi": "10.1016/j.isci.2026.117172",
+          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
           "citation_count": 0
         }
       ],
@@ -890,8 +890,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-11T23:18:14.372822+00:00",
-      "edges_enriched_at": "2026-09-11T23:18:15.080262+00:00"
+      "detail_enriched_at": "2026-10-12T00:35:50.124778+00:00",
+      "edges_enriched_at": "2026-10-12T00:35:50.874602+00:00"
     },
     {
       "id": "4446691e6a396af15a537e303adf33c494f25c88",
@@ -15752,7 +15752,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202407223",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -18776,7 +18776,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 100,
+      "citation_count": 101,
       "influential_citation_count": 4,
       "reference_count": 114,
       "references": [
@@ -19339,7 +19339,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 108,
+      "citation_count": 109,
       "influential_citation_count": 3,
       "reference_count": 49,
       "references": [
@@ -24263,7 +24263,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 250,
+      "citation_count": 251,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -31092,7 +31092,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 368,
+      "citation_count": 369,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -40972,7 +40972,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://sro.sussex.ac.uk/id/eprint/80613/3/18TL4101_Lancet%20Countdown_final_embargoed.pdf",
-      "citation_count": 774,
+      "citation_count": 775,
       "influential_citation_count": 23,
       "reference_count": 122,
       "references": [
@@ -44826,7 +44826,7 @@
       "url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057355&type=printable",
-      "citation_count": 329,
+      "citation_count": 330,
       "influential_citation_count": 24,
       "reference_count": 74,
       "references": [
