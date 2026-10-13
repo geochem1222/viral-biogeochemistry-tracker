@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T00:35:54.436427+00:00",
+  "updated_at": "2026-10-13T02:37:04.081499+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1187,19 +1187,19 @@
       "source": "Semantic Scholar",
       "pmid": "42464266",
       "doi": "10.1186/s12915-026-02685-6",
-      "title": "Diversity and potential ecological roles of viruses in Pleistocene permafrost.",
+      "title": "Diversity and potential ecological roles of viruses in Pleistocene permafrost",
       "authors": [
         "Chang-Hua He",
-        "Yuntong Du",
+        "Yun-Tong Du",
         "K. Lloyd",
         "Tatiana A. Vishnivetskaya",
         "E. Rivkina",
-        "Hongchen Jiang",
-        "Renxing Liang"
+        "Hong-Chen Jiang",
+        "Ren-Xing Liang"
       ],
       "journal": "BMC Biology",
       "publication_date": "2026-07-16",
-      "abstract": "BACKGROUND\nAncient permafrost, formed during past glacial periods, is widespread in Siberia and other Arctic regions. Even though these soils have remained below 0 °C over geological time periods, the widespread presence of bacteria and archaea in permafrost is well documented. However, the diversity of viruses in ancient permafrost of different geological ages and their potential ecological roles are still poorly understood.\n\n\nRESULTS\nWe applied metagenomics to characterize viruses from Middle to Late Pleistocene permafrost sediments from Siberia. A total of 2697 viral operational taxonomic units (vOTUs) were recovered through metagenomic assembly and virus identification. Viral diversity in the Middle Pleistocene permafrost was much higher than that in the Late Pleistocene. The virus communities at different depths of the Middle Pleistocene permafrost showed great similarity to each other but were significantly different from those of the Late Pleistocene, with Azeredovirinae, Peduoviridae, and Fiersviridae being the predominant viruses in Pleistocene permafrost. The viruses were predicted to carry auxiliary metabolic genes potentially involved in cold adaptation and elemental (C and N) biogeochemical cycling in ancient permafrost. The virus-host prediction revealed that microorganisms such as bacteria and archaea are the main hosts and only a few eukaryotic hosts were identified.\n\n\nCONCLUSIONS\nOur results show that permafrost viral communities in Siberia exhibit remarkable diversity and may have played a significant ecological role in ancient permafrost over geological time. While the release of viruses from thawing deep permafrost could pose a relatively small risk to human health and environment, it could have significant impacts on the carbon cycle, potentially influencing climate change feedback in permafrost regions.",
+      "abstract": "Ancient permafrost, formed during past glacial periods, is widespread in Siberia and other Arctic regions. Even though these soils have remained below 0 °C over geological time periods, the widespread presence of bacteria and archaea in permafrost is well documented. However, the diversity of viruses in ancient permafrost of different geological ages and their potential ecological roles are still poorly understood. We applied metagenomics to characterize viruses from Middle to Late Pleistocene permafrost sediments from Siberia. A total of 2697 viral operational taxonomic units (vOTUs) were recovered through metagenomic assembly and virus identification. Viral diversity in the Middle Pleistocene permafrost was much higher than that in the Late Pleistocene. The virus communities at different depths of the Middle Pleistocene permafrost showed great similarity to each other but were significantly different from those of the Late Pleistocene, with Azeredovirinae, Peduoviridae, and Fiersviridae being the predominant viruses in Pleistocene permafrost. The viruses were predicted to carry auxiliary metabolic genes potentially involved in cold adaptation and elemental (C and N) biogeochemical cycling in ancient permafrost. The virus-host prediction revealed that microorganisms such as bacteria and archaea are the main hosts and only a few eukaryotic hosts were identified. Our results show that permafrost viral communities in Siberia exhibit remarkable diversity and may have played a significant ecological role in ancient permafrost over geological time. While the release of viruses from thawing deep permafrost could pose a relatively small risk to human health and environment, it could have significant impacts on the carbon cycle, potentially influencing climate change feedback in permafrost regions.",
       "url": "https://www.semanticscholar.org/paper/576127ca9255de18a30762d503abcdc549b0b737",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/576127ca9255de18a30762d503abcdc549b0b737",
       "pdf_url": "https://doi.org/10.1186/s12915-026-02685-6",
@@ -2037,7 +2037,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
+      "detail_enriched_at": "2026-10-13T02:36:35.059342+00:00",
       "edges_enriched_at": "2026-09-12T23:04:19.206836+00:00"
     },
     {
@@ -4661,7 +4661,7 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
+      "detail_enriched_at": "2026-10-13T02:36:35.059342+00:00",
       "edges_enriched_at": "2026-09-13T23:12:52.250242+00:00"
     },
     {
@@ -5206,7 +5206,7 @@
       "url": "https://www.semanticscholar.org/paper/bbc947f427a96e1de4e115c01088fd8c0a8ff334",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bbc947f427a96e1de4e115c01088fd8c0a8ff334",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 101,
       "references": [],
@@ -5755,7 +5755,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-12T23:04:18.259695+00:00",
+      "detail_enriched_at": "2026-10-13T02:36:35.059342+00:00",
       "edges_enriched_at": "2026-09-13T23:12:52.250242+00:00"
     },
     {
@@ -11174,7 +11174,7 @@
       "url": "https://www.semanticscholar.org/paper/e75a5dbe6d512664c1a213b31087030e52f3cbdd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e75a5dbe6d512664c1a213b31087030e52f3cbdd",
       "pdf_url": "https://resolver.sub.uni-goettingen.de/purl?gro-2/150477",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 70,
       "references": [],
@@ -14454,7 +14454,7 @@
         "Zhichao Zhou",
         "Patricia Q. Tran",
         "Cody Martin",
-        "Robin R. Rohwer",
+        "R. Rohwer",
         "Brett J. Baker",
         "Katherine D. McMahon",
         "Karthik Anantharaman"
@@ -16765,7 +16765,7 @@
       "url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
       "pdf_url": "",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 69,
       "references": [
@@ -19816,121 +19816,6 @@
       "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
     },
     {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chao-Nan Li",
-        "Hai-Jun Liao",
-        "Lin Xu",
-        "Chang-Ting Wang",
-        "Min-Jie Yao",
-        "Jun-Ming Wang",
-        "Xiang-Zhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 75,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "f9c115ac61bf1c4c7599a5331937112727faf67c",
-          "title": "Sequential evolution drives range expansion of Chinese caterpillar fungus across the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "Cladistics",
-          "authors": [
-            "Wei Deng",
-            "Yong-Jie Zhang",
-            "Tongyao Liu"
-          ],
-          "doi": "10.1111/cla.70064",
-          "url": "https://www.semanticscholar.org/paper/f9c115ac61bf1c4c7599a5331937112727faf67c",
-          "citation_count": 0
-        },
-        {
-          "id": "5914061fb9a0737acf8006010f868f414164beeb",
-          "title": "Comparative genomics of the\n Smithellaceae\n : reductive evolution and a mobile alkane-activation module in\n Smithella",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Boonfei Tan",
-            "Christian Zafra",
-            "C. Ng"
-          ],
-          "doi": "10.1093/ismeco/ycag275",
-          "url": "https://www.semanticscholar.org/paper/5914061fb9a0737acf8006010f868f414164beeb",
-          "citation_count": 0
-        },
-        {
-          "id": "f6aca3eb88dd43e4d5ec091676b710ed37510778",
-          "title": "Genome-Resolved Metagenomics Reveals Dominant Enrichment and Metabolic Adaptations of Thauera sp. in Activated Sludge under Carbon Limitation.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Jia-Wei Yuan",
-            "Yirui Suo",
-            "Da Kang"
-          ],
-          "doi": "10.1021/acs.est.6c01742",
-          "url": "https://www.semanticscholar.org/paper/f6aca3eb88dd43e4d5ec091676b710ed37510778",
-          "citation_count": 0
-        },
-        {
-          "id": "1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
-          "title": "Genome-resolved metagenomics reveals lineage-specific phylogenomic and functional differentiation among carbon-processing bacteria from mangrove and terrestrial forests.",
-          "year": 2026,
-          "journal": "Microbiology Research",
-          "authors": [
-            "Mayukhmita Ghose",
-            "A. Parab",
-            "Soham Naik"
-          ],
-          "doi": "10.1016/j.micres.2026.128737",
-          "url": "https://www.semanticscholar.org/paper/1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
-          "citation_count": 0
-        },
-        {
-          "id": "0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
-          "title": "Genome-resolved metagenomics reveals rare taxa and functional traits in two contrasting agricultural fields",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Ioanna Chatzigiannidou",
-            "Tanvi Taparia",
-            "P. L. Johansen"
-          ],
-          "doi": "10.1093/ismeco/ycag268",
-          "url": "https://www.semanticscholar.org/paper/0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
-      "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
-    },
-    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -20094,6 +19979,121 @@
       "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
     },
     {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chao-Nan Li",
+        "Hai-Jun Liao",
+        "Lin Xu",
+        "Chang-Ting Wang",
+        "Min-Jie Yao",
+        "Jun-Ming Wang",
+        "Xiang-Zhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 75,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "f9c115ac61bf1c4c7599a5331937112727faf67c",
+          "title": "Sequential evolution drives range expansion of Chinese caterpillar fungus across the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "Cladistics",
+          "authors": [
+            "Wei Deng",
+            "Yong-Jie Zhang",
+            "Tongyao Liu"
+          ],
+          "doi": "10.1111/cla.70064",
+          "url": "https://www.semanticscholar.org/paper/f9c115ac61bf1c4c7599a5331937112727faf67c",
+          "citation_count": 0
+        },
+        {
+          "id": "5914061fb9a0737acf8006010f868f414164beeb",
+          "title": "Comparative genomics of the\n Smithellaceae\n : reductive evolution and a mobile alkane-activation module in\n Smithella",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Boonfei Tan",
+            "Christian Zafra",
+            "C. Ng"
+          ],
+          "doi": "10.1093/ismeco/ycag275",
+          "url": "https://www.semanticscholar.org/paper/5914061fb9a0737acf8006010f868f414164beeb",
+          "citation_count": 0
+        },
+        {
+          "id": "f6aca3eb88dd43e4d5ec091676b710ed37510778",
+          "title": "Genome-Resolved Metagenomics Reveals Dominant Enrichment and Metabolic Adaptations of Thauera sp. in Activated Sludge under Carbon Limitation.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Jia-Wei Yuan",
+            "Yirui Suo",
+            "Da Kang"
+          ],
+          "doi": "10.1021/acs.est.6c01742",
+          "url": "https://www.semanticscholar.org/paper/f6aca3eb88dd43e4d5ec091676b710ed37510778",
+          "citation_count": 0
+        },
+        {
+          "id": "1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
+          "title": "Genome-resolved metagenomics reveals lineage-specific phylogenomic and functional differentiation among carbon-processing bacteria from mangrove and terrestrial forests.",
+          "year": 2026,
+          "journal": "Microbiology Research",
+          "authors": [
+            "Mayukhmita Ghose",
+            "A. Parab",
+            "Soham Naik"
+          ],
+          "doi": "10.1016/j.micres.2026.128737",
+          "url": "https://www.semanticscholar.org/paper/1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
+          "citation_count": 0
+        },
+        {
+          "id": "0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
+          "title": "Genome-resolved metagenomics reveals rare taxa and functional traits in two contrasting agricultural fields",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Ioanna Chatzigiannidou",
+            "Tanvi Taparia",
+            "P. L. Johansen"
+          ],
+          "doi": "10.1093/ismeco/ycag268",
+          "url": "https://www.semanticscholar.org/paper/0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
+      "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
+    },
+    {
       "id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "source": "Semantic Scholar",
@@ -20114,7 +20114,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://doi.org/10.1038/s41467-024-46109-x",
-      "citation_count": 47,
+      "citation_count": 48,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -20427,7 +20427,7 @@
         "Zhichao Zhou",
         "Patricia Q. Tran",
         "Cody Martin",
-        "Robin R. Rohwer",
+        "R. Rohwer",
         "Brett J. Baker",
         "Katherine D. McMahon",
         "Karthik Anantharaman"
@@ -21320,7 +21320,7 @@
       "abstract": "Bacteriophages, or phages, are viruses that infect and replicate within bacterial hosts, playing a significant role in regulating microbial populations and ecosystem dynamics. However, phages from extreme environments such as polar regions remain relatively understudied due to challenges such as restricted ecosystem access and low biomass. Understanding the diversity, structure, and functions of polar phages is crucial for advancing our knowledge of the microbial ecology and biogeochemistry of these environments. In this review, we will explore the current state of knowledge on phages from the Arctic and Antarctic, focusing on insights gained from -omic studies, phage isolation, and virus-like particle abundance data. Metagenomic studies of polar environments have revealed a high diversity of phages with unique genetic characteristics, providing insights into their evolutionary and ecological roles. Phage isolation studies have identified novel phage-host interactions and contributed to the discovery of new phage species. Virus-like particle abundance and lysis rate data, on the other hand, have highlighted the importance of phages in regulating bacterial populations and nutrient cycling in polar environments. Overall, this review aims to provide a comprehensive overview of the current state of knowledge about polar phages, and by synthesizing these different sources of information, we can better understand the diversity, dynamics, and functions of polar phages in the context of ongoing climate change, which will help to predict how polar ecosystems and residing phages may respond to future environmental perturbations.",
       "url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6a48edd3a428d70634666d18ad2f8e575a22be60",
-      "pdf_url": "https://doi.org/10.1007/978-1-0716-3549-0_3",
+      "pdf_url": "https://ecoevorxiv.org/repository/object/5436/download/12203/",
       "citation_count": 17,
       "influential_citation_count": 1,
       "reference_count": 0,
@@ -22771,7 +22771,7 @@
       "url": "https://www.semanticscholar.org/paper/5518a7a6bc1c0d330325dc3a873353ed79978eac",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5518a7a6bc1c0d330325dc3a873353ed79978eac",
       "pdf_url": "",
-      "citation_count": 28,
+      "citation_count": 29,
       "influential_citation_count": 3,
       "reference_count": 75,
       "references": [],
@@ -25403,7 +25403,7 @@
       "url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/312b095349e0550c257a4beb49245fdea349d6b0",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-023-01666-z",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 3,
       "reference_count": 116,
       "references": [
@@ -25686,7 +25686,7 @@
       "abstract": "Viruses are ubiquitous in the gut of animals and play an important role in the ecology of the gut microbiome. The potential effects of these substances on the growth and development of the body are not fully known. Little is known about the effects of breeding environment on pig gut virome. Here, there are 3584 viral operational taxonomic units (vOTUs) longer than 5 kb identified by virus-enriched metagenome sequencing from 25 pig fecal samples. Only a small minority of vOTUs (11.16%) can be classified at the family level, and ∼50% of the genes could be annotated, supporting the concept of pig gut as reservoirs of substantial undescribed viral genetic diversity. The composition of pig gut virome in the six regions may be related to geography. There are only 20 viral clusters (VCs) shared among pig gut virome in six regions of Shanxi Province. These viruses rarely carry antibiotic resistance genes (ARGs). At the same time, they possess abundant auxiliary metabolic genes (AMGs) potentially involved in carbon, sulfur metabolism and cofactor biosynthesis, etc. This study has revealed the unique characteristics and potential function of pig gut DNA virome and established a foundation for the recognition of the viral roles in gut environment.",
       "url": "https://www.semanticscholar.org/paper/832364d3e1d78e4c58b586cdf4da97f2c687d920",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/832364d3e1d78e4c58b586cdf4da97f2c687d920",
-      "pdf_url": "http://www.cell.com/article/S2405844023012276/pdf",
+      "pdf_url": "https://doi.org/10.1016/j.heliyon.2023.e14020",
       "citation_count": 6,
       "influential_citation_count": 2,
       "reference_count": 99,
@@ -26201,7 +26201,7 @@
       "url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "pdf_url": "https://doi.org/10.1128/mbio.03009-22",
-      "citation_count": 45,
+      "citation_count": 47,
       "influential_citation_count": 2,
       "reference_count": 104,
       "references": [
@@ -27068,7 +27068,7 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
-      "citation_count": 61,
+      "citation_count": 62,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -27350,7 +27350,7 @@
       "url": "https://www.semanticscholar.org/paper/1dcaf3925c456fad5500bac1d113d305a95d2e5c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1dcaf3925c456fad5500bac1d113d305a95d2e5c",
       "pdf_url": "https://doi.org/10.1128/msystems.00582-22",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 77,
       "references": [
@@ -33348,7 +33348,7 @@
       "url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-021-01154-2",
-      "citation_count": 92,
+      "citation_count": 93,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -35456,7 +35456,7 @@
       "abstract": "Background Bacterial consumption of viruses has never yet been reported, even though bacteria feed on almost anything. Viruses are omnipresent predators for all organisms, but have no acknowledged active biocontrol. The viral biomass undoubtedly reintegrates the trophic cycles, however the mechanisms of this phase still remain unknown. Methods Here, we used stable isotope probing with 13C labelled T4 phages to monitor the increase of density of the bacterial DNA concomitant with the decrease of plaque forming units. We used 12C T4 phages as control. Results T4 phage disappearance in wastewater sludge was found to occur mainly through predation by Aeromonadacea. Phage consumption also favours significant in situ bacterial growth. Furthermore, an isolated strain of Aeromonas was observed to grow on T4 phages as sole source of carbon, nitrogen and phosphorus. Conclusions bacterial species are capable of consuming bacteriophages in situ, which is likely a widespread and underestimated type of biocontrol.This assay is anticipated as a starting point for harnessing the bacterial potential in limiting the diffusion of harmful viruses within environments such as gut or water.",
       "url": "https://www.semanticscholar.org/paper/49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
-      "pdf_url": "https://doi.org/10.1101/2021.06.01.446436",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/06/01/2021.06.01.446436.full.pdf",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 29,
@@ -36611,7 +36611,7 @@
       "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
-      "citation_count": 120,
+      "citation_count": 121,
       "influential_citation_count": 7,
       "reference_count": 139,
       "references": [
@@ -37340,7 +37340,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 212,
+      "citation_count": 213,
       "influential_citation_count": 10,
       "reference_count": 91,
       "references": [
@@ -37507,7 +37507,7 @@
       "url": "https://www.semanticscholar.org/paper/bae447e815e6689fd4528e603c1619b9e8e91361",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bae447e815e6689fd4528e603c1619b9e8e91361",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/08/14/2020.08.14.250803.full.pdf",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 103,
       "references": [
@@ -41376,7 +41376,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 548,
+      "citation_count": 549,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
@@ -41550,7 +41550,7 @@
       "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "pdf_url": "https://doi.org/10.1128/msystems.00076-18",
-      "citation_count": 282,
+      "citation_count": 284,
       "influential_citation_count": 4,
       "reference_count": 174,
       "references": [
