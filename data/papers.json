@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:37:04.081499+00:00",
+  "updated_at": "2026-10-14T00:20:43.708133+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1949,17 +1949,17 @@
       ],
       "similar_papers": [
         {
-          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "mSystems",
           "authors": [
-            "Haoran Wang",
-            "Chunhui Ai",
-            "A. Barcan"
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
           ],
-          "doi": "10.64898/2026.07.27.740809",
-          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
           "citation_count": 0
         },
         {
@@ -1977,45 +1977,45 @@
           "citation_count": 0
         },
         {
-          "id": "41e35b107cc061c7168f70a45384a3ed319118de",
-          "title": "Microbial Diversity, Structure and Predicted Carbon-cycling Pathways Show Partial Convergence in Restored and Natural Salt Marshes in Venice Lagoon",
-          "year": 2026,
-          "journal": "Microbial Ecology",
-          "authors": [
-            "Anjali Gopakumar",
-            "M. Billah",
-            "Alessandro Vezzi"
-          ],
-          "doi": "10.1007/s00248-026-02836-w",
-          "url": "https://www.semanticscholar.org/paper/41e35b107cc061c7168f70a45384a3ed319118de",
-          "citation_count": 0
-        },
-        {
-          "id": "841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
-          "title": "Seagrass-derived carbon suppresses nitrification and N2O emissions by Comammox and canonical nitrifier communities",
+          "id": "577a76a94446d3b437961861b89165428dbc741e",
+          "title": "Stage-specific cyanobacterial handoffs and heterotrophic subsidies underpin biocrust carbon accumulation",
           "year": 2026,
           "journal": "ISME Communications",
           "authors": [
-            "Ruilin Su",
-            "P. Chan",
-            "Xiaodong Zhang"
+            "Xian Zhang",
+            "Hua Li",
+            "Ying-Chun Han"
           ],
-          "doi": "10.1093/ismeco/ycag220",
-          "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
+          "doi": "10.1093/ismeco/ycag254",
+          "url": "https://www.semanticscholar.org/paper/577a76a94446d3b437961861b89165428dbc741e",
           "citation_count": 0
         },
         {
-          "id": "b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
-          "title": "Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential",
+          "id": "3129b21282d0d5df6242fbad2c51741d7217047e",
+          "title": "Virus-host interactions in iron-oxidizing mats of the East Pacific Rise",
+          "year": 2026,
+          "journal": "PLoS ONE",
+          "authors": [
+            "Kathryn L. Campbell",
+            "J. Sylvan",
+            "C. Moyer"
+          ],
+          "doi": "10.1371/journal.pone.0357099",
+          "url": "https://www.semanticscholar.org/paper/3129b21282d0d5df6242fbad2c51741d7217047e",
+          "citation_count": 0
+        },
+        {
+          "id": "2616b9d5754d0ae4781391518c54ca06f78da556",
+          "title": "Geothermal gradients restructure metabolism in hot spring microbial communities",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "L. Ustick",
-            "H. Roš",
-            "Shahriyar Mahdi Robbani"
+            "Dan-Li Luo",
+            "Christaline George",
+            "Patrick K. H. Lee"
           ],
-          "doi": "10.64898/2026.07.27.741065",
-          "url": "https://www.semanticscholar.org/paper/b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
+          "doi": "10.64898/2026.09.13.751272",
+          "url": "https://www.semanticscholar.org/paper/2616b9d5754d0ae4781391518c54ca06f78da556",
           "citation_count": 0
         }
       ],
@@ -2038,7 +2038,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-10-13T02:36:35.059342+00:00",
-      "edges_enriched_at": "2026-09-12T23:04:19.206836+00:00"
+      "edges_enriched_at": "2026-10-14T00:20:27.114951+00:00"
     },
     {
       "id": "6e51a3ca3adc065f382a92cb37f3d0c9307bdde8",
@@ -4579,73 +4579,73 @@
       ],
       "similar_papers": [
         {
-          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
-          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
+          "id": "4cbd51d7062807d00b02df82f1ddc0fb2a64793d",
+          "title": "Soil amelioration impacts viral ecology in saline-alkali lands",
           "year": 2026,
-          "journal": "Nature Communications",
+          "journal": "The ISME Journal",
           "authors": [
-            "Hanpeng Liao",
-            "C. Ai",
-            "Chen Liu"
+            "Junxi Liu",
+            "Gui-Xiang Zhou",
+            "Lin Chen"
           ],
-          "doi": "10.1038/s41467-026-75907-8",
-          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
+          "doi": "10.1093/ismejo/wrag217",
+          "url": "https://www.semanticscholar.org/paper/4cbd51d7062807d00b02df82f1ddc0fb2a64793d",
           "citation_count": 0
         },
         {
-          "id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
-          "title": "Ecosystem retrogression enhances cross‐domain microbial stability and increases the genetic potential for nutrient cycling",
+          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism",
           "year": 2026,
-          "journal": "mLife",
+          "journal": "The ISME Journal",
           "authors": [
-            "J. Ceja-Navarro",
-            "Dishant Patel",
-            "Garret Genco"
+            "Zi-Teng Liu",
+            "Xin-Di Zhao",
+            "Jia-qi Li"
           ],
-          "doi": "10.1002/mlf2.70087",
-          "url": "https://www.semanticscholar.org/paper/4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
+          "doi": "10.1093/ismejo/wrag212",
+          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
           "citation_count": 0
         },
         {
-          "id": "d770c0a2d6b58aef842c90280a5faca89627f1c6",
-          "title": "Preparation method shapes the recovery and ecological interpretation of DNA and RNA soil viral communities",
+          "id": "d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
+          "title": "Metagenomic Insights into Microbial Functional Potential Associated with Soil Carbon, Nitrogen, and Phosphorus Cycling Along an Elevational Gradient in a Warm-Temperate Forest",
           "year": 2026,
-          "journal": "Nature Communications",
+          "journal": "Microorganisms",
           "authors": [
-            "J. Rodríguez-Ramos",
-            "A. Zimmerman",
-            "Ruonan Wu"
+            "Jing-Jing Wang",
+            "Si-Yuan Huangfu",
+            "Ruo-Chen Li"
           ],
-          "doi": "10.1038/s41467-026-74154-1",
-          "url": "https://www.semanticscholar.org/paper/d770c0a2d6b58aef842c90280a5faca89627f1c6",
+          "doi": "10.3390/microorganisms14092015",
+          "url": "https://www.semanticscholar.org/paper/d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
           "citation_count": 0
         },
         {
-          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
-          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
+          "id": "c3874a97ff912a90e9fe104c94b8da27a6acab40",
+          "title": "Microbial community structure and nitrogen-cycling functional potential in two contrasting paddy fields",
           "year": 2026,
-          "journal": "Journal of Animal Science and Biotechnology",
+          "journal": "Plant and Soil",
           "authors": [
-            "Wei Guo",
-            "Yin-Shu Yu",
-            "Wei-Wei Wang"
+            "Ye-Qing He",
+            "Guan-Di He",
+            "Zhuo-Yan Zhong"
           ],
-          "doi": "10.1186/s40104-026-01487-8",
-          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
+          "doi": "10.1007/s11104-026-08991-w",
+          "url": "https://www.semanticscholar.org/paper/c3874a97ff912a90e9fe104c94b8da27a6acab40",
           "citation_count": 0
         },
         {
-          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
-          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
+          "id": "b6e66ae47dff6d0c6c5b6b56e885041a7ce248ac",
+          "title": "Divergent group-specific pathways of microbial diversity and network complexity maintain soil multifunctionality during alpine grassland restoration",
           "year": 2026,
-          "journal": "iScience",
+          "journal": "Frontiers in Plant Science",
           "authors": [
-            "Chao-Jian Hu",
-            "Muhammad Asif",
-            "Jin-Hui Liu"
+            "Chenfeng Zheng",
+            "Mo Chen",
+            "Keyi Li"
           ],
-          "doi": "10.1016/j.isci.2026.117172",
-          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
+          "doi": "10.3389/fpls.2026.1923179",
+          "url": "https://www.semanticscholar.org/paper/b6e66ae47dff6d0c6c5b6b56e885041a7ce248ac",
           "citation_count": 0
         }
       ],
@@ -4662,7 +4662,7 @@
         "virus"
       ],
       "detail_enriched_at": "2026-10-13T02:36:35.059342+00:00",
-      "edges_enriched_at": "2026-09-13T23:12:52.250242+00:00"
+      "edges_enriched_at": "2026-10-14T00:20:27.114951+00:00"
     },
     {
       "id": "fc192390499ad7e6c6111d703eaf0739ab23a6e5",
@@ -4855,7 +4855,7 @@
       "url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "pdf_url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -5668,73 +5668,73 @@
       ],
       "similar_papers": [
         {
-          "id": "e56acf188ee75c120024f9613a55d0162552a50a",
-          "title": "Citywide metagenomics reveals microbial community and resistome dynamics in urban wastewater",
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
+          ],
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "citation_count": 0
+        },
+        {
+          "id": "5c2c6d6694e70583dc728084d275575be35acd3e",
+          "title": "Wastewater treatment plant as a stable contributor affecting coastal ocean water viral communities",
+          "year": 2026,
+          "journal": "mLife",
+          "authors": [
+            "Qiji Zhang",
+            "Zhan-Wen Cheng",
+            "Xiaotong Tang"
+          ],
+          "doi": "10.1002/mlf2.70098",
+          "url": "https://www.semanticscholar.org/paper/5c2c6d6694e70583dc728084d275575be35acd3e",
+          "citation_count": 0
+        },
+        {
+          "id": "f985d7771d778cb10823a56178ec9c1013e0b8e3",
+          "title": "Divergent microbial functional pathways and declining redundancy in lake sediments across eutrophication gradients",
           "year": 2026,
           "journal": "Nature Communications",
           "authors": [
-            "Zhi-Ying Xu",
-            "Jiabao Xing",
-            "Xiaohong Zeng"
+            "J. Pearman",
+            "Jack Sissons",
+            "Joseph Kanyi Kihika"
           ],
-          "doi": "10.1038/s41467-026-75771-6",
-          "url": "https://www.semanticscholar.org/paper/e56acf188ee75c120024f9613a55d0162552a50a",
+          "doi": "10.1038/s41467-026-77595-w",
+          "url": "https://www.semanticscholar.org/paper/f985d7771d778cb10823a56178ec9c1013e0b8e3",
           "citation_count": 0
         },
         {
-          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "id": "4ec4cf03c7effb9d68e3a879430d9d84c16407b6",
+          "title": "Depth‐dependent metabolic stratification identifies the oxic deep chlorophyll maximum as a global biogeochemical hotspot",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Limnology and Oceanography",
           "authors": [
-            "Haoran Wang",
-            "Chunhui Ai",
-            "A. Barcan"
+            "Satheeswaran Thangaraj",
+            "David A. Hutchins",
+            "Jun Sun"
           ],
-          "doi": "10.64898/2026.07.27.740809",
-          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "doi": "10.1002/lno.70501",
+          "url": "https://www.semanticscholar.org/paper/4ec4cf03c7effb9d68e3a879430d9d84c16407b6",
           "citation_count": 0
         },
         {
-          "id": "9a05ada8712cb294be9719b1e0caa7066dbe324b",
-          "title": "Sediment Bacteria and Driving Factors in Intertidal Flats and Vegetated Zones of Mangrove Ecosystems in the Northern Beibu Gulf During Summer",
+          "id": "22f96bfb6b3fa8a55214c7b1ee65d64eca255d86",
+          "title": "Double-edged sword of FeS oxidation in estuarine and coastal sediments: accelerating elemental cycling yet enhancing antibiotic resistance enrichment",
           "year": 2026,
-          "journal": "Water",
+          "journal": "Applied and Environmental Microbiology",
           "authors": [
-            "Jiaodi Zhou",
-            "Peng He",
-            "Zhijun Dai"
+            "Wei Qiu",
+            "Xiu-Feng Tang",
+            "Bo-Shuang Wu"
           ],
-          "doi": "10.3390/w18141762",
-          "url": "https://www.semanticscholar.org/paper/9a05ada8712cb294be9719b1e0caa7066dbe324b",
-          "citation_count": 0
-        },
-        {
-          "id": "77dc7ef664cb309c4254e5d6029c8291bf74f7e1",
-          "title": "Insights into the assembly mechanisms, co-occurrence patterns, and functional roles of bacterial community in an estuary system",
-          "year": 2026,
-          "journal": "Microbiology spectrum",
-          "authors": [
-            "Yong-Jie Wu",
-            "Yang Zhang",
-            "Zhi-Wen Luo"
-          ],
-          "doi": "10.1128/spectrum.02249-25",
-          "url": "https://www.semanticscholar.org/paper/77dc7ef664cb309c4254e5d6029c8291bf74f7e1",
-          "citation_count": 0
-        },
-        {
-          "id": "481a504b6053868bfc4840cd91731e2b862bb07c",
-          "title": "The microbial community composition and potential for carbon sequestration differences among mudflats with and without biofilm colonization",
-          "year": 2026,
-          "journal": "Biofilm",
-          "authors": [
-            "Yun-han Fu",
-            "Kuo-Jian Ma",
-            "Yong-Lian Ye"
-          ],
-          "doi": "10.1016/j.bioflm.2026.100390",
-          "url": "https://www.semanticscholar.org/paper/481a504b6053868bfc4840cd91731e2b862bb07c",
+          "doi": "10.1128/aem.01525-26",
+          "url": "https://www.semanticscholar.org/paper/22f96bfb6b3fa8a55214c7b1ee65d64eca255d86",
           "citation_count": 0
         }
       ],
@@ -5756,7 +5756,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-10-13T02:36:35.059342+00:00",
-      "edges_enriched_at": "2026-09-13T23:12:52.250242+00:00"
+      "edges_enriched_at": "2026-10-14T00:20:27.114951+00:00"
     },
     {
       "id": "2c372b9c4ed597360cfc15360554c6b6fd150880",
@@ -12668,7 +12668,7 @@
         "Qiu-Mei Ling",
         "Tian-Gang Tang",
         "Pei-Lei Hu",
-        "Pengpeng Duan",
+        "Peng-Peng Duan",
         "Qian Zhang",
         "Jun Xiao",
         "Jie Zhao",
@@ -19816,6 +19816,121 @@
       "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
     },
     {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chao-Nan Li",
+        "Hai-Jun Liao",
+        "Lin Xu",
+        "Chang-Ting Wang",
+        "Min-Jie Yao",
+        "Jun-Ming Wang",
+        "Xiang-Zhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 75,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "f9c115ac61bf1c4c7599a5331937112727faf67c",
+          "title": "Sequential evolution drives range expansion of Chinese caterpillar fungus across the Qinghai-Tibet Plateau.",
+          "year": 2026,
+          "journal": "Cladistics",
+          "authors": [
+            "Wei Deng",
+            "Yong-Jie Zhang",
+            "Tongyao Liu"
+          ],
+          "doi": "10.1111/cla.70064",
+          "url": "https://www.semanticscholar.org/paper/f9c115ac61bf1c4c7599a5331937112727faf67c",
+          "citation_count": 0
+        },
+        {
+          "id": "5914061fb9a0737acf8006010f868f414164beeb",
+          "title": "Comparative genomics of the\n Smithellaceae\n : reductive evolution and a mobile alkane-activation module in\n Smithella",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Boonfei Tan",
+            "Christian Zafra",
+            "C. Ng"
+          ],
+          "doi": "10.1093/ismeco/ycag275",
+          "url": "https://www.semanticscholar.org/paper/5914061fb9a0737acf8006010f868f414164beeb",
+          "citation_count": 0
+        },
+        {
+          "id": "f6aca3eb88dd43e4d5ec091676b710ed37510778",
+          "title": "Genome-Resolved Metagenomics Reveals Dominant Enrichment and Metabolic Adaptations of Thauera sp. in Activated Sludge under Carbon Limitation.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Jia-Wei Yuan",
+            "Yirui Suo",
+            "Da Kang"
+          ],
+          "doi": "10.1021/acs.est.6c01742",
+          "url": "https://www.semanticscholar.org/paper/f6aca3eb88dd43e4d5ec091676b710ed37510778",
+          "citation_count": 0
+        },
+        {
+          "id": "1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
+          "title": "Genome-resolved metagenomics reveals lineage-specific phylogenomic and functional differentiation among carbon-processing bacteria from mangrove and terrestrial forests.",
+          "year": 2026,
+          "journal": "Microbiology Research",
+          "authors": [
+            "Mayukhmita Ghose",
+            "A. Parab",
+            "Soham Naik"
+          ],
+          "doi": "10.1016/j.micres.2026.128737",
+          "url": "https://www.semanticscholar.org/paper/1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
+          "citation_count": 0
+        },
+        {
+          "id": "0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
+          "title": "Genome-resolved metagenomics reveals rare taxa and functional traits in two contrasting agricultural fields",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Ioanna Chatzigiannidou",
+            "Tanvi Taparia",
+            "P. L. Johansen"
+          ],
+          "doi": "10.1093/ismeco/ycag268",
+          "url": "https://www.semanticscholar.org/paper/0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
+      "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
+    },
+    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -19974,121 +20089,6 @@
         "phosphorus",
         "virus",
         "water"
-      ],
-      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
-      "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
-    },
-    {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chao-Nan Li",
-        "Hai-Jun Liao",
-        "Lin Xu",
-        "Chang-Ting Wang",
-        "Min-Jie Yao",
-        "Jun-Ming Wang",
-        "Xiang-Zhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 75,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "f9c115ac61bf1c4c7599a5331937112727faf67c",
-          "title": "Sequential evolution drives range expansion of Chinese caterpillar fungus across the Qinghai-Tibet Plateau.",
-          "year": 2026,
-          "journal": "Cladistics",
-          "authors": [
-            "Wei Deng",
-            "Yong-Jie Zhang",
-            "Tongyao Liu"
-          ],
-          "doi": "10.1111/cla.70064",
-          "url": "https://www.semanticscholar.org/paper/f9c115ac61bf1c4c7599a5331937112727faf67c",
-          "citation_count": 0
-        },
-        {
-          "id": "5914061fb9a0737acf8006010f868f414164beeb",
-          "title": "Comparative genomics of the\n Smithellaceae\n : reductive evolution and a mobile alkane-activation module in\n Smithella",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Boonfei Tan",
-            "Christian Zafra",
-            "C. Ng"
-          ],
-          "doi": "10.1093/ismeco/ycag275",
-          "url": "https://www.semanticscholar.org/paper/5914061fb9a0737acf8006010f868f414164beeb",
-          "citation_count": 0
-        },
-        {
-          "id": "f6aca3eb88dd43e4d5ec091676b710ed37510778",
-          "title": "Genome-Resolved Metagenomics Reveals Dominant Enrichment and Metabolic Adaptations of Thauera sp. in Activated Sludge under Carbon Limitation.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Jia-Wei Yuan",
-            "Yirui Suo",
-            "Da Kang"
-          ],
-          "doi": "10.1021/acs.est.6c01742",
-          "url": "https://www.semanticscholar.org/paper/f6aca3eb88dd43e4d5ec091676b710ed37510778",
-          "citation_count": 0
-        },
-        {
-          "id": "1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
-          "title": "Genome-resolved metagenomics reveals lineage-specific phylogenomic and functional differentiation among carbon-processing bacteria from mangrove and terrestrial forests.",
-          "year": 2026,
-          "journal": "Microbiology Research",
-          "authors": [
-            "Mayukhmita Ghose",
-            "A. Parab",
-            "Soham Naik"
-          ],
-          "doi": "10.1016/j.micres.2026.128737",
-          "url": "https://www.semanticscholar.org/paper/1c3ee2282d5103fdc321aedf9cd92396fafb38bd",
-          "citation_count": 0
-        },
-        {
-          "id": "0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
-          "title": "Genome-resolved metagenomics reveals rare taxa and functional traits in two contrasting agricultural fields",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Ioanna Chatzigiannidou",
-            "Tanvi Taparia",
-            "P. L. Johansen"
-          ],
-          "doi": "10.1093/ismeco/ycag268",
-          "url": "https://www.semanticscholar.org/paper/0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
       ],
       "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
       "edges_enriched_at": "2026-10-02T00:50:49.951687+00:00"
@@ -40972,7 +40972,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "http://sro.sussex.ac.uk/id/eprint/80613/3/18TL4101_Lancet%20Countdown_final_embargoed.pdf",
-      "citation_count": 775,
+      "citation_count": 776,
       "influential_citation_count": 23,
       "reference_count": 122,
       "references": [
@@ -41550,7 +41550,7 @@
       "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "pdf_url": "https://doi.org/10.1128/msystems.00076-18",
-      "citation_count": 284,
+      "citation_count": 285,
       "influential_citation_count": 4,
       "reference_count": 174,
       "references": [
