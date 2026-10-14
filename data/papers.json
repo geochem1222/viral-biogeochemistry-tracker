@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T00:20:43.708133+00:00",
+  "updated_at": "2026-10-14T23:57:50.816407+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -7161,7 +7161,7 @@
         "Xu Wang",
         "Shengjun Xu",
         "A. Shah",
-        "Xuliang Zhuang"
+        "Xu-Liang Zhuang"
       ],
       "journal": "npj Clean Water",
       "publication_date": "2025-12-24",
@@ -10389,7 +10389,7 @@
       "doi": "10.1073/pnas.2503199122",
       "title": "Ciprofloxacin-driven purifying selection on viral genomes accelerates soil N2O production",
       "authors": [
-        "Linfa Fang",
+        "Lin-Fa Fang",
         "Prakash Lakshmanan",
         "Hai-Lin Zhang",
         "Yue Deng",
@@ -10409,7 +10409,7 @@
       "url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "pdf_url": "https://doi.org/10.1073/pnas.2503199122",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [
@@ -11896,7 +11896,7 @@
       "url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/65d85aa951163dfc8342d5694d09ba0c4a9afee5",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202506449",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 1,
       "reference_count": 75,
       "references": [
@@ -15752,7 +15752,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202407223",
-      "citation_count": 27,
+      "citation_count": 29,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -21327,72 +21327,71 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "53e298896848debea2a04ac5e65c060f3b640566",
-          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
+          "id": "4d6b69f2f268974e61c8addb086aa15c9e18bfe7",
+          "title": "Analysis of bacteriophage diversity in Ganga river ecosystem: insights from metagenome-based sequencing.",
           "year": 2026,
-          "journal": "Water Science &amp; Technology",
+          "journal": "International Microbiology",
           "authors": [
-            "S. Al-maaqar",
-            "Wael A. Alsubhi",
-            "Zakia F. Albalawy"
+            "Annapurna Katara",
+            "Sumit Chand",
+            "Vijeta Chaudhry"
           ],
-          "doi": "10.2166/wst.2026.332",
-          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
+          "doi": "10.1007/s10123-026-00901-5",
+          "url": "https://www.semanticscholar.org/paper/4d6b69f2f268974e61c8addb086aa15c9e18bfe7",
           "citation_count": 0
         },
         {
-          "id": "a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
-          "title": "crAssphage: the sentinel of phages carrying antimicrobial resistance genes in water systems",
+          "id": "d5c6c55380f3a6d6e74adbdfad2e54e1c5a67859",
+          "title": "Scaling Phage-Bacteria Interaction Contexts: From Pairwise Mechanisms to Community Dynamics.",
           "year": 2026,
-          "journal": "Frontiers in Water",
+          "journal": "Annual Review of Virology",
           "authors": [
-            "C. García-Aljaro",
-            "Sara Morales-Cortés",
-            "Maite Muniesa"
+            "Hemaa Selvakumar",
+            "Sarshad Koderi Valappil",
+            "Denish Piya"
           ],
-          "doi": "10.3389/frwa.2026.1912033",
-          "url": "https://www.semanticscholar.org/paper/a33db29dc74afae2a02b4f5d8b71c2723314ecbc",
+          "doi": "10.1146/annurev-virology-100424-123645",
+          "url": "https://www.semanticscholar.org/paper/d5c6c55380f3a6d6e74adbdfad2e54e1c5a67859",
           "citation_count": 0
         },
         {
-          "id": "f170ebf7fe122009970f293743e043da9bd19fdf",
-          "title": "Capsule-independent bacteriophages reveal unexpected diversity of Salmonella Typhi phage ecology",
+          "id": "d1fc900986755e3fe70668a49a86eaed9a1418c8",
+          "title": "Systematic mapping of bacteriophage gene essentiality with HIDEN-SEQ.",
           "year": 2026,
-          "journal": "medRxiv",
+          "journal": "Nature Microbiology",
           "authors": [
-            "S. Dey",
-            "S. Islam",
-            "A. amin"
+            "Dorentina Humolli",
+            "Damien Piel",
+            "J. Ransome"
           ],
-          "doi": "10.64898/2026.08.19.26360815",
-          "url": "https://www.semanticscholar.org/paper/f170ebf7fe122009970f293743e043da9bd19fdf",
+          "doi": "10.1038/s41564-026-02455-8",
+          "url": "https://www.semanticscholar.org/paper/d1fc900986755e3fe70668a49a86eaed9a1418c8",
+          "citation_count": 1
+        },
+        {
+          "id": "c49ad064feafd3d5a6443d05a566a21e6646544c",
+          "title": "Engineered bacteriophages for bacterial control and detection: From genome design to translation.",
+          "year": 2026,
+          "journal": "Microbiology Research",
+          "authors": [
+            "Jinwoo Kim"
+          ],
+          "doi": "10.1016/j.micres.2026.128754",
+          "url": "https://www.semanticscholar.org/paper/c49ad064feafd3d5a6443d05a566a21e6646544c",
           "citation_count": 0
         },
         {
-          "id": "5b67e4f00f3219eb43ac20d816781644093bd004",
-          "title": "The value of a prophage-borne defense system in phage-phage competition.",
+          "id": "8aa36dcae2d8fe4777a2883a7df6f4fd9af6291a",
+          "title": "Involvement of cross-genus phages in bacterial resistance to chlorine disinfection.",
           "year": 2026,
-          "journal": "PLoS Computational Biology",
+          "journal": "Water Research",
           "authors": [
-            "Y. Meir",
-            "N. Wingreen"
+            "Jia Wang",
+            "Yi-Bo Zhang",
+            "Qi-Yue Meng"
           ],
-          "doi": "10.1371/journal.pcbi.1014739",
-          "url": "https://www.semanticscholar.org/paper/5b67e4f00f3219eb43ac20d816781644093bd004",
-          "citation_count": 0
-        },
-        {
-          "id": "faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
-          "title": "Low-level phage residues in manure are associated with shifts in microbial communities and resistance-related profiles.",
-          "year": 2026,
-          "journal": "Environment International",
-          "authors": [
-            "Youshun Jin",
-            "Yan-Yan Wang",
-            "Hafiz Muhammad Hamza Rasool"
-          ],
-          "doi": "10.1016/j.envint.2026.110466",
-          "url": "https://www.semanticscholar.org/paper/faef1a9e5172d0d5d3c5b36961b00d7e8f0ddb08",
+          "doi": "10.1016/j.watres.2026.126886",
+          "url": "https://www.semanticscholar.org/paper/8aa36dcae2d8fe4777a2883a7df6f4fd9af6291a",
           "citation_count": 0
         }
       ],
@@ -21410,8 +21409,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-14T23:53:13.134032+00:00",
-      "edges_enriched_at": "2026-09-14T23:53:13.607519+00:00"
+      "detail_enriched_at": "2026-10-14T23:57:38.947839+00:00",
+      "edges_enriched_at": "2026-10-14T23:57:39.473477+00:00"
     },
     {
       "id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
@@ -41376,7 +41375,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 549,
+      "citation_count": 550,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
@@ -42357,7 +42356,7 @@
       "url": "https://www.semanticscholar.org/paper/15cde31bb3d8f9f00c699766689b0b0cfd1a0bca",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/15cde31bb3d8f9f00c699766689b0b0cfd1a0bca",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0278434316304071/pdf",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 73,
       "references": [
