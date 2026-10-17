@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:38:52.537501+00:00",
+  "updated_at": "2026-10-17T23:09:40.596908+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1408,7 +1408,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
+      "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
       "edges_enriched_at": "2026-09-17T23:35:42.851242+00:00"
     },
     {
@@ -1500,27 +1500,13 @@
           "citation_count": 0
         },
         {
-          "id": "eee8caee4823b58651baac1c94b4ba8288c9bcd7",
-          "title": "Bacterial Communities Associated With Tuber indicum From the Nujiang River Basin, China",
-          "year": 2026,
-          "journal": "Journal of Basic Microbiology",
-          "authors": [
-            "Lingyu Mi",
-            "Wen-Ying Guo",
-            "Guan-Feng Zhang"
-          ],
-          "doi": "10.1002/jobm.70198",
-          "url": "https://www.semanticscholar.org/paper/eee8caee4823b58651baac1c94b4ba8288c9bcd7",
-          "citation_count": 0
-        },
-        {
           "id": "abcfb4624eb3e2a0fd6a0417e3cb496345e432e3",
           "title": "Vegetation-Driven Differentiation of Soil Bacterial and Fungal Diversity: Distinct Edaphic Determinants in Atractylodes japonica Cultivation Systems",
           "year": 2026,
           "journal": "Diversity",
           "authors": [
             "Ze-Hao Gan",
-            "Ruitong Du",
+            "Rui-Tong Du",
             "Zhi-Peng Xu"
           ],
           "doi": "10.3390/d18080498",
@@ -1542,17 +1528,31 @@
           "citation_count": 0
         },
         {
-          "id": "8a0e512bd70b8d34f97e398ea626620b631671f0",
-          "title": "Changes in Bacterial Diversity and Bacterial DNA Load in The Soil Beneath Deadwood of Various Tree Species Following Windthrow in Old-Growth Broadleaved Forests",
+          "id": "ef3a95675e454d5a205dbad18736c002e1be1aa3",
+          "title": "Integrated Adaptive Responses of Rhizosphere Microbial Communities and Functional Genes to Cadmium Stress in Ryegrass (Lolium perenne L.)",
           "year": 2026,
-          "journal": "Molecular Biology",
+          "journal": "Plants",
           "authors": [
-            "D. Savelyev",
-            "P. Shelyakin",
-            "M. Tutukina"
+            "Bing-Jian Cui",
+            "Er-Ping Cui",
+            "Rong-Ze Wu"
           ],
-          "doi": "10.1134/S0026893326700123",
-          "url": "https://www.semanticscholar.org/paper/8a0e512bd70b8d34f97e398ea626620b631671f0",
+          "doi": "10.3390/plants15172634",
+          "url": "https://www.semanticscholar.org/paper/ef3a95675e454d5a205dbad18736c002e1be1aa3",
+          "citation_count": 0
+        },
+        {
+          "id": "2d20bc43547950479f73020d9923491e9752416b",
+          "title": "Root-associated bacterial and fungal communities of the endangered páramo bromeliad Puya goudotiana",
+          "year": 2026,
+          "journal": "PLoS ONE",
+          "authors": [
+            "Nataly Rodríguez-Lugo",
+            "L. H. Patiño",
+            "Tatiana M. Cáceres"
+          ],
+          "doi": "10.1371/journal.pone.0357104",
+          "url": "https://www.semanticscholar.org/paper/2d20bc43547950479f73020d9923491e9752416b",
           "citation_count": 0
         }
       ],
@@ -1570,8 +1570,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
-      "edges_enriched_at": "2026-09-16T23:40:02.130244+00:00"
+      "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
+      "edges_enriched_at": "2026-10-17T23:09:34.413499+00:00"
     },
     {
       "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
@@ -2680,17 +2680,17 @@
       ],
       "similar_papers": [
         {
-          "id": "a28a58630c6984fc444df4fbe61e8d55c2944407",
-          "title": "Genome-resolved biogeography reveals multidimensional structuring of freshwater giant viruses across global deep lakes",
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "mSystems",
           "authors": [
-            "Liwen Zhang",
-            "M. Salcher",
-            "Morimaru Kida"
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
           ],
-          "doi": "10.64898/2026.08.06.743156",
-          "url": "https://www.semanticscholar.org/paper/a28a58630c6984fc444df4fbe61e8d55c2944407",
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
           "citation_count": 0
         },
         {
@@ -2722,31 +2722,31 @@
           "citation_count": 0
         },
         {
-          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "id": "ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
+          "title": "Microbial diversity and nitrogen cycling across oxygen gradients in the eastern tropical Pacific during two La Niña years",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "mSystems",
           "authors": [
-            "Haoran Wang",
-            "Chunhui Ai",
-            "A. Barcan"
+            "Pei-Hang Xu",
+            "D. L. Arévalo-Martínez",
+            "M. Middelboe"
           ],
-          "doi": "10.64898/2026.07.27.740809",
-          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "doi": "10.1128/msystems.00893-26",
+          "url": "https://www.semanticscholar.org/paper/ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
           "citation_count": 0
         },
         {
-          "id": "3129b21282d0d5df6242fbad2c51741d7217047e",
-          "title": "Virus-host interactions in iron-oxidizing mats of the East Pacific Rise",
+          "id": "5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
+          "title": "Unraveling the diversity, function, and virus–host interactions of archaeal proviruses",
           "year": 2026,
-          "journal": "PLoS ONE",
+          "journal": "ISME Communications",
           "authors": [
-            "Kathryn L. Campbell",
-            "J. Sylvan",
-            "C. Moyer"
+            "Yang Zhao",
+            "Peng-Fei Liu",
+            "Lin-Xing Chen"
           ],
-          "doi": "10.1371/journal.pone.0357099",
-          "url": "https://www.semanticscholar.org/paper/3129b21282d0d5df6242fbad2c51741d7217047e",
+          "doi": "10.1093/ismeco/ycag243",
+          "url": "https://www.semanticscholar.org/paper/5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
           "citation_count": 0
         }
       ],
@@ -2767,8 +2767,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-16T23:40:01.297958+00:00",
-      "edges_enriched_at": "2026-09-16T23:40:02.130244+00:00"
+      "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
+      "edges_enriched_at": "2026-10-17T23:09:34.413499+00:00"
     },
     {
       "id": "0f75f234b1cadfedbf9719c86a4e36ceb560d914",
@@ -28165,7 +28165,7 @@
       "authors": [
         "Ruonan Wu",
         "Clyde A. Smith",
-        "G. W. Buchko",
+        "G. Buchko",
         "I. Blaby",
         "D. Páez-Espino",
         "N. Kyrpides",
@@ -32394,7 +32394,7 @@
       "url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "pdf_url": "https://doi.org/10.1128/mbio.02595-21",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 2,
       "reference_count": 92,
       "references": [
@@ -36425,7 +36425,7 @@
       "doi": "10.3390/microorganisms8121980",
       "title": "Exopolymeric Substances Control Microbial Community Structure and Function by Contributing to both C and Fe Nutrition in Fe-Limited Southern Ocean Provinces",
       "authors": [
-        "S. Blanco-Ameijeiras",
+        "Sonia Blanco-Ameijeiras",
         "Damien J. E. Cabanes",
         "Rachel N. Cable",
         "S. Trimborn",
@@ -41375,7 +41375,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 550,
+      "citation_count": 551,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
@@ -44165,7 +44165,7 @@
       "url": "https://www.semanticscholar.org/paper/e80c875523e92e85d3d0ca4a63b14cdb6a7b944b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e80c875523e92e85d3d0ca4a63b14cdb6a7b944b",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.00315/pdf",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 1,
       "reference_count": 61,
       "references": [
@@ -44825,7 +44825,7 @@
       "url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057355&type=printable",
-      "citation_count": 330,
+      "citation_count": 331,
       "influential_citation_count": 24,
       "reference_count": 74,
       "references": [
