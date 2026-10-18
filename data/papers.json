@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:09:40.596908+00:00",
+  "updated_at": "2026-10-18T23:17:04.911491+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1205,76 +1205,125 @@
       "pdf_url": "https://doi.org/10.1186/s12915-026-02685-6",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
+      "reference_count": 95,
+      "references": [
+        {
+          "title": "Promethearchaeota Persistence in Marine Sediments Frozen for Over 100 kyr.",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/52023032b15a699c9dc7873cc8cbd0bf90c7d996",
+          "doi": "10.1111/1462-2920.70277"
+        },
+        {
+          "title": "CoverM: read alignment statistics for metagenomics",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/c6f79fd8ddf662dfbef36d8d9341eea25674ec4c",
+          "doi": "10.1093/bioinformatics/btaf147"
+        },
+        {
+          "title": "Unraveling the habitat preferences, ecological drivers, potential hosts, and auxiliary metabolism of soil giant viruses across China",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
+          "doi": "10.1186/s40168-024-01851-8"
+        },
+        {
+          "title": "Giant viral signatures on the Greenland ice sheet",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/7b6f51f39de378edc2f5fbcbce83e26bf3ccb23c",
+          "doi": "10.1186/s40168-024-01796-y"
+        },
+        {
+          "title": "Viral communities locked in high elevation permafrost up to 100 m in depth on the Tibetan Plateau.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/c97559abbd7149ad7bab1fa33aded47fff4f534c",
+          "doi": "10.1016/j.scitotenv.2024.172829"
+        },
+        {
+          "title": "Viral potential to modulate microbial methane metabolism varies by habitat",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
+          "doi": "10.1038/s41467-024-46109-x"
+        },
+        {
+          "title": "Identification of mobile genetic elements with geNomad",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/3558af9272726edb408a4acbf45ef6452f9efb06",
+          "doi": "10.1038/s41587-023-01953-y"
+        },
+        {
+          "title": "Sulfur-cycling chemolithoautotrophic microbial community dominates a cold, anoxic, hypersaline Arctic spring",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/a88221f435e621b7db08a0509078e7a8e85516a1",
+          "doi": "10.1186/s40168-023-01628-5"
+        }
+      ],
       "similar_papers": [
         {
-          "id": "56a1ee5fdde9bd7f1ea5eed40d1eef7291343d93",
-          "title": "Metagenome-Assembled Genomes from Northern West Siberia: Insights into Microbial Diversity in Permafrost and Contemporary Soils.",
+          "id": "5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
+          "title": "Unraveling the diversity, function, and virus–host interactions of archaeal proviruses",
           "year": 2026,
-          "journal": "Journal of Applied Microbiology",
+          "journal": "ISME Communications",
           "authors": [
-            "D. V. Poshvina",
-            "A. S. Balkin",
-            "A. Vasilchenko"
+            "Yang Zhao",
+            "Peng-Fei Liu",
+            "Lin-Xing Chen"
           ],
-          "doi": "10.1093/jambio/lxag182",
-          "url": "https://www.semanticscholar.org/paper/56a1ee5fdde9bd7f1ea5eed40d1eef7291343d93",
+          "doi": "10.1093/ismeco/ycag243",
+          "url": "https://www.semanticscholar.org/paper/5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
           "citation_count": 0
         },
         {
-          "id": "0be8728207c54c3de33fbab9084877a8b32ed0b0",
-          "title": "Processes in Microbial Ecology",
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
           "year": 2026,
-          "journal": "",
+          "journal": "mSystems",
           "authors": [
-            "D. L. Kirchman",
-            "Ashley Shade"
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
           ],
-          "doi": "10.1093/9780197831632.001.0001",
-          "url": "https://www.semanticscholar.org/paper/0be8728207c54c3de33fbab9084877a8b32ed0b0",
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
           "citation_count": 0
         },
         {
-          "id": "4446691e6a396af15a537e303adf33c494f25c88",
-          "title": "Adaptation of Soil Viruses to Salinity Stress: Insights Into Genome Size Expansion and Functional Diversification.",
+          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
           "year": 2026,
-          "journal": "Environmental Microbiology",
+          "journal": "bioRxiv",
           "authors": [
-            "Ayijiamali Kudureti",
-            "Shuai Zhao",
-            "Xu Liu"
+            "Pengwei Li",
+            "Jin-Ren Ni"
           ],
-          "doi": "10.1111/1462-2920.70395",
-          "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
+          "doi": "10.64898/2026.09.14.751636",
+          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
           "citation_count": 0
         },
         {
-          "id": "bfc47ffa5bbe28637558450d0f63981dc6ed5cdd",
-          "title": "Virome Diversity in Three Bat Species in Different Environments in Southern Spain",
+          "id": "cf619ad80dff035484e0ec2b53df663425ab7c1e",
+          "title": "Diversity of Antarctic sea ice and under-ice seawater RNA viruses",
           "year": 2026,
-          "journal": "Microorganisms",
+          "journal": "Applied and Environmental Microbiology",
           "authors": [
-            "A. Méndez-Rodríguez",
-            "J. Ledesma",
-            "C. López-González"
+            "Shu-Juan Sun",
+            "Kaiyang Zheng",
+            "Yue Su"
           ],
-          "doi": "10.3390/microorganisms14092025",
-          "url": "https://www.semanticscholar.org/paper/bfc47ffa5bbe28637558450d0f63981dc6ed5cdd",
+          "doi": "10.1128/aem.01472-26",
+          "url": "https://www.semanticscholar.org/paper/cf619ad80dff035484e0ec2b53df663425ab7c1e",
           "citation_count": 0
         },
         {
-          "id": "558fe40c99bec7e3efa17698acf588ed3df92d95",
-          "title": "Coupling of stable isotope probing and metagenomics reveals the diversity of viruses infecting formatotrophs during anaerobic digestion process",
+          "id": "051edb67ccc7760e0538bfd0584116accea900ac",
+          "title": "Bacteriophages in Antarctic subglacial lakes reveal novel biodiversity and biogeochemical potential",
           "year": 2026,
-          "journal": "Microbiome",
+          "journal": "ISME Communications",
           "authors": [
-            "Vuong Quoc Hoang Ngo",
-            "Caroline Talleu",
-            "François Enault"
+            "David M. Robinson",
+            "Wei Li",
+            "M. Breitbart"
           ],
-          "doi": "10.1186/s40168-026-02509-3",
-          "url": "https://www.semanticscholar.org/paper/558fe40c99bec7e3efa17698acf588ed3df92d95",
+          "doi": "10.1093/ismeco/ycag252",
+          "url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
           "citation_count": 0
         }
       ],
@@ -1284,7 +1333,7 @@
       "publication_types": [
         "JournalArticle"
       ],
-      "tldr": "The results show that permafrost viral communities in Siberia exhibit remarkable diversity and may have played a significant ecological role in ancient permafrost over geological time.",
+      "tldr": "It is shown that permafrost viral communities in Siberia exhibit remarkable diversity and may have played a significant ecological role in ancient permafrost over geological time, potentially influencing climate change feedback in permafrost regions.",
       "metrics_source": "Semantic Scholar",
       "tags": [
         "amg",
@@ -1294,8 +1343,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-09-17T23:35:41.953493+00:00",
-      "edges_enriched_at": "2026-09-17T23:35:42.851242+00:00"
+      "detail_enriched_at": "2026-10-18T23:16:57.724718+00:00",
+      "edges_enriched_at": "2026-10-18T23:16:58.331319+00:00"
     },
     {
       "id": "5498caec82ea3e0c360ea951374e72a797add356",
@@ -1326,33 +1375,6 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "636d3d9e0c3789d55cc291350ff80a191ecd63ba",
-          "title": "Groundwater microbial community structure under contrasting hydrological conditions in a sulfate-rich karst aquifer",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "R. Romano",
-            "Tomoaki Morita",
-            "F. Peres"
-          ],
-          "doi": "10.3389/fmicb.2026.1883366",
-          "url": "https://www.semanticscholar.org/paper/636d3d9e0c3789d55cc291350ff80a191ecd63ba",
-          "citation_count": 0
-        },
-        {
-          "id": "dc7d3b726bad7c819167e6034e66fab7a3489b9b",
-          "title": "Decoding the Deep: The Ecology, Biogeography, and Evolution of Deep-Sea Viruses.",
-          "year": 2026,
-          "journal": "Annual Review of Marine Science",
-          "authors": [
-            "Marguerite V. Langwig",
-            "Karthik Anantharaman"
-          ],
-          "doi": "10.1146/annurev-marine-050625-093011",
-          "url": "https://www.semanticscholar.org/paper/dc7d3b726bad7c819167e6034e66fab7a3489b9b",
-          "citation_count": 0
-        },
-        {
           "id": "0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
           "title": "Single-cell-resolved frequency and modes of phage interactions with prokaryoplankton in the tropical surface ocean",
           "year": 2026,
@@ -1367,20 +1389,6 @@
           "citation_count": 0
         },
         {
-          "id": "4446691e6a396af15a537e303adf33c494f25c88",
-          "title": "Adaptation of Soil Viruses to Salinity Stress: Insights Into Genome Size Expansion and Functional Diversification.",
-          "year": 2026,
-          "journal": "Environmental Microbiology",
-          "authors": [
-            "Ayijiamali Kudureti",
-            "Shuai Zhao",
-            "Xu Liu"
-          ],
-          "doi": "10.1111/1462-2920.70395",
-          "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
-          "citation_count": 0
-        },
-        {
           "id": "ee4423ca7bc56c5aa4418c747d6698600017e04d",
           "title": "Dispersal pathways and infection strategies within the Global Halophilic Virome",
           "year": 2026,
@@ -1388,10 +1396,52 @@
           "authors": [
             "Borja Aldeguer-Riquelme",
             "Cristina López",
-            "Eva Mayol"
+            "E. Mayol"
           ],
           "doi": "10.1093/ismeco/ycag244",
           "url": "https://www.semanticscholar.org/paper/ee4423ca7bc56c5aa4418c747d6698600017e04d",
+          "citation_count": 0
+        },
+        {
+          "id": "558fe40c99bec7e3efa17698acf588ed3df92d95",
+          "title": "Coupling of stable isotope probing and metagenomics reveals the diversity of viruses infecting formatotrophs during anaerobic digestion process",
+          "year": 2026,
+          "journal": "Microbiome",
+          "authors": [
+            "Vuong Quoc Hoang Ngo",
+            "Caroline Talleu",
+            "F. Enault"
+          ],
+          "doi": "10.1186/s40168-026-02509-3",
+          "url": "https://www.semanticscholar.org/paper/558fe40c99bec7e3efa17698acf588ed3df92d95",
+          "citation_count": 0
+        },
+        {
+          "id": "051edb67ccc7760e0538bfd0584116accea900ac",
+          "title": "Bacteriophages in Antarctic subglacial lakes reveal novel biodiversity and biogeochemical potential",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "David M. Robinson",
+            "Wei Li",
+            "M. Breitbart"
+          ],
+          "doi": "10.1093/ismeco/ycag252",
+          "url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
+          "citation_count": 0
+        },
+        {
+          "id": "01b714205d454a594f5a134bcc7443f09bbea972",
+          "title": "Single-Cell Insights\ninto Virus–Microbe Interactions\nin Emerging Contaminant Degradation",
+          "year": 2026,
+          "journal": "Environmental Science &amp;\nTechnology",
+          "authors": [
+            "Ji-Bing Li",
+            "Jia-Rui Liu",
+            "Xi-Xi Cai"
+          ],
+          "doi": "10.1021/acs.est.6c09032",
+          "url": "https://www.semanticscholar.org/paper/01b714205d454a594f5a134bcc7443f09bbea972",
           "citation_count": 0
         }
       ],
@@ -1409,7 +1459,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
-      "edges_enriched_at": "2026-09-17T23:35:42.851242+00:00"
+      "edges_enriched_at": "2026-10-18T23:16:58.331319+00:00"
     },
     {
       "id": "d7eaf1f4a9ff8b5bf1f701adeaa048c36c0f2099",
@@ -18737,7 +18787,7 @@
         "Sungeun Lee",
         "F. Godoy-Vitorino",
         "Yun Kit Yeoh",
-        "Hinsby Cadillo-Quiroz",
+        "H. Cadillo-Quiroz",
         "S. Tringe",
         "Archana Chauhan",
         "D. Cowan",
@@ -19495,7 +19545,7 @@
         "Tao Jin",
         "De-Shou Sun",
         "Fangliang Guo",
-        "Huaxin Lei",
+        "Hua-Xin Lei",
         "Lin Lin",
         "Wensheng Shu",
         "Ping-Feng Yu",
@@ -41375,7 +41425,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 551,
+      "citation_count": 552,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
