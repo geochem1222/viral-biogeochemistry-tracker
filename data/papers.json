@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:17:04.911491+00:00",
+  "updated_at": "2026-10-20T00:24:47.931709+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,114 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "9724d6643512fd1436db544f7cb859ed631e389a",
+      "semantic_scholar_id": "9724d6643512fd1436db544f7cb859ed631e389a",
+      "source": "Semantic Scholar",
+      "pmid": "42876194",
+      "doi": "10.1002/bit.70419",
+      "title": "Genetically Engineered Whole Virus Biorecognition Units for Cu(II) Sensing.",
+      "authors": [
+        "N. Korkmaz",
+        "Jihoon Kim"
+      ],
+      "journal": "Biotechnology and Bioengineering",
+      "publication_date": "2026-10-14",
+      "abstract": "A hybrid filamentous fd virus variant (p9V5-p8Cu5) was generated with improved gold (Au) and copper (Cu) binding properties through genetic engineering by displaying five copies of Au-specific V5 peptides (VSGSSPDS) on the head and over 2500 copies of Cu binding Cu5 peptides (HGFANVA) on the elongated body part. Atomic Force Microscopy (AFM) topography imaging revealed the typical filamentous morphology of the engineered p9V5-p8Cu5 phages with a dry-state thickness of around 2-3 nm. Gold nanoparticle (AuNP) binding of the viruses was investigated by Scanning Electron Microscopy (SEM) analyses upon exposure to 20 nm PBS-stabilized AuNPs. The hybrid phages were excessively loaded with AuNPs. Energy Dispersive X-ray (EDX) analyses showed Au, carbon (C), and nitrogen (N) peaks, confirming the presence of AuNPs and the viral organic material. Quartz crystal microbalance (QCM) analyses, performed using Au-coated quartz crystal sensors, gave a net frequency decrease of 250.20 ± 14.37 Hz for the engineered bacteriophages versus 31.40 ± 4.47 Hz for wild-type fd at the 3rd overtone showing their improved Au binding. Enzyme-Linked Immunosorbent Assay (ELISA) analyses conducted with Cu(II)-coated magnetic agarose-based NTA beads revealed the enhanced Cu(II) binding of the hybrid viruses. A colorimetric Cu(II) detection system was validated using 20 nm PBS-stabilized AuNPs and p9V5-p8Cu5 phages. Following the Cu(II) exposure, the AuNP-virus complex solution was treated with 10x PBS to induce AuNP aggregation. The level of AuNP aggregation was correlated with the applied Cu(II) concentration. For the case study, a linear relationship (R2 = 0.9926) was obtained as the absorbance ratios at 600 nm and 525 nm (Abs 600/Abs 525) were plotted against the applied Cu(II) concentration from 0 to 15 µM, with an estimated limit of detection (LOD) of around 260 nM (0.0165 mg/L), well below the WHO drinking-water guideline of 1.3 mg/L. No significant interference was observed from Ag(I), Al(III), Au(III), Cd(II), Co(II), Cr(III), Fe(III), Mn(II), Ni(II), Pb(II), Zn(II), Na(I), Ca(II), or Mg(II) at 5 µM. In mixed samples containing Cu(II) together with each competing ion, the response was likewise unaffected, with the exception of Pb(II), which partially suppressed the Cu(II) signal. This study demonstrates the potential of genetically reprogrammed biomaterials as biorecognition units, offering a biocompatible, easily produced, and cost-effective alternative to synthetic peptides in biosensor development.",
+      "url": "https://www.semanticscholar.org/paper/9724d6643512fd1436db544f7cb859ed631e389a",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9724d6643512fd1436db544f7cb859ed631e389a",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 30,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "f460c7e6b994582cf5353f9583b06f6a7b03af25",
+          "title": "A smartphone-based application for the colorimetric detection of lead in wastewater using gold nanoparticles",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "P. N. Kubheka"
+          ],
+          "doi": "10.51415/10321/6475",
+          "url": "https://www.semanticscholar.org/paper/f460c7e6b994582cf5353f9583b06f6a7b03af25",
+          "citation_count": 0
+        },
+        {
+          "id": "2ac84c838469ad13154295279d06d5145fdcc670",
+          "title": "Dual-emissive polymeric nanoparticles-Ag nanoclusters hybrid for selective Ratiometric sensing of glutathione via Cu(II) displacement approach.",
+          "year": 2026,
+          "journal": "Spectrochimica Acta Part A - Molecular and Biomolecular Spectroscopy",
+          "authors": [
+            "Aditi Tripathi",
+            "B. R. Jali",
+            "Suban K. Sahoo"
+          ],
+          "doi": "10.1016/j.saa.2026.128651",
+          "url": "https://www.semanticscholar.org/paper/2ac84c838469ad13154295279d06d5145fdcc670",
+          "citation_count": 0
+        },
+        {
+          "id": "a6c02153db45a902b1f5b518f1d5d95cbddb2ce1",
+          "title": "Engineering a Single-Plasmid\nDual-Pigment\n Escherichia coli\n Biosensor\nfor Simultaneous Colorimetric\nDetection of Pb(II) and Hg(II)",
+          "year": 2026,
+          "journal": "ACS Omega",
+          "authors": [
+            "Zhao-Bo Hu",
+            "Yan Guo",
+            "Pei-Shuo Cao"
+          ],
+          "doi": "10.1021/acsomega.6c07888",
+          "url": "https://www.semanticscholar.org/paper/a6c02153db45a902b1f5b518f1d5d95cbddb2ce1",
+          "citation_count": 0
+        },
+        {
+          "id": "92d9fe2fee8aa0c6e6f2fed774f41dbc109d3b60",
+          "title": "Autofluorescence-free detection of trypsin based on persistent luminescent nanospheres and gold nanoparticle aggregation.",
+          "year": 2026,
+          "journal": "Analytical Methods",
+          "authors": [
+            "Yi-Chen Li",
+            "Xuan Wu",
+            "Han-Can Wang"
+          ],
+          "doi": "10.1039/d6ay01515h",
+          "url": "https://www.semanticscholar.org/paper/92d9fe2fee8aa0c6e6f2fed774f41dbc109d3b60",
+          "citation_count": 0
+        },
+        {
+          "id": "172d013231b65bfd239f7aeffefa4ab5203bf809",
+          "title": "A Dual-Mode Fluorescent and Colorimetric Biosensor Based on AuNPs@RCA Nanogel-Integrated Multipedal DNA Walker for Ultrasensitive miRNA Detection.",
+          "year": 2026,
+          "journal": "ACS Applied Materials and Interfaces",
+          "authors": [
+            "Hongqun Yang",
+            "Long-Hao Li",
+            "Mu Niu"
+          ],
+          "doi": "10.1021/acsami.6c10465",
+          "url": "https://www.semanticscholar.org/paper/172d013231b65bfd239f7aeffefa4ab5203bf809",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The potential of genetically reprogrammed biomaterials as biorecognition units, offering a biocompatible, easily produced, and cost-effective alternative to synthetic peptides in biosensor development, is demonstrated.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-20T00:24:16.270396+00:00",
+      "edges_enriched_at": "2026-10-20T00:24:16.960562+00:00"
+    },
     {
       "id": "f402a6fcc25105ec945a3a5aae777f21e02b5c93",
       "semantic_scholar_id": "f402a6fcc25105ec945a3a5aae777f21e02b5c93",
@@ -919,6 +1027,48 @@
       "references": [],
       "similar_papers": [
         {
+          "id": "4cbd51d7062807d00b02df82f1ddc0fb2a64793d",
+          "title": "Soil amelioration impacts viral ecology in saline-alkali lands",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Junxi Liu",
+            "Gui-Xiang Zhou",
+            "Lin Chen"
+          ],
+          "doi": "10.1093/ismejo/wrag217",
+          "url": "https://www.semanticscholar.org/paper/4cbd51d7062807d00b02df82f1ddc0fb2a64793d",
+          "citation_count": 0
+        },
+        {
+          "id": "df941c7abb5b875e38ca231bc4b8d6c3bba8d0ee",
+          "title": "Resalinization Is Associated with Bacterial Alpha Diversity by Influencing Life-History Strategies, and Niche Properties in Coastal Saline Soils",
+          "year": 2026,
+          "journal": "Biology",
+          "authors": [
+            "Xue-Yao Liu",
+            "Hong-Hao Cheng",
+            "Meng-Chao Liu"
+          ],
+          "doi": "10.3390/biology15201816",
+          "url": "https://www.semanticscholar.org/paper/df941c7abb5b875e38ca231bc4b8d6c3bba8d0ee",
+          "citation_count": 0
+        },
+        {
+          "id": "a976b4d234390f7834af1bbb421922dfb8c4f324",
+          "title": "Rhizosphere microbiome assembly and functional enrichment drive salt tolerance in wheat.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Yan-Wei Kan",
+            "Yu-Hao Fu",
+            "Wen-Liang Yang"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130869",
+          "url": "https://www.semanticscholar.org/paper/a976b4d234390f7834af1bbb421922dfb8c4f324",
+          "citation_count": 0
+        },
+        {
           "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
           "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
           "year": 2026,
@@ -933,59 +1083,17 @@
           "citation_count": 0
         },
         {
-          "id": "a976b4d234390f7834af1bbb421922dfb8c4f324",
-          "title": "Rhizosphere microbiome assembly and functional enrichment drive salt tolerance in wheat.",
+          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
+          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
           "year": 2026,
-          "journal": "Journal of Environmental Management",
+          "journal": "Journal of Animal Science and Biotechnology",
           "authors": [
-            "Yan-Wei Kan",
-            "Yu-Hao Fu",
-            "Wenliang Yang"
+            "Wei Guo",
+            "Yin-Shu Yu",
+            "Wei-Wei Wang"
           ],
-          "doi": "10.1016/j.jenvman.2026.130869",
-          "url": "https://www.semanticscholar.org/paper/a976b4d234390f7834af1bbb421922dfb8c4f324",
-          "citation_count": 0
-        },
-        {
-          "id": "6adae5b7658dbfe760deec63722b79e6c9754093",
-          "title": "Localized root colonization by Trichoderma afroharzianum T22 is associated with host transcriptional reprogramming and beneficial bacterial enrichment under salinity stress in sorghum.",
-          "year": 2026,
-          "journal": "Microbiology Research",
-          "authors": [
-            "Ruby Bagchi",
-            "Bishrant Pant",
-            "Hong-Liang Wang"
-          ],
-          "doi": "10.1016/j.micres.2026.128703",
-          "url": "https://www.semanticscholar.org/paper/6adae5b7658dbfe760deec63722b79e6c9754093",
-          "citation_count": 0
-        },
-        {
-          "id": "62bd4b3da631912a74192ba1b3ca4d7487f306de",
-          "title": "Associations of salinity and microplastics with microbial community assembly and functional potential in saline-alkali soils.",
-          "year": 2026,
-          "journal": "Journal of Hazardous Materials",
-          "authors": [
-            "Caidan Ding",
-            "Wen Hu",
-            "Xiu-Yuan Yang"
-          ],
-          "doi": "10.1016/j.jhazmat.2026.143355",
-          "url": "https://www.semanticscholar.org/paper/62bd4b3da631912a74192ba1b3ca4d7487f306de",
-          "citation_count": 0
-        },
-        {
-          "id": "b68e8315de5f23701cbe62fd336ea5ecbdf7abe7",
-          "title": "Halotolerant plant growth-promoting rhizobacteria from rice and wheat in sodic soils: Characterization for their potential to alleviate salt stress",
-          "year": 2026,
-          "journal": "Journal of Soil and Water Conservation, India",
-          "authors": [
-            "H. Dixit",
-            "Ranjan Singh",
-            "Sanjay Arora"
-          ],
-          "doi": "10.5958/2455-7145.2026.00027.5",
-          "url": "https://www.semanticscholar.org/paper/b68e8315de5f23701cbe62fd336ea5ecbdf7abe7",
+          "doi": "10.1186/s40104-026-01487-8",
+          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
           "citation_count": 0
         }
       ],
@@ -1006,8 +1114,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-09-19T23:10:03.242213+00:00",
-      "edges_enriched_at": "2026-09-19T23:10:03.887256+00:00"
+      "detail_enriched_at": "2026-10-20T00:24:16.270396+00:00",
+      "edges_enriched_at": "2026-10-20T00:24:16.960562+00:00"
     },
     {
       "id": "4c3b05a401c4fc5499d31e1e3aeb3c5abf1c08e2",
@@ -2565,73 +2673,72 @@
       ],
       "similar_papers": [
         {
-          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
-          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Han-Peng Liao",
-            "C. Ai",
-            "Chen Liu"
-          ],
-          "doi": "10.1038/s41467-026-75907-8",
-          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
-          "citation_count": 0
-        },
-        {
-          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
-          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
-          "year": 2026,
-          "journal": "iScience",
-          "authors": [
-            "Chao-Jian Hu",
-            "Muhammad Asif",
-            "Jin-Hui Liu"
-          ],
-          "doi": "10.1016/j.isci.2026.117172",
-          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
-          "citation_count": 0
-        },
-        {
-          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
-          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
-          "year": 2026,
-          "journal": "Journal of Animal Science and Biotechnology",
-          "authors": [
-            "Wei Guo",
-            "Yin-Shu Yu",
-            "Wei-Wei Wang"
-          ],
-          "doi": "10.1186/s40104-026-01487-8",
-          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
-          "citation_count": 0
-        },
-        {
-          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
-          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
+          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "Haoran Wang",
-            "Chunhui Ai",
-            "A. Barcan"
+            "Pengwei Li",
+            "Jin-Ren Ni"
           ],
-          "doi": "10.64898/2026.07.27.740809",
-          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "doi": "10.64898/2026.09.14.751636",
+          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
           "citation_count": 0
         },
         {
-          "id": "43c64e8a7dd13c0b6c579350ca6b00ea87fe21ee",
-          "title": "Environmental filtering shapes biosynthetic potential and resistome of antarctic microbiomes",
+          "id": "5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
+          "title": "Unraveling the diversity, function, and virus–host interactions of archaeal proviruses",
           "year": 2026,
-          "journal": "World Journal of Microbiology & Biotechnology",
+          "journal": "ISME Communications",
           "authors": [
-            "William B. Medeiros",
-            "Kelly Hidalgo-Martinez",
-            "D. D. P. S. Penna"
+            "Yang Zhao",
+            "Peng-Fei Liu",
+            "Lin-Xing Chen"
           ],
-          "doi": "10.1007/s11274-026-05201-8",
-          "url": "https://www.semanticscholar.org/paper/43c64e8a7dd13c0b6c579350ca6b00ea87fe21ee",
+          "doi": "10.1093/ismeco/ycag243",
+          "url": "https://www.semanticscholar.org/paper/5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
+          "citation_count": 0
+        },
+        {
+          "id": "7eaf12d866a3f360e92e2685dd02af23bb616d3c",
+          "title": "Farming reshapes the gut resistome, virulome, and mobilome of Cervidae",
+          "year": 2026,
+          "journal": "Virulence",
+          "authors": [
+            "Yu-Zhe Sun",
+            "Jin-Wen Su",
+            "Hany M. Elsheikha"
+          ],
+          "doi": "10.1080/21505594.2026.2728506",
+          "url": "https://www.semanticscholar.org/paper/7eaf12d866a3f360e92e2685dd02af23bb616d3c",
+          "citation_count": 1
+        },
+        {
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
+          ],
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "citation_count": 0
+        },
+        {
+          "id": "6920ec983ca6218aabcca294ca89ec4f714bd52a",
+          "title": "A metagenomic snapshot of metabolic potentials in wintertime eutrophic sediments of Lake Taihu inferred from metagenome-assembled genomes",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Qi Wei",
+            "Ya-Jie Li",
+            "Ai-Dong Ruan"
+          ],
+          "doi": "10.3389/fmicb.2026.1929411",
+          "url": "https://www.semanticscholar.org/paper/6920ec983ca6218aabcca294ca89ec4f714bd52a",
           "citation_count": 0
         }
       ],
@@ -2653,8 +2760,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-18T23:21:35.802316+00:00",
-      "edges_enriched_at": "2026-09-18T23:21:36.445847+00:00"
+      "detail_enriched_at": "2026-10-20T00:24:16.270396+00:00",
+      "edges_enriched_at": "2026-10-20T00:24:16.960562+00:00"
     },
     {
       "id": "19599279d5b59ab33d8438276e997a48fd5db062",
@@ -4293,6 +4400,62 @@
       ],
       "similar_papers": [
         {
+          "id": "173934e396ab1a6376caf1f018bdf289fa439129",
+          "title": "Hydrothermal regimes regulate microbiome patterns across vertical profile and their responses to alpine permafrost degradation",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Sheng-Yun Chen",
+            "Ali Bahadur",
+            "Jia-Hui Zhu"
+          ],
+          "doi": "10.1038/s41467-026-77448-6",
+          "url": "https://www.semanticscholar.org/paper/173934e396ab1a6376caf1f018bdf289fa439129",
+          "citation_count": 0
+        },
+        {
+          "id": "dfe862e2a191d5d3f4d3be87f65139d7869e4283",
+          "title": "Diverse biosynthetic pathways in Arctic hydrothermal biofilms",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Thuc Trong Nguyen",
+            "I. H. Steen",
+            "R. Stokke"
+          ],
+          "doi": "10.1038/s41467-026-77384-5",
+          "url": "https://www.semanticscholar.org/paper/dfe862e2a191d5d3f4d3be87f65139d7869e4283",
+          "citation_count": 0
+        },
+        {
+          "id": "fb70c28e70ee7e3c5cd512f5416cda4cdfd6e338",
+          "title": "High diversity but limited expression of biosynthetic gene clusters in a peatland microbial community",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Z. Human",
+            "Rene L. Hoover",
+            "Clara S. Chan"
+          ],
+          "doi": "10.1038/s41467-026-78121-8",
+          "url": "https://www.semanticscholar.org/paper/fb70c28e70ee7e3c5cd512f5416cda4cdfd6e338",
+          "citation_count": 0
+        },
+        {
+          "id": "ab4352bb5d0b353384b13b8527b2a0910510ade7",
+          "title": "Soil proteogenomics uncover microbial strategies for soil depth-specific carbon cycling under whole-soil warming conditions",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "U. Karaoz",
+            "Ricardo J. Eloy Alves",
+            "Nikola Tolić"
+          ],
+          "doi": "10.1038/s41467-026-78137-0",
+          "url": "https://www.semanticscholar.org/paper/ab4352bb5d0b353384b13b8527b2a0910510ade7",
+          "citation_count": 0
+        },
+        {
           "id": "1d076c5ad5934db8cff3090e63d5ff09a00abfc1",
           "title": "Vegetation-driven shifts in soil microbial communities and predicted carbon-cycling potential across soil depths in High-Arctic islands",
           "year": 2026,
@@ -4304,62 +4467,6 @@
           ],
           "doi": "10.1186/s40793-026-00959-8",
           "url": "https://www.semanticscholar.org/paper/1d076c5ad5934db8cff3090e63d5ff09a00abfc1",
-          "citation_count": 0
-        },
-        {
-          "id": "38c6d7656d14725d380f74e1478ce5faa7951eaf",
-          "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Han-Peng Liao",
-            "C. Ai",
-            "Chen Liu"
-          ],
-          "doi": "10.1038/s41467-026-75907-8",
-          "url": "https://www.semanticscholar.org/paper/38c6d7656d14725d380f74e1478ce5faa7951eaf",
-          "citation_count": 0
-        },
-        {
-          "id": "43c64e8a7dd13c0b6c579350ca6b00ea87fe21ee",
-          "title": "Environmental filtering shapes biosynthetic potential and resistome of antarctic microbiomes",
-          "year": 2026,
-          "journal": "World Journal of Microbiology & Biotechnology",
-          "authors": [
-            "William B. Medeiros",
-            "Kelly Hidalgo-Martinez",
-            "D. D. P. S. Penna"
-          ],
-          "doi": "10.1007/s11274-026-05201-8",
-          "url": "https://www.semanticscholar.org/paper/43c64e8a7dd13c0b6c579350ca6b00ea87fe21ee",
-          "citation_count": 0
-        },
-        {
-          "id": "1c731e832ba083a6df6d95901bb98cef427fc0b3",
-          "title": "Multi-omics and cultivation reveal laminarin-degrading PVC bacteria in the deep sea",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Rikuan Zheng",
-            "Chong Wang",
-            "Chaomin Sun"
-          ],
-          "doi": "10.1038/s41467-026-76253-5",
-          "url": "https://www.semanticscholar.org/paper/1c731e832ba083a6df6d95901bb98cef427fc0b3",
-          "citation_count": 0
-        },
-        {
-          "id": "20be9464934c9364fe362bbf883a3fc627b03c92",
-          "title": "From natural assemblages to synthetic communities in the Lupinus microbiome",
-          "year": 2026,
-          "journal": "Frontiers in Plant Science",
-          "authors": [
-            "M. Ortúzar",
-            "Víctor Formariz",
-            "J. A. Suescun-Sepulveda"
-          ],
-          "doi": "10.3389/fpls.2026.1891479",
-          "url": "https://www.semanticscholar.org/paper/20be9464934c9364fe362bbf883a3fc627b03c92",
           "citation_count": 0
         }
       ],
@@ -4378,8 +4485,8 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-09-19T23:10:03.242213+00:00",
-      "edges_enriched_at": "2026-09-19T23:10:03.887256+00:00"
+      "detail_enriched_at": "2026-10-20T00:24:16.270396+00:00",
+      "edges_enriched_at": "2026-10-20T00:24:16.960562+00:00"
     },
     {
       "id": "57f7d3f2f0d0886defcc03587bf042f062f59e33",
@@ -4556,7 +4663,7 @@
       "authors": [
         "P. Gao",
         "Zhe Tao",
-        "Yanhan Ji",
+        "Yan-Han Ji",
         "Si-Han Zhou",
         "J. Gong",
         "Chaoyu Deng",
@@ -4565,7 +4672,7 @@
         "Ning Ling",
         "Yunfeng Yang",
         "Jian-Dong Jiang",
-        "Baozhan Wang",
+        "Bao-Zhan Wang",
         "Xu Liu"
       ],
       "journal": "Communications Earth & Environment",
@@ -7873,7 +7980,7 @@
       "url": "https://www.semanticscholar.org/paper/03c39e7ba55bed4e081b6627968f406e12ae52cc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/03c39e7ba55bed4e081b6627968f406e12ae52cc",
       "pdf_url": "https://doi.org/10.1007/s00248-025-02661-7",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 1,
       "reference_count": 60,
       "references": [
@@ -8381,7 +8488,7 @@
       "title": "Metagenomic analysis reveals global landscape of viruses in biogeochemical cycles and microbial resistance in paddy soils and wetlands.",
       "authors": [
         "M. H. Hemmat-Jou",
-        "Fasong Li",
+        "Fa-Song Li",
         "Dejin Wang",
         "Ruichuan Gao",
         "Xiao-xia Zhou",
@@ -9390,15 +9497,15 @@
       "title": "Virus-encoded auxiliary metabolic genes fuel the metabolism of organic pollutants in long-term contaminated groundwater.",
       "authors": [
         "Xiao-Yun Gou",
-        "Yanhan Ji",
+        "Yan-Han Ji",
         "Ping Zhang",
-        "Zhaojing Liu",
+        "Zhao-Jing Liu",
         "Jingrui Qiu",
         "Xin Song",
         "Wei Qin",
         "Jian-Dong Jiang",
         "Xu Liu",
-        "Baozhan Wang"
+        "Bao-Zhan Wang"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2025-09-22",
@@ -15802,7 +15909,7 @@
       "url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/01b270be573d58c94550ee74ddcea110020292c4",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202407223",
-      "citation_count": 29,
+      "citation_count": 30,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [
@@ -21483,7 +21590,7 @@
       "url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f884b7bad9504859b0e859a37890c0f66ab0e712",
       "pdf_url": "https://doi.org/10.1093/ismejo/wrae083",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 92,
       "references": [
@@ -33397,7 +33504,7 @@
       "url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-021-01154-2",
-      "citation_count": 93,
+      "citation_count": 94,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -34998,7 +35105,7 @@
         "Yuewei Ma",
         "M. Luo",
         "Wen-Yang Ding",
-        "Junwei Cao",
+        "Jun-Wei Cao",
         "T. Jiang",
         "Peng Nan",
         "Jia-Song Fang",
@@ -41425,7 +41532,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 552,
+      "citation_count": 553,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
@@ -44543,7 +44650,7 @@
       "url": "https://www.semanticscholar.org/paper/659fbf01c64cee36e8de1be0136c8d4a13b14f19",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/659fbf01c64cee36e8de1be0136c8d4a13b14f19",
       "pdf_url": "https://www.nature.com/articles/ismej201438.pdf",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [],
@@ -44655,7 +44762,7 @@
       "url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "pdf_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2013-14-11-r123",
-      "citation_count": 236,
+      "citation_count": 239,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
