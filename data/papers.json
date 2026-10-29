@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:34:32.487453+00:00",
+  "updated_at": "2026-10-29T01:00:57.704649+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1302,7 +1302,7 @@
         "D. Ning",
         "Kenneth H. Wan",
         "S. Celniker",
-        "Ji-Zhong Zhou",
+        "J. Zhou",
         "P. Dijkstra",
         "B. Hungate",
         "J. Pett-Ridge",
@@ -2091,7 +2091,7 @@
         "Dong-Hao Ma",
         "Zong-Zhi Wu",
         "Zhi-Chao Zhou",
-        "Ji-Zhong Zhou",
+        "J. Zhou",
         "Yuting Liang",
         "Jiabao Zhang"
       ],
@@ -4058,7 +4058,7 @@
         "Zong Li",
         "Ming-Lei Ren",
         "Ang Hu",
-        "Fanfan Meng",
+        "Fan-Fan Meng",
         "Jian-Jun Wang"
       ],
       "journal": "Molecular Ecology",
@@ -4504,7 +4504,7 @@
         "V. Povazhnyi",
         "Vitalii Zemlianskii",
         "Beat Stierli",
-        "Ksenia A. Ermokhina",
+        "K. Ermokhina",
         "G. Schaepman-Strub",
         "Jessica Cuartero"
       ],
@@ -7986,7 +7986,7 @@
       "abstract": "Ectomycorrhizal (ECM) fungi establish symbiotic relationships with plant roots, enhancing nutrient uptake, improving plant health, and boosting ecosystem resilience. Although previous studies reported molecular interactions among plant-ECM fungi-surrounding microbes near plant roots, microbiome-wide metabolic shifts and associations with the fungi remain unclear. Using Tricholoma matsutake as a model, we initially found that T. matsutake induced remarkable microbial community turnover linked to altered soil moisture, nitrogen, and phosphorus levels. Parallel with the compositional alteration, microbiome-wide metabolic capacities, including glutamate metabolism, oligopeptide transport, and siderophore activity, were enriched in the T. matsutake-colonizing soil compared to the soils where the fungus was not colonized. From metatranscriptome data, we found that T. matsutake induced functional remodeling in nitrogen metabolism. Notably, the fungus and soil microbiome were metabolically synchronized with the upregulation of nitrate reduction, glutamate biosynthesis, tryptophan biosynthesis, and indole-3-acetic acid (IAA) biosynthesis. Metabarcoding and metatranscriptome-guided microbial associations revealed potential T. matsutake helper bacteria consisting of Conexibacter and Paraburkholderia. Phage community analyses further showed that the colonization of the ECM fungus influenced phage distributions along with the increase in temperate phage populations. The differential expression of auxiliary metabolic genes also demonstrated that phages could influence bacterial fitness in response to T. matsutake colonization. Our multi-meta-omics-based approaches revealed unique environmental changes by T. matsutake compared to other mycorrhizal systems, as well as metabolic synchronization between the ECM fungus and surrounding microbiomes. These findings will expand our understanding of ECM symbiotic frameworks by highlighting integrated microbial and viral metabolic dynamics. BfZn9aKVRJcwAxk6sKjecp Video Abstract Video Abstract",
       "url": "https://www.semanticscholar.org/paper/f5edf55e9fce270c8bef61f79e2b530c49e931cc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f5edf55e9fce270c8bef61f79e2b530c49e931cc",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1186/s40168-025-02292-7",
       "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 120,
@@ -9958,7 +9958,7 @@
       "url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "pdf_url": "https://doi.org/10.1016/j.jgeb.2025.100568",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 1,
       "reference_count": 81,
       "references": [
@@ -14625,7 +14625,7 @@
       "abstract": "Abstract Nucleocytoplasmic large DNA viruses, or “giant viruses,” are prevalent in marine environments, infecting diverse eukaryotic lineages and influencing the marine carbon cycle. Their genomes harbor wide range of auxiliary metabolic genes that influence biogeochemical processes. This study integrates planktonic (5–4000 m) and particle-associated (4000 m) metagenomic samples in the North Pacific Subtropical Gyre, along with particulate export flux data at 4000 m, to investigate the vertical transport of giant viruses and their correlation with carbon export through space and time. By analyzing metagenomic samples over a period of 6 years across 15 depths, we curated a database of 37 giant virus population genomes and 1496 contigs and investigated their spatiotemporal variability and functional capacity in the open ocean. We reported multiple lines of evidence supporting the viral shuttle hypothesis, including the vertical transport of giant viruses from the upper ocean to abyssal depths and their positive correlation with particulate carbon export flux at 4000 m, particularly a giant species closely related to Phaeocystis globosa virus known to infect a bloom-forming alga. We identified giant viruses encoding diverse auxilary metabolic genes, including genes associated with photosynthesis, nutrient transport, and energy metabolism. These auxiliary metabolic genes displayed depth-specific distributions, which we postulate reflect depth-specific adaptations to light-energy and nutrient-limited conditions along the water column. This study provides critical insights into biogeochemical impacts of giant viruses by identifying key giant viruses that can impact export processes and depth-specific distributions of auxiliary metabolic genes impacting biogeochemical processes along the open ocean water column.",
       "url": "https://www.semanticscholar.org/paper/a65ad7d4538a60d5a2437b687be84f3e50bfd5c7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a65ad7d4538a60d5a2437b687be84f3e50bfd5c7",
-      "pdf_url": "",
+      "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wraf094/63292600/wraf094.pdf",
       "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 75,
@@ -14956,7 +14956,7 @@
       "abstract": "Abstract Marine viruses play critical roles in shaping microbial communities and driving biogeochemical cycles, yet their dynamics in estuarine systems are not well characterized. Here, we conducted a comprehensive metagenomic analysis of viral communities and virus-host interactions across the Pearl River estuary, a dynamic subtropical estuary in southern China. Using 24 metagenomic libraries from eight sampling sites, we identified 29,952 viral populations, with Uroviricota and potential Uroviricota accounted for 80.48% of taxa, underscoring their ecological importance. A key finding of our integrated analysis is the unexpectedly high abundance of nucleocytoplasmic large DNA viruses in offshore waters, which suggests a more significant role for eukaryotic viruses in coastal ecosystems than previously acknowledged and correlates with elevated levels of their eukaryotic hosts. Environmental variables, particularly salinity and nutrient availability, emerged as key drivers of viral and host distribution patterns. By linking environmental gradients to distinct community “envirotypes” and their underlying genomic features, we revealed novel virus-host interactions and highlighted the impact of environmental gradients on microbial ecology. Additionally, viral auxiliary metabolic genes linked to phosphorus and nitrogen metabolism suggest critical roles in modulating host metabolic pathways and influencing nutrient cycling. Our findings demonstrate how spatial heterogeneity and environmental gradients shape viral and microbial ecology in estuarine ecosystems. Our findings provide a holistic, multi-domain view of microbial and viral ecology, demonstrating how integrating prokaryotic, eukaryotic, and viral community analyses offers a more complete understanding of ecosystem function in these critical transition zones.",
       "url": "https://www.semanticscholar.org/paper/14c65b4abb15d30a020d53bf0077744de8630754",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/14c65b4abb15d30a020d53bf0077744de8630754",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1093/ismeco/ycaf164",
       "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 0,
@@ -16231,7 +16231,7 @@
       "authors": [
         "Huiyuan Qi",
         "Jiahui Lv",
-        "Jingqiu Liao",
+        "Jing-Qiu Liao",
         "Junhao Jin",
         "Yong Ren",
         "Yi Tao",
@@ -16472,7 +16472,7 @@
       "abstract": "The McMurdo Dry Valleys (MDVs) of Antarctica are a mosaic of extreme habitats which are dominated by microbial life. The MDVs include glacial melt holes, streams, lakes, and soils, which are interconnected through the transfer of energy and flux of inorganic and organic material via wind and hydrology. For the first time, we provide new data on the viral community structure and function in the MDVs through metagenomics of the planktonic and benthic mat communities of Lakes Bonney and Fryxell. Viral taxonomic diversity was compared across lakes and ecological function was investigated by characterizing auxiliary metabolic genes (AMGs) and predicting viral hosts. Our data suggest that viral communities differed between the lakes and among sites: these differences were connected to microbial host communities. AMGs were associated with the potential augmentation of multiple biogeochemical processes in host, most notably with phosphorus acquisition, organic nitrogen acquisition, sulfur oxidation, and photosynthesis. Viral genome abundances containing AMGs differed between the lakes and microbial mats, indicating site specialization. Using procrustes analysis, we also identified significant coupling between viral and bacterial communities (p = 0.001). Finally, host predictions indicate viral host preference among the assembled viromes. Collectively, our data show that: (i) viruses are uniquely distributed through the McMurdo Dry Valley lakes, (ii) their AMGs can contribute to overcoming host nutrient limitation and, (iii) viral and bacterial MDV communities are tightly coupled.",
       "url": "https://www.semanticscholar.org/paper/e78070842024dacd8db94479a0edbdc1a69ddcd6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e78070842024dacd8db94479a0edbdc1a69ddcd6",
-      "pdf_url": "",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1422941/pdf",
       "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 88,
@@ -17259,7 +17259,7 @@
       "url": "https://www.semanticscholar.org/paper/29f497c4f25336b2792d27c9d7e2f42ebb5798b5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/29f497c4f25336b2792d27c9d7e2f42ebb5798b5",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01853-6",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -19079,7 +19079,7 @@
         "M. Schmer",
         "N. Palmer",
         "K. Nüsslein",
-        "Thulani P. Makhalanyane",
+        "T. Makhalanyane",
         "Katherine A. Dynarski",
         "N. Taş",
         "Graeme W. Nicol",
@@ -19665,7 +19665,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 111,
+      "citation_count": 112,
       "influential_citation_count": 3,
       "reference_count": 49,
       "references": [
@@ -19999,7 +19999,7 @@
       "url": "https://www.semanticscholar.org/paper/7e05a59401fb6f5bfaba33cf8c7040ec17f46328",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7e05a59401fb6f5bfaba33cf8c7040ec17f46328",
       "pdf_url": "https://www.mdpi.com/1999-4915/16/4/535/pdf?version=1711723036",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [
@@ -21471,7 +21471,7 @@
       "title": "High niche specificity and host genetic diversity of groundwater viruses",
       "authors": [
         "Emilie Gios",
-        "Olivia E. Mosley",
+        "O. Mosley",
         "M. Hoggard",
         "K. M. Handley"
       ],
@@ -21481,7 +21481,7 @@
       "url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/13fd1521fd3269aa0b4627f07f8a741fced7900d",
       "pdf_url": "https://academic.oup.com/ismej/advance-article-pdf/doi/10.1093/ismejo/wrae035/56901770/wrae035.pdf",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 5,
       "reference_count": 113,
       "references": [
@@ -26518,7 +26518,7 @@
         "Kaili Sun",
         "Rongfeng Gao",
         "Yang Liu",
-        "Ji-Zhong Zhou"
+        "J. Zhou"
       ],
       "journal": "mBio",
       "publication_date": "2023-02-14",
@@ -28006,7 +28006,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 228,
+      "citation_count": 229,
       "influential_citation_count": 11,
       "reference_count": 105,
       "references": [
@@ -28507,7 +28507,7 @@
       "url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "pdf_url": "https://www.nature.com/articles/s41467-022-32993-8.pdf",
-      "citation_count": 51,
+      "citation_count": 52,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -34114,7 +34114,7 @@
       "url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "pdf_url": "https://www.nature.com/articles/s43705-022-00109-4.pdf",
-      "citation_count": 76,
+      "citation_count": 77,
       "influential_citation_count": 1,
       "reference_count": 77,
       "references": [
@@ -35444,7 +35444,7 @@
         "J. V. Van Nostrand",
         "P. Wagle",
         "Xiang-Ming Xiao",
-        "Ji-Zhong Zhou"
+        "J. Zhou"
       ],
       "journal": "Msphere",
       "publication_date": "2021-06-02",
@@ -35590,119 +35590,6 @@
         "carbon",
         "nitrogen",
         "soil",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
-      "edges_enriched_at": "2026-10-03T00:32:59.545173+00:00"
-    },
-    {
-      "id": "49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
-      "semantic_scholar_id": "49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1101/2021.06.01.446436",
-      "title": "Bacterial predation on T4 phages",
-      "authors": [
-        "J. Godon",
-        "Ariane Bize",
-        "Hoang Ngo",
-        "L. Cauquil",
-        "Mathieu Almeida",
-        "M. Petit",
-        "O. Zemb"
-      ],
-      "journal": "bioRxiv",
-      "publication_date": "2021-06-01",
-      "abstract": "Background Bacterial consumption of viruses has never yet been reported, even though bacteria feed on almost anything. Viruses are omnipresent predators for all organisms, but have no acknowledged active biocontrol. The viral biomass undoubtedly reintegrates the trophic cycles, however the mechanisms of this phase still remain unknown. Methods Here, we used stable isotope probing with 13C labelled T4 phages to monitor the increase of density of the bacterial DNA concomitant with the decrease of plaque forming units. We used 12C T4 phages as control. Results T4 phage disappearance in wastewater sludge was found to occur mainly through predation by Aeromonadacea. Phage consumption also favours significant in situ bacterial growth. Furthermore, an isolated strain of Aeromonas was observed to grow on T4 phages as sole source of carbon, nitrogen and phosphorus. Conclusions bacterial species are capable of consuming bacteriophages in situ, which is likely a widespread and underestimated type of biocontrol.This assay is anticipated as a starting point for harnessing the bacterial potential in limiting the diffusion of harmful viruses within environments such as gut or water.",
-      "url": "https://www.semanticscholar.org/paper/49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
-      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/06/01/2021.06.01.446436.full.pdf",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 29,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "53e298896848debea2a04ac5e65c060f3b640566",
-          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
-          "year": 2026,
-          "journal": "Water Science &amp; Technology",
-          "authors": [
-            "S. Al-maaqar",
-            "Wael A. Alsubhi",
-            "Zakia F. Albalawy"
-          ],
-          "doi": "10.2166/wst.2026.332",
-          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
-          "citation_count": 0
-        },
-        {
-          "id": "d1fc900986755e3fe70668a49a86eaed9a1418c8",
-          "title": "Systematic mapping of bacteriophage gene essentiality with HIDEN-SEQ.",
-          "year": 2026,
-          "journal": "Nature Microbiology",
-          "authors": [
-            "Dorentina Humolli",
-            "Damien Piel",
-            "J. Ransome"
-          ],
-          "doi": "10.1038/s41564-026-02455-8",
-          "url": "https://www.semanticscholar.org/paper/d1fc900986755e3fe70668a49a86eaed9a1418c8",
-          "citation_count": 1
-        },
-        {
-          "id": "4682a662e76aac719b85796fe203651254d23857",
-          "title": "Filamentous bacteriophages: impact on prokaryotic virulence, eukaryotic immunity, and implications for phage therapy",
-          "year": 2026,
-          "journal": "Frontiers in Immunology",
-          "authors": [
-            "Ambarish C. Varadan",
-            "J. Grasis"
-          ],
-          "doi": "10.3389/fimmu.2026.1904873",
-          "url": "https://www.semanticscholar.org/paper/4682a662e76aac719b85796fe203651254d23857",
-          "citation_count": 0
-        },
-        {
-          "id": "d42dabd276e6655ebe05f51ccec201cfc7dbd2ba",
-          "title": "Dormant bacteria eliminate RNA phages through cumulative ROS-mediated RNA damage.",
-          "year": 2026,
-          "journal": "Cell Reports",
-          "authors": [
-            "Qiu Zhong",
-            "Qian-Yu Hu",
-            "Lei-Lei Wei"
-          ],
-          "doi": "10.1016/j.celrep.2026.117984",
-          "url": "https://www.semanticscholar.org/paper/d42dabd276e6655ebe05f51ccec201cfc7dbd2ba",
-          "citation_count": 0
-        },
-        {
-          "id": "bae5d783f8fb9094b3012cee2cd6db10122eff81",
-          "title": "Phages Targeting Flagella: Adsorption and Infection Mechanisms of Flagellotropic Phages.",
-          "year": 2026,
-          "journal": "Annual Review of Virology",
-          "authors": [
-            "Jackson A. Wood",
-            "Nathaniel C. Esteves",
-            "B. Scharf"
-          ],
-          "doi": "10.1146/annurev-virology-100424-123335",
-          "url": "https://www.semanticscholar.org/paper/bae5d783f8fb9094b3012cee2cd6db10122eff81",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Biology"
-      ],
-      "publication_types": [],
-      "tldr": "Bacterial species are capable of consuming bacteriophages in situ, which is likely a widespread and underestimated type of biocontrol.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "phosphorus",
         "virus",
         "water"
       ],
@@ -35867,6 +35754,119 @@
         "amg",
         "biogeochemistry",
         "sulfur",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
+      "edges_enriched_at": "2026-10-03T00:32:59.545173+00:00"
+    },
+    {
+      "id": "49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
+      "semantic_scholar_id": "49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1101/2021.06.01.446436",
+      "title": "Bacterial predation on T4 phages",
+      "authors": [
+        "J. Godon",
+        "Ariane Bize",
+        "Hoang Ngo",
+        "L. Cauquil",
+        "Mathieu Almeida",
+        "M. Petit",
+        "O. Zemb"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2021-06-01",
+      "abstract": "Background Bacterial consumption of viruses has never yet been reported, even though bacteria feed on almost anything. Viruses are omnipresent predators for all organisms, but have no acknowledged active biocontrol. The viral biomass undoubtedly reintegrates the trophic cycles, however the mechanisms of this phase still remain unknown. Methods Here, we used stable isotope probing with 13C labelled T4 phages to monitor the increase of density of the bacterial DNA concomitant with the decrease of plaque forming units. We used 12C T4 phages as control. Results T4 phage disappearance in wastewater sludge was found to occur mainly through predation by Aeromonadacea. Phage consumption also favours significant in situ bacterial growth. Furthermore, an isolated strain of Aeromonas was observed to grow on T4 phages as sole source of carbon, nitrogen and phosphorus. Conclusions bacterial species are capable of consuming bacteriophages in situ, which is likely a widespread and underestimated type of biocontrol.This assay is anticipated as a starting point for harnessing the bacterial potential in limiting the diffusion of harmful viruses within environments such as gut or water.",
+      "url": "https://www.semanticscholar.org/paper/49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/49b0189a9f13efbd45c6ddc85bbe0de31500c6dd",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/06/01/2021.06.01.446436.full.pdf",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 29,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "53e298896848debea2a04ac5e65c060f3b640566",
+          "title": "Uncovering a hidden diversity of aquatic bacteriophages: ecological diversity, untapped therapeutic potential, and water quality control",
+          "year": 2026,
+          "journal": "Water Science &amp; Technology",
+          "authors": [
+            "S. Al-maaqar",
+            "Wael A. Alsubhi",
+            "Zakia F. Albalawy"
+          ],
+          "doi": "10.2166/wst.2026.332",
+          "url": "https://www.semanticscholar.org/paper/53e298896848debea2a04ac5e65c060f3b640566",
+          "citation_count": 0
+        },
+        {
+          "id": "d1fc900986755e3fe70668a49a86eaed9a1418c8",
+          "title": "Systematic mapping of bacteriophage gene essentiality with HIDEN-SEQ.",
+          "year": 2026,
+          "journal": "Nature Microbiology",
+          "authors": [
+            "Dorentina Humolli",
+            "Damien Piel",
+            "J. Ransome"
+          ],
+          "doi": "10.1038/s41564-026-02455-8",
+          "url": "https://www.semanticscholar.org/paper/d1fc900986755e3fe70668a49a86eaed9a1418c8",
+          "citation_count": 1
+        },
+        {
+          "id": "4682a662e76aac719b85796fe203651254d23857",
+          "title": "Filamentous bacteriophages: impact on prokaryotic virulence, eukaryotic immunity, and implications for phage therapy",
+          "year": 2026,
+          "journal": "Frontiers in Immunology",
+          "authors": [
+            "Ambarish C. Varadan",
+            "J. Grasis"
+          ],
+          "doi": "10.3389/fimmu.2026.1904873",
+          "url": "https://www.semanticscholar.org/paper/4682a662e76aac719b85796fe203651254d23857",
+          "citation_count": 0
+        },
+        {
+          "id": "d42dabd276e6655ebe05f51ccec201cfc7dbd2ba",
+          "title": "Dormant bacteria eliminate RNA phages through cumulative ROS-mediated RNA damage.",
+          "year": 2026,
+          "journal": "Cell Reports",
+          "authors": [
+            "Qiu Zhong",
+            "Qian-Yu Hu",
+            "Lei-Lei Wei"
+          ],
+          "doi": "10.1016/j.celrep.2026.117984",
+          "url": "https://www.semanticscholar.org/paper/d42dabd276e6655ebe05f51ccec201cfc7dbd2ba",
+          "citation_count": 0
+        },
+        {
+          "id": "bae5d783f8fb9094b3012cee2cd6db10122eff81",
+          "title": "Phages Targeting Flagella: Adsorption and Infection Mechanisms of Flagellotropic Phages.",
+          "year": 2026,
+          "journal": "Annual Review of Virology",
+          "authors": [
+            "Jackson A. Wood",
+            "Nathaniel C. Esteves",
+            "B. Scharf"
+          ],
+          "doi": "10.1146/annurev-virology-100424-123335",
+          "url": "https://www.semanticscholar.org/paper/bae5d783f8fb9094b3012cee2cd6db10122eff81",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Biology"
+      ],
+      "publication_types": [],
+      "tldr": "Bacterial species are capable of consuming bacteriophages in situ, which is likely a widespread and underestimated type of biocontrol.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "phosphorus",
         "virus",
         "water"
       ],
@@ -37665,7 +37665,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 214,
+      "citation_count": 215,
       "influential_citation_count": 10,
       "reference_count": 91,
       "references": [
@@ -38984,7 +38984,7 @@
       "abstract": "Lake Baikal is the largest body of liquid freshwater on Earth. Previous studies have described the microbial composition of this habitat, but the viral communities from this ecosystem have not been characterized in detail. Here, we describe the viral diversity of this habitat across depth and seasonal gradients. We discovered 19,475 bona fide viral sequences, which are derived from viruses predicted to infect abundant and ecologically important taxa that reside in Lake Baikal, such as Nitrospirota, Methylophilaceae, and Crenarchaeota. Diversity analysis revealed significant changes in viral community composition between epipelagic and bathypelagic zones. Analysis of the gene content of individual viral populations allowed us to describe one of the first bacteriophages that infect Nitrospirota, and their extensive repertoire of auxiliary metabolic genes that might enhance carbon fixation through the reductive TCA cycle. We also described bacteriophages of methylotrophic bacteria with the potential to enhance methanol oxidation and the S-adenosyl-L-methionine cycle. These findings unraveled new ways by which viruses influence the carbon cycle in freshwater ecosystems, namely, by using auxiliary metabolic genes that act upon metabolisms of dark carbon fixation and methylotrophy. Therefore, our results shed light on the processes through which viruses can impact biogeochemical cycles of major ecological relevance. B3i_F4qvBy9xmcnWBwjShq Video Abstract Video Abstract",
       "url": "https://www.semanticscholar.org/paper/4821549f7e13f68fb88862288588dbe3d5877573",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4821549f7e13f68fb88862288588dbe3d5877573",
-      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/04/03/2020.04.02.019802.full.pdf",
+      "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00936-4",
       "citation_count": 65,
       "influential_citation_count": 3,
       "reference_count": 83,
@@ -39952,7 +39952,7 @@
         "D. Ning",
         "Zhi-Li He",
         "Li-You Wu",
-        "Ji-Zhong Zhou"
+        "J. Zhou"
       ],
       "journal": "mSystems",
       "publication_date": "2019-06-18",
@@ -40355,7 +40355,7 @@
         "D. Yee",
         "R. de Jesús Crespo",
         "A. Oczkowski",
-        "F. Bai",
+        "Feng-Wei Bai",
         "S. Friedman"
       ],
       "journal": "EcoHealth",
@@ -40529,7 +40529,7 @@
       "url": "https://www.semanticscholar.org/paper/da6de2ffd8259859bb72b36b94222cf27a19c1a3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/da6de2ffd8259859bb72b36b94222cf27a19c1a3",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/04/26/583997.full.pdf",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 0,
       "reference_count": 78,
       "references": [
@@ -41296,7 +41296,7 @@
       "abstract": "Executive summary The Lancet Countdown: tracking progress on health and climate change was established to provide an independent, global monitoring system dedicated to tracking the health dimensions of the impacts of, and the response to, climate change. The Lancet Countdown tracks 41 indicators across five domains: climate change impacts, exposures, and vulnerability; adaptation, planning, and resilience for health; mitigation actions and health co-benefits; finance and economics; and public and political engagement. This report is the product of a collaboration of 27 leading academic institutions, the UN, and intergovernmental agencies from every continent. The report draws on world-class expertise from climate scientists, ecologists, mathematicians, geographers, engineers, energy, food, livestock, and transport experts, economists, social and political scientists, public health professionals, and doctors. The Lancet Countdown’s work builds on decades of research in this field, and was first proposed in the 2015 Lancet Commission on health and climate change,1 which documented the human impacts of climate change and provided ten global recommendations to respond to this public health emergency and secure the public health benefits available (panel 1). The following four key messages derive from the Lancet Countdown’s 2018 report1 Present day changes in heat waves, labour capacity, vector-borne disease, and food security provide early warning of the compounded and overwhelming impact on public health that are expected if temperatures continue to rise. Trends in climate change impacts, exposures, and vulnerabilities show an unacceptably high level of risk for the current and future health of populations across the world.2 A lack of progress in reducing emissions and building adaptive capacity threatens both human lives and the viability of the national health systems they depend on, with the potential to disrupt core public health infrastructure and overwhelm health services.3 Despite these delays, a number of sectors have seen the beginning of a low-carbon transition, and it is clear that the nature and scale of the response to climate change will be the determining factor in shaping the health of nations for centuries to come.4 Ensuring a widespread understanding of climate change as a central public health issue will be crucial in delivering an accelerated response, with the health profession beginning to rise to this challenge. Climate change impacts, exposures, and vulnerability Vulnerability to extremes of heat has steadily risen since 1990 in every region, with 157 million more people exposed to heatwave events in 2017, compared with 2000, and with the average person experiencing an additional 1·4 days of heatwaves per year over the same period (indicators 1.1 and 1.3). For national economies and household budgets, 153 billion hours of labour were lost in 2017 because of heat, an increase of more than 62 billion hours (3·2 billion weeks of work) since 2000 (indicator 1.4). The direct effects of climate change extend beyond heat to include extremes of weather. In 2017, a total of 712 extreme weather events resulted in US$326 billion in economic losses, almost triple the total losses of 2016 (indicator 4.1). Small changes in temperature and precipitation can result in large changes in the suitability for transmission of important vector-borne and water-borne diseases. In 2016, global vectorial capacity for the transmission of the dengue fever virus was the highest on record, rising to 9·1% for Aedes aegypti and 11·1% for Aedes albopictus above the 1950s baseline. Focusing on high-risk areas and diseases, the Baltic region has had a 24% increase in the coastline area suitable for epidemics of Vibrio cholerae, and in 2016, the highlands of sub-Saharan Africa saw a 27·6% rise in the vectorial capacity for the transmission of malaria from the 1950 baseline (indicator 1.8). A proxy of agricultural yield potential shows declines in every region, with 30 countries having downward trends in yields, reversing a decades-long trend of improvement (indicator 1.9.1). Decreasing labour productivity, increased capacity for the transmission of diseases such as dengue fever, malaria, and cholera, and threats to food security provide early warning of compounding negative health and nutrition effects if temperatures continue to rise. Adaptation, planning, and resilience for health Global inertia in adapting to climate change persists, with a mixed response from national governments since the signing of the Paris Agreement in 2015. More than half of global cities surveyed expect climate change to seriously compromise public health infrastructure, either directly, with extremes of weather disrupting crucial services, or indirectly, through the overwhelming of existing services with increased burdens of disease (indicator 2.2). Globally, spending for climate change adaptation remains well below the $100 billion per year commitment made under the Paris Agreement. Within this annual spending, only 3·8% of total development spending committed through formal UN Framework Convention on Climate Change (UNFCCC) mechanisms is dedicated to human health (indicator 2.8). This low investment in adaptive capacity is magnified in specific regions around the world, with only 55% of African countries meeting International Health Regulation core requirements for preparedness for a multihazard public health emergency (indicator 2.3). Mitigation actions and health co-benefits Multiple examples of stagnated mitigation efforts exist, with a crucial marker of decarbonisation—the carbon intensity of total primary energy supply—remaining unchanged since 1990 (indicator 3.1). A third of the global population, 2·8 billion people, live without access to healthy, clean, and sustainable cooking fuel or technologies, which is the same number of people as in 2000 (indicator 3.4). In the transport sector, per-capita global road-transport fuel use increased by 2% from 2013 to 2015, and cycling comprises less than 10% of total journeys taken in three quarters of a global sample of cities (indicators 3.6 and 3.7). The health burden of such inaction has been immense, with people in more than 90% of cities breathing polluted air that is toxic to their cardiovascular and respiratory health. Indeed, between 2010, and 2016, air pollution concentrations worsened in almost 70% of cities around the globe, particularly in low-income and middle-income countries (LMICs; indicator 3.5.1). In 2015 alone, fine particulate matter (ie, atmospheric particulate matter with a diameter of less than 2·5 μm [PM2·5]) was responsible for 2·9 million premature deaths, with coal being responsible for more than 460 000 (16%) of these deaths, and with the total death toll (from other causes including particulates and emissions such as nitrogen oxide) being substantially higher (indicator 3.5.2). Of concern, global employment in fossil-fuel extractive industries actually increased by 8% between 2016, and 2017, reversing the strong decline seen since 2011 (indicator 4.4). At a time when national health budgets and health services face a growing epidemic of lifestyle diseases, continued delay in unlocking the potential health co-benefits of climate change mitigation is short-sighted and damaging for human health. Despite this stagnation, progress in the power generation and transport sectors provide some cause for optimism, with many positive trends being observed in the 2017 report,2 and which continue in the present 2018 report. Notably, coal use continues to decline (indicator 3.2) and more renewable energy was installed in 2017 than energy from fossil fuels (indicator 3.3). However, maintaining the global average temperature rise to well below 2°C necessitates wide-reaching transformations across all sectors of society, including power generation, transport, spatial infrastructure, food and agriculture, and the design of health systems. These transformations, in turn, offer levers to help tackle the root causes of the world’s greatest public health challenges. Finance and economics About 712 climate-related extreme events were responsible for US$326 billion of losses in 2017, almost triple the losses of 2016 (indicator 4.1). Crucially, 99% of the losses in low-income countries remained uninsured. Indicators of investment in the low-carbon economy show that the transition is already underway, with continued growth in investment in zero-carbon energy, and growing numbers of people employed in renewable energy sectors (indicators 4.2 and 4.4). Furthermore, investment in new coal capacity in 2017, was at its lowest in at least 10 years, with 2015 potentially marking a peak in coal investment. Correspondingly, global subsidies for fossil fuels continued to decrease, and carbon pricing only covers 13·1% of global greenhouse-gas emissions, a number that is expected to increase to more than 20% when planned legislation in China is implemented in late 2018 (indicators 4.6 and 4.7). However, the rise of employment in fossil fuel industries in 2017 reversed a 5 year downward trend, and will be a key indicator to follow closely. Public and political engagement A better understanding of the health dimensions of climate change allows for advanced preparedness, increased resilience and adaptation, and a prioritisation of mitigation interventions that protect and promote human wellbeing. To this end, coverage of health and climate change in the media has increased substantially between 2007, and 2017 (indicator 5.1). Following this trend, the number of academic journal articles published on health and climate change has almost tripled over the same period (indicator 5.2). These figures often follow internationally important events, such as the UNFCCC’s Conference of the Parties (COP), along with temporary rises in mentions of health and climate change within the UN General Debate (UNGD; indicator 5.3).",
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
-      "pdf_url": "http://sro.sussex.ac.uk/id/eprint/80613/3/18TL4101_Lancet%20Countdown_final_embargoed.pdf",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7616804",
       "citation_count": 776,
       "influential_citation_count": 23,
       "reference_count": 122,
@@ -41875,7 +41875,7 @@
       "url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27f3b4089a78cfe0ffb23a296dba5b1bca6d9934",
       "pdf_url": "https://doi.org/10.1128/msystems.00076-18",
-      "citation_count": 286,
+      "citation_count": 287,
       "influential_citation_count": 4,
       "reference_count": 174,
       "references": [
@@ -44931,7 +44931,7 @@
       "url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "pdf_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2013-14-11-r123",
-      "citation_count": 239,
+      "citation_count": 243,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -45151,7 +45151,7 @@
       "url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057355&type=printable",
-      "citation_count": 331,
+      "citation_count": 336,
       "influential_citation_count": 24,
       "reference_count": 74,
       "references": [
