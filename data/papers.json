@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T01:00:57.704649+00:00",
+  "updated_at": "2026-10-30T01:06:33.454532+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -446,6 +446,117 @@
       ],
       "detail_enriched_at": "2026-10-11T00:16:14.762301+00:00",
       "edges_enriched_at": "2026-10-11T00:16:23.920883+00:00"
+    },
+    {
+      "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+      "semantic_scholar_id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1038/s41467-026-78161-0",
+      "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+      "authors": [
+        "Bo-Wen Hou",
+        "Li-Lan Zhang",
+        "Dong Sun"
+      ],
+      "journal": "Nature Communications",
+      "publication_date": "2026-09-29",
+      "abstract": "Deep-sea polymetallic nodule provinces host distinct benthic prokaryotic communities, yet viruses that regulate them remain largely unknown. Here, we established the viral genome dataset of the Clarion-Clipperton Fracture Zone, the world’s largest deep-sea mineral exploration region, to investigate viral diversity and ecological functions. Protein-sharing network and phylogenetic analyses showed extensive benthic viral diversity, with over 99% of viral clusters not represented in current reference databases. Inferred virus–host associations suggest that viral infections span a broad range of prokaryotic lineages involved in carbon, nitrogen, phosphorus, sulfur, and metal cycling. By infecting key functional microbes and encoding auxiliary metabolic genes, viruses may modulate host metabolism and survival during infection, with potential implications for biogeochemical processes in polymetallic nodule field sediments. Moreover, gene exchange analyses indicate the potential of viruses to facilitate host adaptation to metal stress. These findings provide insights into the ecological roles of viruses in the polymetallic nodule province, establishing a vital pre-mining baseline of microbial ecosystem for future environmental impact assessments. The viral contributions to deep-sea polymetallic ecosystems, rich in valuable mineral nodules, remain unclear. Here, the authors created the first large-scale catalog of viruses from the Clarion-Clipperton Fracture Zone and found extensive viral diversity that may influence nutrient cycling, microbial survival, and adaptation to metal-rich environments.",
+      "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+      "pdf_url": "https://www.nature.com/articles/s41467-026-78161-0_reference.pdf",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "dfe862e2a191d5d3f4d3be87f65139d7869e4283",
+          "title": "Diverse biosynthetic pathways in Arctic hydrothermal biofilms",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Thuc Trong Nguyen",
+            "I. H. Steen",
+            "R. Stokke"
+          ],
+          "doi": "10.1038/s41467-026-77384-5",
+          "url": "https://www.semanticscholar.org/paper/dfe862e2a191d5d3f4d3be87f65139d7869e4283",
+          "citation_count": 0
+        },
+        {
+          "id": "65d1f0176caeae20bc9d1f417abf5212e0346fdf",
+          "title": "Extensive horizontal gene transfer drives microbial adaptation and diversification in Kermadec Trench hadal microbiomes",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Pei-Yu Liu",
+            "Yong-Xin Lv",
+            "Yu Zhang"
+          ],
+          "doi": "10.1038/s41467-026-77994-z",
+          "url": "https://www.semanticscholar.org/paper/65d1f0176caeae20bc9d1f417abf5212e0346fdf",
+          "citation_count": 0
+        },
+        {
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
+          ],
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "citation_count": 0
+        },
+        {
+          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Peng-Wei Li",
+            "Jin-Ren Ni"
+          ],
+          "doi": "10.64898/2026.09.14.751636",
+          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "citation_count": 0
+        },
+        {
+          "id": "83dc95b06ccbfd78093a3257fc7bd4a56e9120ab",
+          "title": "The biogeography of giant viruses and interactions with Eukaryotes across European lakes",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "O. Kolmakova",
+            "F. Schulz",
+            "Yumary M. Vasquez"
+          ],
+          "doi": "10.1038/s41467-026-77765-w",
+          "url": "https://www.semanticscholar.org/paper/83dc95b06ccbfd78093a3257fc7bd4a56e9120ab",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "phosphorus",
+        "sediment",
+        "sulfur",
+        "virus"
+      ],
+      "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00"
     },
     {
       "id": "051edb67ccc7760e0538bfd0584116accea900ac",
@@ -1015,7 +1126,7 @@
       "authors": [
         "Ying-Hao Li",
         "Tian-Yi Chen",
-        "Pengwei Li",
+        "Peng-Wei Li",
         "Guo-Hua Zhang",
         "Yu-Cheng Tian",
         "Jia-Wen Wang",
@@ -2510,74 +2621,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "a7d9193d1dac4597d5f8f4cec30e6ebc314e3f46",
-          "title": "Viral community assembly during cyanobacterial blooms reveals ecosystem-specific regulation and nutrient cycling in freshwater lakes.",
+          "id": "535ab5e01b5dbcbc7892a2cd03f4a84775b8b1af",
+          "title": "Microbial ecology of mask-derived plastisphere in sediments",
           "year": 2026,
-          "journal": "Ecotoxicology and Environmental Safety",
+          "journal": "Seventh International Conference on Green Energy, Environment, and Sustainable Development (GEESD 2026)",
           "authors": [
-            "Seung-Jun Lee",
-            "Min-Ji Kim",
-            "Morgan V. Evans"
+            "Yun-Ting Feng",
+            "Guang-Yi Zhang"
           ],
-          "doi": "10.1016/j.ecoenv.2026.120653",
-          "url": "https://www.semanticscholar.org/paper/a7d9193d1dac4597d5f8f4cec30e6ebc314e3f46",
+          "doi": "10.1117/12.3130064",
+          "url": "https://www.semanticscholar.org/paper/535ab5e01b5dbcbc7892a2cd03f4a84775b8b1af",
           "citation_count": 0
         },
         {
-          "id": "4446691e6a396af15a537e303adf33c494f25c88",
-          "title": "Adaptation of Soil Viruses to Salinity Stress: Insights Into Genome Size Expansion and Functional Diversification.",
+          "id": "b855652bdc328cb8fc3147d7148764ad7aef74c3",
+          "title": "Microbial community multi-omic analysis of marsh sediment following enrichment with crustacean shell compost",
           "year": 2026,
-          "journal": "Environmental Microbiology",
+          "journal": "ISME Communications",
           "authors": [
-            "Ayijiamali Kudureti",
-            "Shuai Zhao",
-            "Xu Liu"
+            "C. Yancey",
+            "Kyle D Brumfield",
+            "L. Ettwiller"
           ],
-          "doi": "10.1111/1462-2920.70395",
-          "url": "https://www.semanticscholar.org/paper/4446691e6a396af15a537e303adf33c494f25c88",
+          "doi": "10.1093/ismeco/ycag307",
+          "url": "https://www.semanticscholar.org/paper/b855652bdc328cb8fc3147d7148764ad7aef74c3",
           "citation_count": 0
         },
         {
-          "id": "ffb33e37b5046067d5654946f03150c8e9126afa",
-          "title": "Niche-driven divergence of prokaryotic and viral communities in Pogonatum cirratum",
+          "id": "3129b21282d0d5df6242fbad2c51741d7217047e",
+          "title": "Virus-host interactions in iron-oxidizing mats of the East Pacific Rise",
           "year": 2026,
-          "journal": "iScience",
+          "journal": "PLoS ONE",
           "authors": [
-            "Chao-Jian Hu",
-            "Muhammad Asif",
-            "Jin-Hui Liu"
+            "Kathryn L. Campbell",
+            "J. Sylvan",
+            "C. Moyer"
           ],
-          "doi": "10.1016/j.isci.2026.117172",
-          "url": "https://www.semanticscholar.org/paper/ffb33e37b5046067d5654946f03150c8e9126afa",
+          "doi": "10.1371/journal.pone.0357099",
+          "url": "https://www.semanticscholar.org/paper/3129b21282d0d5df6242fbad2c51741d7217047e",
           "citation_count": 0
         },
         {
-          "id": "765666ea9bf7d241647e8fbd76a8a277039a20cf",
-          "title": "Shifts in adaptive strategies of soil microbial communities during coral island revegetation",
+          "id": "01b714205d454a594f5a134bcc7443f09bbea972",
+          "title": "Single-Cell Insights\ninto Virus–Microbe Interactions\nin Emerging Contaminant Degradation",
           "year": 2026,
-          "journal": "Journal of Applied Ecology",
+          "journal": "Environmental Science &amp;\nTechnology",
           "authors": [
-            "Lu-Ping Huang",
-            "Ming-Xing Wang",
-            "An-Hui Ge"
+            "Ji-Bing Li",
+            "Jia-Rui Liu",
+            "Xi-Xi Cai"
           ],
-          "doi": "10.1111/1365-2664.70547",
-          "url": "https://www.semanticscholar.org/paper/765666ea9bf7d241647e8fbd76a8a277039a20cf",
+          "doi": "10.1021/acs.est.6c09032",
+          "url": "https://www.semanticscholar.org/paper/01b714205d454a594f5a134bcc7443f09bbea972",
           "citation_count": 0
         },
         {
-          "id": "093f0ec825e7af50a5b1f19c79a978c2c0b82b5d",
-          "title": "Diversity, biogeography and assembly mechanisms of groundwater microbiomes",
+          "id": "8e48938619f6d33652e45634b3b015975b8c3ae5",
+          "title": "Soil Protists Consume Viruses to Drive Microbial Nutrient Cycling: Overlooked Trophic Pathways in Soil Food Web.",
           "year": 2026,
-          "journal": "Nature Reviews Earth & Environment",
+          "journal": "Environmental Science and Technology",
           "authors": [
-            "Zong-Zhi Wu",
-            "D. Ning",
-            "Matthew W. Fields"
+            "Yu-Ting Zhao",
+            "Ke-Xin Yu",
+            "Jing Tang"
           ],
-          "doi": "10.1038/s43017-026-00813-y",
-          "url": "https://www.semanticscholar.org/paper/093f0ec825e7af50a5b1f19c79a978c2c0b82b5d",
-          "citation_count": 1
+          "doi": "10.1021/acs.est.6c06384",
+          "url": "https://www.semanticscholar.org/paper/8e48938619f6d33652e45634b3b015975b8c3ae5",
+          "citation_count": 0
         }
       ],
       "fields_of_study": [
@@ -2598,7 +2708,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-09-29T01:02:34.177855+00:00",
-      "edges_enriched_at": "2026-09-29T01:02:34.941872+00:00"
+      "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00"
     },
     {
       "id": "c8ecd00761de6191e45077783333c0d521f2d045",
@@ -4678,7 +4788,7 @@
       "abstract": "Viruses are key regulators of terrestrial carbon, nitrogen, and phosphorus cycling, yet how environmental perturbations structure viral activity remains poorly resolved. Rewetting of seasonally dry soils triggers rapid microbial and viral responses, but the relationships between virion-associated and transcriptionally active viral communities, and the role of phosphorus in these dynamics, remain unclear. Here, we integrated viromics, metatranscriptomics, environmental DNA (eDNA), and amplicon sequencing to track viral succession and virus–host interactions over three weeks following soil rewetting, with and without phosphorus amendment. We identified 13,840 viral populations (vOTUs), of which 3,803 were transcriptionally active, representing ongoing infections. Wet-up significantly altered virion and transcriptionally active viral communities, while phosphorus selectively influenced prokaryotic and transcriptionally active viral communities but not virion composition. Virus–host linkages were predicted for 32% of vOTUs, with transcriptionally active bacteriophages infecting Actinomycetota increasing under phosphorus amendment. Following wet-up, virion abundance decreased ∼3-fold while virocells increased ∼5-fold, indicating a shift from viral persistence in dry soils to active infection. Phosphorus further enhanced virocell abundance. eDNA captured rapid viral turnover and revealed transient dynamics not resolved by viromes or metatranscriptomes alone. Together, these results demonstrate that soil viral communities are structured by distinct but complementary molecular pools that operate over different ecological timescales. Wet-up activates a reservoir of persistent virions, while phosphorus availability regulates infection dynamics and host–virus coupling. These findings highlight viruses as dynamic drivers of microbial turnover and nutrient cycling following environmental perturbation, advancing a more predictive understanding of soil ecosystem responses to changing resource availability.",
       "url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/57f7d3f2f0d0886defcc03587bf042f062f59e33",
-      "pdf_url": "https://doi.org/10.64898/2026.04.11.717596",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2026/04/14/2026.04.11.717596.full.pdf",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 79,
@@ -5181,7 +5291,7 @@
       "url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "pdf_url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -14791,7 +14901,7 @@
       "url": "https://www.semanticscholar.org/paper/2921503b80581d3c4df29c2f2ee3462156eca712",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2921503b80581d3c4df29c2f2ee3462156eca712",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/02/06/2024.02.06.579183.full.pdf",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 2,
       "reference_count": 81,
       "references": [
@@ -16644,7 +16754,7 @@
       "url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c324a63b2188db0be352cab07d1b705e075c821f",
       "pdf_url": "https://www.nature.com/articles/s41467-024-51230-y.pdf",
-      "citation_count": 32,
+      "citation_count": 33,
       "influential_citation_count": 7,
       "reference_count": 106,
       "references": [
@@ -17090,7 +17200,7 @@
       "abstract": "Background Soil giant viruses are increasingly believed to have profound effects on ecological functioning by infecting diverse eukaryotes. However, their biogeography and ecology remain poorly understood. Results In this study, we analyzed 333 soil metagenomes from 5 habitat types (farmland, forest, grassland, Gobi desert, and mine wasteland) across China and identified 533 distinct giant virus phylotypes affiliated with nine families, thereby greatly expanding the diversity of soil giant viruses. Among the nine families, Pithoviridae were the most diverse. The majority of phylotypes exhibited a heterogeneous distribution among habitat types, with a remarkably high proportion of unique phylotypes in mine wasteland. The abundances of phylotypes were negatively correlated with their environmental ranges. A total of 76 phylotypes recovered in this study were detectable in a published global topsoil metagenome dataset. Among climatic, geographical, edaphic, and biotic characteristics, soil eukaryotes were identified as the most important driver of beta-diversity of giant viral communities across habitat types. Moreover, co-occurrence network analysis revealed some pairings between giant viral phylotypes and eukaryotes (protozoa, fungi, and algae). Analysis of 44 medium- to high-quality giant virus genomes recovered from our metagenomes uncovered not only their highly shared functions but also their novel auxiliary metabolic genes related to carbon, sulfur, and phosphorus cycling. Conclusions These findings extend our knowledge of diversity, habitat preferences, ecological drivers, potential hosts, and auxiliary metabolism of soil giant viruses. Video Abstract",
       "url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
-      "pdf_url": "",
+      "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01851-8",
       "citation_count": 18,
       "influential_citation_count": 0,
       "reference_count": 69,
@@ -17587,7 +17697,7 @@
       "url": "https://www.semanticscholar.org/paper/5d7784107f6f3dbe0f3b03a8712735d67483382b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5d7784107f6f3dbe0f3b03a8712735d67483382b",
       "pdf_url": "https://www.nature.com/articles/s41467-025-59154-x.pdf",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 2,
       "reference_count": 105,
       "references": [
@@ -18261,12 +18371,12 @@
       "doi": "10.1016/j.jhazmat.2024.135058",
       "title": "Environmental risks of mask wastes binding pollutants: Phytotoxicity, microbial community, nitrogen and carbon cycles.",
       "authors": [
-        "Yuchao Jiang",
+        "Yu-Chao Jiang",
         "Chun-Xiu Zhou",
         "Aman Khan",
-        "Xueyao Zhang",
+        "Xue-Yao Zhang",
         "Tursunay Mamtimin",
-        "Jingwen Fan",
+        "Jing-Wen Fan",
         "Xiao-Xiao Hou",
         "Pu Liu",
         "Hua-Wen Han",
@@ -19499,7 +19609,7 @@
       "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47600-1.pdf",
-      "citation_count": 60,
+      "citation_count": 61,
       "influential_citation_count": 11,
       "reference_count": 134,
       "references": [
@@ -21094,7 +21204,7 @@
       "abstract": "ABSTRACT Application of organic fertilizers is an important strategy for sustainable agriculture. The biological source of organic fertilizers determines their specific functional characteristics, but few studies have systematically examined these functions or assessed their health risk to soil ecology. To fill this gap, we analyzed 16S rRNA gene amplicon sequencing data from 637 soil samples amended with plant- and animal-derived organic fertilizers (hereafter plant fertilizers and animal fertilizers). Results showed that animal fertilizers increased the diversity of soil microbiome, while plant fertilizers maintained the stability of soil microbial community. Microcosm experiments verified that plant fertilizers were beneficial to plant root development and increased carbon cycle pathways, while animal fertilizers enriched nitrogen cycle pathways. Compared with animal fertilizers, plant fertilizers harbored a lower abundance of risk factors such as antibiotic resistance genes and viruses. Consequently, plant fertilizers might be more suitable for long-term application in agriculture. This work provides a guide for organic fertilizer selection from the perspective of soil microecology and promotes sustainable development of organic agriculture. IMPORTANCE This study provides valuable guidance for use of organic fertilizers in agricultural production from the perspective of the microbiome and ecological risk. This study provides valuable guidance for use of organic fertilizers in agricultural production from the perspective of the microbiome and ecological risk.",
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
-      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10880660",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10880660/pdf/aem.01719-23.pdf",
       "citation_count": 59,
       "influential_citation_count": 2,
       "reference_count": 49,
@@ -21368,7 +21478,7 @@
       "abstract": "Abstract Marine viruses are key players of ocean biogeochemistry, profoundly influencing microbial community ecology and evolution. Despite their importance, few studies have explored continuous inter-seasonal viral metagenomic time series in marine environments. Viral dynamics are complex, influenced by multiple factors such as host population dynamics and environmental conditions. To disentangle the complexity of viral communities, we developed an unsupervised machine learning framework to classify viral contigs into “chronotypes” based on temporal abundance patterns. Analysing an inter-seasonal monthly time series of surface viral metagenomes from the Western English Channel, we identified chronotypes and compared their functional and evolutionary profiles. Results revealed a consistent annual cycle with steep compositional changes from winter to summer and steadier transitions from summer to winter. Seasonal chronotypes were enriched in potential auxiliary metabolic genes of the ferrochelatases and 2OG-Fe(II) oxygenase orthologous groups compared to non-seasonal types. Chronotypes clustered into four groups based on their correlation profiles with environmental parameters, primarily driven by temperature and nutrients. Viral contigs exhibited a rapid turnover of polymorphisms, akin to Red Queen dynamics. However, within seasonal chronotypes, some sequences exhibited annual polymorphism recurrence, suggesting that a fraction of the seasonal viral populations evolve more slowly. Classification into chronotypes revealed viral genomic signatures linked to temporal patterns, likely reflecting metabolic adaptations to environmental fluctuations and host dynamics. This novel framework enables the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.",
       "url": "https://www.semanticscholar.org/paper/88f79b67732b62a691e5286cf527ca5cd07cd693",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/88f79b67732b62a691e5286cf527ca5cd07cd693",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1093/ismejo/wrae216",
       "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 0,
@@ -21912,7 +22022,7 @@
         "Sheng-Yun Chen",
         "Jingyang Xu",
         "Jiabao Cao",
-        "Ali Bahadur",
+        "A. Bahadur",
         "Minghui Wu",
         "Zhouwei Wang",
         "Jianwei Chen",
@@ -24588,7 +24698,7 @@
       "url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/733d09023ff28fb32d628436806a552c3fe2d400",
       "pdf_url": "https://www.mdpi.com/2813-3145/2/2/19/pdf?version=1686715910",
-      "citation_count": 253,
+      "citation_count": 256,
       "influential_citation_count": 9,
       "reference_count": 248,
       "references": [
@@ -25554,7 +25664,7 @@
       "authors": [
         "Lan-Lan Cai",
         "Bu Xu",
-        "Huifang Li",
+        "Hui-Fang Li",
         "Yongle Xu",
         "Wei Wei",
         "Rui Zhang"
@@ -26344,7 +26454,7 @@
       "title": "Giant Virus Infection Signatures Are Modulated by Euphotic Zone Depth Strata and Iron Regimes of the Subantarctic Southern Ocean",
       "authors": [
         "N. Gilbert",
-        "Gary R. LeCleir",
+        "G. Lecleir",
         "Helena L. Pound",
         "R. Strzepek",
         "M. Ellwood",
@@ -27509,7 +27619,7 @@
       "url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/19bec9ad921fc618575cf457a9754beb99543bed",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01441-6",
-      "citation_count": 85,
+      "citation_count": 86,
       "influential_citation_count": 6,
       "reference_count": 126,
       "references": [
@@ -28006,7 +28116,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 229,
+      "citation_count": 230,
       "influential_citation_count": 11,
       "reference_count": 105,
       "references": [
@@ -29420,6 +29530,112 @@
       "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
     },
     {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "Оксана Вячеславівна Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "52dd14e8d84907f12168dcf98dcce766f86aacb3",
+          "title": "Development of in vitro propagation protocol for Stevia (Stevia rebaudiana Bertoni)",
+          "year": 2026,
+          "journal": "Bangladesh Journal of Agricultural Research",
+          "authors": [
+            "T. Nusrat",
+            "Z. Tasnim",
+            "Tk. Ghosh"
+          ],
+          "doi": "10.3329/bjar.v50i1.92067",
+          "url": "https://www.semanticscholar.org/paper/52dd14e8d84907f12168dcf98dcce766f86aacb3",
+          "citation_count": 0
+        },
+        {
+          "id": "edc5a1aeb87d1efe5cda0366ed7e427ce86eb66f",
+          "title": "Optimization of microclonal propagation and adaptation to ex vitro conditions for the hop (Humulus lupulus L.) variety Slov’ianka",
+          "year": 2026,
+          "journal": "Agricultural science and practice",
+          "authors": [
+            "N. Yaremko",
+            "V. Taienchuk",
+            "R. Hrynyk"
+          ],
+          "doi": "10.15407/agrisp13.02.015",
+          "url": "https://www.semanticscholar.org/paper/edc5a1aeb87d1efe5cda0366ed7e427ce86eb66f",
+          "citation_count": 0
+        },
+        {
+          "id": "4316a499486499a7278ca75749767d8b99fcedf8",
+          "title": "An optimised in vitro propagation protocol for scarlet banana (Musa coccinea Andrews) promoting efficient shoot multiplication, rooting and acclimatisation",
+          "year": 2026,
+          "journal": "Plant Science Today",
+          "authors": [
+            "N.-V. Lan",
+            "T. V. Binh",
+            "V. Hai"
+          ],
+          "doi": "10.14719/pst.13054",
+          "url": "https://www.semanticscholar.org/paper/4316a499486499a7278ca75749767d8b99fcedf8",
+          "citation_count": 0
+        },
+        {
+          "id": "e9ad034404a70d76e6bc5b3700011eae5ed30271",
+          "title": "Micropropagation of Nymphaea pubescens: An Efficient Protocol for Tuber-Derived Tissue Culture, Shoot Multiplication, and Field Establishment",
+          "year": 2026,
+          "journal": "International Journal of Plant Biology",
+          "authors": [
+            "Nattawut Rodboot",
+            "S. Yenchon"
+          ],
+          "doi": "10.3390/ijpb17080071",
+          "url": "https://www.semanticscholar.org/paper/e9ad034404a70d76e6bc5b3700011eae5ed30271",
+          "citation_count": 0
+        },
+        {
+          "id": "0c06c0fae70913d16434e256c23055e770019927",
+          "title": "Study on Tissue Culture and Rapid Propagation of Different Peony Cultivars",
+          "year": 2026,
+          "journal": "Journal of Agriculture and Ecology Research International",
+          "authors": [
+            "Shangguan Li",
+            "Peng-Qi Yue",
+            "Yingxue Lei"
+          ],
+          "doi": "10.9734/jaeri/2026/v27i5797",
+          "url": "https://www.semanticscholar.org/paper/0c06c0fae70913d16434e256c23055e770019927",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
+      "edges_enriched_at": "2026-10-03T00:32:59.545173+00:00"
+    },
+    {
       "id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "semantic_scholar_id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "source": "Semantic Scholar",
@@ -29575,112 +29791,6 @@
         "nitrogen",
         "phosphorus",
         "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-10-02T00:50:17.245311+00:00",
-      "edges_enriched_at": "2026-10-03T00:32:59.545173+00:00"
-    },
-    {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "Оксана Вячеславівна Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "52dd14e8d84907f12168dcf98dcce766f86aacb3",
-          "title": "Development of in vitro propagation protocol for Stevia (Stevia rebaudiana Bertoni)",
-          "year": 2026,
-          "journal": "Bangladesh Journal of Agricultural Research",
-          "authors": [
-            "T. Nusrat",
-            "Z. Tasnim",
-            "Tk. Ghosh"
-          ],
-          "doi": "10.3329/bjar.v50i1.92067",
-          "url": "https://www.semanticscholar.org/paper/52dd14e8d84907f12168dcf98dcce766f86aacb3",
-          "citation_count": 0
-        },
-        {
-          "id": "edc5a1aeb87d1efe5cda0366ed7e427ce86eb66f",
-          "title": "Optimization of microclonal propagation and adaptation to ex vitro conditions for the hop (Humulus lupulus L.) variety Slov’ianka",
-          "year": 2026,
-          "journal": "Agricultural science and practice",
-          "authors": [
-            "N. Yaremko",
-            "V. Taienchuk",
-            "R. Hrynyk"
-          ],
-          "doi": "10.15407/agrisp13.02.015",
-          "url": "https://www.semanticscholar.org/paper/edc5a1aeb87d1efe5cda0366ed7e427ce86eb66f",
-          "citation_count": 0
-        },
-        {
-          "id": "4316a499486499a7278ca75749767d8b99fcedf8",
-          "title": "An optimised in vitro propagation protocol for scarlet banana (Musa coccinea Andrews) promoting efficient shoot multiplication, rooting and acclimatisation",
-          "year": 2026,
-          "journal": "Plant Science Today",
-          "authors": [
-            "N.-V. Lan",
-            "T. V. Binh",
-            "V. Hai"
-          ],
-          "doi": "10.14719/pst.13054",
-          "url": "https://www.semanticscholar.org/paper/4316a499486499a7278ca75749767d8b99fcedf8",
-          "citation_count": 0
-        },
-        {
-          "id": "e9ad034404a70d76e6bc5b3700011eae5ed30271",
-          "title": "Micropropagation of Nymphaea pubescens: An Efficient Protocol for Tuber-Derived Tissue Culture, Shoot Multiplication, and Field Establishment",
-          "year": 2026,
-          "journal": "International Journal of Plant Biology",
-          "authors": [
-            "Nattawut Rodboot",
-            "S. Yenchon"
-          ],
-          "doi": "10.3390/ijpb17080071",
-          "url": "https://www.semanticscholar.org/paper/e9ad034404a70d76e6bc5b3700011eae5ed30271",
-          "citation_count": 0
-        },
-        {
-          "id": "0c06c0fae70913d16434e256c23055e770019927",
-          "title": "Study on Tissue Culture and Rapid Propagation of Different Peony Cultivars",
-          "year": 2026,
-          "journal": "Journal of Agriculture and Ecology Research International",
-          "authors": [
-            "Shangguan Li",
-            "Peng-Qi Yue",
-            "Yingxue Lei"
-          ],
-          "doi": "10.9734/jaeri/2026/v27i5797",
-          "url": "https://www.semanticscholar.org/paper/0c06c0fae70913d16434e256c23055e770019927",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
         "virus",
         "water"
       ],
@@ -30418,7 +30528,7 @@
       "authors": [
         "Shuai Wang",
         "Yu Yang",
-        "Jiaojiao Jing"
+        "Jiao-Jiao Jing"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2022-04-25",
@@ -31913,7 +32023,7 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://doi.org/10.1128/msystems.01358-21",
-      "citation_count": 51,
+      "citation_count": 52,
       "influential_citation_count": 1,
       "reference_count": 116,
       "references": [
@@ -32103,7 +32213,7 @@
       "url": "https://www.semanticscholar.org/paper/5bf7809dabed5f05bd8ed4e211bea9919e3f81e1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5bf7809dabed5f05bd8ed4e211bea9919e3f81e1",
       "pdf_url": "https://doi.org/10.1089/ast.2021.0113",
-      "citation_count": 17,
+      "citation_count": 18,
       "influential_citation_count": 0,
       "reference_count": 219,
       "references": [
@@ -32551,7 +32661,7 @@
       "url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
       "pdf_url": "https://www.nature.com/articles/s41396-021-01143-1.pdf",
-      "citation_count": 39,
+      "citation_count": 43,
       "influential_citation_count": 3,
       "reference_count": 132,
       "references": [
@@ -32720,7 +32830,7 @@
       "url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c7a5cd5dbbfaab0a3803577e846e7d59be5b6714",
       "pdf_url": "https://doi.org/10.1128/mbio.02595-21",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 2,
       "reference_count": 92,
       "references": [
@@ -33215,7 +33325,7 @@
       "authors": [
         "Hao-Qing Zhang",
         "Chuan-Fa Wu",
-        "Fangyan Wang",
+        "Fang-Yan Wang",
         "Haiting Wang",
         "Guixian Chen",
         "Ye Cheng",
@@ -33673,7 +33783,7 @@
       "url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/78f022823764b9c0d1d8c8f719f8f73489b6b2b4",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-021-01154-2",
-      "citation_count": 94,
+      "citation_count": 97,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -36936,7 +37046,7 @@
       "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
-      "citation_count": 121,
+      "citation_count": 125,
       "influential_citation_count": 7,
       "reference_count": 139,
       "references": [
@@ -37492,7 +37602,7 @@
       "url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c5c6cca0bc69aa36452523770171b563bb2fb5e5",
       "pdf_url": "https://doi.org/10.1038/s41396-021-00932-y",
-      "citation_count": 189,
+      "citation_count": 190,
       "influential_citation_count": 20,
       "reference_count": 104,
       "references": [
@@ -40854,7 +40964,7 @@
       "abstract": "Different revegetatiom types can affect the chemical composition of soil organic carbon (SOC), soil microbial community and the functional genes related to carbon cycle. However, the relationships between SOC chemical functional groups and soil microbial communities and the functional genes remains poorly unclear under different revegetation types. Using the solid-state 13C nuclear magnetic resonance (NMR) spectroscopy, we examined changes in the SOC chemical composition of five soils (0–10 cm depth) from Larix gmelinii Rupr. (LG), Pinus koraiensis Sieb. (PK), Quercus mongolica Fisch. (QM), Juglans mandshurica Maxim. (JM), and conifer-broadleaf forest (CB). And the soil microbial community genes related to metabolism of macro-molecular compounds were determined via whole genome shotgun based on Illumina HiSeq. Our results indicated that broadleaf forests (JM, QM) had increased the contents of soil total carbon (C), total nitrogen (N), dissolved organic carbon (DOC), and microbial biomass carbon (MBC), compared with coniferous forests (LG, PK) and the conifer-broadleaf forest (CB). While, the coniferous forests generated a lower O-alcoxyl C, a higher alkyl C, and the ratio of alkyl C/O-alkyl C than broadleaf forests. A total of four kingdoms were identified via whole metagenome shotgun sequencing, including eight archaea, 55 bacteria, 15 eukaryota, and two viruses, giving a total 80 phyla. The contents of alkyne C, phenolic C, methoxyl C, COO/NC=O, and alkyl C were strong related to the composition of soil microbial community and their contents illuminated a major part of the variation in soil microbial composition. We detected seven corresponding macro-molecular compounds of different organic carbon functional group, and 244 genes related to metabolism across all samples, and soil total C, total N, and DOC could be the main factors for microbial functional gene composition. Interestingly, the relative abundances of different SOC chemical functional groups, the phylogenetic distance for microbes, the genes of C cycling based on the KEGG database, and the relative abundance of genes related to metabolism of macro-molecular compounds of different SOC chemical functional groups under different revegetation types all could be divided into three groups, including PK plus LG, JM plus QM, and CB. Our results also illustrated that variations in SOC chemical functional groups were strongly associated with changes of soil microbial community taxa and functional genes, which might be affected by the changes of soil characteristics.",
       "url": "https://www.semanticscholar.org/paper/e867d2c9f1de13a6b07dcaed6b096f324f8cfddd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e867d2c9f1de13a6b07dcaed6b096f324f8cfddd",
-      "pdf_url": "https://doi.org/10.3390/f10030240",
+      "pdf_url": "http://dx.doi.org/10.3390/f10030240",
       "citation_count": 45,
       "influential_citation_count": 1,
       "reference_count": 98,
@@ -41577,7 +41687,7 @@
       "abstract": "Zone-plate-based soft x-ray microscopes operating in the water window allow high-resolution and high-contrast imaging of intact cells in their near-native state. Laboratory-source-based x-ray microscopes are an important complement to the accelerator-based instruments, providing high accessibility and allowing close integration with other cell-biological techniques. Here we present recent biological applications using the Stockholm laboratory water-window x-ray microscope, which is based on a liquid-nitrogen-jet laser-plasma source. Technical improvements to the microscope in the last few years have resulted in increased x-ray flux at the sample and significantly improved stability and reliability. In addition to this, vibrations in key components have been measured, analyzed and reduced to improve the resolution to 25 nm half-period. The biological applications include monitoring the development of carbon-dense vesicles in starving human embryonic kidney cells (HEK293T), imaging the interaction between natural killer (NK) cells and HEK293T target cells, and most recently studying a newly discovered giant DNA virus and the process of viral replication inside a host amoeba. All biological imaging was done on cryo-frozen hydrated samples in 2D and in some cases 3D.",
       "url": "https://www.semanticscholar.org/paper/0879b819f51d237d91ac3189c56b1f205f5d7bfb",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0879b819f51d237d91ac3189c56b1f205f5d7bfb",
-      "pdf_url": "https://kth.diva-portal.org/smash/get/diva2:1431797/FULLTEXT01",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27D0511A124B07C6961D45754D4C74CE/S1431927618014022a.pdf/div-class-title-biological-laboratory-x-ray-microscopy-div.pdf",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 18,
@@ -41701,7 +41811,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 554,
+      "citation_count": 558,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
@@ -44819,7 +44929,7 @@
       "url": "https://www.semanticscholar.org/paper/659fbf01c64cee36e8de1be0136c8d4a13b14f19",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/659fbf01c64cee36e8de1be0136c8d4a13b14f19",
       "pdf_url": "https://www.nature.com/articles/ismej201438.pdf",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [],
@@ -44931,7 +45041,7 @@
       "url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6e05c66ec96c1479760552946b10b6f446500a6a",
       "pdf_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2013-14-11-r123",
-      "citation_count": 243,
+      "citation_count": 244,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -45151,7 +45261,7 @@
       "url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/239cd97f65fef3766bce363358427e449b4f3c99",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057355&type=printable",
-      "citation_count": 336,
+      "citation_count": 337,
       "influential_citation_count": 24,
       "reference_count": 74,
       "references": [
@@ -45310,7 +45420,7 @@
       "url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10539-012-9344-0.pdf",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -46231,7 +46341,7 @@
       "url": "https://www.semanticscholar.org/paper/03e37d4ab9db66c73e5e121194cb33128fde961b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/03e37d4ab9db66c73e5e121194cb33128fde961b",
       "pdf_url": "https://figshare.com/articles/journal_contribution/Spinning_the_Ferrous_Wheel_the_importance_of_the_microbial_community_in_an_iron_budget_during_the_FeCycle_experiment/23002880",
-      "citation_count": 164,
+      "citation_count": 165,
       "influential_citation_count": 16,
       "reference_count": 90,
       "references": [
