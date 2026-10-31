@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:06:33.454532+00:00",
+  "updated_at": "2026-10-31T00:51:27.711628+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -102,6 +102,170 @@
     "groundwater estuary auxiliary metabolic genes AMGs phosphorus cycle phosphorus phosphate biogeochem*"
   ],
   "papers": [
+    {
+      "id": "85991c827bff1baf87fe6a434befb7f05f76f2bc",
+      "semantic_scholar_id": "85991c827bff1baf87fe6a434befb7f05f76f2bc",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.64898/2026.10.26.761785",
+      "title": "Ecological and metabolic signatures of biofilm viromes across a national river surveillance network",
+      "authors": [
+        "S. B. Busi",
+        "A. Thorpe",
+        "Jonathan Warren",
+        "Kerry Walsh",
+        "Daniel S. Read"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2026-10-26",
+      "abstract": "Benthic biofilms are biogeochemical hotspots in rivers, yet their endogenous viral communities remain poorly resolved at national scales. We analysed 447 biofilm metagenomes from 146 sites within England’s River Surveillance Network (RSN), sampled in spring and autumn from 2021 to 2023, integrating viral operational taxonomic units (vOTUs), water-quality gradients, predicted host associations and auxiliary metabolic genes (AMGs). We recovered 38,534 vOTUs, revealing extensive viral novelty, where 93% of the vOTUs could not be assigned to a known family. Viromes were dominated by Caudoviricetes and unclassified lineages and were extremely heterogeneous: no vOTU occurred in more than 8.3% of samples. Season, but not sampling year, structured virome composition (family-level PERMANOVA R2 = 0.050, p = 0.001; year p = 0.08), and within-site turnover between spring and autumn exceeded turnover between years. Bray–Curtis ordination linked virome structure weakly to pH, dissolved organic carbon, conductivity, nitrate-N and dissolved oxygen (envfit R2 ≤ 0.066), while threshold indicator taxa analysis (TITAN) identified vOTUs with abrupt change points along alkalinity, dissolved oxygen, nitrate-N and temperature gradients. Predicted host associations were concentrated in Pseudomonodota, Cyanobacteriota and Bacteroidota, with Microcoleus, Chamaesiphon and Flavobacterium among the dominant host genera. Virus–host networks were modular, and module abundances correlated with water quality variables (dissolved oxygen, pH, nitrate etc.), suggesting that environmental filtering acts partly through host ecology. Predicted virus–host associations formed a sparse network organised around a few highly connected viral lineages. Functional profiling showed that the biofilm virome was dominated by nucleotide metabolism, DNA methylation, phosphate-stress, glycan-modification and photosynthesis-related AMGs, with nrdA/nrdB ribonucleotide reductase as the dominant AMG signal. Few vOTUs (1.2%) were detected as proviruses, although provirus fractions were higher in selected host-linked lineages. Collectively, these results show that river biofilm viromes are seasonally structured ecological communities whose composition, host associations and metabolic potential reflect the physicochemical and biological state of rivers. We propose that biofilm viromes provide a complementary layer of information for understanding river health, microbial ecology and the propagation of anthropogenic pressures in freshwater systems.",
+      "url": "https://www.semanticscholar.org/paper/85991c827bff1baf87fe6a434befb7f05f76f2bc",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/85991c827bff1baf87fe6a434befb7f05f76f2bc",
+      "pdf_url": "https://doi.org/10.64898/2026.10.26.761785",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 35,
+      "references": [
+        {
+          "title": "DiscoVir: an automated, web-based pipeline for viral metagenomics",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/4688e2c628d2593a040f30c447b7c6d1ea092def",
+          "doi": "10.1128/mra.00085-26"
+        },
+        {
+          "title": "River Microbiomes as Sentinels of National‐Scale Freshwater Ecosystems",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/0ac9adb8a6a105060654f491f4ca93212f835fb4",
+          "doi": "10.1111/gcb.70809"
+        },
+        {
+          "title": "Viral Dark Matter: Illuminating Protein Function, Ecology, and Biotechnological Promises",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5e8a45a4f1be1aebc4601c73cdb4414b8cb9dc39",
+          "doi": ""
+        },
+        {
+          "title": "National-scale biogeography and function of river and stream bacterial biofilm communities",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/ad3e1e3d8cbd9a03d9a299bb7f5ed9c1b4f07e9d",
+          "doi": "10.1038/s41467-025-65620-3"
+        },
+        {
+          "title": "A functional microbiome catalogue crowdsourced from North American rivers",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/ed7694cffed73beddfb69521ecf5b9f9c70ce948",
+          "doi": "10.1038/s41586-024-08240-z"
+        },
+        {
+          "title": "Cyanophage-encoded auxiliary metabolic genes in modulating cyanobacterial metabolism and algal bloom dynamics",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/6f12a80270c18f60b2af21b54f38796a4d987906",
+          "doi": "10.3389/fviro.2024.1461375"
+        },
+        {
+          "title": "Prokaryotic-virus-encoded auxiliary metabolic genes throughout the global oceans",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/0f337866f14f67950acf516d4ae3b6b24d72c140",
+          "doi": "10.1186/s40168-024-01876-z"
+        },
+        {
+          "title": "Temporal turnover of viral biodiversity and functional potential in intertidal wetlands",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/364f8b429c60fcf1f90585357cba5fae6e161e76",
+          "doi": "10.1038/s41522-024-00522-8"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "a2597a1075b69e13f20804244c7bd46919c46e53",
+          "title": "Riverine plastic litter restructures microbial vitamin B12 metabolism and generates functional heterogeneity",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Priscilla Carrillo-Barragán",
+            "E. Zettler",
+            "Sebastian Rieder"
+          ],
+          "doi": "10.64898/2026.09.06.749157",
+          "url": "https://www.semanticscholar.org/paper/a2597a1075b69e13f20804244c7bd46919c46e53",
+          "citation_count": 0
+        },
+        {
+          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
+          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
+          "year": 2026,
+          "journal": "Journal of Animal Science and Biotechnology",
+          "authors": [
+            "Wei Guo",
+            "Yin-Shu Yu",
+            "Wei-Wei Wang"
+          ],
+          "doi": "10.1186/s40104-026-01487-8",
+          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
+          "citation_count": 0
+        },
+        {
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
+          ],
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "citation_count": 0
+        },
+        {
+          "id": "84ab46a7ba77014856acd3f2955dace86806f4a0",
+          "title": "Metagenomic insights into viral community restructuring and microbial interactions in waste stabilization ponds",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "N. Rizk",
+            "Mohamed A. Marouf",
+            "N. Ahmed"
+          ],
+          "doi": "10.1038/s41598-026-71071-7",
+          "url": "https://www.semanticscholar.org/paper/84ab46a7ba77014856acd3f2955dace86806f4a0",
+          "citation_count": 0
+        },
+        {
+          "id": "43e96d8460f0f6ebaec08a2555531f8ea44628a6",
+          "title": "Building-Scale Wastewater Metagenomics Reveals Temporal Patterns in Resistance and Virulence Genes",
+          "year": 2026,
+          "journal": "Antibiotics",
+          "authors": [
+            "Ugonna C. Morikwe",
+            "L. Kiki",
+            "Franklin C. Ezeanowai"
+          ],
+          "doi": "10.3390/antibiotics15090878",
+          "url": "https://www.semanticscholar.org/paper/43e96d8460f0f6ebaec08a2555531f8ea44628a6",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Biology"
+      ],
+      "publication_types": [],
+      "tldr": "Functional profiling showed that the biofilm virome was dominated by nucleotide metabolism, DNA methylation, phosphate-stress, glycan-modification and photosynthesis-related AMGs, with nrdA/nrdB ribonucleotide reductase as the dominant AMG signal.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "phosphorus",
+        "sediment",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-31T00:51:16.483110+00:00",
+      "edges_enriched_at": "2026-10-31T00:51:25.453582+00:00"
+    },
     {
       "id": "5623eb9223dedb2a39738dff81a988d795984cfe",
       "semantic_scholar_id": "5623eb9223dedb2a39738dff81a988d795984cfe",
@@ -467,8 +631,57 @@
       "pdf_url": "https://www.nature.com/articles/s41467-026-78161-0_reference.pdf",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
+      "reference_count": 122,
+      "references": [
+        {
+          "title": "Ecosystem health shapes viral ecology in peatland soils",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/bb40f7ce2a9c276b74b73359b30014d72b448b67",
+          "doi": "10.1038/s41564-025-02199-x"
+        },
+        {
+          "title": "Environmental drivers and ecological processes underlying microbial community zonation in deep-sea polymetallic nodule sediments.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/6e3ec0ff62021934bcc64c6b09bba99d5dd3ee77",
+          "doi": "10.1016/j.marenvres.2025.107790"
+        },
+        {
+          "title": "A call for caution in the biological interpretation of viral auxiliary metabolic genes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b695661ee127de0ac4e443eaace8ecc440d05233",
+          "doi": "10.1038/s41564-025-02095-4"
+        },
+        {
+          "title": "Close interactions between prokaryotes and plasmids or viruses highlight a pivotal role of horizontal gene transfer in shaping antibiotic/metal(loid) resistome and their prokaryotic supercarriers in untreated hospital sewage.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/f1aaf1797a3156ab7529659dd9c2cf90ea0afb97",
+          "doi": "10.1016/j.watres.2025.124178"
+        },
+        {
+          "title": "Monitoring benthic plumes, sediment redeposition and seafloor imprints caused by deep-sea polymetallic nodule mining",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/ae4339f11eb65626069973bda878d64db3636fa6",
+          "doi": "10.1038/s41467-025-56311-0"
+        },
+        {
+          "title": "Genome-wide identification of bacterial genes contributing to nucleus-forming jumbo phage infection",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3e93a5cd185a247e44016935599e4650e06c09c5",
+          "doi": "10.1093/nar/gkae1194"
+        },
+        {
+          "title": "Metagenome sequencing and 982 microbial genomes from Kermadec and Diamantina Trenches sediments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/16322b3a72c19c7b78dec00a925ea9271952c3a5",
+          "doi": "10.1038/s41597-024-03902-z"
+        },
+        {
+          "title": "Global marine microbial diversity and its potential in bioprospecting",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/65406e9ba5b479e35acd4b7ce598ae53619087da",
+          "doi": "10.1038/s41586-024-07891-2"
+        }
+      ],
       "similar_papers": [
         {
           "id": "dfe862e2a191d5d3f4d3be87f65139d7869e4283",
@@ -544,7 +757,7 @@
       "publication_types": [
         "JournalArticle"
       ],
-      "tldr": "",
+      "tldr": "The authors created the first large-scale catalog of viruses from the Clarion-Clipperton Fracture Zone and found extensive viral diversity that may influence nutrient cycling, microbial survival, and adaptation to metal-rich environments.",
       "metrics_source": "Semantic Scholar",
       "tags": [
         "amg",
@@ -556,7 +769,8 @@
         "sulfur",
         "virus"
       ],
-      "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00"
+      "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00",
+      "detail_enriched_at": "2026-10-31T00:51:16.483110+00:00"
     },
     {
       "id": "051edb67ccc7760e0538bfd0584116accea900ac",
@@ -2707,7 +2921,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-09-29T01:02:34.177855+00:00",
+      "detail_enriched_at": "2026-10-31T00:51:16.483110+00:00",
       "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00"
     },
     {
@@ -8602,7 +8816,7 @@
         "Wen-Shen Liu",
         "Hua Qi",
         "Yue Cao",
-        "Ying-heng Fei",
+        "Ying-Heng Fei",
         "Ning Ling",
         "Shi-Zhong Wang",
         "Ye-Tao Tang",
@@ -9284,7 +9498,7 @@
         "Yonghui Zhang",
         "Lifang Wang",
         "Yong Peng",
-        "Yingjie Liu",
+        "Ying-Jie Liu",
         "Guang-Wei Ren",
         "Xiu-Fang Wang",
         "Pengjun Xu",
@@ -12927,9 +13141,9 @@
       "title": "Rhizosphere-triggered viral lysogeny mediates microbial metabolic reprogramming to enhance arsenic oxidation",
       "authors": [
         "Xinwei Song",
-        "Yi-Ling Wang",
+        "Y. Wang",
         "You-Jing Wang",
-        "Kan-Kan Zhao",
+        "K. Zhao",
         "Di Tong",
         "Ruichuan Gao",
         "Xiao-Fei Lv",
@@ -13595,9 +13809,9 @@
         "Jia-Nan Lu",
         "Ziwu Chen",
         "L. Tian",
-        "Yalin Yin",
+        "Ya-Lin Yin",
         "Gengbo Jiang",
-        "Ying-heng Fei",
+        "Ying-Heng Fei",
         "Ye-Tao Tang",
         "Shi-Zhong Wang",
         "Chao Jin",
@@ -14575,7 +14789,7 @@
       "abstract": "The Sundarbans, the world’s largest tidal mangrove forest, acts as a crucial ecosystem for production, conservation, and the cycling of carbon and nitrogen. The study explored the hypothesis that microbial communities in mangrove ecosystems exhibit unique taxonomic and functional traits that play a vital part in carbon cycling and ecosystem resilience. Using metagenomic analysis to evaluate microbial communities in mangrove and non-mangrove environment, evaluating their composition, functional functions, and ecological relevance. The analysis revealed distinct microbial profiles, in mangrove and non-mangrove environments, with bacteria, proteobacteria, and viruses being the most prevalent groups, with varying abundances in each environment. Functional and taxonomical analysis identified genes involved in carbon regulation, including Triacylglycerol lipase, NarG, DsrB, DNA-binding transcriptional dual regulator CRP, Vanillate O-demethylase oxygenase, succinate-CoA ligase, Tetrahydrofolate ligase, Carboxylase, Ribulose-1,5-bisphosphate carboxylase/oxygenase, Glycine hydroxymethyltransferase, MAG: urease, Endosymbiont of Oligobrachia haakonmosbiensis, Ribulose bisphosphate carboxylase, Aconitate hydratase AcnA, and nitrous oxide reductase, suggesting the metabolic versatility of these microbial communities for carbon cycling. The findings emphasize the key role of microbial activity in preserving mangrove ecosystem health and resilience, highlighting the intricate interplay between microbial diversity, functional capabilities, and environmental factors.",
       "url": "https://www.semanticscholar.org/paper/2fed4228991bd0565586197f0694dfedf20b8d21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2fed4228991bd0565586197f0694dfedf20b8d21",
-      "pdf_url": "https://doi.org/10.1038/s41598-025-89418-x",
+      "pdf_url": "https://www.nature.com/articles/s41598-025-89418-x.pdf",
       "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 39,
@@ -15620,7 +15834,7 @@
         "Zhao-Ji Qiu",
         "Weixiong Zhuang",
         "Baoshan Zhang",
-        "Junting Xie",
+        "Jun-Ting Xie",
         "Yuexia Lin",
         "Yuan Ren",
         "Sergei Preis",
@@ -19609,7 +19823,7 @@
       "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47600-1.pdf",
-      "citation_count": 61,
+      "citation_count": 62,
       "influential_citation_count": 11,
       "reference_count": 134,
       "references": [
@@ -19775,7 +19989,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 112,
+      "citation_count": 114,
       "influential_citation_count": 3,
       "reference_count": 49,
       "references": [
@@ -25674,7 +25888,7 @@
       "abstract": "Viruses are ubiquitous but largely uncharacterized members of aquatic environments that cause significant mortality in microbial communities. Recent large-scale oceanic projects have greatly advanced our understanding of viral ecology in marine environments, but those studies mostly focused on oceanic regions. ABSTRACT Estuaries are one of the most highly productive and economically important ecosystems at the continent-ocean interface. Estuary productivity is largely determined by the microbial community structure and activity. Viruses are major agents of microbial mortality and are key drivers of global geochemical cycles. However, the taxonomic diversity of viral communities and their spatial-temporal distribution in estuarine ecosystems have been poorly studied. In this study, we investigated the T4-like viral community composition at three major Chinese estuaries in winter and in summer. Diverse T4-like viruses, which were divided into three main clusters (Clusters I to III), were revealed. The Marine Group of Cluster III, with seven identified subgroups, was the most dominant (averaging 76.5% of the total sequences) in the Chinese estuarine ecosystems. Significant variations of T4-like viral community composition were observed among estuaries and seasons, with higher diversity occurring in winter. Among various environmental variables, temperature was a main driver of the viral communities. This study demonstrates viral assemblage diversification and seasonality in Chinese estuarine ecosystems. IMPORTANCE Viruses are ubiquitous but largely uncharacterized members of aquatic environments that cause significant mortality in microbial communities. Recent large-scale oceanic projects have greatly advanced our understanding of viral ecology in marine environments, but those studies mostly focused on oceanic regions. There have yet to be spatiotemporal studies of viral communities in estuarine ecosystems, which are unique habitats that play a significant role in global ecology and biogeochemistry. This work is the first comprehensive study that provides a detailed picture of the spatial and seasonal variation of viral communities (specifically, T4-like viral communities) in three major estuarine ecosystems in China. These findings provide much-needed knowledge regarding estuarine viral ecosystems, which currently lags in oceanic ecosystem research.",
       "url": "https://www.semanticscholar.org/paper/fb1c3b4824e1f4063bb1f2a232dc6ff7c9241687",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fb1c3b4824e1f4063bb1f2a232dc6ff7c9241687",
-      "pdf_url": "https://doi.org/10.1128/spectrum.05203-22",
+      "pdf_url": "http://dx.doi.org/10.1128/spectrum.05203-22",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 85,
@@ -28116,7 +28330,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 230,
+      "citation_count": 232,
       "influential_citation_count": 11,
       "reference_count": 105,
       "references": [
@@ -32661,7 +32875,7 @@
       "url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ee545462641ddb63fcbdf24402c55d406f4cf604",
       "pdf_url": "https://www.nature.com/articles/s41396-021-01143-1.pdf",
-      "citation_count": 43,
+      "citation_count": 44,
       "influential_citation_count": 3,
       "reference_count": 132,
       "references": [
@@ -37046,7 +37260,7 @@
       "url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85bf314f0eda34d28a2f9fcab43d9244f3e49938",
       "pdf_url": "https://www.nature.com/articles/s41396-020-00825-6.pdf",
-      "citation_count": 125,
+      "citation_count": 126,
       "influential_citation_count": 7,
       "reference_count": 139,
       "references": [
@@ -37775,7 +37989,7 @@
       "url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ef7c564ca3205b130c4bc8158f68293daddd9f25",
       "pdf_url": "https://www.nature.com/articles/s41467-021-23698-5.pdf",
-      "citation_count": 215,
+      "citation_count": 216,
       "influential_citation_count": 10,
       "reference_count": 91,
       "references": [
@@ -40060,7 +40274,7 @@
         "Ping Zhang",
         "Naijia Xiao",
         "D. Ning",
-        "Zhi-Li He",
+        "Z. He",
         "Li-You Wu",
         "J. Zhou"
       ],
@@ -45420,7 +45634,7 @@
       "url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b5cfdac64b57cb90d283c5151f858b142484c1e9",
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10539-012-9344-0.pdf",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
