@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:51:27.711628+00:00",
+  "updated_at": "2026-11-01T00:11:51.098554+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -615,7 +615,7 @@
       "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
       "semantic_scholar_id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42957726",
       "doi": "10.1038/s41467-026-78161-0",
       "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
       "authors": [
@@ -753,7 +753,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -769,8 +771,8 @@
         "sulfur",
         "virus"
       ],
-      "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00",
-      "detail_enriched_at": "2026-10-31T00:51:16.483110+00:00"
+      "detail_enriched_at": "2026-10-31T00:51:16.483110+00:00",
+      "edges_enriched_at": "2026-10-30T01:05:59.222915+00:00"
     },
     {
       "id": "051edb67ccc7760e0538bfd0584116accea900ac",
@@ -3096,7 +3098,7 @@
       "doi": "10.1128/mbio.00693-26",
       "title": "Active prophages as key drivers of microbial adaptation in global soil ecosystems",
       "authors": [
-        "C. Ai",
+        "Chao-Fan Ai",
         "Xiang Tang",
         "Haoxiang Han",
         "Yuqi He",
@@ -5505,7 +5507,7 @@
       "url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/bee3d6b6b152a4c735dc5ef3cc7e58f15e1afa11",
       "pdf_url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -8830,7 +8832,7 @@
       "url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d4eac4dd19f28e9075ad1959ce668e1b399eed59",
       "pdf_url": "https://www.nature.com/articles/s41467-025-64938-2.pdf",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 1,
       "reference_count": 108,
       "references": [
@@ -11059,7 +11061,7 @@
       "url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/139354af7dcd6aa24456bb37f9bb7bfc0047a402",
       "pdf_url": "https://doi.org/10.1073/pnas.2503199122",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 84,
       "references": [
@@ -17415,7 +17417,7 @@
       "url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/701d095bb9db07ccfd6c110ebbccb35d44fe2b30",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01851-8",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 69,
       "references": [
@@ -17750,7 +17752,7 @@
       "abstract": "Bacteriophages impact soil bacteria through lysis, altering the availability of organic carbon and plant nutrients. However, the magnitude of nutrient uptake by plants from lysed bacteria remains unknown, partly because this process is challenging to investigate in the field. In this study, we extend ecosystem fabrication (EcoFAB 2.0) approaches to study plant-bacteria-phage interactions by comparing the impact of phage-lysed and uninfected 15N-labeled bacterial necromass on plant nitrogen acquisition and rhizosphere exometabolites composition. We show that grass Brachypodium distachyon derives some nitrogen from amino acids in uninfected Pseudomonas putida necromass but not from virocell necromass. Additionally, the bacterial necromass elicits the formation of rhizosphere exometabolites, some of which (guanosine), alongside tested aromatic acids (p-coumaric and benzoic acid), show distinct effects on bacteriophage-induced lysis when tested in vitro. The study highlights the dynamic feedback between bacterial necromass and plants and suggests that root exudate metabolites can impact bacteriophage infection dynamics.",
       "url": "https://www.semanticscholar.org/paper/86d0def0d3c1152c635fcb57d483f91ef430dbda",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/86d0def0d3c1152c635fcb57d483f91ef430dbda",
-      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/07/18/2024.07.15.603626.full.pdf",
+      "pdf_url": "https://doi.org/10.1111/pce.15456",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 58,
@@ -19426,7 +19428,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 104,
+      "citation_count": 105,
       "influential_citation_count": 4,
       "reference_count": 114,
       "references": [
@@ -19702,7 +19704,7 @@
       "abstract": "Viruses are the most abundant life forms in the sea, influencing the community structure and metabolism of host cells as well as biogeochemical cycles. However, the diversity and ecological roles of viruses within seamount ecosystems, natural microbiota havens characterized by high biodiversity, remain unknown. Here, the first seamount viral genome (SMVG) dataset, based on a metagenomic analysis of twelve seamount sediment samples collected from the seamount regions of the Northwest Pacific Ocean, is established. A total of 78,069 viral operational taxonomic units (vOTUs) were found, spanning 18 viral classes and 63 viral families. The detection of sixteen viral auxiliary metabolic genes (vAMGs) suggests that viruses may participate in both the complex metabolic dynamics associated with sediment microbial communities and also biogeochemical cycles, including carbon, sulfur, metal, heme, and cobalamin cycling. vAMGs involved in the metabolism of heme, cobalamin and metals, in particular, are more often detected in seamount sediments than in trenches, cool seeps, and hydrothermal vents. This investigation of the viral communities in these seamount sediments provides new insights into the high diversity and ecological potential of the viruses and establishes a foundation for the future study of benthic viruses from deep-sea seamounts.",
       "url": "https://www.semanticscholar.org/paper/d51db4d6e84ef7d35f38ce55bddf16927232119c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d51db4d6e84ef7d35f38ce55bddf16927232119c",
-      "pdf_url": "https://doi.org/10.1101/2024.04.28.591573",
+      "pdf_url": "https://doi.org/10.59717/j.xinn-geo.2024.100088",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 0,
@@ -19823,7 +19825,7 @@
       "url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cccb626058776ce9a5d4c049eb7d1dfa559e8c03",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47600-1.pdf",
-      "citation_count": 62,
+      "citation_count": 63,
       "influential_citation_count": 11,
       "reference_count": 134,
       "references": [
@@ -19989,7 +19991,7 @@
       "url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3115ab1d73813115a1fd7d74a8dccbd91d24aa21",
       "pdf_url": "https://doi.org/10.1073/pnas.2318160121",
-      "citation_count": 114,
+      "citation_count": 115,
       "influential_citation_count": 3,
       "reference_count": 49,
       "references": [
@@ -20764,7 +20766,7 @@
       "url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
       "pdf_url": "https://doi.org/10.1038/s41467-024-46109-x",
-      "citation_count": 49,
+      "citation_count": 50,
       "influential_citation_count": 0,
       "reference_count": 100,
       "references": [
@@ -22572,7 +22574,7 @@
         "Chen Liu",
         "Han-Peng Liao",
         "Tiankun Gao",
-        "C. Ai",
+        "Chao-Fan Ai",
         "Xiang Tang",
         "V. Friman",
         "Shun-Gui Zhou"
@@ -25601,6 +25603,106 @@
       "edges_enriched_at": "2026-10-04T23:58:32.920583+00:00"
     },
     {
+      "id": "abd7f2eafe5a235ff92c9776619ef5527fd74541",
+      "semantic_scholar_id": "abd7f2eafe5a235ff92c9776619ef5527fd74541",
+      "source": "Semantic Scholar",
+      "pmid": "37066413",
+      "doi": "10.1101/2023.04.04.535500",
+      "title": "Spatial and temporal metagenomics of river compartments reveals viral community dynamics in an urban impacted stream",
+      "authors": [
+        "Josué A. Rodríguez-Ramos",
+        "A. Oliverio",
+        "M. Borton",
+        "R. Danczak",
+        "B. Mueller",
+        "H. Schulz",
+        "Jared B. Ellenbogen",
+        "Rory M. Flynn",
+        "R. Daly",
+        "LeAundra Schopflin",
+        "M. Shaffer",
+        "A. Goldman",
+        "Joerg Lewandowski",
+        "J. Stegen",
+        "K. Wrighton"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2023-04-04",
+      "abstract": "Although river ecosystems comprise less than 1% of Earth’s total non-glaciated area, they are critical modulators of microbially and virally orchestrated global biogeochemical cycles. However, most studies either use data that is not spatially resolved or is collected at timepoints that do not reflect the short life cycles of microorganisms. As a result, the relevance of microbiome interactions and the impacts they have over time on biogeochemical cycles are poorly understood. To assess how viral and microbial communities change over time, we sampled surface water and pore water compartments of the wastewater-impacted River Erpe in Germany every 3 hours over a 48-hour period resulting in 32 metagenomes paired to geochemical and metabolite measurements. We reconstructed 6,500 viral and 1,033 microbial genomes and found distinct communities associated with each river compartment. We show that 17% of our vMAGs clustered to viruses from other ecosystems like wastewater treatment plants and rivers. Our results also indicated that 70% of the viral community was persistent in surface waters, whereas only 13% were persistent in the pore waters taken from the hyporheic zone. Finally, we predicted linkages between 73 viral genomes and 38 microbial genomes. These putatively linked hosts included members of the Competibacteraceae, which we suggest are potential contributors to carbon and nitrogen cycling. Together, these findings demonstrate that microbial and viral communities in surface waters of this urban river can exist as stable communities along a flowing river; and raise important considerations for ecosystem models attempting to constrain dynamics of river biogeochemical cycles.",
+      "url": "https://www.semanticscholar.org/paper/abd7f2eafe5a235ff92c9776619ef5527fd74541",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/abd7f2eafe5a235ff92c9776619ef5527fd74541",
+      "pdf_url": "https://doi.org/10.3389/frmbi.2023.1199766",
+      "citation_count": 6,
+      "influential_citation_count": 1,
+      "reference_count": 63,
+      "references": [
+        {
+          "title": "Viral infection in the ocean—A journey across scales",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/61848f4d99616ee182ee96a581e6a528b17afd7d",
+          "doi": "10.1371/journal.pbio.3001966"
+        },
+        {
+          "title": "Insights into the global freshwater virome",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/c478aeae38f58fa00415c0e3a654577fed431a17",
+          "doi": "10.3389/fmicb.2022.953500"
+        },
+        {
+          "title": "Metabolic arsenal of giant viruses: Host hijack or self-use?",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/67fe63df1382b22917e62f44dea9e9405c3e56df",
+          "doi": "10.7554/eLife.78674"
+        },
+        {
+          "title": "Auxiliary Metabolic Gene Functions in Pelagic and Benthic Viruses of the Baltic Sea",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/9f0f1bdc82d5eef2ef06a6b0ed81727a963f42b2",
+          "doi": "10.3389/fmicb.2022.863620"
+        },
+        {
+          "title": "PHIST: fast and accurate prediction of prokaryotic hosts from metagenomic viral sequences",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/879f0a9c82d11ebc688d6bfa8a97892055c82a47",
+          "doi": "10.1093/bioinformatics/btab837"
+        },
+        {
+          "title": "Are There 1031 Virus Particles on Earth, or More, or Fewer?",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/4ee60490aad4ae605d4c2afc3b2cc5d5072b27bf",
+          "doi": "10.1128/JB.00052-20"
+        },
+        {
+          "title": "WHONDRS: a Community Resource for Studying Dynamic River Corridors",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/dc7a0c3efbb3cf781a76e39181d23f2e2a34c272",
+          "doi": "10.1128/mSystems.00151-18"
+        },
+        {
+          "title": "The biomass distribution on Earth",
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/7059225e3fd6718a4f3326638d5e15fae0cd76ea",
+          "doi": "10.1073/pnas.1711842115"
+        }
+      ],
+      "similar_papers": [],
+      "fields_of_study": [
+        "Biology",
+        "Medicine"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-11-01T00:11:29.883441+00:00"
+    },
+    {
       "id": "cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "semantic_scholar_id": "cae0c3f7238ee0a5244c4008c307cb63a22c177e",
       "source": "Semantic Scholar",
@@ -26217,7 +26319,7 @@
       "abstract": "Increasing knowledge of the impacts of pesticides on soil ecological communities is fundamental to a comprehensive understanding of the functional changes in the global agroecosystem industry. In this study, we examined microbial community shifts in the gut of the soil-dwelling organism Enchytraeus crypticus and functional shifts in the soil microbiome (bacteria and viruses) after 21 d of exposure to difenoconazole, one of the main fungicides in intensified agriculture. Our results demonstrated reduced body weight and increased oxidative stress levels of E. crypticus under difenoconazole treatment. Meanwhile, difenoconazole not only altered the composition and structure of the gut microbial community, but also interfered with the soil-soil fauna microecology stability by impairing the abundance of beneficial bacteria. Using soil metagenomics, we revealed that bacterial genes encoding detoxification and viruses encoding carbon cycle genes exhibited a dependent enrichment in the toxicity of pesticides via metabolism. Taken together, these findings advance the understanding of the ecotoxicological impact of residual difenoconazole on the soil-soil fauna micro-ecology, and the ecological importance of virus-encoded auxiliary metabolic genes under pesticide stress.",
       "url": "https://www.semanticscholar.org/paper/98240e341ed629e0d42dd1a9c2d188abaf3cf489",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/98240e341ed629e0d42dd1a9c2d188abaf3cf489",
-      "pdf_url": "https://doi.org/10.2139/ssrn.4340466",
+      "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0269749123005201-ga1_lrg.jpg",
       "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 73,
@@ -26850,7 +26952,7 @@
       "url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0494c5833135433c9c9b03ab6a98021780a6cb2",
       "pdf_url": "https://doi.org/10.1128/mbio.03009-22",
-      "citation_count": 47,
+      "citation_count": 48,
       "influential_citation_count": 2,
       "reference_count": 104,
       "references": [
@@ -28330,7 +28432,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 232,
+      "citation_count": 233,
       "influential_citation_count": 11,
       "reference_count": 105,
       "references": [
@@ -28831,7 +28933,7 @@
       "url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "pdf_url": "https://www.nature.com/articles/s41467-022-32993-8.pdf",
-      "citation_count": 52,
+      "citation_count": 53,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -30466,7 +30568,7 @@
         "Jin-Tian Li",
         "Hong-Xia Ai",
         "Jie-Liang Liang",
-        "Zhenhao Luo",
+        "Zhen-Hao Luo",
         "Jin Zheng",
         "Hao Chen",
         "W. Shu",
@@ -30478,7 +30580,7 @@
       "url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e1e22346f7c906a647f1f8ea2d89b9fa519db61",
       "pdf_url": "https://www.nature.com/articles/s41467-022-30049-5.pdf",
-      "citation_count": 98,
+      "citation_count": 99,
       "influential_citation_count": 2,
       "reference_count": 95,
       "references": [
@@ -30919,7 +31021,7 @@
       "url": "https://www.semanticscholar.org/paper/8b34364e71190cc27c0723c9684719a484e4d398",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8b34364e71190cc27c0723c9684719a484e4d398",
       "pdf_url": "https://doi.org/10.3389/fmicb.2022.848305",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 3,
       "reference_count": 88,
       "references": [
@@ -38597,7 +38699,7 @@
       "abstract": "Viruses are ubiquitous microbiome components, shaping ecosystems via strain-specific predation, horizontal gene transfer and redistribution of nutrients through host lysis. Viral impacts are important in groundwater ecosystems, where microbes drive many nutrient fluxes and metabolic processes, however little is known about the diversity of viruses in these environments. We analyzed four groundwater plasmidomes and identified 200 viral sequences, which clustered into 41 ~ genus-level viral clusters (equivalent to viral genera) including 9 known and 32 putative new genera. We use publicly available bacterial whole genome sequences (WGS) and WGS from 261 bacterial isolates from this groundwater environment to identify potential viral hosts. We linked 76 of the 200 viral sequences to a range of bacterial phyla, the majority associated with Proteobacteria, followed by Firmicutes, Bacteroidetes and Actinobacteria. The publicly available microbial genome sequences enabled mapping bacterial hosts to a breadth of viral sequences. The WGS of groundwater isolates increased depth of host prediction by allowing identification of hosts at the strain level. The latter included 4 viruses that were almost entirely (>99% query coverage, >99% identity) identified as integrated in the genomes of specific Pseudomonas, Acidovorax and Castellaniella strains, resulting in very high-confidence host assignments. Lastly, 21 of these viruses encoded putative auxiliary metabolite genes for metal and antibiotic resistance, which might drive their infection cycles and/or provide selective advantage to infected hosts. Exploring the groundwater virome provides a necessary foundation for integration of viruses into ecosystem models where they act as key players in microbial adaption to environmental stress. Importance To our knowledge, this is the first study to identify the bacteriophage distribution in a groundwater ecosystem shedding light on their prevalence and distribution across metal-contaminated and background sites. Our study is uniquely based on selective sequencing of solely the extrachromosomal elements of a microbiome followed by analysis for viral signatures, thus establishing a more focused approach for phage identifications. Using this method, we detect several novel phage genera along with those previously established. Our approach of using the whole genome sequences of hundreds of bacterial isolates from the same site enabled us to make host assignments with high confidence, several at strain levels. Certain phage-encoded genes suggest they provide an environment-specific selective advantage to their bacterial hosts. Our study lays the foundation for future research on directed phage isolations using specific bacterial host strains to further characterize groundwater phages, their lifecycles, and its effects on groundwater microbiome and biogeochemistry.",
       "url": "https://www.semanticscholar.org/paper/d083e898c73f01cd46b87ec582b70f1cf8a4540c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d083e898c73f01cd46b87ec582b70f1cf8a4540c",
-      "pdf_url": "https://doi.org/10.1101/2020.07.14.203604",
+      "pdf_url": "https://doi.org/10.1128/msystems.00537-21",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 52,
@@ -42025,7 +42127,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 558,
+      "citation_count": 559,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
@@ -43324,7 +43426,7 @@
       "url": "https://www.semanticscholar.org/paper/45b093b66636748cd0cca1a2bde4aad745882a34",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/45b093b66636748cd0cca1a2bde4aad745882a34",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmars.2016.00082/pdf",
-      "citation_count": 72,
+      "citation_count": 73,
       "influential_citation_count": 5,
       "reference_count": 128,
       "references": [
