@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T01:44:59.531990+00:00",
+  "updated_at": "2026-11-05T01:30:53.318294+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -6431,7 +6431,7 @@
       "url": "https://www.semanticscholar.org/paper/2c372b9c4ed597360cfc15360554c6b6fd150880",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2c372b9c4ed597360cfc15360554c6b6fd150880",
       "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1725613/pdf",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 60,
       "references": [
@@ -12221,7 +12221,7 @@
       "abstract": "Aquatic environments absorb ∼2.5 gigatonnes of atmospheric carbon each year1, more than the carbon stored in the atmosphere, soils, and all biomass combined. Primary producers transform this dissolved inorganic carbon into biomass that can subsequently flow into other trophic levels, or be released back into the environment through viral lysis. While there is substantial knowledge about the diversity and activity of viruses infecting photoautotrophic primary producers, little is known about viruses infecting chemoautotrophs, representing a gap in our understanding of key microbial processes driving global carbon cycles. Here, we combine metagenomics with 12/13C stable isotopic probing mesocosm experiments in a marine-derived meromictic pond to quantify lineage-specific carbon cycling activity to identify key microbial populations driving carbon cycling. We then tracked the flow of carbon from active chemoautotrophs to their viruses and found evidence supporting virus-mediated recycling of chemoautotrophic biomass through the production of viral particles. In particular, active populations of hydrogen/sulfur-oxidizing chemoautotrophs (Thiomicrorhabdus, Hydrogenovibrio, Sulfurimonas, Sulfurovum) were targeted by viruses. Considering the widespread distribution of chemoautotrophs on Earth, we postulate that this previously overlooked component of the microbial carbon cycle is a globally relevant process that has implications for our planet’s carbon cycle. This work provides the foundation for revealing the role of viral lysis in chemoautotrophic primary production and builds toward biogeochemical models that incorporate viral recycling of chemoautotrophic biomass. Summary statement The diversity, mechanisms, and processes governing microbial primary production and the recycling of autotrophic biomass are fundamental to our planet’s carbon cycle. These processes have implications for carbon sequestration, ocean biogeochemistry, and the overall balance of carbon dioxide in the atmosphere. Beneath the Earth’s sunlit layer, primary production is driven by microbial chemoautotrophs that derive energy from the oxidation of reduced compounds, such as hydrogen and sulfur, to form the base of the food web. Growing evidence suggests that aquatic ecosystems fueled by chemoautotrophy are widely distributed on Earth, ranging from beneath ice shelves to coastal upwelling regions to oxygen minimum zones, deep-sea hydrothermal vents and cold seeps, groundwater, and meromictic ponds and lakes2–7. Studying microbial processes regulating chemoautotrophic primary production and the recycling of chemoautotrophic biomass is fundamental to our understanding of global carbon cycles. While the diversity, function, and activity of viruses targeting photoautotrophs have been well-described across aquatic ecosystems8, we have little understanding of viruses involved in the recycling of chemoautotrophic biomass. Viruses are a major source of cellular mortality and carbon cycling in aquatic environments9–11. Viral lysis is estimated to transform ∼150 gigatonnes of carbon annually from biomass back into the environment, equivalent to ∼25 times that of the ocean’s biological carbon pump12,13. Despite recognition of the important role of viruses in aquatic habitats, there is a large gap in our understanding of the impact of viruses on globally distributed chemoautotrophs2,4,5,14–18. In this study, we show that viruses are not merely passive players but active agents recycling carbon fixed by productive chemoautotrophs, fundamentally reshaping how we view carbon and nutrient cycling in redox-active ecosystems.",
       "url": "https://www.semanticscholar.org/paper/a60c06a9e2e3c7b284475ce0a67c42de327c08ca",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a60c06a9e2e3c7b284475ce0a67c42de327c08ca",
-      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/05/27/2025.05.27.656380.full.pdf",
+      "pdf_url": "https://doi.org/10.1038/s41467-026-71833-x",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 29,
@@ -13173,7 +13173,7 @@
       "url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2c3142765a80befa3047c6ff2ecd0d0bc717e47",
       "pdf_url": "https://www.nature.com/articles/s41467-025-58695-5.pdf",
-      "citation_count": 29,
+      "citation_count": 30,
       "influential_citation_count": 2,
       "reference_count": 126,
       "references": [
@@ -21389,7 +21389,7 @@
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10880660/pdf/aem.01719-23.pdf",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 2,
       "reference_count": 49,
       "references": [],
@@ -23371,7 +23371,7 @@
         "Rui Zhang",
         "Xiang Xiao",
         "Yi Shi",
-        "Zhihao Zhang",
+        "Zhi-Hao Zhang",
         "Y. Tao",
         "Liping Bai",
         "Bi-da Gao",
@@ -24159,72 +24159,73 @@
       ],
       "similar_papers": [
         {
-          "id": "bb3fd16ef67ba87180da70531040d910e036ff21",
-          "title": "Characterization and classification of a novel bacteriophage, vB_RsoP_HXg1W, infecting Ralstonia pseudosolanacearum: a new member of the genus Serkorvirus in the family Autotranscriptaviridae",
+          "id": "ff98990b7c70c55b026a1cd31d1de8c240c88793",
+          "title": "Characterization and Genome Analysis of a Novel Vibrio Alginolyticus Phage and Its Biocontrol Efficacy in Pearl Oyster Aquaculture",
+          "year": 2026,
+          "journal": "International Journal of Molecular Sciences",
+          "authors": [
+            "Xu-Yang Chen",
+            "Xue-Jing Li",
+            "Yi-Yang Zhu"
+          ],
+          "doi": "10.3390/ijms27209385",
+          "url": "https://www.semanticscholar.org/paper/ff98990b7c70c55b026a1cd31d1de8c240c88793",
+          "citation_count": 0
+        },
+        {
+          "id": "04e26c0dc97745e4c8c524c8d8b691d1faebba17",
+          "title": "Jestvirus, a Novel Genus in the Family Autotranscriptaviridae Infecting Aeromonas",
+          "year": 2026,
+          "journal": "Current Microbiology",
+          "authors": [
+            "Ke-Wei Chen",
+            "Jia-Xiang Li",
+            "Jin-Xuan Chen"
+          ],
+          "doi": "10.1007/s00284-026-05104-9",
+          "url": "https://www.semanticscholar.org/paper/04e26c0dc97745e4c8c524c8d8b691d1faebba17",
+          "citation_count": 0
+        },
+        {
+          "id": "d584d511b241477202a3145445f980692af8261f",
+          "title": "Characterization and genomic analysis of a jumbo Aeromonas hydrophila phage BMBAH1, representing a candidate novel viral genus",
+          "year": 2026,
+          "journal": "Virus Research",
+          "authors": [
+            "S. Huo",
+            "Peng-Fei Zhu",
+            "Ji-Kai Xu"
+          ],
+          "doi": "10.1016/j.virusres.2026.199813",
+          "url": "https://www.semanticscholar.org/paper/d584d511b241477202a3145445f980692af8261f",
+          "citation_count": 0
+        },
+        {
+          "id": "3c6a715da023e1798ff0f690a6149ca887072b61",
+          "title": "Isolation and genomic characterization of a Teetrevirus phage infecting Klebsiella quasipneumoniae with a putative SAMase gene",
           "year": 2026,
           "journal": "Archives of Virology",
           "authors": [
-            "Xiaoli Yu",
-            "Zheng Fang",
-            "Qingshan Wu"
+            "Ke-Wei Chen",
+            "Jia-Xiang Li",
+            "Liang-Rong Zhou"
           ],
-          "doi": "10.1007/s00705-026-06711-4",
-          "url": "https://www.semanticscholar.org/paper/bb3fd16ef67ba87180da70531040d910e036ff21",
+          "doi": "10.1007/s00705-026-06763-6",
+          "url": "https://www.semanticscholar.org/paper/3c6a715da023e1798ff0f690a6149ca887072b61",
           "citation_count": 0
         },
         {
-          "id": "7614f77e26c9f0a5a16b279274967add2471986e",
-          "title": "Discovery and Characterization of Four Novel Vibrio coralliilyticus Phages Support the Proposal of Two New Genera",
+          "id": "051edb67ccc7760e0538bfd0584116accea900ac",
+          "title": "Bacteriophages in Antarctic subglacial lakes reveal novel biodiversity and biogeochemical potential",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "ISME Communications",
           "authors": [
-            "Jacob A. Albee",
-            "Nathan Fowler",
-            "Julianne H. Grose"
+            "David M. Robinson",
+            "Wei Li",
+            "M. Breitbart"
           ],
-          "doi": "10.64898/2026.09.21.753358",
-          "url": "https://www.semanticscholar.org/paper/7614f77e26c9f0a5a16b279274967add2471986e",
-          "citation_count": 0
-        },
-        {
-          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
-          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Pengwei Li",
-            "Jin-Ren Ni"
-          ],
-          "doi": "10.64898/2026.09.14.751636",
-          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
-          "citation_count": 0
-        },
-        {
-          "id": "cf72cdf1de0e95ff6458c3ab978be96ce33207c7",
-          "title": "A Bacillus Phage From Bangladeshi Soil, Phage APU1: Genomic Characterisation and Comparative Genomic Analysis",
-          "year": 2026,
-          "journal": "Environmental Microbiology Reports",
-          "authors": [
-            "A. Haider",
-            "Tasnuva Jahan Esha",
-            "Sezanur Rahman"
-          ],
-          "doi": "10.1111/1758-2229.70415",
-          "url": "https://www.semanticscholar.org/paper/cf72cdf1de0e95ff6458c3ab978be96ce33207c7",
-          "citation_count": 0
-        },
-        {
-          "id": "1ea73db1476641d79bec29dc1653947b2121956c",
-          "title": "Novel Lytic Agrobacterium Bacteriophage Miki Representing a New Genus",
-          "year": 2026,
-          "journal": "Viruses",
-          "authors": [
-            "A. Tokmakova",
-            "A. Lukianova",
-            "M. Shneider"
-          ],
-          "doi": "10.3390/v18090927",
-          "url": "https://www.semanticscholar.org/paper/1ea73db1476641d79bec29dc1653947b2121956c",
+          "doi": "10.1093/ismeco/ycag252",
+          "url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
           "citation_count": 0
         }
       ],
@@ -24244,7 +24245,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "e4603035485a20664885b352a93cbfeadf4f6959",
@@ -24612,6 +24613,34 @@
       "references": [],
       "similar_papers": [
         {
+          "id": "7151c981e6a2e6b041f5cbe1be5883ecfa38fa37",
+          "title": "Viral diversity and activity in Arctic tundra soils in wintertime",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Wilhelmiina Juvonen",
+            "M. Forgia",
+            "S. Viitamäki"
+          ],
+          "doi": "10.64898/2026.10.28.762433",
+          "url": "https://www.semanticscholar.org/paper/7151c981e6a2e6b041f5cbe1be5883ecfa38fa37",
+          "citation_count": 0
+        },
+        {
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
+          ],
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "citation_count": 0
+        },
+        {
           "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
           "title": "Shifts in vegetation impact estuary microbiomes",
           "year": 2026,
@@ -24626,58 +24655,31 @@
           "citation_count": 0
         },
         {
-          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
-          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
+          "id": "65642f5f79c91a0b266a6f11280dd8799e9169c6",
+          "title": "Environmental drivers of soil virus diversity across UK habitats",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "Pengwei Li",
-            "Jin-Ren Ni"
+            "Sean Meaden",
+            "Briony Jones",
+            "T. Goodall"
           ],
-          "doi": "10.64898/2026.09.14.751636",
-          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "doi": "10.64898/2026.10.20.760436",
+          "url": "https://www.semanticscholar.org/paper/65642f5f79c91a0b266a6f11280dd8799e9169c6",
           "citation_count": 0
         },
         {
-          "id": "5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
-          "title": "Unraveling the diversity, function, and virus–host interactions of archaeal proviruses",
+          "id": "0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
+          "title": "Genome-resolved metagenomics reveals rare taxa and functional traits in two contrasting agricultural fields",
           "year": 2026,
           "journal": "ISME Communications",
           "authors": [
-            "Yang Zhao",
-            "Peng-Fei Liu",
-            "Lin-Xing Chen"
+            "Ioanna Chatzigiannidou",
+            "Tanvi Taparia",
+            "P. L. Johansen"
           ],
-          "doi": "10.1093/ismeco/ycag243",
-          "url": "https://www.semanticscholar.org/paper/5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
-          "citation_count": 0
-        },
-        {
-          "id": "6da7c702df628b1726bfde663910fdb419a172b4",
-          "title": "Elevation-structured viral ecological strategies along glacier-fed rivers on the Qinghai-Tibet Plateau",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Ying-Hao Li",
-            "Tian-Yi Chen",
-            "Pengwei Li"
-          ],
-          "doi": "10.1038/s41467-026-76431-5",
-          "url": "https://www.semanticscholar.org/paper/6da7c702df628b1726bfde663910fdb419a172b4",
-          "citation_count": 1
-        },
-        {
-          "id": "051edb67ccc7760e0538bfd0584116accea900ac",
-          "title": "Bacteriophages in Antarctic subglacial lakes reveal novel biodiversity and biogeochemical potential",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "David M. Robinson",
-            "Wei Li",
-            "M. Breitbart"
-          ],
-          "doi": "10.1093/ismeco/ycag252",
-          "url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
+          "doi": "10.1093/ismeco/ycag268",
+          "url": "https://www.semanticscholar.org/paper/0aabeea2dba20ece35a2498ce9a1c853ef5daff4",
           "citation_count": 0
         }
       ],
@@ -24695,7 +24697,7 @@
         "virus"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T00:32:59.545173+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "68c1abdfef311bffa569daae30716c4a872122b7",
@@ -28523,7 +28525,7 @@
       "url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffc49d44ca2da7f5fb40517056380d071d42d849",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-022-01384-y",
-      "citation_count": 234,
+      "citation_count": 235,
       "influential_citation_count": 14,
       "reference_count": 105,
       "references": [
@@ -29838,7 +29840,7 @@
         "Sichen Wan",
         "Chu-Jin Ruan",
         "Xinyao Niu",
-        "Guowei Chen",
+        "Guo-Wei Chen",
         "Ying Liu",
         "K. Zhu",
         "R. Schulin",
@@ -29856,71 +29858,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "5986b03660aaaf6a03a90a7db2707a799a42aa78",
-          "title": "Short-term water-table drawdown alters microbial carbon-acquisition attributes and microbial-derived carbon pools in peatlands",
+          "id": "f402a6fcc25105ec945a3a5aae777f21e02b5c93",
+          "title": "Phage Lysis Associated with Biodegradable Microplastics Mediates Microbial Physiological Adaptation to Transform Organic Matter in Soil.",
           "year": 2026,
-          "journal": "Journal of Plant Ecology",
+          "journal": "Environmental Science and Technology",
           "authors": [
-            "Jia-Tao Zhu",
-            "Hua‐Bing Liu",
-            "Mai-He Li"
+            "Lin Liu",
+            "Long Hu",
+            "He Sun"
           ],
-          "doi": "10.1093/jpe/rtag199",
-          "url": "https://www.semanticscholar.org/paper/5986b03660aaaf6a03a90a7db2707a799a42aa78",
+          "doi": "10.1021/acs.est.6c06022",
+          "url": "https://www.semanticscholar.org/paper/f402a6fcc25105ec945a3a5aae777f21e02b5c93",
           "citation_count": 0
         },
         {
-          "id": "8b673740dc47a0c83af6b5d61a98e895bdbb58e6",
-          "title": "Contrasting effects of multifactorial carbon, nitrogen, and phosphorus amendments on soil microbial carbon‐use efficiency and biomass turnover in a subtropical grassland and forest soil",
+          "id": "31da3bf97d6b13b5e8f8888046273e9c2a3dc667",
+          "title": "Viruses in Soil: A Review of Methods, Distribution and Ecological Functions",
           "year": 2026,
-          "journal": "Agricultural &amp; Environmental Letters",
+          "journal": "Toxics",
           "authors": [
-            "C. Rosinger",
-            "H. Sandén",
-            "J. Rousk"
+            "Fa-Tong Song",
+            "Si-Qin Bao",
+            "Cheng Chen"
           ],
-          "doi": "10.1002/ael2.70097",
-          "url": "https://www.semanticscholar.org/paper/8b673740dc47a0c83af6b5d61a98e895bdbb58e6",
+          "doi": "10.3390/toxics14100858",
+          "url": "https://www.semanticscholar.org/paper/31da3bf97d6b13b5e8f8888046273e9c2a3dc667",
           "citation_count": 0
         },
         {
-          "id": "94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
-          "title": "Metagenomic Analysis of Soil Microbial Community Shifts Formed by 60-Day Exposure to Polylactic Acid Microplastics",
+          "id": "8e48938619f6d33652e45634b3b015975b8c3ae5",
+          "title": "Soil Protists Consume Viruses to Drive Microbial Nutrient Cycling: Overlooked Trophic Pathways in Soil Food Web.",
           "year": 2026,
-          "journal": "E3S Web of Conferences",
+          "journal": "Environmental Science and Technology",
           "authors": [
-            "Haoran Liu",
-            "Zi-Xuan Zhang",
-            "Yani Wang"
+            "Yu-Ting Zhao",
+            "Ke-Xin Yu",
+            "Jing Tang"
           ],
-          "doi": "10.1051/e3sconf/202673401018",
-          "url": "https://www.semanticscholar.org/paper/94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
+          "doi": "10.1021/acs.est.6c06384",
+          "url": "https://www.semanticscholar.org/paper/8e48938619f6d33652e45634b3b015975b8c3ae5",
           "citation_count": 0
         },
         {
-          "id": "232918431db48db50606a26bc9424648394e1d71",
-          "title": "Density-Dependent Effects of Invasive Pomacea canaliculata on Nutrient Status, Enzyme Activities, and Bacterial Community Structure in Flooded Paddy Soil Microcosms",
+          "id": "3ba3dfe19e4d9449dc6c3c50441ff5313cf6ff52",
+          "title": "Phage preferential infection of antibiotic-susceptible bacteria enriches antibiotic-resistant bacteria in activated sludge microbiomes.",
           "year": 2026,
-          "journal": "Microorganisms",
+          "journal": "Water Research",
           "authors": [
-            "Liang Guo",
-            "Ying-Han Liu",
-            "Yi-Jun Weng"
+            "Bing Li",
+            "H. Pang",
+            "Dan Huang"
           ],
-          "doi": "10.3390/microorganisms14091895",
-          "url": "https://www.semanticscholar.org/paper/232918431db48db50606a26bc9424648394e1d71",
+          "doi": "10.1016/j.watres.2026.127160",
+          "url": "https://www.semanticscholar.org/paper/3ba3dfe19e4d9449dc6c3c50441ff5313cf6ff52",
           "citation_count": 0
         },
         {
-          "id": "ac8df04eedca854fa6f3dfc4577c5bb121c96399",
-          "title": "Protist-mediated microbiome governance: Integrating trophic ecology, rhizosphere biology, and biotechnological potential",
+          "id": "b4e0ed0c564e9196cc3078466e06e5d4aaa071ad",
+          "title": "Cross-kingdom synthetic microbial communities outperform single-kingdom consortia in promoting potato growth under continuous cropping",
           "year": 2026,
-          "journal": "World Journal of Microbiology & Biotechnology",
+          "journal": "Frontiers in Microbiology",
           "authors": [
-            "Brizal Raninga"
+            "Wen Liang",
+            "Xue-Yong Ma",
+            "Ping-Liang Zhang"
           ],
-          "doi": "10.1007/s11274-026-05221-4",
-          "url": "https://www.semanticscholar.org/paper/ac8df04eedca854fa6f3dfc4577c5bb121c96399",
+          "doi": "10.3389/fmicb.2026.1920336",
+          "url": "https://www.semanticscholar.org/paper/b4e0ed0c564e9196cc3078466e06e5d4aaa071ad",
           "citation_count": 0
         }
       ],
@@ -29936,7 +29940,7 @@
         "virus"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
@@ -31939,7 +31943,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 379,
+      "citation_count": 380,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -32058,6 +32062,20 @@
       "references": [],
       "similar_papers": [
         {
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
+          ],
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "citation_count": 0
+        },
+        {
           "id": "084449bfb923db327fcc287bc532792206801d95",
           "title": "Phytoplankton and giant virus diversity during different monsoon seasons, a fish kill, and a saxitoxin episode in a eutrophic mariculture area",
           "year": 2026,
@@ -32072,58 +32090,45 @@
           "citation_count": 0
         },
         {
-          "id": "1cbf9338cbde27f6449517ded6ef2df0de1aa16e",
-          "title": "MICROBIAL DIVERSITY OF SLUDGE SAMPLES FROM MUNDRA PORT (GUJARAT, INDIA): A COMPARATIVE METAGENOMIC ANALYSIS OF SEAWATER, SEDIMENT, AND SALTPAN ECOSYSTEMS",
+          "id": "4d6b69f2f268974e61c8addb086aa15c9e18bfe7",
+          "title": "Analysis of bacteriophage diversity in Ganga river ecosystem: insights from metagenome-based sequencing.",
           "year": 2026,
-          "journal": "Pollution research",
+          "journal": "International Microbiology",
           "authors": [
-            "Deep Dave",
-            "Amita Mishra",
-            "S. K. Patel"
+            "Annapurna Katara",
+            "Sumit Chand",
+            "Vijeta Chaudhry"
           ],
-          "doi": "10.53550/pr.2026.v45i4.005",
-          "url": "https://www.semanticscholar.org/paper/1cbf9338cbde27f6449517ded6ef2df0de1aa16e",
+          "doi": "10.1007/s10123-026-00901-5",
+          "url": "https://www.semanticscholar.org/paper/4d6b69f2f268974e61c8addb086aa15c9e18bfe7",
           "citation_count": 0
         },
         {
-          "id": "6920ec983ca6218aabcca294ca89ec4f714bd52a",
-          "title": "A metagenomic snapshot of metabolic potentials in wintertime eutrophic sediments of Lake Taihu inferred from metagenome-assembled genomes",
+          "id": "9895bbe7e359d8dee621734f7da3f295b703ef0c",
+          "title": "The bioturbation contribution of tropical sea cucumber density on the microbial community of the coral reef sediment.",
           "year": 2026,
-          "journal": "Frontiers in Microbiology",
+          "journal": "Marine Environmental Research",
           "authors": [
-            "Qi Wei",
-            "Ya-Jie Li",
-            "Ai-Dong Ruan"
+            "Cheng-Hao Jia",
+            "Ya-Nan Wang",
+            "Chun-Yang Sun"
           ],
-          "doi": "10.3389/fmicb.2026.1929411",
-          "url": "https://www.semanticscholar.org/paper/6920ec983ca6218aabcca294ca89ec4f714bd52a",
+          "doi": "10.1016/j.marenvres.2026.108434",
+          "url": "https://www.semanticscholar.org/paper/9895bbe7e359d8dee621734f7da3f295b703ef0c",
           "citation_count": 0
         },
         {
-          "id": "dc7d3b726bad7c819167e6034e66fab7a3489b9b",
-          "title": "Decoding the Deep: The Ecology, Biogeography, and Evolution of Deep-Sea Viruses.",
+          "id": "4bce77282d4eda78ed4f5c340efdfc1faae84f89",
+          "title": "Spatiotemporal succession of sediment microbiomes and nutrients in five large yellow croaker aquaculture areas: Implications for fish quality.",
           "year": 2026,
-          "journal": "Annual Review of Marine Science",
+          "journal": "Marine Pollution Bulletin",
           "authors": [
-            "Marguerite V. Langwig",
-            "Karthik Anantharaman"
+            "Qi-Liang Li",
+            "Run-Jie Jin",
+            "Jia-Lang Zheng"
           ],
-          "doi": "10.1146/annurev-marine-050625-093011",
-          "url": "https://www.semanticscholar.org/paper/dc7d3b726bad7c819167e6034e66fab7a3489b9b",
-          "citation_count": 0
-        },
-        {
-          "id": "99bc2a5817418b5f193a28e7f085208b0d27ec4f",
-          "title": "Metagenomic insights into biogeochemical functional potential and resistome dynamics of PM2.5 microbial communities.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Yu-Tong Zha",
-            "Zhe Wang",
-            "Wen-Wei Sun"
-          ],
-          "doi": "10.1016/j.envres.2026.125444",
-          "url": "https://www.semanticscholar.org/paper/99bc2a5817418b5f193a28e7f085208b0d27ec4f",
+          "doi": "10.1016/j.marpolbul.2026.120361",
+          "url": "https://www.semanticscholar.org/paper/4bce77282d4eda78ed4f5c340efdfc1faae84f89",
           "citation_count": 0
         }
       ],
@@ -32145,7 +32150,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "2992649afd3d2ab5cbf82867aec96c29e1128057",
@@ -34811,7 +34816,7 @@
       "url": "https://www.semanticscholar.org/paper/aa2f858cb69b5c2537b595ae4c1305f2ef519f9f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/aa2f858cb69b5c2537b595ae4c1305f2ef519f9f",
       "pdf_url": "https://doi.org/10.3389/fmicb.2021.701414",
-      "citation_count": 24,
+      "citation_count": 25,
       "influential_citation_count": 0,
       "reference_count": 105,
       "references": [
@@ -35310,7 +35315,7 @@
       "abstract": "\n Background:Rivers serve as a nexus for nutrient transfer between terrestrial and marine ecosystems and as such, have a significant impact on global carbon and nitrogen cycles. In river ecosystems, the sediments found within the hyporheic zone are microbial hotspots that can account for a significant portion of ecosystem respiration and have profound impacts on system biogeochemistry. Despite this, studies using genome-resolved analyses linking microbial and viral communities to nitrogen and carbon biogeochemistry are limited.Results:Here, we characterized the microbial and viral communities of Columbia River hyporheic zone sediments to reveal the metabolisms that actively cycle carbon and nitrogen. Using genome-resolved metagenomics, we created the Hyporheic Uncultured Microbial and Viral (HUM-V) database, containing a dereplicated database of 55 microbial Metagenome-Assembled Genomes (MAGs), representing 12 distinct phyla. We also sampled 111 viral Metagenome Assembled Genomes (vMAGs) from 26 distinct and novel genera. The HUM-V recruited metaproteomes from these same samples, providing the first inventory of microbial gene expression in hyporheic zone sediments. Combining this data with metabolite data, we generated a conceptual model where heterotrophic and autotrophic metabolisms co-occur to drive an integrated carbon and nitrogen cycle, revealing microbial sources and sinks for carbon dioxide and ammonium in these sediments. We uncovered the metabolic handoffs underpinning these processes including mutualistic nitrification by Thermoproteota (formerly Thaumarchaeota) and Nitrospirota, as well as identified possible cooperative and cheating behavior impacting nitrogen mineralization. Finally, by linking vMAGs to microbial genome hosts, we reveal possible viral controls on microbial nitrification and organic carbon degradation.Conclusions:Our multi-omics analyses provide new mechanistic insight into coupled carbon-nitrogen cycling in the hyporheic zone. This is a key step in developing predictive hydrobiogeochemical models that account for microbial cross-feeding and viral influences over potential and expressed microbial metabolisms. Furthermore, the publicly available HUM-V genome resource can be queried and expanded by researchers working in other ecosystems to assess the transferability of our results to other parts of the globe.",
       "url": "https://www.semanticscholar.org/paper/43a8d4b66be033fd17d92a69aeacc86dce5e37df",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/43a8d4b66be033fd17d92a69aeacc86dce5e37df",
-      "pdf_url": "https://www.researchsquare.com/article/rs-746574/v1.pdf?c=1633017457000",
+      "pdf_url": "https://doi.org/10.1128/msystems.00516-22",
       "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 67,
@@ -36493,45 +36498,31 @@
           "citation_count": 0
         },
         {
-          "id": "0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
-          "title": "Single-cell-resolved frequency and modes of phage interactions with prokaryoplankton in the tropical surface ocean",
+          "id": "296466d02b13f30189511d14477ef125b3c0b77e",
+          "title": "Aerobic anoxygenic phototrophs are widespread and active members of Greenland Ice Sheet microbiomes",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "FEMS Microbiology Ecology",
           "authors": [
-            "Julia M. Brown",
-            "Alaina R. Weinheimer",
-            "N. Poulton"
+            "Christoph Keuschnig",
+            "Helen K. Feord",
+            "Emily L. M. Broadwell"
           ],
-          "doi": "10.64898/2026.08.25.747067",
-          "url": "https://www.semanticscholar.org/paper/0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
+          "doi": "10.1093/femsec/fiag116",
+          "url": "https://www.semanticscholar.org/paper/296466d02b13f30189511d14477ef125b3c0b77e",
           "citation_count": 0
         },
         {
-          "id": "0d96bb82fd1bd122548720fcfe1e701d3fdbb0af",
-          "title": "Composition of non-cyanobacterial diazotrophs in suspended and sinking particles is driven by productivity phase",
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
           "year": 2026,
-          "journal": "Microbiology spectrum",
+          "journal": "Nature Communications",
           "authors": [
-            "C. Reeder",
-            "Lisa W. von Friesen",
-            "Josephin Lemke"
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
           ],
-          "doi": "10.1128/spectrum.01386-26",
-          "url": "https://www.semanticscholar.org/paper/0d96bb82fd1bd122548720fcfe1e701d3fdbb0af",
-          "citation_count": 0
-        },
-        {
-          "id": "d69a7dccd215f4b9555134d2408c470709a93256",
-          "title": "Viral lysis accelerates microbial succession patterns resembling diatom senescence",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Timotej Turk Dermastia",
-            "I. Gutiérrez-Aguirre",
-            "Tinkara Rupnik"
-          ],
-          "doi": "10.1093/ismejo/wrag206",
-          "url": "https://www.semanticscholar.org/paper/d69a7dccd215f4b9555134d2408c470709a93256",
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
           "citation_count": 0
         },
         {
@@ -36540,12 +36531,26 @@
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "D. J. Jiménez",
+            "D. Jiménez",
             "T. Jamil",
             "María Fernanda Peña-Valencia"
           ],
           "doi": "10.64898/2026.09.22.753136",
           "url": "https://www.semanticscholar.org/paper/0e6741a3025b6491c885aa190bc21076dbcb7942",
+          "citation_count": 0
+        },
+        {
+          "id": "40586b60b0062aa6c1eefa863a2fda2e8792fbb1",
+          "title": "Layer-specific microbial community structures in the meromictic lake, Lake Suigetsu, unveiled by 16S rRNA gene amplicon and metagenomic analyses",
+          "year": 2026,
+          "journal": "Limnology",
+          "authors": [
+            "Jota Suzuki",
+            "Y. Imaura",
+            "Takafumi Kataoka"
+          ],
+          "doi": "10.1007/s10201-026-00861-9",
+          "url": "https://www.semanticscholar.org/paper/40586b60b0062aa6c1eefa863a2fda2e8792fbb1",
           "citation_count": 0
         }
       ],
@@ -36568,7 +36573,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "e7809a2ed7633171c2c280d0e0b76b3a95dc68f5",
@@ -39282,7 +39287,7 @@
       "url": "https://www.semanticscholar.org/paper/d3da0f2c7993b29d05271e996fefceaa14568774",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d3da0f2c7993b29d05271e996fefceaa14568774",
       "pdf_url": "https://sfamjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.15010",
-      "citation_count": 107,
+      "citation_count": 108,
       "influential_citation_count": 4,
       "reference_count": 73,
       "references": [],
@@ -39544,7 +39549,7 @@
       "title": "New viral biogeochemical roles revealed through metagenomic analysis of Lake Baikal",
       "authors": [
         "F. H. Coutinho",
-        "Pedro J. Cabello-Yeves",
+        "P. J. Cabello-Yeves",
         "Rafael Gonzalez-Serrano",
         "R. Rosselli",
         "M. López-Pérez",
@@ -40085,20 +40090,6 @@
       ],
       "similar_papers": [
         {
-          "id": "0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
-          "title": "Single-cell-resolved frequency and modes of phage interactions with prokaryoplankton in the tropical surface ocean",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Julia M. Brown",
-            "Alaina R. Weinheimer",
-            "N. Poulton"
-          ],
-          "doi": "10.64898/2026.08.25.747067",
-          "url": "https://www.semanticscholar.org/paper/0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
-          "citation_count": 0
-        },
-        {
           "id": "051edb67ccc7760e0538bfd0584116accea900ac",
           "title": "Bacteriophages in Antarctic subglacial lakes reveal novel biodiversity and biogeochemical potential",
           "year": 2026,
@@ -40110,6 +40101,34 @@
           ],
           "doi": "10.1093/ismeco/ycag252",
           "url": "https://www.semanticscholar.org/paper/051edb67ccc7760e0538bfd0584116accea900ac",
+          "citation_count": 0
+        },
+        {
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
+          ],
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "citation_count": 0
+        },
+        {
+          "id": "ae02100b64d50be81a6a574bba019785ca4fe09e",
+          "title": "Seasonal and evolutionary patterns of planktonic Hikarchaeia reveal ecological niches of marine rare biosphere constituents",
+          "year": 2026,
+          "journal": "mBio",
+          "authors": [
+            "Fabian Wittmers",
+            "Nicole R. Dames",
+            "Michelle L. Michelsen"
+          ],
+          "doi": "10.1128/mbio.01753-26",
+          "url": "https://www.semanticscholar.org/paper/ae02100b64d50be81a6a574bba019785ca4fe09e",
           "citation_count": 0
         },
         {
@@ -40127,26 +40146,12 @@
           "citation_count": 0
         },
         {
-          "id": "a28a58630c6984fc444df4fbe61e8d55c2944407",
-          "title": "Genome-resolved biogeography reveals multidimensional structuring of freshwater giant viruses across global deep lakes",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "Liwen Zhang",
-            "Michaela M. Salcher",
-            "Morimaru Kida"
-          ],
-          "doi": "10.64898/2026.08.06.743156",
-          "url": "https://www.semanticscholar.org/paper/a28a58630c6984fc444df4fbe61e8d55c2944407",
-          "citation_count": 0
-        },
-        {
           "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
           "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "Pengwei Li",
+            "Peng-Wei Li",
             "Jin-Ren Ni"
           ],
           "doi": "10.64898/2026.09.14.751636",
@@ -40173,7 +40178,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-04T23:58:32.920583+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "e0b2f12c47f900ac3174e79d7881a7f84defe9a0",
@@ -44118,45 +44123,17 @@
       ],
       "similar_papers": [
         {
-          "id": "9d6d79333990c7e7b3f140d3e73be5eb27e5115a",
-          "title": "Bacterial Lysis Observation Over Time Assay (BLOTS) for High‐Throughput Isolation, Sequencing, and Characterization of Bacteriophages",
+          "id": "a9fc8399c6e91f9eef24290ce091aa0562b6e1ab",
+          "title": "Bacteriophages Targeting an Emerging Pantoea spp. for Rice Disease Biocontrol",
           "year": 2026,
-          "journal": "Current Protocols",
+          "journal": "Viruses",
           "authors": [
-            "Sean Jia Le Pang",
-            "Soon Keong Wee",
-            "Bobby Guo Wei Lee"
+            "Patcharin Siringan",
+            "Panukar Malawan",
+            "Kanhatey Kong"
           ],
-          "doi": "10.1002/cpz1.70454",
-          "url": "https://www.semanticscholar.org/paper/9d6d79333990c7e7b3f140d3e73be5eb27e5115a",
-          "citation_count": 0
-        },
-        {
-          "id": "f1b70ac708cfd66b4dc7721f087d1ab8474963b3",
-          "title": "Isolation and phenotypic characterization of a lytic bacteriophage with quantitative host range and antibiofilm activity against clinical MRSA isolates",
-          "year": 2026,
-          "journal": "Biotechnology Notes",
-          "authors": [
-            "Vishnupriya Panneerselvam",
-            "Leela kagithakara Vajravelu",
-            "S. Sugumar"
-          ],
-          "doi": "10.1016/j.biotno.2026.07.001",
-          "url": "https://www.semanticscholar.org/paper/f1b70ac708cfd66b4dc7721f087d1ab8474963b3",
-          "citation_count": 0
-        },
-        {
-          "id": "af7b97c568125e2d9094b473c728f1a8decdd882",
-          "title": "Host range of 30 novel Arthrobacter globiformis bacteriophages shows modularity and nestedness",
-          "year": 2026,
-          "journal": "microPublication Biology",
-          "authors": [
-            "Yu-Chuan Chen",
-            "Emily Chung",
-            "Kristen DeJanes"
-          ],
-          "doi": "10.17912/micropub.biology.002306",
-          "url": "https://www.semanticscholar.org/paper/af7b97c568125e2d9094b473c728f1a8decdd882",
+          "doi": "10.3390/v18101061",
+          "url": "https://www.semanticscholar.org/paper/a9fc8399c6e91f9eef24290ce091aa0562b6e1ab",
           "citation_count": 0
         },
         {
@@ -44174,6 +44151,20 @@
           "citation_count": 0
         },
         {
+          "id": "c3b29e556f447af6c6039d7a93b5e484fe7211fa",
+          "title": "A novel lytic phage with potent efficacy against Bacillus cereus, its biofilms and spores, and biocontrol potential in food matrices",
+          "year": 2026,
+          "journal": "Current Research in Food Science",
+          "authors": [
+            "Peng Wan",
+            "Zheng-Yuan He",
+            "Wei-Qi Liu"
+          ],
+          "doi": "10.1016/j.crfs.2026.101603",
+          "url": "https://www.semanticscholar.org/paper/c3b29e556f447af6c6039d7a93b5e484fe7211fa",
+          "citation_count": 0
+        },
+        {
           "id": "f4daaa8a7da9d83e06f56e0554361e27d92fc854",
           "title": "Bacteriophage infection reveals pre-emptive cooperative dormancy in stationary phase Escherichia coli",
           "year": 2026,
@@ -44185,6 +44176,20 @@
           ],
           "doi": "10.64898/2026.09.23.753752",
           "url": "https://www.semanticscholar.org/paper/f4daaa8a7da9d83e06f56e0554361e27d92fc854",
+          "citation_count": 0
+        },
+        {
+          "id": "71d01c2b9f3d364fee45aa8f850b85edde1a38ae",
+          "title": "Effect of environmental conditions on two vibriophages and their host",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Marcela Leon",
+            "Neri Vargas",
+            "Kívely Lozano"
+          ],
+          "doi": "10.3389/fmicb.2026.1914226",
+          "url": "https://www.semanticscholar.org/paper/71d01c2b9f3d364fee45aa8f850b85edde1a38ae",
           "citation_count": 0
         }
       ],
@@ -44204,7 +44209,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "0e841738307073b01c0428f7e04cb54f4b29a9f9",
@@ -45583,7 +45588,7 @@
       "url": "https://www.semanticscholar.org/paper/cb753770208a18c02bc8e7e1092efea910e5b76f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cb753770208a18c02bc8e7e1092efea910e5b76f",
       "pdf_url": "",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 0,
       "reference_count": 46,
       "references": [],
@@ -46143,7 +46148,7 @@
           "year": 2026,
           "journal": "Communications Biology",
           "authors": [
-            "C. E. L. Hill",
+            "C. Hill",
             "A. Tilstra",
             "Y. El-Khaled"
           ],
@@ -46152,41 +46157,44 @@
           "citation_count": 1
         },
         {
-          "id": "fad1ac69a7a265373ceb87d14f5e0990af3194b2",
-          "title": "Diel Dynamics of Bacterial and Picophytoplankton Growth, Grazing, and Viral Lysis at Different Depths in the Tropical South China Sea in Spring",
+          "id": "c079891f12d6fe8b8aa2a227c3ac2f94abda69ae",
+          "title": "Microbial community dynamics mediate rapid biomass loss and phosphorus recycling in pelagic Sargassum",
           "year": 2026,
-          "journal": "Ocean Science Journal",
+          "journal": "Frontiers in Plant Science",
           "authors": [
-            "Clara Natalie Annabel",
-            "F. Shiah",
-            "Patrichka Wei-Yi Chen"
+            "Roberto Velázquez-Ochoa",
+            "V. Li",
+            "Wiebke E. Krämer"
           ],
-          "doi": "10.1007/s12601-026-00288-4",
-          "url": "https://www.semanticscholar.org/paper/fad1ac69a7a265373ceb87d14f5e0990af3194b2",
+          "doi": "10.3389/fpls.2026.1918885",
+          "url": "https://www.semanticscholar.org/paper/c079891f12d6fe8b8aa2a227c3ac2f94abda69ae",
           "citation_count": 0
         },
         {
-          "id": "63164197aea84a91a8c19677a45eaea8824021e1",
-          "title": "Influence of humic substances on bacterial and viral dynamics in freshwaters",
-          "year": null,
-          "journal": "",
-          "authors": [],
-          "doi": "",
-          "url": "https://www.semanticscholar.org/paper/63164197aea84a91a8c19677a45eaea8824021e1",
+          "id": "4a950f7e9e9758dd2c7cd4d851d05a38384630fd",
+          "title": "Dissolved Organic Matter Impacts Nitrogen Fixation in the Arctic Ocean",
+          "year": 2026,
+          "journal": "Journal of Geophysical Research - Biogeosciences",
+          "authors": [
+            "Stine Zander",
+            "Lisa W. von Friesen",
+            "A. Fujiwara"
+          ],
+          "doi": "10.1029/2026JG009929",
+          "url": "https://www.semanticscholar.org/paper/4a950f7e9e9758dd2c7cd4d851d05a38384630fd",
           "citation_count": 0
         },
         {
-          "id": "45483d599cb213b64e0eb2994ffd8ba11289ebee",
-          "title": "Stoichiometry of marine gels cycling in the North Pacific Subtropical Gyre: Insights on subsurface preformed nitrate anomalies",
+          "id": "44edddb9c6213db278c688b1bd02be2154c22620",
+          "title": "Seasonal stratiﬁcation regulates carbon allocation between particulate and dissolved pathways in the Gulf of Aqaba",
           "year": null,
           "journal": "",
           "authors": [
-            "Stella Rowley",
-            "Kiera Curran",
-            "Kai Ziervogel"
+            "E. Rahav",
+            "Adina Paytan"
           ],
           "doi": "",
-          "url": "https://www.semanticscholar.org/paper/45483d599cb213b64e0eb2994ffd8ba11289ebee",
+          "url": "https://www.semanticscholar.org/paper/44edddb9c6213db278c688b1bd02be2154c22620",
           "citation_count": 0
         }
       ],
@@ -46204,7 +46212,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "b540037d94c907976aa61464da265a4679e5cb7f",
@@ -46449,6 +46457,20 @@
       "references": [],
       "similar_papers": [
         {
+          "id": "7013cc57e43d6957e29be2ec5b43618f8a2aaa71",
+          "title": "Synthesis, Characterization of Ce–Ni‐Based Combustion Catalyst for CVD Growth of Carbon Nanotubes and Evaluation of Antifungal Activity",
+          "year": 2026,
+          "journal": "ChemistrySelect",
+          "authors": [
+            "D. Manikandan",
+            "K. Manjuladevi",
+            "T. Somanathan"
+          ],
+          "doi": "10.1002/slct.74686",
+          "url": "https://www.semanticscholar.org/paper/7013cc57e43d6957e29be2ec5b43618f8a2aaa71",
+          "citation_count": 0
+        },
+        {
           "id": "507faab7554ecac305941382e9ca123ef5511980",
           "title": "Parameter-Controlled PECVD Growth of Carbon Nanotubes",
           "year": 2026,
@@ -46463,31 +46485,17 @@
           "citation_count": 0
         },
         {
-          "id": "132670263614e44eec74604ff43d863cad6f1330",
-          "title": "Gamma Irradiation Induced Surface Functionalization of Carbon Nanotubes Synthesized from Polyethylene Terephthalate (PET) Waste",
+          "id": "b90036e3efb9bf9049f8205cdfd491a394e5195c",
+          "title": "SUPRAMOLECULAR SYNTHESIS AND STRUCTURAL CHARACTERIZATION OF GRAPHITIC CARBON NITRIDE NANOTUBES",
           "year": 2026,
-          "journal": "Journal of Material Science and Radiation",
+          "journal": "Natural Sciences in the Modern World, Vol. 5, No. 15 (2026)",
           "authors": [
-            "Nor Adnin Ezani Mohd Ezani",
-            "M. Harun",
-            "Izzuddin Mohd Zaharuddin"
+            "G. X. Ruzimova",
+            "A. Ibragimov",
+            "Suppuraj P."
           ],
-          "doi": "10.56566/jmsr.v2i2.722",
-          "url": "https://www.semanticscholar.org/paper/132670263614e44eec74604ff43d863cad6f1330",
-          "citation_count": 0
-        },
-        {
-          "id": "7db9902724b77550670a9dbbdccf5bd48f7c4d54",
-          "title": "Preparation of the carbon nanotubes by catalytic pyrolysis of waste plastic and application for electromagnetic shielding",
-          "year": 2026,
-          "journal": "Arabian Journal of Chemistry",
-          "authors": [
-            "Song Cheng",
-            "Haonan Wu",
-            "Haoyu Li"
-          ],
-          "doi": "10.25259/ajc_12_2026",
-          "url": "https://www.semanticscholar.org/paper/7db9902724b77550670a9dbbdccf5bd48f7c4d54",
+          "doi": "10.70413/zdtf-v05-i15-s59522",
+          "url": "https://www.semanticscholar.org/paper/b90036e3efb9bf9049f8205cdfd491a394e5195c",
           "citation_count": 0
         },
         {
@@ -46505,17 +46513,17 @@
           "citation_count": 0
         },
         {
-          "id": "d6f739d8cbb816c878efcb9d4e6b26ce3740982f",
-          "title": "Eco-Friendly Radiation Curable Acrylate Coatings Reinforced with Functionalized Carbon Nanotubes for Antimicrobial Application",
+          "id": "170064c16368a27a0bb3629e20ad5719f36eecbb",
+          "title": "A Simple Solvent Treatment to Modulate the Thermoelectric Properties of Single‐Walled Carbon Nanotubes over a Wide Range",
           "year": 2026,
-          "journal": "Journal of Material Science and Radiation",
+          "journal": "Advanced Physics Research",
           "authors": [
-            "Nur Zetty Amirah Kadri",
-            "M. Harun",
-            "Izzuddin Mohd Zaharuddin"
+            "M. Gültner",
+            "Dieter Fischer",
+            "Julia Lötsch"
           ],
-          "doi": "10.56566/jmsr.v2i2.724",
-          "url": "https://www.semanticscholar.org/paper/d6f739d8cbb816c878efcb9d4e6b26ce3740982f",
+          "doi": "10.1002/apxr.70209",
+          "url": "https://www.semanticscholar.org/paper/170064c16368a27a0bb3629e20ad5719f36eecbb",
           "citation_count": 0
         }
       ],
@@ -46532,7 +46540,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "95e858d136a4bccbaea970a8a99a31c24541bcd4",
@@ -47183,64 +47191,22 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "aa1425cfc48b113a86fadeda9ac96cc4a20a431d",
-          "title": "Western Blot Detection of Blood Group A and B Antigens.",
+          "id": "b5058dd5a7db0584fe0373e268c83d47006f799b",
+          "title": "Heterogeneity of low-density lipoprotein in chicken egg yolk.",
           "year": 2026,
-          "journal": "Methods in molecular biology",
+          "journal": "International Journal of Biological Macromolecules",
           "authors": [
-            "Katherine H. Tiemeyer",
-            "Akua A. Appah-Sampong",
-            "Marie A. Hollenhorst"
+            "Xing-Yu Li",
+            "Gan Hu",
+            "Yun-Xiao Xie"
           ],
-          "doi": "10.1007/978-1-0716-5376-0_44",
-          "url": "https://www.semanticscholar.org/paper/aa1425cfc48b113a86fadeda9ac96cc4a20a431d",
-          "citation_count": 0
-        },
-        {
-          "id": "275c397180a259b0076081c7cffe58d46266ddce",
-          "title": "Expression and Characterization of Blood Group Binding Lectins.",
-          "year": 2026,
-          "journal": "Methods in molecular biology",
-          "authors": [
-            "Hsien-Ya Lin",
-            "Shang-Chuen Wu",
-            "Hau-Ming Jan"
-          ],
-          "doi": "10.1007/978-1-0716-5376-0_40",
-          "url": "https://www.semanticscholar.org/paper/275c397180a259b0076081c7cffe58d46266ddce",
-          "citation_count": 0
-        },
-        {
-          "id": "990ba356a2d14baf0908033951e2a4c0571ec931",
-          "title": "Defining the Specificity of Blood-Group-Binding Lectins Through Microarray Analysis.",
-          "year": 2026,
-          "journal": "Methods in molecular biology",
-          "authors": [
-            "A. Paul",
-            "Hau-Ming Jan",
-            "Sasikala Muthusamy"
-          ],
-          "doi": "10.1007/978-1-0716-5376-0_34",
-          "url": "https://www.semanticscholar.org/paper/990ba356a2d14baf0908033951e2a4c0571ec931",
-          "citation_count": 0
-        },
-        {
-          "id": "edf5543b7323596b72b9e45af13442c313ba400b",
-          "title": "Use of Microbial Microarrays to Define Antibody Specificity.",
-          "year": 2026,
-          "journal": "Methods in molecular biology",
-          "authors": [
-            "Carter J. Stowell",
-            "Victoria Ortiz",
-            "Caitlin L. Cepeda"
-          ],
-          "doi": "10.1007/978-1-0716-5376-0_30",
-          "url": "https://www.semanticscholar.org/paper/edf5543b7323596b72b9e45af13442c313ba400b",
+          "doi": "10.1016/j.ijbiomac.2026.154582",
+          "url": "https://www.semanticscholar.org/paper/b5058dd5a7db0584fe0373e268c83d47006f799b",
           "citation_count": 0
         },
         {
           "id": "a6ecefd5e05be785e3c87cfde62cf5df07335690",
-          "title": "Proteomic and\nPhysicochemical Analysis of Erythrocyte\nMembrane Vesicles from Fresh and Frozen Blood",
+          "title": "Proteomic and Physicochemical Analysis of Erythrocyte Membrane Vesicles from Fresh and Frozen Blood",
           "year": 2026,
           "journal": "Journal of Proteome Research",
           "authors": [
@@ -47250,6 +47216,46 @@
           ],
           "doi": "10.1021/acs.jproteome.6c00535",
           "url": "https://www.semanticscholar.org/paper/a6ecefd5e05be785e3c87cfde62cf5df07335690",
+          "citation_count": 0
+        },
+        {
+          "id": "388a3b53aee21d044c8e3f72cfa27b5ea988aa34",
+          "title": "Membrane Diffusion Mode of Human Perforin-1 and Its Cholesterol Sensitivity.",
+          "year": 2026,
+          "journal": "Journal of Physical Chemistry B",
+          "authors": [
+            "Y. Kasubuchi",
+            "R. Harada"
+          ],
+          "doi": "10.1021/acs.jpcb.6c03462",
+          "url": "https://www.semanticscholar.org/paper/388a3b53aee21d044c8e3f72cfa27b5ea988aa34",
+          "citation_count": 0
+        },
+        {
+          "id": "9509199aa8c5beee5ae9963cc34dc9e2e30c63d1",
+          "title": "Comparing the Composition of Small RNA in Blood Plasma Fractions Containing Exomeres and Supermeres",
+          "year": 2026,
+          "journal": "International Journal of Molecular Sciences",
+          "authors": [
+            "A. Y. Aronov",
+            "A. A. Artamonov",
+            "Sergey A. Chekrigin"
+          ],
+          "doi": "10.3390/ijms27209268",
+          "url": "https://www.semanticscholar.org/paper/9509199aa8c5beee5ae9963cc34dc9e2e30c63d1",
+          "citation_count": 0
+        },
+        {
+          "id": "0a2973af81afb17f8334eed269446b78fc01ba73",
+          "title": "Purification and characterization of the cytotoxic Cerebratulus A toxins",
+          "year": 1978,
+          "journal": "Journal of Biological Chemistry",
+          "authors": [
+            "W. Kem",
+            "K. Blumenthal"
+          ],
+          "doi": "10.1016/s0021-9258(17)30331-9",
+          "url": "https://www.semanticscholar.org/paper/0a2973af81afb17f8334eed269446b78fc01ba73",
           "citation_count": 0
         }
       ],
@@ -47268,7 +47274,7 @@
         "virus"
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-10-03T23:48:21.808211+00:00"
+      "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
       "id": "4320f293b88cd609c911e6dfb8565977dd6d4ad6",
