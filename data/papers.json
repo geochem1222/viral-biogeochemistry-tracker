@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:42:16.108353+00:00",
+  "updated_at": "2026-11-09T00:58:11.162615+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1276,73 +1276,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "fa3b7c3f2c6205a80a37166fa388ea90082f16c4",
-          "title": "Conductive Materials\nin Microbial Chain Elongation\nfor Medium-Chain Fatty Acids Biosynthesis: A Critical Review of Mechanisms\nand Metabolic Regulation",
+          "id": "ade1717ccb7987ef90a307e0956977680ec007af",
+          "title": "Enhancing Chain\nElongation via Bacteria-Yeast Cooperation\nUsing an Endogenous Electron Donor for Medium-Chain Fatty Acids Production",
           "year": 2026,
           "journal": "ACS ES&amp;T Engineering",
           "authors": [
-            "Shan-Shan Ye",
-            "Yu-Fei Meng",
-            "Yong-Yao Zhang"
+            "Y. Zhang",
+            "Jun Yu Li",
+            "Xian-Bao Xu"
           ],
-          "doi": "10.1021/acsestengg.6c00348",
-          "url": "https://www.semanticscholar.org/paper/fa3b7c3f2c6205a80a37166fa388ea90082f16c4",
+          "doi": "10.1021/acsestengg.6c00727",
+          "url": "https://www.semanticscholar.org/paper/ade1717ccb7987ef90a307e0956977680ec007af",
           "citation_count": 0
         },
         {
-          "id": "b6cc279e69b49a3a970b55763da05fc40ce7b9ae",
-          "title": "Synergistic Regulation\nof Homoacetogenesis and Electrochemical\nElectron Supply Enhances CO2-Assisted Caproate Production\nfrom Waste Activated Sludge",
-          "year": 2026,
-          "journal": "ACS ES&amp;T Engineering",
-          "authors": [
-            "Meng-Ran Gu",
-            "Lu-Qiong Shi",
-            "Hai-Feng Qiang"
-          ],
-          "doi": "10.1021/acsestengg.6c00453",
-          "url": "https://www.semanticscholar.org/paper/b6cc279e69b49a3a970b55763da05fc40ce7b9ae",
-          "citation_count": 0
-        },
-        {
-          "id": "10799356968251a78bfc6d99143917a19d9fe12e",
-          "title": "Orchestrating\nCaproate Biosynthesis through Iron–Carbon\nMicroelectrolysis: From Electrochemical Corrosion and Metagenomic\nRegulation",
-          "year": 2026,
-          "journal": "ACS ES&amp;T Engineering",
-          "authors": [
-            "Qing-Lian Wu",
-            "Zi-Lin He",
-            "Ruidong Xie"
-          ],
-          "doi": "10.1021/acsestengg.6c00444",
-          "url": "https://www.semanticscholar.org/paper/10799356968251a78bfc6d99143917a19d9fe12e",
-          "citation_count": 0
-        },
-        {
-          "id": "81f294e15792d5cc8c51a1744140d9a31b2f6666",
-          "title": "Effect of iron-loaded biochar on medium-chain fatty acid production from waste activated sludge.",
+          "id": "a0fbdf17c4847a2f4c722c15f752931fd5554e54",
+          "title": "Polyaniline-modified red mud promotes chain elongation during anaerobic fermentation of waste activated sludge through a hydrated electroactive interface.",
           "year": 2026,
           "journal": "Bioresource Technology",
           "authors": [
-            "Tianru Lou",
-            "Ming-Yang Liu",
-            "Yanan Yin"
+            "Qiu-Peng Cai",
+            "Jun-Guo He",
+            "Wei Qiu"
           ],
-          "doi": "10.1016/j.biortech.2026.135715",
-          "url": "https://www.semanticscholar.org/paper/81f294e15792d5cc8c51a1744140d9a31b2f6666",
-          "citation_count": 1
+          "doi": "10.1016/j.biortech.2026.136157",
+          "url": "https://www.semanticscholar.org/paper/a0fbdf17c4847a2f4c722c15f752931fd5554e54",
+          "citation_count": 0
         },
         {
-          "id": "c91508d9b6a7cb18cedba735ebd1c47fd6f69c2e",
-          "title": "Long-term responses to caproic acid in anaerobic digestion systems: Methanogenic enhancement, extracellular polymer dynamics and microbial metabolic remodeling.",
+          "id": "12863b8a21480e55aa65fc683ee32dc63771ca9f",
+          "title": "Conductive Fe₃O₄ drives a stress-dependent shift in electron-transfer strategies during anaerobic tetramethylammonium hydroxide degradation.",
           "year": 2026,
           "journal": "Water Research",
           "authors": [
-            "Hao-Jie Qin",
-            "Rui-Xin Wu",
-            "Yuki Yamamoto"
+            "Shu-Yan Chen",
+            "Xiao-Dong Xin",
+            "Jiao-Jiao Yang"
           ],
-          "doi": "10.1016/j.watres.2026.126876",
-          "url": "https://www.semanticscholar.org/paper/c91508d9b6a7cb18cedba735ebd1c47fd6f69c2e",
+          "doi": "10.1016/j.watres.2026.127060",
+          "url": "https://www.semanticscholar.org/paper/12863b8a21480e55aa65fc683ee32dc63771ca9f",
+          "citation_count": 0
+        },
+        {
+          "id": "0d64492f5e7a38baa48d61c856b5779229a71b40",
+          "title": "Mitigating Long-Chain Fatty Acid Inhibition in Anaerobic Digestion of Model LCFA Substrates with Ruminococcus flavefaciens Bioaugmentation",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Chun-Dong Wu",
+            "Jin-Ku Liu",
+            "Si-Jian Wang"
+          ],
+          "doi": "10.3390/w18202492",
+          "url": "https://www.semanticscholar.org/paper/0d64492f5e7a38baa48d61c856b5779229a71b40",
+          "citation_count": 0
+        },
+        {
+          "id": "ba352f1c60bd278deaa332a5f8b5f19b95579087",
+          "title": "Sequential quorum-sensing regulation mitigates the trade-off between methane production and biofouling in anaerobic membrane bioreactors.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Qian-Qian Zhang",
+            "Yu Yang",
+            "Lin-Yue Hou"
+          ],
+          "doi": "10.1016/j.watres.2026.127167",
+          "url": "https://www.semanticscholar.org/paper/ba352f1c60bd278deaa332a5f8b5f19b95579087",
           "citation_count": 0
         }
       ],
@@ -1361,8 +1361,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-10-10T00:56:35.574880+00:00",
-      "edges_enriched_at": "2026-10-09T01:16:59.037001+00:00"
+      "detail_enriched_at": "2026-11-09T00:57:25.299812+00:00",
+      "edges_enriched_at": "2026-11-09T00:57:26.025924+00:00"
     },
     {
       "id": "b912c05577018754bd3f6456a40eca4891784a1f",
@@ -1510,7 +1510,7 @@
       "url": "https://www.semanticscholar.org/paper/6da7c702df628b1726bfde663910fdb419a172b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6da7c702df628b1726bfde663910fdb419a172b4",
       "pdf_url": "https://doi.org/10.1038/s41467-026-76431-5",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 163,
       "references": [
@@ -2675,7 +2675,7 @@
         "soil",
         "virus"
       ],
-      "detail_enriched_at": "2026-10-10T00:56:35.574880+00:00",
+      "detail_enriched_at": "2026-11-09T00:57:25.299812+00:00",
       "edges_enriched_at": "2026-10-09T01:16:59.037001+00:00"
     },
     {
@@ -6116,7 +6116,7 @@
       "authors": [
         "Xue-Jing Chen",
         "Mu-Kan Ji",
-        "Decun Yan",
+        "De-Cun Yan",
         "Yang Liu",
         "Yun-Jie Chen",
         "Ru-Yi Dong",
@@ -11857,7 +11857,7 @@
         "Dong Zhu",
         "Yu-Ling Zheng",
         "Xiao-Min Li",
-        "Guoxin Sun",
+        "Guo-Xin Sun",
         "Xiao-Min Li",
         "Long-Jun Ding"
       ],
@@ -13498,7 +13498,7 @@
       "url": "https://www.semanticscholar.org/paper/1506398f5e5b1bad294c1e1f0d1fc7741f25809c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1506398f5e5b1bad294c1e1f0d1fc7741f25809c",
       "pdf_url": "https://doi.org/10.3390/f16050735",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 90,
       "references": [
@@ -15331,17 +15331,31 @@
       ],
       "similar_papers": [
         {
-          "id": "5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
-          "title": "Unraveling the diversity, function, and virus–host interactions of archaeal proviruses",
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
           "year": 2026,
-          "journal": "ISME Communications",
+          "journal": "Nature Communications",
           "authors": [
-            "Yang Zhao",
-            "Peng-Fei Liu",
-            "Lin-Xing Chen"
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
           ],
-          "doi": "10.1093/ismeco/ycag243",
-          "url": "https://www.semanticscholar.org/paper/5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "citation_count": 0
+        },
+        {
+          "id": "85991c827bff1baf87fe6a434befb7f05f76f2bc",
+          "title": "Ecological and metabolic signatures of biofilm viromes across a national river surveillance network",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "S. B. Busi",
+            "A. Thorpe",
+            "Jonathan Warren"
+          ],
+          "doi": "10.64898/2026.10.26.761785",
+          "url": "https://www.semanticscholar.org/paper/85991c827bff1baf87fe6a434befb7f05f76f2bc",
           "citation_count": 0
         },
         {
@@ -15359,30 +15373,17 @@
           "citation_count": 0
         },
         {
-          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
-          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
+          "id": "83dc95b06ccbfd78093a3257fc7bd4a56e9120ab",
+          "title": "The biogeography of giant viruses and interactions with Eukaryotes across European lakes",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Nature Communications",
           "authors": [
-            "Pengwei Li",
-            "Jin-Ren Ni"
+            "O. Kolmakova",
+            "F. Schulz",
+            "Yumary M. Vasquez"
           ],
-          "doi": "10.64898/2026.09.14.751636",
-          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
-          "citation_count": 0
-        },
-        {
-          "id": "8580675cca2d8fc695a697d654b8add86dca9112",
-          "title": "Rumen DNA virome plasticity and viral metabolic potential are associated with seasonal adaptation in grazing yak and cattle on the Qinghai-Tibet Plateau",
-          "year": 2026,
-          "journal": "Journal of Animal Science and Biotechnology",
-          "authors": [
-            "Wei Guo",
-            "Yin-Shu Yu",
-            "Wei-Wei Wang"
-          ],
-          "doi": "10.1186/s40104-026-01487-8",
-          "url": "https://www.semanticscholar.org/paper/8580675cca2d8fc695a697d654b8add86dca9112",
+          "doi": "10.1038/s41467-026-77765-w",
+          "url": "https://www.semanticscholar.org/paper/83dc95b06ccbfd78093a3257fc7bd4a56e9120ab",
           "citation_count": 0
         },
         {
@@ -15416,8 +15417,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-10-09T01:16:58.430896+00:00",
-      "edges_enriched_at": "2026-10-09T01:16:59.037001+00:00"
+      "detail_enriched_at": "2026-11-09T00:57:25.299812+00:00",
+      "edges_enriched_at": "2026-11-09T00:57:26.025924+00:00"
     },
     {
       "id": "14c65b4abb15d30a020d53bf0077744de8630754",
@@ -18401,7 +18402,7 @@
         "Shu-Juan Sun",
         "Yan-Tao Liang",
         "Gang Liu",
-        "Xinran Zhang",
+        "Xin-Ran Zhang",
         "Yue Dong",
         "Xiao-Shou Liu",
         "Guang-Cheng Chen",
