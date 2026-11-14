@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:54:15.491363+00:00",
+  "updated_at": "2026-11-14T01:29:22.039664+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -3885,7 +3885,7 @@
       "abstract": "Background Cloud water harbors diverse microbial communities despite its extreme oligotrophic conditions. However, the ecological and evolutionary dynamics of viruses in these transient atmospheric habitats remain poorly understood. Clouds have traditionally been regarded primarily as passive carriers of microorganisms rather than as active ecological environments supporting microbial interactions. In this study, cloud water was sampled at Mount Verde, Cape Verde Islands (744 m a.s.l.). We performed metagenomic analyses of iron-flocculated cloud water alongside genome analyses of a bacterial isolate and metagenome-assembled genomes using established bioinformatic approaches. Viral diversity, virus-host interactions, metabolic functions, genetic adaptations, and viral population dynamics across cloud events were investigated. In addition, UV-B resistance experiments were conducted for a novel cloud-water isolate. Results We isolated 24 cloud water bacteria, including four novel species lineages, and recovered 62 high-quality metagenome-assembled genomes, including 10 novel species lineages. We identified 458 viral operational taxonomic units and 237 virus-host linkages across diverse prokaryotic hosts, revealing active viral predation across diverse bacterial taxa. In addition, CRISPR spacer matches from isolates of novel bacterial lineages such as Deinococcus nubigenus MPC36 were found. Viruses carried genes involved in host adaptation to environmental stressors, including cold-shock response, UV radiation resistance, and osmotic stress. In addition, viral populations exhibited SNP-level microdiversity and shifts in single-nucleotide variant composition across temporally proximate cloud events, indicating rapid population turnover. Experimental characterization of the cloud isolate Curtobacterium nubigenum MPC39 further revealed pronounced resistance to UV-B radiation and the presence of an inducible prophage, Curtobacterium phage vB_CnuS_Cirrus1 assigned to the new viral family Nebulaviridae, which could be validated in transmission electron microscopy. Reconstructed genomes from cloud-associated bacteria encoded carbon monoxide dehydrogenase genes and UV resistance genes, suggesting trace gas metabolism and enhanced UV protection as survival strategies in oligotrophic cloud droplets. In silico replication rates estimated using iRep were consistent with active bacterial replication at the time of sampling. Conclusions Together, these findings demonstrate that clouds are not merely passive carriers of microorganisms, but dynamic atmospheric ecosystems in which virus-host interactions shape microbial diversity and contribute to microbial turnover, atmospheric dispersal, and cloud-water biogeochemistry.",
       "url": "https://www.semanticscholar.org/paper/3d38ec892863be95cbbe871b4238d51dc9a9ba50",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3d38ec892863be95cbbe871b4238d51dc9a9ba50",
-      "pdf_url": "https://doi.org/10.64898/2026.05.18.725630",
+      "pdf_url": "https://hdl.handle.net/21.11116/0000-0013-1A91-A",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 61,
@@ -21871,7 +21871,7 @@
       "url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/186ca4cf281706e48b8aa5cfe33b933c1dcc5c8e",
       "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10880660/pdf/aem.01719-23.pdf",
-      "citation_count": 61,
+      "citation_count": 62,
       "influential_citation_count": 2,
       "reference_count": 49,
       "references": [],
@@ -22443,32 +22443,18 @@
           "citation_count": 0
         },
         {
-          "id": "d5c6c55380f3a6d6e74adbdfad2e54e1c5a67859",
-          "title": "Scaling Phage-Bacteria Interaction Contexts: From Pairwise Mechanisms to Community Dynamics.",
+          "id": "7db612558efff92fb064239138c82542d081f74d",
+          "title": "Enterobacteriaceae and Bacteriophages: Implications Against Antimicrobial Resistance.",
           "year": 2026,
-          "journal": "Annual Review of Virology",
+          "journal": "Letters in Applied Microbiology",
           "authors": [
-            "Hemaa Selvakumar",
-            "Sarshad Koderi Valappil",
-            "Denish Piya"
+            "Ramya Ramadoss",
+            "Balasubramanian Moovarkumudalvan",
+            "Pradeep Jothimani"
           ],
-          "doi": "10.1146/annurev-virology-100424-123645",
-          "url": "https://www.semanticscholar.org/paper/d5c6c55380f3a6d6e74adbdfad2e54e1c5a67859",
+          "doi": "10.1093/lambio/ovag095",
+          "url": "https://www.semanticscholar.org/paper/7db612558efff92fb064239138c82542d081f74d",
           "citation_count": 0
-        },
-        {
-          "id": "d1fc900986755e3fe70668a49a86eaed9a1418c8",
-          "title": "Systematic mapping of bacteriophage gene essentiality with HIDEN-SEQ.",
-          "year": 2026,
-          "journal": "Nature Microbiology",
-          "authors": [
-            "Dorentina Humolli",
-            "Damien Piel",
-            "J. Ransome"
-          ],
-          "doi": "10.1038/s41564-026-02455-8",
-          "url": "https://www.semanticscholar.org/paper/d1fc900986755e3fe70668a49a86eaed9a1418c8",
-          "citation_count": 1
         },
         {
           "id": "c49ad064feafd3d5a6443d05a566a21e6646544c",
@@ -22483,17 +22469,30 @@
           "citation_count": 0
         },
         {
-          "id": "8aa36dcae2d8fe4777a2883a7df6f4fd9af6291a",
-          "title": "Involvement of cross-genus phages in bacterial resistance to chlorine disinfection.",
+          "id": "21558d486098cf614dafcf603bfb807731e2f819",
+          "title": "Interactions between antimicrobials impact jumbo phage control of Burkholderia glumae.",
           "year": 2026,
-          "journal": "Water Research",
+          "journal": "Microbiology Research",
           "authors": [
-            "Jia Wang",
-            "Yi-Bo Zhang",
-            "Qi-Yue Meng"
+            "Brittany S. I. Supina",
+            "J. J. Dennis"
           ],
-          "doi": "10.1016/j.watres.2026.126886",
-          "url": "https://www.semanticscholar.org/paper/8aa36dcae2d8fe4777a2883a7df6f4fd9af6291a",
+          "doi": "10.1016/j.micres.2026.128796",
+          "url": "https://www.semanticscholar.org/paper/21558d486098cf614dafcf603bfb807731e2f819",
+          "citation_count": 0
+        },
+        {
+          "id": "e2a9589f939d6d9df155c09b716d7e25449d2704",
+          "title": "Viral biodiversity and human health - the potential role of environmental bacteriophages in training the human immune system.",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "Martin Romantschuk",
+            "R. Malmgren",
+            "Nina S. Atanasova"
+          ],
+          "doi": "10.1093/femsec/fiag122",
+          "url": "https://www.semanticscholar.org/paper/e2a9589f939d6d9df155c09b716d7e25449d2704",
           "citation_count": 0
         }
       ],
@@ -22511,8 +22510,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-10-14T23:57:38.947839+00:00",
-      "edges_enriched_at": "2026-10-14T23:57:39.473477+00:00"
+      "detail_enriched_at": "2026-11-14T01:28:59.021511+00:00",
+      "edges_enriched_at": "2026-11-14T01:29:19.730091+00:00"
     },
     {
       "id": "f884b7bad9504859b0e859a37890c0f66ab0e712",
@@ -29162,7 +29161,7 @@
         "A. Schmidt",
         "I. Schmitt",
         "E. Neuschulz",
-        "F. Dal Grande",
+        "F. dal Grande",
         "M. Bálint"
       ],
       "journal": "Molecular Ecology",
@@ -30588,6 +30587,110 @@
       "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "Оксана Вячеславівна Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "3cd6ced739676e141c87d51e230a7e445323599d",
+          "title": "In vitro morphogenesis and conservation of the medicinal plant Vitex negundo L. through nodal explants",
+          "year": 2026,
+          "journal": "iraqi journal for applied sciences",
+          "authors": [
+            "S. Sape",
+            "Sudhakar Rao"
+          ],
+          "doi": "10.69923/bnnavj49",
+          "url": "https://www.semanticscholar.org/paper/3cd6ced739676e141c87d51e230a7e445323599d",
+          "citation_count": 0
+        },
+        {
+          "id": "cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
+          "title": "Representatives of Lavandula angustifolia Mill., promising for use in landscape design and their propagation in vitro",
+          "year": 2026,
+          "journal": "Forestry Engineering Journal",
+          "authors": [
+            "Ekaterina Chornoivanova",
+            "N. Mamaeva",
+            "Irina Krahmaleva"
+          ],
+          "doi": "10.34220/issn.2222-7962/2026.3/20",
+          "url": "https://www.semanticscholar.org/paper/cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
+          "citation_count": 0
+        },
+        {
+          "id": "6b101b2f2389259211b51dd2000e1002d19b75bc",
+          "title": "The Development of Scalable Micropropagation Protocols for Alocasia zebrina G.W. Johnson & R.Hogg",
+          "year": 2026,
+          "journal": "Hayati Journal of Biosciences",
+          "authors": [
+            "Ahmad Syahrian Siregar",
+            "Kurniawan Budiarto",
+            "S. Mas'udah"
+          ],
+          "doi": "10.4308/hjb.33.6.1575-1581",
+          "url": "https://www.semanticscholar.org/paper/6b101b2f2389259211b51dd2000e1002d19b75bc",
+          "citation_count": 0
+        },
+        {
+          "id": "38fa39920e038ec37ad2288bf661b6557b3310ba",
+          "title": "Micropropagation of Lisianthus (Eustoma grandiflorum (Raf.) Shinn.) Using Meta-Topolin",
+          "year": 2026,
+          "journal": "BioTech",
+          "authors": [
+            "M. A. Ramírez-Mosqueda",
+            "A. Armenta-Medina",
+            "O. Baltazar-Bernal"
+          ],
+          "doi": "10.3390/biotech15040093",
+          "url": "https://www.semanticscholar.org/paper/38fa39920e038ec37ad2288bf661b6557b3310ba",
+          "citation_count": 0
+        },
+        {
+          "id": "8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
+          "title": "In Vitro Propagation and Conservation of Cymbopogon citratus (DC.) Stapf: A Proposed Approach to Assessing Heavy-Metal Stress",
+          "year": 2026,
+          "journal": "Advanced International Journal for Research",
+          "authors": [
+            "Veeraiah Sheelam"
+          ],
+          "doi": "10.63363/aijfr.2026.v07i05.8031",
+          "url": "https://www.semanticscholar.org/paper/8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
+      "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
+    },
+    {
       "id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "semantic_scholar_id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "source": "Semantic Scholar",
@@ -30742,110 +30845,6 @@
         "nitrogen",
         "phosphorus",
         "sediment",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
-    },
-    {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "Оксана Вячеславівна Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "3cd6ced739676e141c87d51e230a7e445323599d",
-          "title": "In vitro morphogenesis and conservation of the medicinal plant Vitex negundo L. through nodal explants",
-          "year": 2026,
-          "journal": "iraqi journal for applied sciences",
-          "authors": [
-            "S. Sape",
-            "Sudhakar Rao"
-          ],
-          "doi": "10.69923/bnnavj49",
-          "url": "https://www.semanticscholar.org/paper/3cd6ced739676e141c87d51e230a7e445323599d",
-          "citation_count": 0
-        },
-        {
-          "id": "cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
-          "title": "Representatives of Lavandula angustifolia Mill., promising for use in landscape design and their propagation in vitro",
-          "year": 2026,
-          "journal": "Forestry Engineering Journal",
-          "authors": [
-            "Ekaterina Chornoivanova",
-            "N. Mamaeva",
-            "Irina Krahmaleva"
-          ],
-          "doi": "10.34220/issn.2222-7962/2026.3/20",
-          "url": "https://www.semanticscholar.org/paper/cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
-          "citation_count": 0
-        },
-        {
-          "id": "6b101b2f2389259211b51dd2000e1002d19b75bc",
-          "title": "The Development of Scalable Micropropagation Protocols for Alocasia zebrina G.W. Johnson & R.Hogg",
-          "year": 2026,
-          "journal": "Hayati Journal of Biosciences",
-          "authors": [
-            "Ahmad Syahrian Siregar",
-            "Kurniawan Budiarto",
-            "S. Mas'udah"
-          ],
-          "doi": "10.4308/hjb.33.6.1575-1581",
-          "url": "https://www.semanticscholar.org/paper/6b101b2f2389259211b51dd2000e1002d19b75bc",
-          "citation_count": 0
-        },
-        {
-          "id": "38fa39920e038ec37ad2288bf661b6557b3310ba",
-          "title": "Micropropagation of Lisianthus (Eustoma grandiflorum (Raf.) Shinn.) Using Meta-Topolin",
-          "year": 2026,
-          "journal": "BioTech",
-          "authors": [
-            "M. A. Ramírez-Mosqueda",
-            "A. Armenta-Medina",
-            "O. Baltazar-Bernal"
-          ],
-          "doi": "10.3390/biotech15040093",
-          "url": "https://www.semanticscholar.org/paper/38fa39920e038ec37ad2288bf661b6557b3310ba",
-          "citation_count": 0
-        },
-        {
-          "id": "8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
-          "title": "In Vitro Propagation and Conservation of Cymbopogon citratus (DC.) Stapf: A Proposed Approach to Assessing Heavy-Metal Stress",
-          "year": 2026,
-          "journal": "Advanced International Journal for Research",
-          "authors": [
-            "Veeraiah Sheelam"
-          ],
-          "doi": "10.63363/aijfr.2026.v07i05.8031",
-          "url": "https://www.semanticscholar.org/paper/8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
         "virus",
         "water"
       ],
@@ -32588,7 +32587,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 381,
+      "citation_count": 383,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -34412,7 +34411,7 @@
       "url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4728b31cdbd2f1d1777f8b80594f71511afeb21f",
       "pdf_url": "",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -42528,7 +42527,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616804/",
-      "citation_count": 778,
+      "citation_count": 779,
       "influential_citation_count": 24,
       "reference_count": 123,
       "references": [
@@ -42936,7 +42935,7 @@
       "url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7d6540022527d2bdc60d4c521fbe41f3e58b8dc0",
       "pdf_url": "https://www.nature.com/articles/s41564-018-0190-y.pdf",
-      "citation_count": 562,
+      "citation_count": 563,
       "influential_citation_count": 33,
       "reference_count": 70,
       "references": [
