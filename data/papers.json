@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:29:22.039664+00:00",
+  "updated_at": "2026-11-15T01:06:17.331112+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1091,6 +1091,166 @@
       ],
       "detail_enriched_at": "2026-10-27T00:31:37.868519+00:00",
       "edges_enriched_at": "2026-10-27T00:31:38.978035+00:00"
+    },
+    {
+      "id": "56580a84fd34222b0fe3cef0973186fb1c75b90c",
+      "semantic_scholar_id": "56580a84fd34222b0fe3cef0973186fb1c75b90c",
+      "source": "Semantic Scholar",
+      "pmid": "43023715",
+      "doi": "10.1128/aem.01813-26",
+      "title": "Predominance of viral core functions over auxiliary metabolism among carbohydrate-active enzymes annotated in the global soil virosphere",
+      "authors": [
+        "D. Merges"
+      ],
+      "journal": "bioRxiv",
+      "publication_date": "2026-09-16",
+      "abstract": "ABSTRACT Soil viruses are increasingly recognized as components of microbial communities with the potential to alter ecosystem functioning, yet the frequency and functional distribution of virus-encoded metabolic genes in soils remain poorly understood. Here, the Global Soil Virus Atlas gene catalog, comprising 1,432,147 viral genes from 1,223 samples across 12 ecosystem types, was searched against KEGG, Pfam, and CAZy for functions related to carbon cycling, nitrogen cycling, and antimicrobial resistance. Annotations associated with host entry or cell-wall lysis were separated from putative auxiliary metabolic functions. Of 5,020 initial gene-level functional annotations across the three categories, 3,322 (66.2%) were classified as peptidoglycanases. Their exclusion left 1,698 genes (0.14% of the gene catalog restricted to contigs ≥10 kb), and carbon-cycling functions represented 96.7% of the enzyme-resolved annotations. Chitinase-associated genes formed the largest carbon category, but 78.0% belonged to GH19, a family containing both chitinases and phage endolysins. Among GH19 genes on contigs encoding detectable holins or spanins, 84.2% occurred within three genes of these lysis components, a distribution comparable to that of canonical phage lysozymes. Across six matched metagenomic studies, estimated viral contributions to the targeted functions ranged from 0.00% to 8.45% (mean: 2.27%). Two of the three estimates exceeding 2% were GH19-associated chitinase estimates from rhizosphere soils and were therefore treated as upper estimates. Thus, the putative soil viral metabolic inventory was sparse and concentrated in carbon-degradation functions, whereas much of the initial carbohydrate-active enzyme signal reflected core viral lysis functions rather than auxiliary metabolism. IMPORTANCE Soil microorganisms drive decomposition and nutrient cycling, and the viruses that infect them may alter these processes by carrying genes that affect host metabolism. However, genes annotated as carbohydrate-degradation enzymes may instead help viruses enter cells or break host cell walls when new virus particles are released. In a worldwide catalog of soil viruses, approximately two-thirds of the initial functional assignments represented these infection or release activities. After their removal, putative viral auxiliary metabolic genes were uncommon and concentrated mainly in carbon degradation. Genes potentially involved in chitin degradation were most frequent, but many occurred near viral genes used to break host cells; their estimated contribution should therefore be viewed as an upper limit. Distinguishing core viral functions from host metabolic modification is essential to avoid overestimating viral contributions to soil processes and to identify the strongest candidates for experimental testing. Soil microorganisms drive decomposition and nutrient cycling, and the viruses that infect them may alter these processes by carrying genes that affect host metabolism. However, genes annotated as carbohydrate-degradation enzymes may instead help viruses enter cells or break host cell walls when new virus particles are released. In a worldwide catalog of soil viruses, approximately two-thirds of the initial functional assignments represented these infection or release activities. After their removal, putative viral auxiliary metabolic genes were uncommon and concentrated mainly in carbon degradation. Genes potentially involved in chitin degradation were most frequent, but many occurred near viral genes used to break host cells; their estimated contribution should therefore be viewed as an upper limit. Distinguishing core viral functions from host metabolic modification is essential to avoid overestimating viral contributions to soil processes and to identify the strongest candidates for experimental testing.",
+      "url": "https://www.semanticscholar.org/paper/56580a84fd34222b0fe3cef0973186fb1c75b90c",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/56580a84fd34222b0fe3cef0973186fb1c75b90c",
+      "pdf_url": "https://doi.org/10.1128/aem.01813-26",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 64,
+      "references": [
+        {
+          "title": "Current understanding of viral contributions to soil carbon cycling",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/8ddc352cb7f27b8940b2c9551e45255f86133264",
+          "doi": "10.1038/s43017-026-00774-2"
+        },
+        {
+          "title": "Population ecology and biogeochemical implications of ssDNA and dsDNA viruses along a permafrost thaw gradient",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/405f862b13052ac8c60a59609d6a149cd82b8379",
+          "doi": "10.1038/s41467-025-67057-0"
+        },
+        {
+          "title": "A call for caution in the biological interpretation of viral auxiliary metabolic genes",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b695661ee127de0ac4e443eaace8ecc440d05233",
+          "doi": "10.1038/s41564-025-02095-4"
+        },
+        {
+          "title": "Cryptic Prophage Endolysin Is a Highly Active Muramidase",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/665ee98fac0b3102aaf00f73de24a8d49406392d",
+          "doi": "10.1021/acs.biochem.5c00142"
+        },
+        {
+          "title": "Division of the large and multifunctional glycoside hydrolase family 2: high functional specificity and biochemical assays in the uncharacterized subfamilies",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8b5ced492071f20dc64b717f8c991fca0719546c",
+          "doi": "10.1186/s13068-025-02669-8"
+        },
+        {
+          "title": "Differences in the genomic potential of soil bacterial and viral communities between urban greenspaces and natural arid soils",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/6254c2661a7bc8cef8c4e340154ce1d5f6f7ad35",
+          "doi": "10.1128/aem.02124-24"
+        },
+        {
+          "title": "Expanding the potential soil carbon sink: unraveling carbon sequestration accessory genes in vermicompost phages",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b87396f3894e11f65e38be389f7e2169b00bac35",
+          "doi": "10.1128/aem.00296-25"
+        },
+        {
+          "title": "A global atlas of soil viruses reveals unexplored biodiversity and potential biogeochemical impacts",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
+          "doi": "10.1038/s41564-024-01686-x"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "953086044538ddb0a9abdada072e397235c23afa",
+          "title": "CheckAMG: Accurate Identification of Auxiliary Viral Genes with Genome-Language Models",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "James C. Kosmopoulos",
+            "Cody Martin",
+            "J. Wainaina"
+          ],
+          "doi": "10.64898/2026.09.23.753886",
+          "url": "https://www.semanticscholar.org/paper/953086044538ddb0a9abdada072e397235c23afa",
+          "citation_count": 1
+        },
+        {
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
+          ],
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "citation_count": 0
+        },
+        {
+          "id": "192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "title": "CRISPR mapping unveils global prevalence of viral predators of Myxobacteria",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Peng-Wei Li",
+            "Jin-Ren Ni"
+          ],
+          "doi": "10.64898/2026.09.14.751636",
+          "url": "https://www.semanticscholar.org/paper/192ad8776dd7deaba655e370f3622fbf145d02f9",
+          "citation_count": 0
+        },
+        {
+          "id": "e00d73d0ca7f5fe927a9772bd0c1cbb3875245cc",
+          "title": "PLATE: a global atlas of food metaplasmidomes",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Mehmet Umur Aslan",
+            "Rıza Arda Kayacan",
+            "Süleyman Arif Söğütdelen"
+          ],
+          "doi": "10.64898/2026.11.03.763617",
+          "url": "https://www.semanticscholar.org/paper/e00d73d0ca7f5fe927a9772bd0c1cbb3875245cc",
+          "citation_count": 0
+        },
+        {
+          "id": "bd673a8dbf6deb2b85329b46f85896b6be649a22",
+          "title": "Metatranscriptomic Profiling of Viral Diversity in Aquatic Environments with a Focus on Microalgal Viruses",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Ravi Ojha",
+            "Tatiana Demina",
+            "Chiara Beltrani"
+          ],
+          "doi": "10.64898/2026.11.05.764614",
+          "url": "https://www.semanticscholar.org/paper/bd673a8dbf6deb2b85329b46f85896b6be649a22",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine",
+        "Biology"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The putative soil viral metabolic inventory was sparse and concentrated in carbon-degradation functions, whereas much of the initial carbohydrate-active enzyme signal reflected core viral lysis functions rather than auxiliary metabolism.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "amg",
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-11-15T01:05:53.950417+00:00",
+      "edges_enriched_at": "2026-11-15T01:05:54.679302+00:00"
     },
     {
       "id": "56580a84fd34222b0fe3cef0973186fb1c75b90c",
@@ -4209,7 +4369,7 @@
         "E. Olimi",
         "T. Cernava",
         "Ling-Zi Zhang",
-        "Xiu-Mei Yu",
+        "X. Yu",
         "Qiang Chen",
         "P. Penttinen",
         "Yun-Fu Gu"
@@ -5316,7 +5476,7 @@
         "Yan-Han Ji",
         "Si-Han Zhou",
         "J. Gong",
-        "Chaoyu Deng",
+        "Chao-Yu Deng",
         "Shuai Zhao",
         "Yu Shi",
         "Ning Ling",
@@ -5826,7 +5986,7 @@
         "Rashidin Abdugheni",
         "Meng-Meng Li",
         "Pan-Deng Wang",
-        "M. Ortúzar",
+        "Maite Ortúzar",
         "Xin-Yao Li",
         "Jian-Rong Huang",
         "Lan Liu",
@@ -10604,7 +10764,7 @@
       "url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/503c417a13077ea55b3e8cb27c862f7e4093516b",
       "pdf_url": "https://doi.org/10.1016/j.jgeb.2025.100568",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 1,
       "reference_count": 81,
       "references": [
@@ -19872,7 +20032,7 @@
       "url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3e5c355ca102ef87363e42a367e1bc2724ee940f",
       "pdf_url": "https://www.nature.com/articles/s41564-024-01686-x.pdf",
-      "citation_count": 107,
+      "citation_count": 108,
       "influential_citation_count": 4,
       "reference_count": 114,
       "references": [
@@ -28390,7 +28550,7 @@
       "url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e8082a0324c11b3a56a43d1213799ef5e1dbfcde",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16329",
-      "citation_count": 62,
+      "citation_count": 63,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -29507,7 +29667,7 @@
       "url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7fd6e411e72a09f0dbc92c5753648f26f4d01d56",
       "pdf_url": "https://www.nature.com/articles/s41467-022-32993-8.pdf",
-      "citation_count": 54,
+      "citation_count": 55,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -32587,7 +32747,7 @@
       "url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c4349738ee1816bea240e8e886f4a5394d7f196",
       "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-061722-090342",
-      "citation_count": 383,
+      "citation_count": 385,
       "influential_citation_count": 9,
       "reference_count": 0,
       "references": [],
@@ -37773,7 +37933,7 @@
         "Peixin Gao",
         "Biao Li",
         "Peng Xing",
-        "Qinglong Wu"
+        "Qing-Long L. Wu"
       ],
       "journal": "",
       "publication_date": "2020-12-17",
@@ -42363,7 +42523,7 @@
       "url": "https://www.semanticscholar.org/paper/62072a836459945610a36b09df2b043035a96fd1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/62072a836459945610a36b09df2b043035a96fd1",
       "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-018-0606-1",
-      "citation_count": 31,
+      "citation_count": 32,
       "influential_citation_count": 0,
       "reference_count": 101,
       "references": [
@@ -42527,7 +42687,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616804/",
-      "citation_count": 779,
+      "citation_count": 780,
       "influential_citation_count": 24,
       "reference_count": 123,
       "references": [
