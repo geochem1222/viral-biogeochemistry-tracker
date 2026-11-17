@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T01:05:40.741484+00:00",
+  "updated_at": "2026-11-17T03:59:24.432676+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -269,8 +269,8 @@
         "S. B. Busi",
         "A. Thorpe",
         "Jonathan Warren",
-        "Kerry Walsh",
-        "Daniel S. Read"
+        "K. Walsh",
+        "D. Read"
       ],
       "journal": "bioRxiv",
       "publication_date": "2026-10-26",
@@ -439,7 +439,7 @@
         "Dong Zhu",
         "Bin-Bin Liu",
         "Feng-Hua Wang",
-        "Ke Xiao",
+        "Ke-Qing Xiao",
         "Yong-Guan Zhu"
       ],
       "journal": "Nature Ecology & Evolution",
@@ -2379,7 +2379,7 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
+      "detail_enriched_at": "2026-11-17T03:58:38.513486+00:00",
       "edges_enriched_at": "2026-10-18T23:16:58.331319+00:00"
     },
     {
@@ -2457,73 +2457,73 @@
       ],
       "similar_papers": [
         {
-          "id": "8b01e47da37859afb86e1c49ec286207e4bbea72",
-          "title": "Spatial Variation in Mycosphere Soil Bacterial Communities of Leucopaxillus giganteus and Its Environmental Drivers in Shanxi, China",
+          "id": "642f779683b2a807ad082795b0a6ecc93b228142",
+          "title": "Soil Bacterial Diversity and Community Composition Across Contrasting High-Andean Sites in Candarave, Southern Peru",
           "year": 2026,
           "journal": "Microorganisms",
           "authors": [
-            "Zhen Li",
-            "Rui-Gang Wu",
-            "Ming-Qin Luo"
+            "Pablo Franco-León",
+            "Liduvina Sulca-Quispe",
+            "Alex Yaja"
           ],
-          "doi": "10.3390/microorganisms14092029",
-          "url": "https://www.semanticscholar.org/paper/8b01e47da37859afb86e1c49ec286207e4bbea72",
+          "doi": "10.3390/microorganisms14102356",
+          "url": "https://www.semanticscholar.org/paper/642f779683b2a807ad082795b0a6ecc93b228142",
           "citation_count": 0
         },
         {
-          "id": "abcfb4624eb3e2a0fd6a0417e3cb496345e432e3",
-          "title": "Vegetation-Driven Differentiation of Soil Bacterial and Fungal Diversity: Distinct Edaphic Determinants in Atractylodes japonica Cultivation Systems",
+          "id": "df941c7abb5b875e38ca231bc4b8d6c3bba8d0ee",
+          "title": "Resalinization Is Associated with Bacterial Alpha Diversity by Influencing Life-History Strategies, and Niche Properties in Coastal Saline Soils",
           "year": 2026,
-          "journal": "Diversity",
+          "journal": "Biology",
           "authors": [
-            "Ze-Hao Gan",
-            "Rui-Tong Du",
-            "Zhi-Peng Xu"
+            "Xue-Yao Liu",
+            "Hong-Hao Cheng",
+            "Meng-Chao Liu"
           ],
-          "doi": "10.3390/d18080498",
-          "url": "https://www.semanticscholar.org/paper/abcfb4624eb3e2a0fd6a0417e3cb496345e432e3",
+          "doi": "10.3390/biology15201816",
+          "url": "https://www.semanticscholar.org/paper/df941c7abb5b875e38ca231bc4b8d6c3bba8d0ee",
           "citation_count": 0
         },
         {
-          "id": "9f3c49002c151c8333f8965cf48650a3ce5fad94",
-          "title": "Shifts in Soil Bacterial Diversity and Abundance at Various Taxonomic Levels in Tropical Peatlands Under Land‐Use Change",
+          "id": "0ed3c41e95e5861fa0dacb8974a03e3b4a0a5b43",
+          "title": "Depth-stratified boreal peatland microbiomes reveal recurring community organization and methane-cycling potential",
           "year": 2026,
-          "journal": "International Journal of Microbiology",
+          "journal": "FEMS Microbiology Ecology",
           "authors": [
-            "D. Zul",
-            "F. Saragih",
-            "P. K. Zebua"
+            "Tong Liu",
+            "Jacob Smeds",
+            "M. Nilsson"
           ],
-          "doi": "10.1155/ijm/3336189",
-          "url": "https://www.semanticscholar.org/paper/9f3c49002c151c8333f8965cf48650a3ce5fad94",
+          "doi": "10.1093/femsec/fiag111",
+          "url": "https://www.semanticscholar.org/paper/0ed3c41e95e5861fa0dacb8974a03e3b4a0a5b43",
           "citation_count": 0
         },
         {
-          "id": "ef3a95675e454d5a205dbad18736c002e1be1aa3",
-          "title": "Integrated Adaptive Responses of Rhizosphere Microbial Communities and Functional Genes to Cadmium Stress in Ryegrass (Lolium perenne L.)",
+          "id": "9f441bfdca3932729badc74bf84d537e64189d90",
+          "title": "Comparative analysis reveals distinct microbial community profiles and assembly mechanisms in sediments of coastal wetland ecosystems",
           "year": 2026,
-          "journal": "Plants",
+          "journal": "Applied and Environmental Microbiology",
           "authors": [
-            "Bing-Jian Cui",
-            "Er-Ping Cui",
-            "Rong-Ze Wu"
+            "Lin-Qiong Wang",
+            "Zhen Chen",
+            "Xin-Le Li"
           ],
-          "doi": "10.3390/plants15172634",
-          "url": "https://www.semanticscholar.org/paper/ef3a95675e454d5a205dbad18736c002e1be1aa3",
+          "doi": "10.1128/aem.01159-26",
+          "url": "https://www.semanticscholar.org/paper/9f441bfdca3932729badc74bf84d537e64189d90",
           "citation_count": 0
         },
         {
-          "id": "2d20bc43547950479f73020d9923491e9752416b",
-          "title": "Root-associated bacterial and fungal communities of the endangered páramo bromeliad Puya goudotiana",
+          "id": "eda9a5e3bb04c4d05d30f926ff3fba1864838383",
+          "title": "Strong habitat-associated differentiation of microbial communities across a fine-scale land-water interface",
           "year": 2026,
-          "journal": "PLoS ONE",
+          "journal": "bioRxiv",
           "authors": [
-            "Nataly Rodríguez-Lugo",
-            "L. H. Patiño",
-            "Tatiana M. Cáceres"
+            "Chloé Haberkorn",
+            "C. Oporto",
+            "Javier Pinto"
           ],
-          "doi": "10.1371/journal.pone.0357104",
-          "url": "https://www.semanticscholar.org/paper/2d20bc43547950479f73020d9923491e9752416b",
+          "doi": "10.64898/2026.10.22.760677",
+          "url": "https://www.semanticscholar.org/paper/eda9a5e3bb04c4d05d30f926ff3fba1864838383",
           "citation_count": 0
         }
       ],
@@ -2541,8 +2541,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
-      "edges_enriched_at": "2026-10-17T23:09:34.413499+00:00"
+      "detail_enriched_at": "2026-11-17T03:58:38.513486+00:00",
+      "edges_enriched_at": "2026-11-17T03:58:39.361243+00:00"
     },
     {
       "id": "f0cac78c0c4eea70d4761acff7024fce571b831b",
@@ -3648,6 +3648,20 @@
       ],
       "similar_papers": [
         {
+          "id": "bd673a8dbf6deb2b85329b46f85896b6be649a22",
+          "title": "Metatranscriptomic Profiling of Viral Diversity in Aquatic Environments with a Focus on Microalgal Viruses",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Ravi Ojha",
+            "Tatiana Demina",
+            "Chiara Beltrani"
+          ],
+          "doi": "10.64898/2026.11.05.764614",
+          "url": "https://www.semanticscholar.org/paper/bd673a8dbf6deb2b85329b46f85896b6be649a22",
+          "citation_count": 0
+        },
+        {
           "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
           "title": "Shifts in vegetation impact estuary microbiomes",
           "year": 2026,
@@ -3662,59 +3676,45 @@
           "citation_count": 0
         },
         {
-          "id": "cf619ad80dff035484e0ec2b53df663425ab7c1e",
-          "title": "Diversity of Antarctic sea ice and under-ice seawater RNA viruses",
+          "id": "769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
+          "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
           "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
+          "journal": "Nature Communications",
           "authors": [
-            "Shu-Juan Sun",
-            "Kaiyang Zheng",
-            "Yue Su"
+            "Bo-Wen Hou",
+            "Li-Lan Zhang",
+            "Dong Sun"
           ],
-          "doi": "10.1128/aem.01472-26",
-          "url": "https://www.semanticscholar.org/paper/cf619ad80dff035484e0ec2b53df663425ab7c1e",
+          "doi": "10.1038/s41467-026-78161-0",
+          "url": "https://www.semanticscholar.org/paper/769fb934ebf5bc8c4f05dc24bbba9fd4fa2e7bc6",
           "citation_count": 0
         },
         {
-          "id": "0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
-          "title": "Single-cell-resolved frequency and modes of phage interactions with prokaryoplankton in the tropical surface ocean",
+          "id": "83dc95b06ccbfd78093a3257fc7bd4a56e9120ab",
+          "title": "The biogeography of giant viruses and interactions with Eukaryotes across European lakes",
           "year": 2026,
-          "journal": "bioRxiv",
+          "journal": "Nature Communications",
           "authors": [
-            "Julia M. Brown",
-            "Alaina R. Weinheimer",
-            "N. Poulton"
+            "O. Kolmakova",
+            "F. Schulz",
+            "Yumary M. Vasquez"
           ],
-          "doi": "10.64898/2026.08.25.747067",
-          "url": "https://www.semanticscholar.org/paper/0ad0c99f087aef0f576d3539e7ffe1965e1c1ae2",
+          "doi": "10.1038/s41467-026-77765-w",
+          "url": "https://www.semanticscholar.org/paper/83dc95b06ccbfd78093a3257fc7bd4a56e9120ab",
           "citation_count": 0
         },
         {
-          "id": "ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
-          "title": "Microbial diversity and nitrogen cycling across oxygen gradients in the eastern tropical Pacific during two La Niña years",
+          "id": "f7eef4cba4fbfafbbebd097f24b2243d92920fae",
+          "title": "Environmental gradients shape the hydrocarbon-degrading microbiome in two mid-Atlantic bays",
           "year": 2026,
           "journal": "mSystems",
           "authors": [
-            "Pei-Hang Xu",
-            "D. L. Arévalo-Martínez",
-            "M. Middelboe"
+            "D. L. J. Patabandige",
+            "Jojy John",
+            "Maximiliano Ortiz"
           ],
-          "doi": "10.1128/msystems.00893-26",
-          "url": "https://www.semanticscholar.org/paper/ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
-          "citation_count": 0
-        },
-        {
-          "id": "5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
-          "title": "Unraveling the diversity, function, and virus–host interactions of archaeal proviruses",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Yang Zhao",
-            "Peng-Fei Liu",
-            "Lin-Xing Chen"
-          ],
-          "doi": "10.1093/ismeco/ycag243",
-          "url": "https://www.semanticscholar.org/paper/5bfd9b968bb0019bc48c0a7c6581ce703a410de9",
+          "doi": "10.1128/msystems.00866-26",
+          "url": "https://www.semanticscholar.org/paper/f7eef4cba4fbfafbbebd097f24b2243d92920fae",
           "citation_count": 0
         }
       ],
@@ -3735,8 +3735,8 @@
         "virus",
         "water"
       ],
-      "detail_enriched_at": "2026-10-17T23:09:33.660233+00:00",
-      "edges_enriched_at": "2026-10-17T23:09:34.413499+00:00"
+      "detail_enriched_at": "2026-11-17T03:58:38.513486+00:00",
+      "edges_enriched_at": "2026-11-17T03:58:39.361243+00:00"
     },
     {
       "id": "0f75f234b1cadfedbf9719c86a4e36ceb560d914",
@@ -6404,7 +6404,7 @@
         "Hui He",
         "Hong-Bing Shao",
         "Jin Sun",
-        "Andrew Mcminn",
+        "A. Mcminn",
         "Min Wang",
         "Yan-Tao Liang"
       ],
@@ -8620,7 +8620,7 @@
         "S. Saleska",
         "E. Eloe-Fadrosh",
         "M. Sullivan",
-        "Virginia I. Rich"
+        "V. Rich"
       ],
       "journal": "Nature Communications",
       "publication_date": "2025-12-11",
@@ -9115,7 +9115,7 @@
         "Hong-Bing Shao",
         "Yeqing Yang",
         "D. Páez-Espino",
-        "Andrew Mcminn",
+        "A. Mcminn",
         "Min Wang"
       ],
       "journal": "Advancement of science",
@@ -11080,7 +11080,7 @@
         "Ling Jin",
         "Ling Yuan",
         "H. Bürgmann",
-        "Feng Ju"
+        "F. Ju"
       ],
       "journal": "Environment International",
       "publication_date": "2025-08-19",
@@ -11369,7 +11369,7 @@
       "url": "https://www.semanticscholar.org/paper/5f0cd2bcf68b0d35d6ddd9dffed090180bb0529e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f0cd2bcf68b0d35d6ddd9dffed090180bb0529e",
       "pdf_url": "https://doi.org/10.3390/biology14081092",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 125,
       "references": [
@@ -11522,7 +11522,7 @@
       "title": "Ciprofloxacin-driven purifying selection on viral genomes accelerates soil N2O production",
       "authors": [
         "Lin-Fa Fang",
-        "Prakash Lakshmanan",
+        "P. Lakshmanan",
         "Hai-Lin Zhang",
         "Yue Deng",
         "Ran Xiao",
@@ -12524,7 +12524,7 @@
       "authors": [
         "Akbar Adjie Pratama",
         "Olga Pérez-Carrascal",
-        "M. B. Sullivan",
+        "M. Sullivan",
         "K. Küsel"
       ],
       "journal": "bioRxiv",
@@ -14128,7 +14128,7 @@
         "Yun-Dan Liu",
         "Jianhua Sun",
         "Hong-Bing Shao",
-        "Andrew Mcminn",
+        "A. Mcminn",
         "Min Wang",
         "Yan-Tao Liang"
       ],
@@ -17613,7 +17613,7 @@
         "Chenwei Shi",
         "Rui Qi",
         "Petr Hědenec",
-        "Zhi-Biao Nan",
+        "Z. Nan",
         "Huan Li"
       ],
       "journal": "Journal of Environmental Science",
@@ -18726,7 +18726,7 @@
         "Xiao-Shou Liu",
         "Guang-Cheng Chen",
         "Hong-Bing Shao",
-        "Andrew Mcminn",
+        "A. Mcminn",
         "Min Wang"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -19082,7 +19082,7 @@
         "A. Zayed",
         "B. Bolduc",
         "K. Wrighton",
-        "Virginia I. Rich",
+        "V. Rich",
         "M. Sullivan"
       ],
       "journal": "Environmental Microbiology",
@@ -19529,16 +19529,16 @@
         "T. Bornemann",
         "Perla Abigail Figueroa-Gonzalez",
         "S. Esser",
-        "Cristina Moraru",
+        "C. Moraru",
         "A. Soares",
         "Tjorven Hinzke",
         "Anke Trautwein-Schult",
-        "Sandra Maaß",
-        "Dörte Becher",
+        "S. Maaß",
+        "D. Becher",
         "J. Starke",
         "J. Plewka",
         "Lousia Rothe",
-        "Alexander J. Probst"
+        "A. Probst"
       ],
       "journal": "microLife",
       "publication_date": "2024-05-20",
@@ -19977,11 +19977,11 @@
         "A. Camargo",
         "R. Wu",
         "R. Neches",
-        "Matt Nolan",
+        "M. Nolan",
         "D. Páez-Espino",
         "N. Kyrpides",
         "J. Jansson",
-        "J. McDermott",
+        "J. Mcdermott",
         "K. Hofmockel",
         "J. Blanchard",
         "X. Liu",
@@ -20000,7 +20000,7 @@
         "M. V. Van Goethem",
         "T. Woyke",
         "N. Dove",
-        "Konstantinos T. Konstantinidis",
+        "K. Konstantinidis",
         "T. Juenger",
         "Stephen C. Hart",
         "D. Myrold",
@@ -20012,13 +20012,13 @@
         "T. Makhalanyane",
         "Katherine A. Dynarski",
         "N. Taş",
-        "Graeme W. Nicol",
+        "G. Nicol",
         "C. Hazard",
         "Erin D. Scully",
         "K. Jain",
         "Datta Madamwar",
         "Andrew Bissett",
-        "Philippe Constant",
+        "P. Constant",
         "R. Oliveira",
         "C. Takacs-Vesbach",
         "M. Cregger",
@@ -20301,7 +20301,7 @@
         "Fuyue Ge",
         "Hao Yu",
         "Hong-Bing Shao",
-        "Andrew Mcminn",
+        "A. Mcminn",
         "Min Wang"
       ],
       "journal": "bioRxiv",
@@ -20413,7 +20413,7 @@
       "authors": [
         "Mei-Shun Yu",
         "Meng-Hui Zhang",
-        "Run-Ying Zeng",
+        "R. Zeng",
         "Ruolin Cheng",
         "Rui Zhang",
         "Yanping Hou",
@@ -20919,7 +20919,7 @@
         "Haozhe Zhao",
         "Ming-Fei Yang",
         "Xiang Fan",
-        "Qian Gui",
+        "Qi-Yao Gui",
         "Hao Yi",
         "Yigang Tong",
         "Wei Xiao"
@@ -21075,120 +21075,6 @@
       "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
     },
     {
-      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "source": "Semantic Scholar",
-      "pmid": "38454574",
-      "doi": "10.1111/1462-2920.16601",
-      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
-      "authors": [
-        "Chao-Nan Li",
-        "Hai-Jun Liao",
-        "Lin Xu",
-        "Chang-Ting Wang",
-        "Min-Jie Yao",
-        "Jun-Ming Wang",
-        "Xiang-Zhen Li"
-      ],
-      "journal": "Environmental Microbiology",
-      "publication_date": "2024-03-01",
-      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 75,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "c2b14b10e59c09ec27aa65386620c00e89f4c12c",
-          "title": "Chromosome-Level Genome Assembly of Strauchbufo raddei and Multi-Omic Insights Into Drought Adaptation.",
-          "year": 2026,
-          "journal": "Integrative Zoology",
-          "authors": [
-            "Fan-Rui Chen",
-            "Rui Su",
-            "Cheng-Qi Wang"
-          ],
-          "doi": "10.1111/1749-4877.70214",
-          "url": "https://www.semanticscholar.org/paper/c2b14b10e59c09ec27aa65386620c00e89f4c12c",
-          "citation_count": 0
-        },
-        {
-          "id": "5380cb67e4b8a4f95d4ef4719eef267b68e2d2ae",
-          "title": "Genome-reduced Aridivitia evolved predation to thrive in Earth’s oligotrophic depths",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Xiao-Nan Wan",
-            "Wen-Lu Feng",
-            "Yang Zhang"
-          ],
-          "doi": "10.1038/s41467-026-78342-x",
-          "url": "https://www.semanticscholar.org/paper/5380cb67e4b8a4f95d4ef4719eef267b68e2d2ae",
-          "citation_count": 0
-        },
-        {
-          "id": "593f5dd758523ef9bf94d593377a1d27c799a46c",
-          "title": "Comparative Genomics of Ecologically Differentiated Nitrososphaera-Related Ammonia-Oxidizing Archaea",
-          "year": 2026,
-          "journal": "Microorganisms",
-          "authors": [
-            "Yu-Xiang Song",
-            "Zhong-Jun Jia"
-          ],
-          "doi": "10.3390/microorganisms14102250",
-          "url": "https://www.semanticscholar.org/paper/593f5dd758523ef9bf94d593377a1d27c799a46c",
-          "citation_count": 0
-        },
-        {
-          "id": "459810ae697413ddf2d05ffdfa8fbbbf63d4247e",
-          "title": "Ecological partitioning and functional specialization of Thermoproteota across multiple trench sediments.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Yue Zhang",
-            "Hong-Bin Liu",
-            "Pu-Di Wang"
-          ],
-          "doi": "10.1016/j.envres.2026.125897",
-          "url": "https://www.semanticscholar.org/paper/459810ae697413ddf2d05ffdfa8fbbbf63d4247e",
-          "citation_count": 0
-        },
-        {
-          "id": "4f459a6496478dcac08e7e43c0fba248beb882ef",
-          "title": "Evolutionary diversification and metabolic adaptations of ANME-1 archaea",
-          "year": 2026,
-          "journal": "Environmental Microbiome",
-          "authors": [
-            "Lei Su",
-            "Andreas P. Teske",
-            "Ian P. G. Marshall"
-          ],
-          "doi": "10.1186/s40793-026-00968-7",
-          "url": "https://www.semanticscholar.org/paper/4f459a6496478dcac08e7e43c0fba248beb882ef",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus"
-      ],
-      "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
-    },
-    {
       "id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "semantic_scholar_id": "a6a2b7d52a0549f7bfd1edc93064cbdcba53d8f5",
       "source": "Semantic Scholar",
@@ -21199,7 +21085,7 @@
         "Zhi Yang Sim",
         "Kwan-Chien Goh",
         "Nur Hanisah binte Sukarji",
-        "Feijian Mao",
+        "Fei-Jian Mao",
         "Yi-Liang He",
         "K. Gin"
       ],
@@ -21352,6 +21238,120 @@
       ],
       "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
       "edges_enriched_at": "2026-11-02T00:49:12.402251+00:00"
+    },
+    {
+      "id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_id": "45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "source": "Semantic Scholar",
+      "pmid": "38454574",
+      "doi": "10.1111/1462-2920.16601",
+      "title": "Comparative genomics reveals the adaptation of ammonia-oxidising Thaumarchaeota to arid soils.",
+      "authors": [
+        "Chao-Nan Li",
+        "Hai-Jun Liao",
+        "Lin Xu",
+        "Chang-Ting Wang",
+        "Min-Jie Yao",
+        "Jun-Ming Wang",
+        "Xiang-Zhen Li"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2024-03-01",
+      "abstract": "Thaumarchaeota are predominant in oligotrophic habitats such as deserts and arid soils, but their adaptations to these arid conditions are not well understood. In this study, we assembled 23 Thaumarchaeota genomes from arid and semi-arid soils collected from the Inner Mongolia Steppe and the Qinghai-Tibet Plateau. Using a comparative genomics approach, integrated with 614 Thaumarchaeota genomes from public databases, we identified the traits and evolutionary forces that contribute to their adaptations to aridity. Our results showed that the newly assembled genomes represent an early diverging group within the lineage of ammonia-oxidising Thaumarchaeota. While the genomic functions previously identified in arid soil lineages were conserved across terrestrial, shallow-ocean and deep-ocean lineages, several traits likely contribute to Thaumarchaeota's adaptation to aridity. These include chlorite dismutase, arsenate reductase, V-type ATPase and genes dealing with oxidative stresses. The acquisition and loss of traits at the last common ancestor of arid soil lineages may have facilitated the specialisation of Thaumarchaeota in arid soils. Additionally, the acquisition of unique adaptive traits, such as a urea transporter, Ca2+ :H+ antiporter, mannosyl-3-phosphoglycerate synthase and phosphatase, DNA end-binding protein Ku and phage shock protein A, further distinguishes arid soil Thaumarchaeota. This study provides evidence for the adaptations of Thaumarchaeota to arid soil, enhancing our understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/45a14cecef07e813764277f65d97d6f09e0e88e6",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.16601",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 75,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "c2b14b10e59c09ec27aa65386620c00e89f4c12c",
+          "title": "Chromosome-Level Genome Assembly of Strauchbufo raddei and Multi-Omic Insights Into Drought Adaptation.",
+          "year": 2026,
+          "journal": "Integrative Zoology",
+          "authors": [
+            "Fan-Rui Chen",
+            "Rui Su",
+            "Cheng-Qi Wang"
+          ],
+          "doi": "10.1111/1749-4877.70214",
+          "url": "https://www.semanticscholar.org/paper/c2b14b10e59c09ec27aa65386620c00e89f4c12c",
+          "citation_count": 0
+        },
+        {
+          "id": "5380cb67e4b8a4f95d4ef4719eef267b68e2d2ae",
+          "title": "Genome-reduced Aridivitia evolved predation to thrive in Earth’s oligotrophic depths",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Xiao-Nan Wan",
+            "Wen-Lu Feng",
+            "Yang Zhang"
+          ],
+          "doi": "10.1038/s41467-026-78342-x",
+          "url": "https://www.semanticscholar.org/paper/5380cb67e4b8a4f95d4ef4719eef267b68e2d2ae",
+          "citation_count": 0
+        },
+        {
+          "id": "593f5dd758523ef9bf94d593377a1d27c799a46c",
+          "title": "Comparative Genomics of Ecologically Differentiated Nitrososphaera-Related Ammonia-Oxidizing Archaea",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Yu-Xiang Song",
+            "Zhong-Jun Jia"
+          ],
+          "doi": "10.3390/microorganisms14102250",
+          "url": "https://www.semanticscholar.org/paper/593f5dd758523ef9bf94d593377a1d27c799a46c",
+          "citation_count": 0
+        },
+        {
+          "id": "459810ae697413ddf2d05ffdfa8fbbbf63d4247e",
+          "title": "Ecological partitioning and functional specialization of Thermoproteota across multiple trench sediments.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Yue Zhang",
+            "Hong-Bin Liu",
+            "Pu-Di Wang"
+          ],
+          "doi": "10.1016/j.envres.2026.125897",
+          "url": "https://www.semanticscholar.org/paper/459810ae697413ddf2d05ffdfa8fbbbf63d4247e",
+          "citation_count": 0
+        },
+        {
+          "id": "4f459a6496478dcac08e7e43c0fba248beb882ef",
+          "title": "Evolutionary diversification and metabolic adaptations of ANME-1 archaea",
+          "year": 2026,
+          "journal": "Environmental Microbiome",
+          "authors": [
+            "Lei Su",
+            "Andreas P. Teske",
+            "Ian P. G. Marshall"
+          ],
+          "doi": "10.1186/s40793-026-00968-7",
+          "url": "https://www.semanticscholar.org/paper/4f459a6496478dcac08e7e43c0fba248beb882ef",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Evidence is provided for the adaptations of Thaumarchaeota to arid soil, enhancing the understanding of the nitrogen and carbon cycling driven by Thaumarchaeota in drylands.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "carbon",
+        "nitrogen",
+        "soil",
+        "virus"
+      ],
+      "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
+      "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
     },
     {
       "id": "0a8f7d88bae36d63e51a1260f9ecffd3462aa2ad",
@@ -21852,10 +21852,10 @@
         "Amaranta Focardi",
         "Liam D. H. Elbourne",
         "B. Sutcliffe",
-        "W. F. Humphreys",
+        "W. Humphreys",
         "Paul R. Jaschke",
-        "Sasha G. Tetu",
-        "Ian T. Paulsen"
+        "S. Tetu",
+        "I. Paulsen"
       ],
       "journal": "Environmental Microbiome",
       "publication_date": "2024-01-30",
@@ -23021,7 +23021,7 @@
         "Kai-Yang Zheng",
         "Hao Yu",
         "Hong-Bing Shao",
-        "Andrew Mcminn",
+        "A. Mcminn",
         "Min Wang"
       ],
       "journal": "The Innovation Geoscience",
@@ -24008,7 +24008,7 @@
         "Yong-Qin Liu",
         "N. Jiao",
         "Kevin Xu Zhong",
-        "Lin Zang",
+        "L. Zang",
         "Rui Zhang",
         "Xiang Xiao",
         "Yi Shi",
@@ -24558,7 +24558,7 @@
       "title": "Spatial and temporal metagenomics of river compartments reveals viral community dynamics in an urban impacted stream",
       "authors": [
         "Josué A. Rodríguez-Ramos",
-        "Angela M. Oliverio",
+        "A. Oliverio",
         "M. Borton",
         "Robert Danczak",
         "B. Mueller",
@@ -24569,7 +24569,7 @@
         "LeAundra Schopflin",
         "M. Shaffer",
         "A. Goldman",
-        "Joerg Lewandowski",
+        "J. Lewandowski",
         "James C. Stegen",
         "K. Wrighton"
       ],
@@ -24896,7 +24896,7 @@
       "doi": "10.3389/fpls.2023.1200674",
       "title": "Nutrients and soil structure influence furovirus infection of wheat",
       "authors": [
-        "Kévin Gauthier",
+        "Kevin Gauthier",
         "D. Panković",
         "M. Nikolić",
         "M. Hobert",
@@ -26228,7 +26228,7 @@
         "LeAundra Schopflin",
         "M. Shaffer",
         "A. Goldman",
-        "Joerg Lewandowski",
+        "J. Lewandowski",
         "J. Stegen",
         "K. Wrighton"
       ],
@@ -26389,7 +26389,7 @@
       "title": "Potential Auxiliary Metabolic Capabilities and Activities Reveal Biochemical Impacts of Viruses in Municipal Wastewater Treatment Plants.",
       "authors": [
         "Ling Yuan",
-        "Feng Ju"
+        "F. Ju"
       ],
       "journal": "Environmental Science and Technology",
       "publication_date": "2023-03-22",
@@ -27291,7 +27291,7 @@
         "W. Mok",
         "Li-Lian Wong",
         "Zong-Ling Wang",
-        "A. McMinn",
+        "A. Mcminn",
         "Min Wang"
       ],
       "journal": "mSystems",
@@ -27947,7 +27947,7 @@
       "title": "A Tale of Two Seasons: Distinct Seasonal Viral Communities in a Thermokarst Lake",
       "authors": [
         "Valérie Langlois",
-        "C. Girard",
+        "Catherine Girard",
         "W. Vincent",
         "A. Culley"
       ],
@@ -28272,7 +28272,7 @@
         "Meng-Hui Zhang",
         "Yuan Chen",
         "Mei-Shun Yu",
-        "Run-Ying Zeng",
+        "R. Zeng",
         "Min Jin"
       ],
       "journal": "Archives of Virology",
@@ -28827,7 +28827,7 @@
         "Vincent G. Danna",
         "J. Stegen",
         "J. Jansson",
-        "M. Davison"
+        "Michelle Davison"
       ],
       "journal": "mSystems",
       "publication_date": "2022-12-01",
@@ -30747,110 +30747,6 @@
       "edges_enriched_at": "2026-11-05T01:29:59.249557+00:00"
     },
     {
-      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.31395/2310-0478-2022-1-106-115",
-      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
-      "authors": [
-        "Оксана Вячеславівна Мацкевич"
-      ],
-      "journal": "Bulletin of Uman National University of Horticulture",
-      "publication_date": "2022-08-01",
-      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
-      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
-      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
-      "citation_count": 1,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "3cd6ced739676e141c87d51e230a7e445323599d",
-          "title": "In vitro morphogenesis and conservation of the medicinal plant Vitex negundo L. through nodal explants",
-          "year": 2026,
-          "journal": "iraqi journal for applied sciences",
-          "authors": [
-            "S. Sape",
-            "Sudhakar Rao"
-          ],
-          "doi": "10.69923/bnnavj49",
-          "url": "https://www.semanticscholar.org/paper/3cd6ced739676e141c87d51e230a7e445323599d",
-          "citation_count": 0
-        },
-        {
-          "id": "cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
-          "title": "Representatives of Lavandula angustifolia Mill., promising for use in landscape design and their propagation in vitro",
-          "year": 2026,
-          "journal": "Forestry Engineering Journal",
-          "authors": [
-            "Ekaterina Chornoivanova",
-            "N. Mamaeva",
-            "Irina Krahmaleva"
-          ],
-          "doi": "10.34220/issn.2222-7962/2026.3/20",
-          "url": "https://www.semanticscholar.org/paper/cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
-          "citation_count": 0
-        },
-        {
-          "id": "6b101b2f2389259211b51dd2000e1002d19b75bc",
-          "title": "The Development of Scalable Micropropagation Protocols for Alocasia zebrina G.W. Johnson & R.Hogg",
-          "year": 2026,
-          "journal": "Hayati Journal of Biosciences",
-          "authors": [
-            "Ahmad Syahrian Siregar",
-            "Kurniawan Budiarto",
-            "S. Mas'udah"
-          ],
-          "doi": "10.4308/hjb.33.6.1575-1581",
-          "url": "https://www.semanticscholar.org/paper/6b101b2f2389259211b51dd2000e1002d19b75bc",
-          "citation_count": 0
-        },
-        {
-          "id": "38fa39920e038ec37ad2288bf661b6557b3310ba",
-          "title": "Micropropagation of Lisianthus (Eustoma grandiflorum (Raf.) Shinn.) Using Meta-Topolin",
-          "year": 2026,
-          "journal": "BioTech",
-          "authors": [
-            "M. A. Ramírez-Mosqueda",
-            "A. Armenta-Medina",
-            "O. Baltazar-Bernal"
-          ],
-          "doi": "10.3390/biotech15040093",
-          "url": "https://www.semanticscholar.org/paper/38fa39920e038ec37ad2288bf661b6557b3310ba",
-          "citation_count": 0
-        },
-        {
-          "id": "8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
-          "title": "In Vitro Propagation and Conservation of Cymbopogon citratus (DC.) Stapf: A Proposed Approach to Assessing Heavy-Metal Stress",
-          "year": 2026,
-          "journal": "Advanced International Journal for Research",
-          "authors": [
-            "Veeraiah Sheelam"
-          ],
-          "doi": "10.63363/aijfr.2026.v07i05.8031",
-          "url": "https://www.semanticscholar.org/paper/8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "biogeochemistry",
-        "carbon",
-        "nitrogen",
-        "soil",
-        "virus",
-        "water"
-      ],
-      "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
-      "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
-    },
-    {
       "id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "semantic_scholar_id": "5ffcb92e410eb23903037a9c3b736b60d5f5671e",
       "source": "Semantic Scholar",
@@ -31005,6 +30901,110 @@
         "nitrogen",
         "phosphorus",
         "sediment",
+        "virus",
+        "water"
+      ],
+      "detail_enriched_at": "2026-11-02T00:48:46.581271+00:00",
+      "edges_enriched_at": "2026-11-03T02:58:03.932192+00:00"
+    },
+    {
+      "id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_id": "a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.31395/2310-0478-2022-1-106-115",
+      "title": "MICROCLONAL REPRODUCTION OF HAZELNUTS",
+      "authors": [
+        "Оксана Вячеславівна Мацкевич"
+      ],
+      "journal": "Bulletin of Uman National University of Horticulture",
+      "publication_date": "2022-08-01",
+      "abstract": "For the rapid introduction of large quantities of high-quality hazelnut planting material, it is important to use various modifications of microclonal propagation: classic on gel media, bioreactors with periodic flooding (TiS) and photoautotrophic methods. At the first stage of classical methods there are three main problems: phenol formation; endogenous contamination; selection of trophic and hormonal determinants of in vitro ontogenesis. In cases of infection of mother plants with viruses, viroids, it is mandatory to use meristem explants with a size of not more than 0.3 mm, followed by diagnosis of the effectiveness of recovery. To prevent self-intoxication with phenol-like oxidation products, a set of measures is used to prepare explant donors and modify nutrient media. The most common artificial nutrient media are Driver and Buzzard (DKW) and Nas and Read (NRM). Hazelnuts are sensitive to excess nitrogen and calcium and copper deficiency in artificial nutrient media. On media with a high N content, regenerants have shortened and thickened shoots, often with signs of hypehydration. Inhibition of calcium uptake by nitrogen leads to necrotization of shoot tips and root tips. The incorporation of iron ions into the metabolism of a plant depends on their valence and the form of chelating agents. During the multiplication and induction of rhizogenesis in aseptic conditions, mainly synthetic cytokinin benzylaminopurine and auxin indolylbutyric acid are used. The effectiveness of hormones increases with the use of combinations within groups, in particular cytokinins are benzylaminopurine and kinetin. At the stage of multiplication there is a predominance of cytokinins over auxins, and at the stage of rhizogenesis the number of auxins in the environment is greater than the number of cytokinins. Of the organic components, vitamins B1, B6, C, PP, amino acids and inositol are added to the environment. Ex vitro acclimatization of plants is carried out on peat-pearlite substrates in closed soil or modules of photoautrophic microclonal propagation with increased light intensity and high carbon dioxide content. The photoautotrophic method combines animation, rhizogenesis and acclimatization at the same time. The effectiveness of adaptation to factor-nestatic conditions increases with mycorrhizae by fungi of the genera Glomus, Trichoderma, Tuber in the transfer of plants from aseptic conditions.",
+      "url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9f278c65e4163f92823c3343a3626afbe6e13de",
+      "pdf_url": "https://doi.org/10.31395/2310-0478-2022-1-106-115",
+      "citation_count": 1,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "3cd6ced739676e141c87d51e230a7e445323599d",
+          "title": "In vitro morphogenesis and conservation of the medicinal plant Vitex negundo L. through nodal explants",
+          "year": 2026,
+          "journal": "iraqi journal for applied sciences",
+          "authors": [
+            "S. Sape",
+            "Sudhakar Rao"
+          ],
+          "doi": "10.69923/bnnavj49",
+          "url": "https://www.semanticscholar.org/paper/3cd6ced739676e141c87d51e230a7e445323599d",
+          "citation_count": 0
+        },
+        {
+          "id": "cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
+          "title": "Representatives of Lavandula angustifolia Mill., promising for use in landscape design and their propagation in vitro",
+          "year": 2026,
+          "journal": "Forestry Engineering Journal",
+          "authors": [
+            "Ekaterina Chornoivanova",
+            "N. Mamaeva",
+            "Irina Krahmaleva"
+          ],
+          "doi": "10.34220/issn.2222-7962/2026.3/20",
+          "url": "https://www.semanticscholar.org/paper/cd2c963f2d5d5df0ae9e0bdc0911baa1456fe029",
+          "citation_count": 0
+        },
+        {
+          "id": "6b101b2f2389259211b51dd2000e1002d19b75bc",
+          "title": "The Development of Scalable Micropropagation Protocols for Alocasia zebrina G.W. Johnson & R.Hogg",
+          "year": 2026,
+          "journal": "Hayati Journal of Biosciences",
+          "authors": [
+            "Ahmad Syahrian Siregar",
+            "Kurniawan Budiarto",
+            "S. Mas'udah"
+          ],
+          "doi": "10.4308/hjb.33.6.1575-1581",
+          "url": "https://www.semanticscholar.org/paper/6b101b2f2389259211b51dd2000e1002d19b75bc",
+          "citation_count": 0
+        },
+        {
+          "id": "38fa39920e038ec37ad2288bf661b6557b3310ba",
+          "title": "Micropropagation of Lisianthus (Eustoma grandiflorum (Raf.) Shinn.) Using Meta-Topolin",
+          "year": 2026,
+          "journal": "BioTech",
+          "authors": [
+            "M. A. Ramírez-Mosqueda",
+            "A. Armenta-Medina",
+            "O. Baltazar-Bernal"
+          ],
+          "doi": "10.3390/biotech15040093",
+          "url": "https://www.semanticscholar.org/paper/38fa39920e038ec37ad2288bf661b6557b3310ba",
+          "citation_count": 0
+        },
+        {
+          "id": "8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
+          "title": "In Vitro Propagation and Conservation of Cymbopogon citratus (DC.) Stapf: A Proposed Approach to Assessing Heavy-Metal Stress",
+          "year": 2026,
+          "journal": "Advanced International Journal for Research",
+          "authors": [
+            "Veeraiah Sheelam"
+          ],
+          "doi": "10.63363/aijfr.2026.v07i05.8031",
+          "url": "https://www.semanticscholar.org/paper/8f50cc773a5355aab5b18cb5f5b22b7b70031bee",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "biogeochemistry",
+        "carbon",
+        "nitrogen",
+        "soil",
         "virus",
         "water"
       ],
@@ -32576,7 +32576,7 @@
       "doi": "10.1038/s41396-022-01202-1",
       "title": "Diversity and origins of bacterial and archaeal viruses on sinking particles reaching the abyssal ocean",
       "authors": [
-        "E. Luo",
+        "Elaine Luo",
         "Andy O. Leu",
         "J. Eppley",
         "D. Karl",
@@ -34044,7 +34044,7 @@
       "title": "DNA Viral Diversity, Abundance, and Functional Potential Vary across Grassland Soils with a Range of Historical Moisture Regimes",
       "authors": [
         "R. Wu",
-        "M. Davison",
+        "Michelle Davison",
         "W. Nelson",
         "E. Graham",
         "S. Fansler",
@@ -34228,7 +34228,7 @@
         "W. Mok",
         "Li-Lian Wong",
         "C. Suttle",
-        "A. McMinn",
+        "A. Mcminn",
         "Ji-Wei Tian",
         "Min Wang"
       ],
@@ -35442,7 +35442,7 @@
       "doi": "10.1038/s43705-022-00109-4",
       "title": "Experimental evidence for the impact of soil viruses on carbon cycling during surface plant litter decomposition",
       "authors": [
-        "Michaeline B. N. Albright",
+        "M. Albright",
         "L. Gallegos-Graves",
         "K. Feeser",
         "Kyana N. Montoya",
@@ -35456,7 +35456,7 @@
       "url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f3e7558f2e00e003af816114d0bafc225ecdefc",
       "pdf_url": "https://www.nature.com/articles/s43705-022-00109-4.pdf",
-      "citation_count": 77,
+      "citation_count": 78,
       "influential_citation_count": 1,
       "reference_count": 77,
       "references": [
@@ -38596,7 +38596,7 @@
         "N. Madhu",
         "P. Anil",
         "C. Vishal",
-        "K. R. Muraleedharan",
+        "K. Muraleedharan",
         "A. Parvathi",
         "T. G. Kumar",
         "K. S. Arya",
@@ -38756,7 +38756,7 @@
       "doi": "10.1073/pnas.2019245117",
       "title": "Inner Workings: Research sub buoys prospects for 3D map of marine microbial communities",
       "authors": [
-        "Amy G. Mcdermott"
+        "Amy McDermott"
       ],
       "journal": "Proceedings of the National Academy of Sciences of the United States of America",
       "publication_date": "2020-10-07",
@@ -39475,7 +39475,7 @@
       "authors": [
         "C. Hwang",
         "Yirang Cho",
-        "G. Jang",
+        "Gwang I. Jang",
         "B. Cho",
         "S. Hardies"
       ],
@@ -41739,7 +41739,7 @@
       "title": "Linking Water Quality to Aedes aegypti and Zika in Flood-Prone Neighborhoods",
       "authors": [
         "S. Yee",
-        "D. Yee",
+        "Donald A. Yee",
         "R. de Jesús Crespo",
         "A. Oczkowski",
         "Feng-Wei Bai",
@@ -42687,7 +42687,7 @@
       "url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/87a2183f8da820586041071e60415ab0b3b7a9b7",
       "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616804/",
-      "citation_count": 780,
+      "citation_count": 781,
       "influential_citation_count": 24,
       "reference_count": 123,
       "references": [
